@@ -1,8 +1,10 @@
 # ViralMind Airdop
 Below are the airdrop details as planned for each wallet prorated based on the estimated $Viral Balance on May 6th, 2025 @ 22.30 - This time was chosen at an average of 2.25M Market Cap
+![image](https://github.com/user-attachments/assets/e6a7def8-02bb-4deb-9ccc-84a24a12b117)
 
-> Note: the lock wallet () has been ommitted from the airdrop
-> The airdrop will amount to 20% of the supply of the new token
+> Note: the lock wallet (53gVh9GFjByN9ZGxcwbtMkownnFhH4uk37KfmLq3JL8b) has been ommitted from the airdrop.
+
+> The airdrop will amount to 20% of the supply of the new token.
 
 | Wallet                                       |  $VIRAL         |  AirDrop     |
 |----------------------------------------------|-----------------|--------------|
