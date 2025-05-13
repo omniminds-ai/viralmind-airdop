@@ -1,4 +1,4 @@
-# ViralMind Airdop
+# ViralMind Airdrop
 Below are the airdrop details as planned for each wallet prorated based on the estimated $Viral Balance on May 6th, 2025 @ 22.30 - This time was chosen at an average of 2.25M Market Cap
 ![image](https://github.com/user-attachments/assets/e6a7def8-02bb-4deb-9ccc-84a24a12b117)
 
