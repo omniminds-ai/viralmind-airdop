@@ -4,2950 +4,2952 @@ Below are the airdrop details as planned for each wallet prorated based on the e
 
 > Note: the lock wallet (53gVh9GFjByN9ZGxcwbtMkownnFhH4uk37KfmLq3JL8b) has been ommitted from the airdrop.
 
+> Note: the Raydium wallet (5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1) has been ommitted from the airdrop.
+
 > The airdrop will amount to 20% of the supply of the new token.
 
-| Wallet                                       |  $VIRAL         |  AirDrop     |
-|----------------------------------------------|-----------------|--------------|
-| 5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1 | 66814914.38     |  13,613,830  |
-| HKAa7RmycFeBJkzTC9g1DF7Yv87XFwk1EQH6CmbCPCPh | 16269172.57     |  3,314,914   |
-| 9gCC2WcLHYQBbi55XQuiZiLK8GQLGopT8LoKMHwDAZei | 14336962.08     |  2,921,218   |
-| wywyyeR7j6q5YKk365x4AEPPXxdS8fKiKJfoJxWwko6  | 13462554.85     |  2,743,054   |
-| HtqubtQgkQbShBqUqYEaUgmtVERBxuLE3h5yrSKgTj6E | 13003164.95     |  2,649,451   |
-| 3VJuUWDTxtd9KwdasnoVwhgfudq3yPQh1Tva1DMdM5Kh | 12821886.14     |  2,612,515   |
-| 9f7ckH26ty4gEAdbf2wcnJsRomGqWctZpzTMWY3FMup  | 12318559.45     |  2,509,960   |
-| kqFevmRaveMzfxn6WnrjnTkQazNiNxizATc9aSx3MUh  | 12098922.24     |  2,465,208   |
-| HZeJaY7NPBtuHVRKWHJgRGx4SbfEtUDDxLRMvADg7GsR | 12000000        |  2,445,052   |
-| 4dvPMwSiyopnqpUGTxE8GtKRgPUTUW7cbywNXtQfZwyG | 11000000        |  2,241,297   |
-| BMUNSradEEiJBkQhKwxG7GDEANfkiaUKGR3vCcfMgHDF | 10457927.81     |  2,130,848   |
-| 31JUoTPXxVEof3Tn8oidMkuo9syvSQ7hBvLXjRLZaxM8 |  10,000,000.00  |  2,037,543   |
-| CneADaSHk22oLmYJGFAmyHSqxHVG72VfFgS9725KK5Aw | 9650000         |  1,966,229   |
-| DNPRAUDoX55kEJKohkpNeQSHvURxaVkd8L8HyRRrfwMR | 9500000         |  1,935,666   |
-| 6zgsakwfQcDcZP3kUjiEz2nbKYKoYkZwDjujY9UJGM82 | 9435386.586     |  1,922,501   |
-| DS5WT2g7NjiUwZpQef2h46WciXt6KG1evRkXziotJr6x | 9110088.787     |  1,856,220   |
-| 9cC6PkgCVfwVkuQenkbbxDLV2JGvY8j25qZiRjDfRuAA | 8861115.647     |  1,805,490   |
-| AfHt7LFgiXefU2CsmDu8rUgJ5xnEFQynezR1VYnU1EVB | 8853469.128     |  1,803,932   |
-| CLgWxq12MzhQsZAmS8wmUAujeP69sWY4HCG5VrkGe4vv | 8573333         |  1,746,853   |
-| FDyXw8UZc7hqPg8pdDDokAwTRp52nAm9XZbp2oX4hWU5 | 8522815.078     |  1,736,560   |
-| EbjKj9gYywT3TgXkzDvfUZBYYg1bRrsPXQuEbC8w2hrw | 8288337.068     |  1,688,784   |
-| GN4EvynAvjc9UrRrD9ae3mjSQmHPL69SDuqkwRwC2vYE | 8070000         |  1,644,297   |
-| 75Yo2bCGiSWrs7T4TyehDqjvBsnm7fhsnV58mVMa5UqU | 7973791.498     |  1,624,694   |
-| 3zYDpggtatqy9kNJRKJX2vUBaVMWXy2bT7ptLJtF4QE3 | 7408889.791     |  1,509,593   |
-| 66E8xHrknKPN5tMxDU7C6C654wexaEgMMSfjAL7x8SzL | 7020185.532     |  1,430,393   |
-| GDSCXMVw9RjNUhwQFyjN9u2V48STMx2bED17R5Y1WB5K | 6732571.991     |  1,371,790   |
-| 7fZHTxYtVCvxzLyRWdyAT1KQyi5QaMWwBQhbEv116F21 | 5859162.324     |  1,193,829   |
-| FAH7iwyMa7Fp9AG3LjSwuwybCrXXwy3tML98rdTq2TT7 | 5715055.598     |  1,164,467   |
-| H58VqQRgn8JnBV9MqXEqLZuA4WqnxmSDyHC1Soio7pMe | 5632431.782     |  1,147,632   |
-| 6w9s25NSScGpkY5uwccL7WyCManxRvHtxGNjobPkw4Gx | 5611738.397     |  1,143,416   |
-| 9AA3d66dyyTqym87pcQpyWQbB9gUF85EF6pHaQgB9Mzx | 5495283.922     |  1,119,688   |
-| 9Zoo8zMYDRbBAva8Yg3a2doJm1cJ6NAnd98gmDDZoxva | 5153928.054     |  1,050,135   |
-| 4MJbMbfCLmTbtFe51kzNpX3gNWhYsUgnpx4oJGKruC8J | 5082880.627     |  1,035,659   |
-| BpVAVbSxRvBTBGPpdscxpFzspAtGZC7Gp7KPGmAWjndZ | 4823415.967     |  982,792     |
-| DgS8APzPCzqd5RGGoEjyDvH2UUUuZmXoUpsH97RfSqUX | 4727907.343     |  963,331     |
-| 3eUsz8aygaCSw81izYVDvRRnKbtsJogakwgr1tqxxeNJ | 4716544.165     |  961,016     |
-| CLF5qW5Y3itZoqtpVg1rm7sBJaCear1gkBdkphuaMiGw | 4615523.277     |  940,432     |
-| DwoXkFt7WJVVmWaKBugjSQLsXTMoQyKrEAjcrDHQV2Nh | 4504844.307     |  917,881     |
-| 8Cw8tK6PMCu9kzKvoQqXsuXPTLPfK1Jsq3uu5utkV4zx | 4482196.767     |  913,267     |
-| HgueuQ2L1vVC3M7Y42CWeSNjhWWMm9fEadM3mzivr3au | 4474884.3       |  911,777     |
-| 8ZnJ21k3NMeBAaMnFBw7dj8gF5ZNnmURHxyD7KRtmPiC | 4401950.223     |  896,916     |
-| 3Rw3ZiW82Yy85XisdLGQjU2iew4ZxtTp1xY4rWJuBzw6 | 4282302.928     |  872,537     |
-| DWCTVAkj3mB6zjGS3J2216SubUXx8Mrf8Sp6eSbzU7rX | 4272815.429     |  870,604     |
-| ForQYxfhLMv3ieCWQYxMWwACZZTp16rBUe3r8cwRLnB5 | 4237592.147     |  863,427     |
-| 9qcu5e7fQpZMUvk9rTQr4FHgvUsgVAffsWQMGgS4vrcA | 4182124.874     |  852,126     |
-| 6xSs5B7yh2zYrwdvwG4cg1pyeejx9HfcEnH58edihW2u | 4119279.056     |  839,321     |
-| FNNWVC7czq99F2HJdYqazTiB4jhNZDUCWWzoWRVJjVX  | 4094319.909     |  834,235     |
-| CRJmY9t2TBBW9zZH1yj5oKdxcC1crCg8my1ghMexNFQN | 4064773.063     |  828,215     |
-| GYdg8zJW9uwN2MVVvg79bjpy55oTGybW4nPu8tmPSobC | 4024008.375     |  819,909     |
-| C4m88R3Chof8da536MK53AHF429fyUfDb1EtRWStjP2o | 4000006.5       |  815,018     |
-| 2LskvGKzj5VWDDop5Yokh9kNfjuwdiHfABe2SvGMSEZF | 3812726.87      |  776,859     |
-| 2LskvGKzj5VWDDop5Yokh9kNfjuwdiHfABe2SvGMSEZF | 3812726.87      |  776,859     |
-| DsvuTST3EqgsMz5kSKpoirvYgurZaNbKfHphti6K88ws | 3669373.402     |  747,650     |
-| GpFR2XVGZpgpw8waFa3uqZDLCCjgEVDHDz2egh2RuMdd | 3644724.973     |  742,628     |
-| GxtbTuX8dhN9SW6H52jrJfkLPXX5j87BcoPeRP7tpvDY | 3573862.592     |  728,190     |
-| GZHquYohjdmqTNHp3S9F9n5oo2X9h1p4EukKLibxpUzX | 3507312.206     |  714,630     |
-| CbcRD8t61XxBh2ELFGbCznbhr7useVNUJNuUjqMJbJW1 | 3459398.246     |  704,867     |
-| 9xr9w1uWpjWFAy9eXkvEssY4t8RbkRC63y4AFcmWUhpx | 3446451.916     |  702,229     |
-| DGr6scvYN2wML3mBLPWSrbLZhT4JpxrQ4Cwym3B8xbCM | 3441001.622     |  701,119     |
-| DZ69UG4HWmgQwdr9Ehfc7kRi4PVDnhKhU9amEk9yXB1T | 3379304.613     |  688,548     |
-| Bp355Ce4UJyruTHAJSHcXxDA4tpFiSQmCAssXjws2QN1 | 3363425.765     |  685,312     |
-| ED6MTLJFuZjfo6937AXLfpKUGaueVMd9N8ZGrfqZezaY | 3330063.817     |  678,515     |
-| Cgjxc893894UoQFwXCiUFZzvNwazPh1DVudG4GaHtL33 | 3305721.244     |  673,555     |
-| 3KghKtsinSJxKRiCTCM8V2AxfbujpEte5GejiVhfW6b6 | 3300000.165     |  672,389     |
-| UQ4S6kFPuNCAnQwybCPxTqFAxkDjQNZjAUkUJK81pa8  | 3279852.892     |  668,284     |
-| 4ovDSSsXVeJZ29Bo5ocgVQ188JtpTLdM9Bwr5U8HWta1 | 3225712.727     |  657,253     |
-| CxLfefFjeedtKUdXVRT5zPvn7rg4j8vjf9w63jtN59sA | 3000000         |  611,263     |
-| Cabx1cwu6ZJD4kSH3QzZaGELS9PRoBgyts4dU6u9TTVY | 3000000         |  611,263     |
-| 23KTm9TbvZxFoJMrTgSB6nFRj7GzANhzW6Er3QtvpGxf | 2955836.829     |  602,264     |
-| 59Wa2wzgS5NdsxTgdtGa6LJ2Zdw2sRSKsDMqTBCUdA3M | 2942032.706     |  599,451     |
-| 53wNeamSN8EqUwRqezdyDnB5km26fK7gVWFe9xAgGx4w | 2917282.876     |  594,409     |
-| 68cvWWrvECSZsATbMQDEHhTWQLEDMTAoumY68HFjgDPs | 2904237.159     |  591,750     |
-| DEpTDpi7BaeRQnRfEfgvWg4R6NF8vgZMJLiG6qN7ToH6 | 2894289.555     |  589,724     |
-| 7SjHGqdSiQLEMHAUmWgEhep2BcbVefxJkiyEmDb8CuHh | 2702540.893     |  550,654     |
-| 5LWh3SYZyLnqqudj3okicKPpipZso86K5BGmReACoJKB | 2697936.617     |  549,716     |
-| 7eEqnCRDyMG4zr5oHw6xwdGtDwUkwQeWU8hK6Jjznn8p | 2696775.821     |  549,479     |
-| FjXuoyVdfUJ8CmYgftcK1ddRHUZ9rkVTaX68wkpCCaSs | 2685780.886     |  547,239     |
-| Da19tFJzGqFRVHVm4sWkw8yFNEwTWMXsiuxgiHhEVu3k | 2683948.07      |  546,866     |
-| 9cxLzxjrTeodcbaEU3KCNGE1a4yFZEcdJ7uEXN378S4U | 2622600.45      |  534,366     |
-| Ap29K32MgkU1p8FUirNCT2e7zHv21czT67Kfh2a5Rirq | 2608101.184     |  531,411     |
-| BZecyzWZiNLTG6sbGkTyYA8jsxLFZD4gqDSuotNYd2TX | 2604881.74      |  530,756     |
-| EcyebryNEbF9ewoNZasdPLEGCwCHcLZdxYLnZbPAhqgz | 2600875.035     |  529,939     |
-| BKcqepP72WAu4pr2J5BzRf8iEo7ioosCWYTyYqKgMu8y | 2557954.244     |  521,194     |
-| 337XNf49MJqmNQsSKzQhoWSGn4papijx8HxtpG3r5gTs | 2509479.149     |  511,317     |
-| 3qeZD5pF632AtVskBaerPfvJERgJj1hpuyofnDG8knrh | 2504399.376     |  510,282     |
-| 2rx5TuVBkAcaPUGTV2H16A2gZirYy2JPqcvLcV1rMb7a | 2500000         |  509,385     |
-| 97RPA4mQgfsAg2F93Q8bMSb5bJ5qbe1hDSgyAWkfx1z5 | 2488329.396     |  507,007     |
-| BRYSEN6zSWoD3LQ4ewh8R9G6NoL1M4SxNuPyTucWxyWE | 2447157.613     |  498,619     |
-| tys6sN74Mi7PK8N9QS3wufXVbJ332Ci6uqXvpCVnzqX  | 2412755.104     |  491,609     |
-| Gu8fE89ZLhu4GwSq4hK1PVzLLQwGUn6d4m1TWcwMkQFe | 2339691.526     |  476,722     |
-| HUWerfkuxrUDBnjNDNkDmzzVwrsZuaY2qEeeEPs57ugH | 2279270.636     |  464,411     |
-| 7Kr5MYD2dHzepXkBhwCSNKoJF6vQzjtDznHUKog9bJ89 | 2229501.573     |  454,270     |
-| Bjh5NWFFb1eUy41L8NGg4TK35DUNADYpS3qa3dNtWakq | 2212157.184     |  450,736     |
-| 7VFnzF7ZViEXvzEiwH2tYXZCD9avD5356yK7yivB7RR1 | 2183909.632     |  444,981     |
-| 5F8uDhisZdR7HQU6vBMRr1cMKgrwWpBEVdMDYiJE9TWx | 2167225.978     |  441,581     |
-| HzGF4eULJkW85xuhbanArjAQW2nxg1GbeFR1Xe6sHLXk | 2158842.014     |  439,873     |
-| HKnuZNkJZg8HFxpxyuvrGLvxc6TSF22sgnfSrVUeFtZZ | 2154115.365     |  438,910     |
-| Avgbj72x7CakMkM6LqQX7vuBUf32xF3L45x8cqE6M4TW | 2132726.969     |  434,552     |
-| B6euzLRppeqBgCgBadq1iTfGAUDRLEBF8BuFvXNbqVvH | 2129219.808     |  433,837     |
-| 7qRTMyrwZ42qY5waxECNz9vaMHzTLpuAJ2RM4vaXotfq | 2089282         |  425,700     |
-| 5N2WWP7Xpfzmw3Rw2Argvu2Fnpef6zLWGXHQyAYjARca | 2085564.467     |  424,942     |
-| GdwgaK6E2BQoYe8rYs3FSWmxdNuaTqpvNt8gzMorqXR8 | 2067979.933     |  421,359     |
-| GdwgaK6E2BQoYe8rYs3FSWmxdNuaTqpvNt8gzMorqXR8 | 2067979.933     |  421,359     |
-| 7USUh8kQwHkHVbAo8Yw9j1q1FgL5LKqYN7GvwcftbAe4 | 2059971.938     |  419,728     |
-| 4v9ed8WEiQstNAgEinxxFkD3VVhiWCZiqSuvt9gkNUE3 | 2053876.31      |  418,486     |
-| 3iFTfUx1vDw6ojAsMAExiQrZrTsFgdRycjNHnzAayAyJ | 2038967.053     |  415,448     |
-| 82CerTPG2stQ5EYQeGbGsjk7tzrDvVPdSqV3ibt7ENFH | 2008437.651     |  409,227     |
-| 9nRszxMhdPN7s3Ei21X5tAzSQ96bzy9RJcG6QTSyLaEd | 2007469.624     |  409,030     |
-| 7sPyM2k8CWeZjfn45v8xXJjt1jKMT9eyddngV4tXM1rb | 2006247.475     |  408,781     |
-| CcMuUWh5BaYnceF3JBYtC9vHxRNySQE23KkShMvtrudW | 2001144.17      |  407,741     |
-| 7LGY3ZtdgzFCJS7viqaTj3Zn3wGTPsQTAP8TH5onL8jA | 2001103.888     |  407,733     |
-| XWM1swWQkxHJQqeL6jtYPtVeMQ7zc5J9L84FDxHbk7F  | 2001099.79      |  407,732     |
-| FG8F3StX1JWFTeRyJnVtXeG6GHSods5kcdRfdozZWJRX | 2000000         |  407,508     |
-| HrvfYComeADZTSrLb37AYNNC9VBSRBXdo1qLRS6DWGU  | 1999623.985     |  407,432     |
-| 43XbtaJNpG5c3k4kUZPBPoUMRKPri82FkX56uxtMuWqg | 1984856.531     |  404,423     |
-| AJrpwUDw5GK7yGtK7AzmeRMT27DnuHJyuNk6RAqfZ2UY | 1915089.524     |  390,207     |
-| Uvouw2rEd7MAu54geeKhJBZ8ynogvJbQD1kNB8ktoJX  | 1898591.413     |  386,846     |
-| ERfMRtUBmWasG6odQd3B8TJ2chdK9GcxLHzJmHAfEYrz | 1877339.377     |  382,516     |
-| 67nPuErn6p9RoTxvaqE6jf3qdPw22fVkKgrsLz72jhUG | 1875404.591     |  382,121     |
-| HEUuPCh3xGfDoNcfd1mnog95z596SDp3Ymu4aHRdqY1v | 1865662.124     |  380,136     |
-| 5yWkt4vsscQ1TvSF6hL7SJhVvSPXfzkZ5ETywt6fCGsb | 1850030.128     |  376,951     |
-| 7TZKG6Y1qHEjYxKBdBGnQEhBDgnRHqTVqyeHawhyKDy7 | 1822637.727     |  371,370     |
-| 4x7dMRtec8y2hXDZb4pL5wQAmvtrsvrUyrKKLvQo5B1L | 1818955.092     |  370,620     |
-| 5owB3uAzmcaDwc5u7sUE1ddUNcAy3h9t3kcG168Tnz1i | 1779544.13      |  362,589     |
-| HqUKdayzDbPrNvDv3MU3wxNMuT5DjXaVRfMUNJ4NCyUx | 1771574.627     |  360,966     |
-| 5mFAvHRgSQ2dgYmUhRLf9cHrHuHvjkpwtCpfV67YT1rV | 1747673.693     |  356,096     |
-| ENXugr31QVJhgYbhAfhHUYWcHyYmGW3R947hsF75hxRG | 1740283.139     |  354,590     |
-| CtU1zd32cAop8wJRQs5zuaQ6HxmL1QcUQZwu2JGtarWY | 1738244.43      |  354,174     |
-| CfxG5JBXDm7wkRzxBckKu1tXSvsb7tMM1yz8cadxWGYT | 1730075.199     |  352,510     |
-| 4B3K8mM2dP7Aq8DxXVZtdeoTUWfCVAYEuvHAVcxsPe5g | 1700000         |  346,382     |
-| kmxhCcG2zarka97aMPk98MCtSaVSrevqsSLm86rb3A1  | 1689106.502     |  344,162     |
-| fDgatUjDuPkZNwSTSSnvMT1wRHwBY55ks7qQHx7dqSw  | 1687236.803     |  343,781     |
-| BrgzDdNszC9D6hYwuXgsRp69B3ZccZSxKtotqmzzsYU1 | 1685490.154     |  343,425     |
-| 8pCwnSNYA8vtreQWdU7SNJYqyFERHWd8FeJJ3oChKqnJ | 1658994.055     |  338,027     |
-| AA8Mo8tFSzBN7sTdhi7xkb9qZFr1oT8S5UwbX75Zn6za | 1640200.863     |  334,198     |
-| 8k4xdNCFKjEcu8PbKVvgAQQxxnUPZU9HctfoK6TJiHPA | 1609810.544     |  328,005     |
-| AnB8fcE2kADthjLgV5ZA1QdGxSTE2ohr5MqZtKxfP9yw | 1608689.726     |  327,777     |
-| 7fyXqLVQ5vjBgCyumvHqacH9idYqm2tixny1LrY8tyVP | 1607404.479     |  327,515     |
-| 695pqs3VdB3TzrHiCSvkzapNL2GtUwPo2z9hRP9enAb9 | 1601278.472     |  326,267     |
-| 6eDXD5hGP1tuJvoG8NdhrFJBDb7HfMW5iUKZyN2gorUD | 1597463.252     |  325,490     |
-| FP54AVq4K7PHt1gVAbAMQstmNUPpWvswk8g5MuNAZk5d | 1593745.56      |  324,732     |
-| ckgZ7EeWFWvUwm9uUR64Mus1QphVZpJ98Ghz64KezQt  | 1575951.592     |  321,107     |
-| 565FVaKuQYAKjSbST711rtZK86itk5hYTEaaYp2SGo2P | 1553655.412     |  316,564     |
-| 2udv6uCgd5wEsk4uFqMCKdN6MtEu9ZnAWRrpYcr2cGkb | 1551926.472     |  316,211     |
-| GJDxfYmFuPibENMtyzVTCSpy7FRTuzvgr8nEGhWoYfeq | 1549010.17      |  315,617     |
-| CZVgGFSuonmyA1KLCryuwXGFThcAPT1GsJDGGtmp7iC6 | 1546187.926     |  315,042     |
-| 3MmK9EdQGQyCJyit25xkzttwfwBfvj1kT4diW4WW6WZP | 1545480.794     |  314,898     |
-| 9uNzN9du5P9w4NDFmLgyyYc8FDci3yGrZa3geQmKBssj | 1527599.28      |  311,255     |
-| FwquHMoH3SDBH58njWdLes4Fm8nqCqZQwoYTCikzQYsH | 1524052.492     |  310,532     |
-| 5nPn9bi4ZPc15GXcDnQXgThjgYD92nsaVtsaHJkqToHv | 1513841.807     |  308,451     |
-| 2niFaBPPs18QzPdVcA38JVnP1en9QfSBhVGQjhRYrUKx | 1501550.214     |  305,947     |
-| EoK95vNb4YnsYS9mYeQqAAUit71hPMYyyKjpnr7d5Rs  | 1500000         |  305,631     |
-| JARAxEZp3nQUdgVYK2ndYMUZLmMZ8muKqFmnEnnn9aKM | 1500000         |  305,631     |
-| GH2fh6UZ57TJEXcBvJtaQkBbTNPyuiWHnwDMij71kwc3 | 1493885.327     |  304,385     |
-| 3JY17PxDUnpFwXo9PJ231jDbSQa9gWYGaCUgXvQKDdyL | 1493553.116     |  304,317     |
-| GQji7z1AYDg3QcKdqqRmcJp4epFd5w724pg8AVsvJG5v | 1490288.086     |  303,652     |
-| D9yX54ukLMDpFXvjw28dNErUfov69JJLbrkJYuf6YyP6 | 1480659.238     |  301,690     |
-| 4YDbwdnw45MWv8hNe9z6Tfu1oNVP8L1CHouHagMKDLqo | 1473012.094     |  300,132     |
-| ArEMfhDGBGg368g6xTo5gera5XhEBU1KRHVwrLGwNP3q | 1453811.233     |  296,220     |
-| 2AKRcp9GMYyt1TAVc7Rf3ncBUras3HmfyVKj46DHsqJs | 1448804.753     |  295,200     |
-| GePRRL2oqao1VJW9hiMVfcKL2547wnM43XqiewiPSh2H | 1441213.483     |  293,653     |
-| dJ3AhgK2SS3HjSod8sHerWXwTAwQvxNzPLgYmoKJKf3  | 1411702.055     |  287,640     |
-| 814apLgVbHAQCp35FiZxMHHYsqgVpMXcEmZxqkQpLRNE | 1410541.605     |  287,404     |
-| 2FXcDtiEPRb89b9vBCbuaL8KcoL72VmvewMxNbz3xuh7 | 1397805.569     |  284,808     |
-| HQhuViQsYzVQz1E2HqgFD9VBcFHKqWLxiVwnGD6SwiwU | 1351068.325     |  275,286     |
-| 5kjvGaVEkTZTxAL1FmW5WVSSwrDLc8np69QXVqtM8PrJ | 1327166.743     |  270,416     |
-| AeprRG8AKBybnWrWgkd2htEe2ZZf4tMc4oJfQ2bH6mDb | 1317626.546     |  268,472     |
-| CsMnfQveeZkx1G6bGwy9PqxwdyFLZJw7rFKavsKeyE2o | 1313979.16      |  267,728     |
-| 3rQHo5bztTdfWATPecot9DMjRpaZTrJ8xMtoQGr6FBnV | 1306432.609     |  266,191     |
-| 5jXSmjupBv61HJ2srJnvYLKjMncNoikMW5iineA8pAzv | 1306167.355     |  266,137     |
-| 4k8hGUiTnyBh5b8t2C73k3Wb8tzPA4ofDtbedRzd5Biy | 1298759.381     |  264,627     |
-| HJiu2ZSKfmjmWDkmkN2hJGGUT8yVQoXEMF1pUpTxNXF9 | 1290520.201     |  262,949     |
-| DT578NRh4k2jvcAFDnUtibEmLpVw2S9FdU46oDE67oES | 1269297.861     |  258,624     |
-| AzJNVzPyKyd7aaUkMBHL7y7zmqBDewvU1SxoED2HsRYE | 1260913.414     |  256,916     |
-| FbtNj7FxDurjiWf6V7uVUGhtqrzte9kZBVMFPzgvZ9uF | 1255743.486     |  255,863     |
-| 5Kr95c1wR4tmLdWZ54PE1vneNWTtv8TYu7bEzGnJvNBi | 1250000         |  254,692     |
-| 8H8xQMWoqcGkf6XhcovxHJ149nDzEfLRXNg1AUBn94F3 | 1245456.998     |  253,767     |
-| 1VLf5PkcsczAGaBJQU3jLaxkRgXxAj9cw2mFQPEkata  | 1239493.173     |  252,552     |
-| C5BWHzEgwNdWj5EY6pkJnPQWL3EWBhuTE6rUPCwyjMe5 | 1237526         |  252,151     |
-| BD5P29SidxDvq1ceibDfvwLpsiXfHpw58eeVKjvy896C | 1213631.508     |  247,282     |
-| rfAgDKp5QzNyzsQJggano8QKNHJdAzrkJZUqjH9AByb  | 1209449.244     |  246,430     |
-| 2bYC6LK3Em8BLNQDaP27zgFaFbWwMvDe1LeWQMS9BbVr | 1200772.9       |  244,662     |
-| 8VR6EKcREnv7ZuuGC6pscSdVRU2bHbp35k7feHxbox5g | 1200489.32      |  244,604     |
-| 9ctrT3EUtBpXC5B23F5vKShAMV548t32nBVwYTrpD1Uw | 1194188.982     |  243,321     |
-| 3zpRC7DeXToDbo3DNMhyyn7X8dunSiWZsAUAmJafNeLQ | 1181917.862     |  240,820     |
-| 72ApBip5Gxx67wApRmPQACwq3K488e7ng7W7bFAevFhR | 1172725.086     |  238,947     |
-| CKJvvCQhvLW5eabcNac5qxRNEeEyQj31GvNCsUMQKW6D | 1162948.186     |  236,955     |
-| 4hEsG8n3T5MP4SnWVSR79wx6P1PPBTjeLvFo9TqjnD6G | 1139556.483     |  232,189     |
-| GYpqWGwNLtZUkP7UrG3fEifnhyEszqiJFfgPDpDPSPX4 | 1139397.463     |  232,157     |
-| HmAJDvJi9bcDTkpFE32uwHAWBsS2c4HFy2w7kRVdgxTB | 1132555.315     |  230,763     |
-| AZoErjmiF6Uh26gj791jk6nfgSDXn3MEmzAcg1xhJL2A | 1127803.085     |  229,794     |
-| BUg2Zvzc3gAhyUHqY6dVLtQowAupcE26o3gsF98Vxkmb | 1126128.587     |  229,453     |
-| Ar8G5QVZhPjsGdehkoJxZxeL4Nu8Cp4EUGQ8iq331Wnw | 1123626.183     |  228,943     |
-| 9PTKgMBGeB2Sn662qESB1ouiQvjGUXQaeL92YEGVQ6J3 | 1117170.988     |  227,628     |
-| DZMNYxvMNPNF6nhgznEQm2Qd3cM5r1ipbPuYKW44WDbR | 1113773         |  226,936     |
-| FEYoyZqquF3d9kcGBjLCU5b9Tv4Yw4XiUKCxiCJ18HE3 | 1112708.016     |  226,719     |
-| 9zMcaqLjndi8xrkRMQ1m4k3svM6r9jVdATeww8CRo9Ws | 1094047.105     |  222,916     |
-| D11xcYNfB3r4dVW18VfjqBMmCiEPdj5BJ9eLnqaMzMZj | 1092871.685     |  222,677     |
-| 8TQutktj6cg2XpGdTVW3WxiJfvAbja6mCxDd9Pp8VLEJ | 1084961.963     |  221,065     |
-| 4BmCJa4iVoMJ8Q1V2Fyf89zQ8jrgkqWjfJVZecMntBTD | 1084609.026     |  220,993     |
-| GjoGNXhuKxCXBKJUjxSusY4A45M88M3ouiAdcLfui2kJ | 1072826.786     |  218,593     |
-| GjoGNXhuKxCXBKJUjxSusY4A45M88M3ouiAdcLfui2kJ | 1072826.786     |  218,593     |
-| 9g6fNLLxjmk5KdFUXj4iV732tTgb8zX1Ad5VrVWKyTH8 | 1071350.7       |  218,292     |
-| 9PLHPTYsU5wWS4Qf2nErvVVBAXdziASDVjDBG32V2KL6 | 1063105.314     |  216,612     |
-| 6btvVgBX9QFuiMuAavcz2bZLVgvw9nLqrGQpnAPYhrJ2 | 1027453.394     |  209,348     |
-| 2MjcMofrQcb2kaShnyfALZSta2obtgNhEt2evojJu4oy | 1015640.641     |  206,941     |
-| GpdXLMBz86qoaEQgb4vk2AisWTYCzwxybMzs28CAAjdF | 1015622         |  206,937     |
-| 5Wojbe39cjtDfQBCTjKBjUHwbo8zzNikduFAwcFzbpLT | 1015562.09      |  206,925     |
-| Ct6mKGjzcXP4G6QtP5dvpuUNvTTgdZQ1bTfJM2ggFF2U | 1013832.275     |  206,572     |
-| 2ofRHjPwSWoe8d3TTcrQVYgn2bnwZY6bq52gp9Ajj7MN | 1012831.284     |  206,368     |
-| CJRPsdgLouctJ7ksBqNy7CBKBvUjaus2VXcCvtUAo7r5 | 1009103.094     |  205,609     |
-| 5EKPRr5z7eARh8r2d6urNA2KdxkjVK1YpEHby5CsrSJB | 1008938.587     |  205,575     |
-| CTzYqdpoQyKGga7Tw1A1d7kWhdYHFv65tBo5pgukXPfs | 1008341.572     |  205,453     |
-| Ev8fMet1yDcWkBLAmG6uHLAF8VWCtjCCriEJ9WLXLToU | 1006382.256     |  205,054     |
-| 6yGcA5Y3Ny3JXQunHH4ujZtxPhnhG41ch3DTt6Qokjjg | 1002540.383     |  204,271     |
-| 3jFoxP4eH3QEZjoJiQht7D7mafXemKG6ywhwdh6hQVLD | 1001822.447     |  204,125     |
-| L9v6E1VmzpisyHQGKVnyfBZ2tLYHVZw94xxq6Zn4VoL  | 1001239.753     |  204,006     |
-| Cuscjhi2p9Dn9NrkUNsG5cbFKRff2HmALv6BmrEGjTNn | 1000225.759     |  203,800     |
-| 91pMjMGPJy2Cs3LxpDfWftZzdZbvmw1jVNL7gSCvARL9 | 1000000         |  203,754     |
-| 7EUVcvZTgHMhaYxFBD5mQaZPNHgN1ZrZZUMKp91SrsG3 | 1000000         |  203,754     |
-| EuEfStyYpSDkLz2yQ9c6YnFfCKhERYjfKmkZPqH8WcAM | 1000000         |  203,754     |
-| EAKL9HtLX3trU9vUifWvq7wtVzPALY4jK9jcfv1fYtff | 1000000         |  203,754     |
-| 7DZwqAmSkZ5JgxMZ7ZeiAbMTXRXk4dfLS9FViQ7LeREY | 1000000         |  203,754     |
-| 8VKP8U2dxx9WS3AdC9TAqXWzjkMWVsKx8xxpeLbYKcPw | 1000000         |  203,754     |
-| F9tUEG2aVPJJBjW3SkXYvWvudmMQHs7s41aarBcFymE8 | 1000000         |  203,754     |
-| 4ECxVMcFyuXr6r3CJQFwKZrTRpXPwecYdnTuptpZtoBr | 1000000         |  203,754     |
-| J52GW7sGeaU8PBLtbHCrJeEp243jLAtqzmdgz5nhPZ57 | 1000000         |  203,754     |
-| 2PUuVKvWaurLDxCFp2ojAJR8RxKeaSDj8wQ347ziyCxD | 1000000         |  203,754     |
-| HDBp6vxm3baGpMAYzMMir7PtCozGA6GLVyjxTh9DSw4c | 1000000         |  203,754     |
-| AB7RZkH63bo12qWYq7BthGSzPjtcGXuTW34cbkGkRnJj | 1000000         |  203,754     |
-| mguBziboMSfZ4Eb8yViwrQPPx48PXaHpLDHo991TCyw  | 994045          |  202,541     |
-| 5XjwR9JzMBrXHKzqXrFGt34VXG6LbcYoFyDjjimGki2f | 989944.2195     |  201,705     |
-| 4QbcyhwKygNEY2bA1jpfoRKQ71ur8zoQX3C5cH8nuaPA | 986686          |  201,041     |
-| FLqfApy6wTXyWaZHuRz2nX3yJcVzLVAhgwxs4G9qsmMK | 984817.949      |  200,660     |
-| EA9qLRSErBgq7PyHvozQ2xZtxiqh8SCw2VYzQKjFmoMN | 966185.5511     |  196,864     |
-| DrDPg8DSUVJMgVU8q2P4BwwvP1bvRehnQWeWuYwyuwo7 | 966118.2253     |  196,850     |
-| ANSQrxDNeuCyAdceu69Pxi5SARtx9xWxCbj2hM2uQnMm | 963697.8826     |  196,357     |
-| EHa9noeRJV6iqkK9c6jYcdJ7KoDZW4Bc1Mcrgsfs8ocM | 939207.4603     |  191,367     |
-| GQXHxeuh7aJCtPBuhmFaV41GM2WUrzT6rxxGwWbrBhQe | 935844.5594     |  190,682     |
-| 6DojMBnXmQ63tn721z4zxGcsfymiTAKXexdjfKhGkHxq | 924870.0499     |  188,446     |
-| FPN8XSRKtuG8sRnzAfYzdTAcewXvihnh8rR5KuRVHMxk | 923963          |  188,261     |
-| BDyrfwgjAZmjeFx1uj5GirnpHGxEvbX9bCctF6SASASH | 922569.4221     |  187,977     |
-| 21Z3BfXJ8AjhzuhVtCXP2U7DFpGhqcLN8UW8WzpycMU8 | 913520.8867     |  186,133     |
-| 7sGgB8b5ZJN1XaeFp9KHLsqzoNvtGkfhUf4CDnWqZUSp | 894963.3796     |  182,352     |
-| BeHfVRx9RoBFnaum9oowzfFzygmTX4sEN5AWVDrMyWMD | 878997.5029     |  179,099     |
-| HsYWARoiweZQqFgF51e67fxrH6REnTsb1YnCJiEXptnK | 870660.4193     |  177,400     |
-| 9ApKDhP3LgrJFZgL6m7D2AF698Mqje3AMYzcYK79L93a | 869020.0723     |  177,066     |
-| 8TBoSiU9na8PabkS89XRQFj2rJGsrjf4kLGokbxV9MLF | 863507.8174     |  175,943     |
-| B3C2CYUhDFCMtLmGmYLyRwgySAyn3PV47whupTNcbZNu | 858858.1724     |  174,996     |
-| DcyrryVnqv9kK8ANncwCC8aGf3JAxvdemueSQEhBdmC7 | 855979.0579     |  174,409     |
-| HPatSaG9n9dcyo7VYnhwWoVgwmZTGvzqDixGXusBaNFu | 854557.9667     |  174,119     |
-| DNqeqoG6qBnA5gHeqmcnEFDzhzDnK2h28uQiTMukFX7b | 852581.0115     |  173,717     |
-| 8dHw4VpjVvwdSbLQFrf1Cg8nTs3sxoe6zqdb91MJ5dsE | 850000          |  173,191     |
-| GhJnRAxrBTRdQJVViUZDcC3EA1w6PqB8gRdKtbTaYwd  | 845627.9859     |  172,300     |
-| GRoVf2kPZEa9e3yYy1WidPXeD6Hac36EZiYTpK6NYu27 | 833294.2371     |  169,787     |
-| 9KF1acaa9NKTgHomZrAUPahvEkLZzjWP5HK6oMLULfjM | 832509.8359     |  169,627     |
-| EfYfLw9Rk86wgf1PT1QZu76aFJaSgvo5HJMZJ6xyzQR6 | 823216          |  167,733     |
-| 2eKBg5ZHaH12DVMEVJ67aQEXpqRUP3DnsQ4zqQEtkJjd | 822309.6445     |  167,549     |
-| G9k5sinBC2rYaQGwNsnwp1EdFCaiqpmjtSGwnK7QZf6p | 820672.6404     |  167,215     |
-| 6qxK54Ev3tx5vxn2ytBqErYrVhD6tA8N14R55PM7qALx | 813346.4337     |  165,722     |
-| EkJG8NdrkMcHzjLCKnyogHhUwoBrPsBupq4QgTXaWkVq | 809236.7608     |  164,885     |
-| DxVV1SQsByHdC5kYYPS8pSAh7PRb1cBFLM6sf1Fadtdu | 807166.8254     |  164,463     |
-| 7nSGnEVuyriqFYafDxWa4uh8w1T7Ue6TEwYLPTe6VnsX | 804675.4276     |  163,956     |
-| 9kvtEDnP9zCPQDzQNHaA5efYFMyGz1jZcBDpAZjJcpLG | 803005.9459     |  163,615     |
-| DBjDJ1NBtfPTBhESZnjzU5HbhrHEaVYxJM3KZsJfBS9P | 800000          |  163,003     |
-| HMgk9na9PreajYruj6QpBbg7ur32T5vsX2576rELey4t | 800000          |  163,003     |
-| FPdvybLdTVaBy3Pmjs9FphjpTC2MkoyfZzrQKjXsUjFr | 800000          |  163,003     |
-| G6j9Q83eKbGnrRQMRH5Wy8uHHg3MnNX8EZP1684iE9qz | 800000          |  163,003     |
-| 6AD2VyzAmxyCjq6eys4YfpBLzijVmxAzzdX1ScPYaL64 | 793618.1818     |  161,703     |
-| 7SnxeWoMA3aUoxvr5uPRM4awoU68MXP7t2xSUzuyaDT8 | 793203          |  161,618     |
-| 3VoKhTQVbSfWMqx3xx6GWefyJbV5v89fHooxQuV32WE7 | 789615.0784     |  160,887     |
-| Dr1VdoVfpzZNnEv35zX2bBzHGTC1kZVWxezHb8ZCqk9n | 787333.8343     |  160,422     |
-| B5Ww8qrkFzCz1BaZpZQQ8z9JYw49eYYd6zkXSYofvAkW | 786473.7678     |  160,247     |
-| EFnZNS3k8qk659Ut6NAcVW5rh3CFNVpwjhttST3HWwY8 | 782675.7266     |  159,473     |
-| 2Njunr2PaQsv9u3p8TRLFdUf7J4b5MUgNz7ipC7hQvKE | 779054.2582     |  158,735     |
-| 2Njunr2PaQsv9u3p8TRLFdUf7J4b5MUgNz7ipC7hQvKE | 779054.2582     |  158,735     |
-| FTtPdm9sEoiBLTrhk7a6Fhc8r3kN385NQiZLfxGY987c | 769455.3428     |  156,779     |
-| Gr8TzFVHWneWZs1FDUFNWgFn2efArVgisTpcF5RKqCeh | 766330.0907     |  156,143     |
-| 69eX4jEuuWDNHHHms8xJo9MMa4AmtCHZQUbA7igfidfj | 757020.7679     |  154,246     |
-| 25mYnjJ2MXHZH6NvTTdA63JvjgRVcuiaj6MRiEQNs1Dq | 750972.4356     |  153,013     |
-| FLnyLLcNY3mgoksSGWfxiMrppJsU2HRyYKB5k1LbkGFe | 750000          |  152,815     |
-| 86oBYRPbpiFuudvJiS5g4AnFAp39s9P6eGLo2uSPjNRn | 744891.7431     |  151,774     |
-| 3SrXmHAcvsf8yVz82HTvhaPd6fJ3D9ii4AfhvikuKoy5 | 738896.0247     |  150,553     |
-| 3TF9N8MptpMbtvh26VoTNosANQuitcKECqcNQEpQb7gP | 735074.4284     |  149,774     |
-| 65bruXg1eEEnBrvjeCBAbYTEnycmJwrTwHCy7baFZD8H | 734225.9234     |  149,601     |
-| 23MGqNWpmqmvFJWaJ2grEnVqtLGfcfprKhvvjfryQuM3 | 733924.0214     |  149,540     |
-| JXez4t2Sr8S9FcfFvpd6svpkqKcR2AE65TkGY4uVZNA  | 726724.1163     |  148,073     |
-| 2yUfhobbvThxVq6fnJVBsMF2jNMu3gGV81VB8AwpjmUs | 724188.5602     |  147,556     |
-| FgWpcVXDrdcCsaEtyUCkog4ZQJ3C7MVctQySQd1Zf9tR | 718555.4603     |  146,408     |
-| B9kFkKK2fRfKYR2M4tL9Fc3miAzQSJKqPepgaxGLZ4oa | 717305.0405     |  146,154     |
-| 4aQkbUivhmHDw7zC6GcspHjVrAzsD24XAc41ZfzFUgaq | 706934.3851     |  144,040     |
-| 2J1Gr8din3dZYisbhnjs3MVnkzUGPtFkbSGD2dgkmfLy | 690420.69       |  140,676     |
-| HKPLtfrdrLGoDhaWk77g6KfzSLSMtFapXX4fxBU4f6Un | 683008.6177     |  139,165     |
-| 4Jhc1FYkqRxdgagu9oWigTTXWb1vremQuJdUTQaaTLia | 681255.5016     |  138,808     |
-| 7Kf1fa1WPzt8h45tRWCcxyt4gng4QsZe1hxqgKncQKZu | 680119.4773     |  138,577     |
-| E5NbEp3hUiN3J9zpAJpCnMdafuDMNofR4hWBjxXDbGNp | 679149.3091     |  138,379     |
-| 28tfgeEi5VAsgMzS3FyPSdS3KdTv9rpQTgBQ9h7LQJ2e | 677479.5857     |  138,039     |
-| 8LckUXTSRWUx4wtJ2GiNjMFezoprLAKB8KgUN5hDKaBB | 670967.1046     |  136,712     |
-| HXZ3Z7UUjjfUmrzLJVttScGnHE6tn9Zektzv3aeQNu65 | 664867.1027     |  135,469     |
-| 2HkSMY9bz2MfdoggesN1HmwaSu3ZPSmF5vb8PHoRoCC5 | 661706.71       |  134,825     |
-| BQWmCphXSLCqqPStoGFKuKGBSdHXrQHxttgrwTwFQH5X | 659927.2954     |  134,463     |
-| 95xa96BrchYinfjt92CyknU4gfdLhWaAtsHzPo3craMB | 657399.4808     |  133,948     |
-| 2PFL5HzfS3WY693gWKNQcoE6fqn6KifwRakZARym4AYD | 650221.2809     |  132,485     |
-| 2WbrKtADkzKwnwFaG2wkKHNRocr64HvgyirJxirz9GFL | 647485.3188     |  131,927     |
-| 5yf9osB9heiqYnwo43SQ5E6eAMZvkRrhTsKznquPsjCH | 647320.8341     |  131,894     |
-| As1vz67ZKR5XjxhnfeZRL8Agc5pTUN4m3gz2mYnVbZsB | 638219.3451     |  130,039     |
-| HBQe3Gpvkr5SKemWJog4eH563v8SYeUqfHeVKhnbH1SK | 630052.2673     |  128,375     |
-| 67SywXBHhjGJNSo5yFuf5npTRa6Mci7KeCTU1kTc2WVQ | 629233.8117     |  128,209     |
-| BoR2P2ymkDqkGuVWDqLwqN1YJ2dVt9EQmswy2TduYG14 | 625626.6418     |  127,474     |
-| GdeJc6SptDBcCk8kL5h58Zth3zRzmE5W3YLxe9qT1SRw | 624967.5332     |  127,339     |
-| AWzJ7aTmejVCcHXyA3Wx93ZD4JTVxBQPzw5SMJqHoisN | 622957.4377     |  126,930     |
-| HGbNT39kFo4J5ke7DBgAvEgCiVYubnyk5vhJYrSpnynF | 621680.7225     |  126,670     |
-| 4CJNtDjx1PTWBuCrPuiyd5fYmPnFWfGwGDyHAtugmjf4 | 615483.1812     |  125,407     |
-| 3geJk5AobN66qYjRJNQ74HUaa3apKC2ExKPQsAZp8mAR | 615399.3832     |  125,390     |
-| 3bqYbgRnJ59kiuEYkxfgMBgTSWLQTh3uZofth3xoQ4T9 | 612230.7994     |  124,744     |
-| CHxjCfzXRB4hTzX5qKN6cjum19GkGEwcH9YBEjgn9RjB | 611817.4663     |  124,660     |
-| 6GJznAiq3nMH7NbW2tqwTtWKPBsZ71EPyCmqKqmkMQXh | 611483.9926     |  124,592     |
-| H9aVVyxnB6YhrPmqhXo8yqeQyWzZKgzSDuRMY3Rkwhhf | 611069.8574     |  124,508     |
-| DEZ7GbEE9sWwz8acCu2CTJ4BQmxYcyKRZTk6i2rG7mUo | 605964.5543     |  123,467     |
-| GeDfp1WhHo5ZaDP6tKgf2mE4UUWXbbMCxmh42FMDw1Cv | 600924.1097     |  122,440     |
-| C2nar9wADgYkJjNovLQfhxnDsdRnWTUd4rsKVpUJCsJ  | 600000          |  122,252     |
-| 8CNBbX2sMeT2jLugoP8UCgASigTwpAzAk4MksvU4c4m2 | 596427.0534     |  121,524     |
-| 9FHrkQMMghonBQCqnYyUGN6p434K7NbajyD8etVpxYMq | 593777.5413     |  120,984     |
-| CCRFxeSf2hSRypCLshAQgSjVskHHgWp5Kjjkih5ECjYS | 590302.9622     |  120,276     |
-| Cqcn7QzFCuB8v5XV7hC49yBb2fBJSGDMRtGVazc7Uo4u | 582014.1716     |  118,587     |
-| 6Pi7DGPfTNpPywfwXSnsYY9bhNrMydbSsXyQLiNcRsRB | 576506.5983     |  117,465     |
-| BfNUWpqBU1RV3mcAX9gAbexBZyBY5rbw5XgWjnJKc3PF | 575145.3345     |  117,188     |
-| 32hoF94M5s5nCuyYNmkZkyBozyLcV4nNgTLMiASAYfxm | 569460.4445     |  116,030     |
-| 8k115G8xsfg78B1mJGQecrFwNNuDHZa6zwkq1BSz8NUT | 567265.3891     |  115,582     |
-| BxSZhcnmzuDiDXBvdjang5Mc3Mz2pPKC9CSWQdes61eR | 561516.313      |  114,411     |
-| HDxUZUSAGoPHQJgsYaWpZTnVF1PAjiooP2ND9YW3mn8y | 560911.0899     |  114,288     |
-| 8BFxWkPgZ7AQbx8yWTpfwZNPRjVuGzAj66s9GQzUB7y9 | 556723.6596     |  113,434     |
-| EbpbdyGEBVY8xketQM562QocE9NkB5uoB5BbShMXAJTn | 551718.1041     |  112,414     |
-| E6ybRnS8wJTTaDXYWnNKpatVVzzjxdbLSmAZMSZWwTqk | 551531.6961     |  112,376     |
-| CxN56q6EANE7oGL7uBbRECnotBporPkBWFddSvdHhyC8 | 549635.8544     |  111,990     |
-| 9vpGLSqbrRCB78Nj87evHPtRzxv5fxompFWj88iLppKF | 546716.447      |  111,395     |
-| 7Ni2m4MvYYDQYZNgZpgZQ7GKtsfQZdhHP8vMWBHNZ4Tz | 544713.5418     |  110,987     |
-| 98puw7GSvhVGdJkzRfZDZL6ziqEWXk65MV5iMwdaKsdG | 543648.2841     |  110,770     |
-| AXpST48mcrfGjo7b494fQZfepQCDgfEC4oRkmHnk68Rn | 537228.127      |  109,462     |
-| 3aMyo4QCH8beox5M5RSKESxa3XxgbLefe59uBUCnFsXz | 531790.1924     |  108,354     |
-| EapgVt2uiuJofTnD6QZpvbWqmgquYjpuW4J1YUBM3XUC | 530647.6703     |  108,121     |
-| ACmTzgiZHumYkzx3PEKYXwxwuhkmMf44aF262CC1MYb6 | 528174.6994     |  107,617     |
-| Eqjv9fCGV9Vxrqtyg1NNECddp7yHNwptmbiDatdoMgJP | 523155.9046     |  106,595     |
-| ArvVmcc4PZbQyQGd4fAfZtSy75amizwFnhMQNd6YoMf1 | 521602.9156     |  106,278     |
-| DKLw4m59HQJrLWpmSvD523iQL47xPQaMnU7pjyjWen79 | 510147.3894     |  103,944     |
-| 4YswRSvCHHN1TtQ2wYkNvqxJPhMGhdvQGXLopefpCB28 | 507031.9235     |  103,309     |
-| 6YcL5ZNwRL5Dekokn2HiatCdBCYH7medc6N1YKtsCFR3 | 504787.1051     |  102,852     |
-| 2Kxw4bEpQ1p9msDApDi7RKTZXDfoiEup6CH9C4uzH9Fd | 503523.7395     |  102,595     |
-| esf2Q79HZv83wsaojJAAAQywZpXC3ubdXm1Lfw4Km2F  | 503358.2464     |  102,561     |
-| 3FzhnQxYWgSo7ePBYUZYHb2pZrypgrmSBceD7uXGMQQS | 502403.3126     |  102,366     |
-| EzBQMaLUuq6qFgKziFZUxybj6AezsKt5YfqHxEoLeisa | 502371.4926     |  102,360     |
-| FhWBjtNWsiTCaWUmLdwyJRCgjtdc4E2m1s8o9bbqf7qe | 501312.1393     |  102,144     |
-| 2yxcX8mKf655pGhptrSwzMQujsynxvfSz7xSs6ZV3pYb | 500856.2858     |  102,051     |
-| 7ReXP7pC3r2mSqBNryvyvVC8hEYXy4tV4vcBF1jGM19a | 500193.4825     |  101,916     |
-| 5Tg9g78YtNeogc3LTPqEdei7f9xWiRJFDjxP1BZEJN5M | 500000.0093     |  101,877     |
-| ErKr49s7LuERyKbo47p43YjPZ34jvuaubJLTHNdRaLcP | 500000          |  101,877     |
-| BXUGbAMtGegbMe6KsEuzF6aNaeD1SCBaRQRyGJ7GE5Fu | 500000          |  101,877     |
-| 5tUczgd6rma2xNa7HTiiWqpj6oHLNTNFvNHmtSf5Ls4V | 500000          |  101,877     |
-| BZr7Lsvc5Q9Qu21aCGDnyhxwjdd7o98BxZwmVeSV3YHr | 500000          |  101,877     |
-| 2aWUoEdAtC9p97eVGHnpGcocPJpPiusEwEzAt7eNw4zL | 499838.5114     |  101,844     |
-| 25uWvNyLNZkGvUzcYtqReCguD7hrvCPpbQVEcBiFM4HP | 498227.9399     |  101,516     |
-| 2v7MFrtLQdeANV6ntS5EqLmRJzrGDLd3EseenngQRrmz | 493257.1191     |  100,503     |
-| BMeiMwbZkrniyggyBbfThFwbxcvDT9dLr32xvUP3u3my | 492707.366      |  100,391     |
-| EkMvznJwwzz12kkG8ZoPsrpvUZ9pXWrqzaikFqSdsZwQ | 491775.8533     |  100,201     |
-| JDsQqRm19C87G5NbobKnD5pmdDQLBXNW5VSRX11fyW23 | 490565.6991     |  99,954      |
-| 7wW8H23ET7BQUeA9Kh3ShWp2PzaAhF7Lmx8Y7QDboaM1 | 488808.9712     |  99,596      |
-| DmMyYgaXJkfDwuYoLyTcEJQMtT971Tgpdeq85ziy9UaU | 487367.9572     |  99,303      |
-| BA9dx7egzax9keZe5JAzKnMyW8GBk1QqY6rRpZgVPWDb | 484829.654      |  98,786      |
-| F6Ekffq44Ng983KonbJGVzoG2KHuSLEJU8JfYpNe6rsC | 482105.4999     |  98,231      |
-| GAWTVjTjPskjxiVsqrXAn2Dsj3cYLfhegpxmhK5h5MYf | 480476.5717     |  97,899      |
-| Bs3fMSyXrDgUG7omiJnUtn4QPYWrv1mS6YvEmPWc2LoW | 479161.6493     |  97,631      |
-| DNADSJLqRU3whuxtC4NVjuMq1z2c2HXGme2SKjxP6sY3 | 476673.859      |  97,124      |
-| 5vnfEDUiKd4G2DpaWS6mmWVLw2Hq1tReRA3VqD5sT7S4 | 475000          |  96,783      |
-| G9jXXtRjXZgsQcv2Vu52o2xRcaJc3XRZSaokZSvjXQYM | 474913.1917     |  96,765      |
-| AUX9hoxEVyuhjoUmJxfEqnCXUJj2TWBE9mb2TTkMxCxn | 472941.3467     |  96,363      |
-| Aqb17LAtE1HVhkLNMcZZTjmpv8UgcLsnpmA5xiCc3hCi | 471963.0498     |  96,164      |
-| AtCnd1mf5G6jemn3i8hXYoEzV7uKGZ6vBS5XenC4XYdD | 470386.5092     |  95,843      |
-| GWrqu6ULv29hk74ENsdGmt2BE44cmhvWGnEwiUcEVkXJ | 466902.6983     |  95,133      |
-| AUP7N33Q1gTbXM6ervniEr4rUoAkpFdHtE3KydjogVkp | 465026.9489     |  94,751      |
-| 4apcVo6tWGDkQGvU3FD1doano5kEzCjFXAevKobEWKNx | 461105.0878     |  93,952      |
-| 5taoYBnzd2mGAEATTxADkNiE4eD4fEWupx93akuFQfEZ | 458592.6291     |  93,440      |
-| FUPmMQ956ruvqR4i3NzBV6djgXrVB7noyoZbjgRAranu | 455600.9838     |  92,830      |
-| 78voeJkhYZsCbWGTsXdZu1CB1PaRWGd4WwebW6psMb79 | 452740.3572     |  92,247      |
-| 3WL3CQyp4tVpfr2rdgrebrxntvdSgW66H6uuiijrgp1d | 450017.0539     |  91,692      |
-| 8z43LVNL5AWtRFP1o4VDyRRuNL5PADg33A5CbUDq713p | 449584.703      |  91,604      |
-| HKQ42dCeivZ7nb5p6zY2eJoKD1ijaeG8QJ61S5VoiXER | 449023.7388     |  91,490      |
-| 6xZZw6dQRoQ3uFtGXDJUhYmLJAru481jvq9tSgZDwHV1 | 448071.7978     |  91,296      |
-| FynbcGX46Jwqm2BRC7Vsi6ksNgDJ9MkQdrydqap8YvmQ | 445499.5294     |  90,772      |
-| BUTVL68TdbK9f65fh6XzEoQzfFqMiizr6W1s7wqnfxrZ | 438860          |  89,419      |
-| 4h8kjFc4xsmmgFZFJL3PjnkFwdPVCNqJ7kT6C1tLcWnz | 433087.9431     |  88,243      |
-| 44L3GAvR5FGk6Bi2cwNmZW3nWmEpfbGahMqsjEvYyNnH | 430781.2002     |  87,773      |
-| H9DgowNmL5FdMcaXbh8ZiovBMa4xTKpjx9t9G4mANxCv | 430545.5367     |  87,725      |
-| EYiox8bvQsgpNCbDvmZpdcqCRPWtWxbGKWxCwTL1Yb8W | 429627.6463     |  87,538      |
-| FgRgynjDwXBhkDV4KVJY3DMSDhRvXNvpUtzhWKNg2t8u | 429406.9721     |  87,493      |
-| GW17cyThawLXN8nwzbRTBuWsHXzjDwvQzoAuKiwNLCY1 | 429244.7811     |  87,460      |
-| F31GgV9Ygkpgmxiaz34dDBAEdtKZGgYT7aTB9NSoFhbk | 424818.5271     |  86,558      |
-| 9DSwUEbo31yQQYmLDDit9UTjVE8FiMfEHtnQfS3jqfQt | 420918.684      |  85,764      |
-| GhoYeDkaCfJ1H8TD3kig71MKvS29GiBHq9gAAuTMN5WY | 420415.3879     |  85,661      |
-| 2xq4wpNnpeYvbGvPwAGo38zfcJTcWwok8W7W7oScMBwn | 415848.9089     |  84,731      |
-| 7DUjm8bjn8d3oaynexCXxPyktEcCH5yWMbWZ3E9twzTt | 412702.2617     |  84,089      |
-| 6p7AexsuTJU5FWpGziXXFF91PKEM4JwPALb69rmdc4eW | 412275.781      |  84,002      |
-| ACHaw8DzpvhPzTBRZdeEmSaEAJFhg5zKd997xnXp6GX6 | 410229.1207     |  83,585      |
-| DVUMCPG4DJeBJkLqEAn5NpBajFdnaLy2L4n8qFTfs8SY | 407745.9121     |  83,080      |
-| 6ge8uPw8zTB6o4oypyampp2tzUhCYjfdTEtEofYkQCdT | 401869.5617     |  81,882      |
-| EYZWMh9rfywhfYc27dkEi9imYNe7KdKK2NSqiS68Su1P | 401383.9535     |  81,783      |
-| H4XWRThKzSdgXpjGqJDQt53j29nNsCjubEWLGUz3EPLU | 400000          |  81,501      |
-| 5msKuQ4cZWE7b4TKJ7FF8jc8qZmKeDNiZJ3CoHNqta8t | 395502.8758     |  80,585      |
-| DfcdQqduyMukoaPeGzFJFkaG6ioMHT6qWQqpnk32xtpe | 393621.7918     |  80,202      |
-| BcaGAmP6H2DfYJ1ZX7QYCrHuBhrBw4t7iZnKqvhf7Bcs | 392294.9381     |  79,931      |
-| 2Qzp4AG575P88dq3U2VE4on61EW5GmDaqZaGZimnMTA2 | 391469.5151     |  79,763      |
-| GFP92tA1N5PN2gZf3ipLHsGuSPo4szJ942LMdTsXxvDC | 390539.484      |  79,574      |
-| Bmi9zf27MNN5pjCtyv2Y15TDQoYgcbcmPTxvEoQ6UwWs | 384660.1765     |  78,376      |
-| EnPCZZsYCGLuqjDYKDErVC6SUPRmEDBh62HK9Y9Ft5ym | 382433.7548     |  77,922      |
-| EG2TUp9b9vQi2wQ2nzYXXQLYGUK8XvK6LFW4r3y5UYpA | 382203.5811     |  77,875      |
-| G2h2mQsCdgQKszk6u3XCAJS8KmoPprDEAMRL5QhHfXpR | 381536.5822     |  77,739      |
-| 6gLB88FuA1rtt24JF6tfW4HvchooaqtwL3ecpqBYuQHn | 381364.2491     |  77,704      |
-| HRCo2mKPL1q7vhBQ15nJwfLAhmjUEJqAgu1wbk4HaWVg | 378320.268      |  77,084      |
-| 2AmNqNHN8AooWrwkET3fpgjk4AD2Yy8LzM5WfmHRzxfZ | 377354.1821     |  76,887      |
-| HMnDEL5g4u8H5fg7tCE1N53coZ9f6aaqNEGBnaDFEcu9 | 373921.4314     |  76,188      |
-| A2xXtee2SBoVLkEEbyG9ioUaoh4CdEdx67y6sTukSNGp | 372824.9        |  75,964      |
-| 6vH8LRi8kYMNNA6ESHz5YziUgpshWjCimNdpuCCcoJ2W | 372028.276      |  75,802      |
-| FgyfYSKEDqCR2BhP8V8osv4A89VHGB7kRLYuZbi7WhDC | 369820.4028     |  75,352      |
-| HT9G8HwnzQepHSWJqb4EvVgUst4jzWmBgXwWqaPA1hRL | 369702.7613     |  75,328      |
-| 7FsnoGoF4cvD6Q5kBsq2R1qMJVbfdLp1yoavndxVmDby | 369571.0723     |  75,301      |
-| CNzBPpTpp1Xbfq6MGNCryXoNqpVz5Ea1dazhuisE5mYy | 360776.7054     |  73,509      |
-| GpfisscvzgWrT8GHji2roFQEmuVS3rFbx6tjkozcBW2k | 360215.3247     |  73,395      |
-| FPsYNKFC88sn4Sx88McgBtdCXTjo6Z6toHnNsgZoXice | 359273.2204     |  73,203      |
-| Fbj7W9ZAY5km1VWAkD8kvUNErTUznAwsjhFiFFGM7Xe2 | 357195.9716     |  72,780      |
-| 8jpAHBvFydYYnjCJbBa8sBwdzJgWGrp2sYo6yhbqhoeD | 355132.8754     |  72,359      |
-| G1cfju2KRru2BxPecfaTLzcBhKxLHTqM4GxEe7DQu5Q6 | 353433.2606     |  72,013      |
-| 8Vk2ifYtqTc3ZqGuRCDyy5W5fDHjkS1u49DwGcQvNLfE | 352088.3068     |  71,739      |
-| AfQ1oaudsGjvznX4JNEw671hi57JfWo4CWqhtkdgoVHU | 352064.6274     |  71,734      |
-| 4AVcKWdMXZjR8U2FHQjUceoaL84DzwMoL8WyZv9YLLan | 349586.1333     |  71,229      |
-| CUQRRMm4PdMRXchSjMezK4C55jGYurm1US7d7BEc1LrY | 345524.0845     |  70,402      |
-| 8L3w5bENL6yLf97McLv3kfkL3sxeiMCMFrBbwZrDoy23 | 342799.3672     |  69,846      |
-| Gvf7jnpCRPHMW293aqZJEDjgdxnw1AGvnYNxf4wUV7SS | 340848.5286     |  69,449      |
-| A7EHQmCxsfU1gA2KxoQ9dxeCjkDdmdai6jyp5mg5j7iK | 339318.0981     |  69,137      |
-| A6duiDAeQCxtSiWuHWTKrqr653Ejgqh7syqUS5QNWLK7 | 336730.6287     |  68,610      |
-| 7ntiScKaeR27tNK6vGpX8m9HJBnePgFbujjF8J4VWK9G | 330786.0933     |  67,399      |
-| FDLjQxsnjJ8Fcj6dSJFtWttBFp2b85fzjv74pd36yMJR | 330523.9617     |  67,345      |
-| 9bgkoMqRaBkAtTEdkUrzjH74m7VtJUF3mSyCRm7cj3S8 | 330470.8486     |  67,334      |
-| 4oXDqGZbaUpdzJK4gdnforXfXLpEP6Rmqiu7Aegii34J | 330024.7694     |  67,243      |
-| 9PnjcPk6dUsASKcSXgtXKWLbMhwbDKHRN9wNsxwbWJ7q | 330000          |  67,238      |
-| ADPYYu1dWW2xpCRiu8buvfbjknjCs7KkF6jKKJhxFh5Y | 328909.4166     |  67,016      |
-| 9cQReijHWNreG4tFowjxPBPhFsWgLa5cut8uQPyM1AyW | 326938.4791     |  66,615      |
-| 94U5D95Mzc7unp3gBQrgANEQY7UQRxtddN3LqVRSn7DN | 326890.389      |  66,605      |
-| FzeepPAnX5d5eXx6UmB3WZjoigWxUYBm8yKZo5s5DPt2 | 323473.5673     |  65,909      |
-| ESAdF4Xm1MsgvFeA2yLX3QvcCnueG7w2f4MK4EUKQz1y | 323212.126      |  65,855      |
-| GmcXrxjn7AhZTd18vtCdrqmsSyw3NzSE6MohRg7EVxaP | 316967.7922     |  64,583      |
-| 9Rtkayv3vjo9PwdCBhHpbciSYA9btUnfY1X1KJTJREzz | 316460.3257     |  64,480      |
-| KBJZqYeEARPYuhFAf2Bwc463TyqthcAvNQZXcYfTSE3  | 315206.6455     |  64,224      |
-| 9NBoacvwugvUtP1ZU4NiAeCfggbotRqqZToAhTbkZn2U | 312998.7116     |  63,774      |
-| 78SvoLobQX6fdZz9SgKS49wV3HRQTzaaEej7MxKFDzN  | 310936.7488     |  63,354      |
-| 2iHxQLSVRr1zVeBKSypvQrkLf45Y7aL3Vwn2fRox1oxd | 309206.0416     |  63,002      |
-| 3fFUvXtFY5WfrG5pM3jXsGjYAKdoNvsMRNnL5jvpPEAq | 304269.1331     |  61,996      |
-| FkwLUWi5tBaBgpeCqEjdmKcuJQccbruobfkjJJRSEWXt | 304142.8615     |  61,970      |
-| EgChNGDxrBtr4dJFWJeTHcyk1dG6mdveUFBNUDtF8mxy | 302838.6848     |  61,704      |
-| 8wfbZg4o8SvrG5XtrY1ofDxTPYZWJw9N9fsz5ZzuttnC | 302471.1822     |  61,629      |
-| 9kEy8HBLsSA2kHZxVgEDW7ANEsP1PaiMiRYmGx76U2gu | 300054.7071     |  61,137      |
-| 9yaE3SPadMpqUqYTMkLicRF49e9Vd9crq9QSDV1HTRg  | 300000          |  61,126      |
-| 2bYcxmUwQwn78MfZBx251fiZKJsrAbiEihZy4ZnTgD6W | 297570          |  60,631      |
-| 3THb2gKW1YP3AoqYhetym2Y7PJBFrAodYsMFPoPJL4FZ | 295683.1587     |  60,246      |
-| 5suf5SNZWMHTncokXwUSyU4PakRK1jA2NkhDYgNfG5yh | 294949.1312     |  60,097      |
-| C8xzAWY998eXijQvjfnPxk5UiyyH5RgMCiBh3YReKCyi | 294225.443      |  59,949      |
-| hnu5iBK8UoHb51UFsH1RYTUAYdrhjHvV5YMTf9T1CYN  | 293865.6656     |  59,876      |
-| C2FybHMAU63d5eSsVTwd6MrDgnvWfyKWqha4oBuiZ5cV | 291311.3574     |  59,355      |
-| 7vvaXQxYyHLR1JhQ5U7TP32w2oiqmrFokz4mZXJAz6Fb | 289637.2269     |  59,014      |
-| GcVS3DziTLTraxmd16JNPcutaaEsakYEhXbpe1ihoxt1 | 287181.3458     |  58,514      |
-| 36W2GfMkPUujyAA74BLS6VTYKjyW5CBC7jCTMKj8vRjf | 286597.5611     |  58,395      |
-| 7syiiymkY2gYjmV6tQNe1DknLSZm3sfrjgeW7iD2HaSE | 286297.5572     |  58,334      |
-| H83SygZRgxSUJouXFwPTpcC5rurVaUsUEPy2CrqNfhhe | 285338.2228     |  58,138      |
-| 8gcEfUmeaX5t9knVsvHjv5S52eANtm6dBga84ykX6mmj | 285316.6659     |  58,134      |
-| ELX6xanzSVdzUMjsrPWyaanTLTeDWrnuXv5pQckCw8q7 | 284239.1508     |  57,914      |
-| 9fvc1uRpR5EG262HkEcN8xbeD3FFWCWii7SSUiGTwCEd | 283073.0687     |  57,677      |
-| ACiAjakeEt7FBDxGasFyTJ1rPjTvEYmkdioBZXV5aXNX | 277351.1194     |  56,511      |
-| 6AfYhD8GgoZJCpnShTifyX1XX6q1GoE2D7hjYs6td51f | 277224.8986     |  56,485      |
-| E2U1WnGh7sQUsERUs47Nf5Df6v59pMKXJRLeMgEWHp4E | 274035.5829     |  55,835      |
-| HFWNhAaco8Jfjcd8M3VbACuNHfhL3anmE9k347S1MfoX | 271820.3346     |  55,384      |
-| DCxxtyApqDSyWrmAP4L2r7UGVCiEU51epAqjsedXN5W1 | 267531.0827     |  54,510      |
-| 74gzMj4GRRgxBRMDcLpVc66JFP6Ee6mbgjqj6HcmyeGz | 266852.3842     |  54,372      |
-| 9UEuoDuBNV1e3SuEU7oyjDdffsYpBiK5phH6fZT9zTkR | 266056.3158     |  54,210      |
-| G7bHijWYPYshoRWuM8LaNtARNrA1DPRjnXXPsoQC4KeZ | 265561.0615     |  54,109      |
-| 7pXEZPFaJK9oVVEics2ApyTqW7thV5ZFpiZ4yu56tMzB | 263417.6265     |  53,672      |
-| DBDuW11akavg8cj6VaDWfvQYf1rV5RTft16gq92jdBmV | 262045.1912     |  53,392      |
-| 75R5XTcTRgfpimhR2NTFAqfy5fsANcF1daC3ov2HsdeB | 261995.3325     |  53,382      |
-| EgaEsTJpH8huBFyNzJoKuCjqEoGumupvjSsHgYgNkzpJ | 260373.5188     |  53,052      |
-| 7qUoEhdHucZZdMVqsnnzkvMj3zpuycCmTtToUXnGfr4T | 259740          |  52,923      |
-| 94JzmhTa2bjhxyuBiK1K74k3DDZLu9xpXLNR1K7QU6Dt | 259411.5336     |  52,856      |
-| H4inw88w7tDYHEnD9ErvVc3pTbHV9oyqcKrAsq2JMWTd | 258137.3692     |  52,596      |
-| 8ffReKcQSTzP4aLewVNSm9NTfUExTKFKhZixkXB1Tu9S | 257770.3666     |  52,521      |
-| y5xd7sdevoW4Z1gsPLyNcmfxE2Qf3HFNj1rPgvWXNV8  | 256779.0145     |  52,319      |
-| 4r5KULLDN8JcLXyi7ktpJQTnE4CHDNmuq39vzL8sTdJH | 254823.4079     |  51,921      |
-| 4vYKbdvz7nJg51zsPjZ7w7KnF17PnmTszTc1Gy84oY1j | 253925.135      |  51,738      |
-| HfX41teh3ps5o6TsmZoT7kpFbbpRtKHZHjUeV9Pty7Cx | 253068.279      |  51,563      |
-| DAvDLjxod8Y5Yv7aDqTBeg9UMhdwfXPT6K28z1kJ68KA | 251367.651      |  51,217      |
-| J7cajLybrQrf1D3bAueohe3pGy73z1jPH6o7bZDB8c6N | 250556.5362     |  51,051      |
-| 39mYYyFwEmit3TXrCdEzdZ44NNGJ4i1TJbn1TtRvwTn9 | 248949.5272     |  50,724      |
-| GvjQsZbgRT8y9K5uigDCnDhR19vEaf8UAZqnUWAYvM8y | 248897.0307     |  50,713      |
-| 2Kry3Zx1bXSnbn41MmQs5w1m1gKyu431gbyAhdaobLND | 247001.1601     |  50,327      |
-| FVkxJy4EKVtu1DtfTYW8zDDNbkXURG1R6i4gdgLAh1Di | 246575.0608     |  50,240      |
-| GZ7pLvrEMm4HACaqcJHZ5TfdeTRgzBEne3Fh8UaWZ2PB | 244265.8992     |  49,770      |
-| FvfUAaP8izQDMAXFPwDAcuNB7nVZBHJs2Jf8eZfvQ8S8 | 243725.4076     |  49,660      |
-| 4ckMD3LgboATnL313AuqrH4DRWytNEHbJeprPQtwykq4 | 242438.7087     |  49,397      |
-| 4joYPivCM12mwr3YFn8yaT7GWpUZKsyfZtt96TP2wHXx | 241026.9219     |  49,110      |
-| ByXi3qKbptgLV4cgrgNDQE1kqSgfSntf66bnz5zNqNSD | 240969.6793     |  49,098      |
-| BuJg6y1XNjuBXsweSZ7UCgtdcBDJKPq9gGQi9QhCb3RA | 238946.3198     |  48,686      |
-| 3bCAWpao6vfBVT5Md25iguDE19TQoijHSdAfoa7M19gF | 238831.4267     |  48,662      |
-| 8d9ZCE2QLzEWoodCuFMUcZJ3ftvXbBPPg4fxD8oS3wCD | 238380.8649     |  48,571      |
-| J1PcXug49rHt2RyQySLVg2nwGbSU5ELFhAHdLqSDLpn4 | 238342.7247     |  48,563      |
-| 7tzNJaDMfeTMJr75nSdXwYAcuihmem7kQMHbVXegBXrf | 237913.6085     |  48,475      |
-| FgnAHn2HxKX3NVNgyAc1ZyU7L62CnUrdeCxwL4boa5a2 | 237879.7162     |  48,469      |
-| Es9PJuMVM6vrbGqgULsmRYCSwz5aEw8WKVGvoLF5JZ2Q | 237674.1963     |  48,427      |
-| APaAtn4RUSfFcwsEnjHvf9AF6nSxij6n8SwfLHJ8ph5D | 236560.7129     |  48,200      |
-| FLRJFaxkKBtsuN5nQTKqQ7TxSByV1brzabt3Fmbvrz5w | 236190.8184     |  48,124      |
-| 3sDvTFTTee3JyuvwkKoDyGyuX55qZ4mQi1B9Xaa6nnyi | 235437.5457     |  47,971      |
-| CVpKtQR7y44ejc2JKdHY6qhDhbZjCVxhv7T1a3YFhEUE | 235300.9872     |  47,943      |
-| 6Xfr7n48gqmBwaiAKs4Qb9gjCeNG41BEmTaSwn5c9qJu | 235223.1008     |  47,927      |
-| 71zhNqty4rgTAiZD7QaS2LEzxHqiKxWHevYhjPsWKURW | 232311.1333     |  47,334      |
-| 66J4ubrfV3cgTnEPZJJxSM3TXMoEoAo1TgGcvLM356a6 | 231976.0121     |  47,266      |
-| 4CnmUqW95N6nkpKgTeJf6z6SYB3MC3oGFLEHQN4psE4L | 231872.8786     |  47,245      |
-| DumhKKenhwidMnEatswoRJ7REh9Qd5EUwFGXgoZcYPRL | 230622.3159     |  46,990      |
-| 38wCzSoYicEyfTZBACikwxSn6iuMCuBen8HpiPHZQZc7 | 229999.674      |  46,863      |
-| DNgv6RjHT3DLj2TrLKgrtaAU7VWU4DpKPMECH3cS6L17 | 229076.2246     |  46,675      |
-| 4DDKEAZvmVs3NNoqZmcS2SnXa5y5yF4hjRDtLzEZCZy7 | 228836.5926     |  46,626      |
-| HvKB367YF5WsBQgHVVocuEBZBw4v3WacQiTRxCuBprED | 228677.1715     |  46,593      |
-| CUp9VRwn76BMbkjjX5DAs2GeeyUquCyoHiqoS24DTgku | 228000.7211     |  46,456      |
-| 2GRrLBSCaf6qZCgL7iCmc57LD1vAteW6nbbz4iHDu9Ts | 225114.5369     |  45,868      |
-| 6LiabuWd1KKBXDRKodpQSr6fEMiFtsT1unBK27EebJXe | 223401.3772     |  45,519      |
-| FmBahv3KkEBwsYv3AJsYgbYpS5coK33dV1BiqrP1Ldiq | 222649.74       |  45,365      |
-| 2TUTtrXbynV7kNHthFysj4bsD7BX7JCRHFeYKkuYsp27 | 221217.4242     |  45,074      |
-| GffgCTqYh9VyVoUp3LdMt4ZQDccznxuXSCYATR7hbn5M | 220873.3314     |  45,003      |
-| 6PMro7SfQ5ryezYnHLkizb2yi4hkwqMR7Y9Uu2iEq5PG | 220849.4981     |  44,999      |
-| 6Jm4faF2ySd3jTrum824GhcAEDTjakZSSpmvgqKZJa6r | 220000          |  44,825      |
-| BhBiPe6AyHhhhnS2jzqDbYo2JgD9iCtkymuWNqJPsYfz | 217792.4739     |  44,376      |
-| 9TF4LN2qTfiuJimmLoPh6M8Vz6JPkZVsJet2xQg9QjbP | 217237.1997     |  44,263      |
-| 6tamsoLxrNU2jUcJxtmB9mu9GLfhpDjKuVQK3js4vjJ8 | 214770.4043     |  43,760      |
-| AU3rig278eyCKP1eFki5Tkr1HQAuDUmPCkBmsqZPR4xr | 214469.292      |  43,699      |
-| HwSwHwQH6i7iUbVh3VzgHASnxyHdc5YM4zgE4aiK2APx | 214014.2585     |  43,606      |
-| 2Jz6dNEF6owhtC2Zp2w2mk8Sp5DLASVBJvgu63c45cH6 | 213961.643      |  43,595      |
-| 4Pocb7Mo7Pveujpv2fT2MWPN4M8ubZdrkuKsuxM9tkh2 | 213539.3631     |  43,509      |
-| FrtzTnfLQx9vbPbMUBLpZsscMMrKNPxnqBPPvrcxAbkD | 213265.2162     |  43,453      |
-| BkrCT5jh5jeiCtDSEsrDmz4WLHb9mVXXcd7vPDN1DPSN | 213126.0724     |  43,425      |
-| BRmeU5U4gxPSNiDucg5QQqmb3aQ7K8agQcFLT9y8zbev | 212685.4753     |  43,335      |
-| 8spTDvPuZABAvhLMogEZ679QZfibdXQkwjKMFtjwEqbC | 211110          |  43,014      |
-| 5YnesYhkHmHkdfwSiU7LLhZ1cPDvk1MQiwKZDutjcsVA | 209790.6915     |  42,745      |
-| 4CExpyzHtbeXuMpVMs4iCFknS9xBZvDjt1nYJZWaqP4h | 209214.4078     |  42,628      |
-| CBLLZ2fRE5jYrPSoNBer9Wp5o3QgwrkWVHgNV8Eh2qKr | 207044.5347     |  42,186      |
-| tMmWme52U6swVVKVdTAwWHvEr6qLjXC1nbWcFHGQBwG  | 205829.6266     |  41,938      |
-| EPgsXVTddQ3ThyKWyv1frp3RmH1LBZFjurpdtTyC952o | 205614.4571     |  41,894      |
-| 5PCyDBAvsqqkkSbmHvFZU7NzJ7gKsD5FA9YeQpcywDUQ | 204495.2849     |  41,666      |
-| ErTQf26e7iKvibuEJupKrrGbZ6CYbJBs3XNron6NA9Ey | 201980.0113     |  41,154      |
-| EnefntnvF6MC3Qe9cDfqA7Qoraxd6rrFrpYMX1aCGHqd | 201950.9232     |  41,148      |
-| 7mj7G5a4fxn3KFT6XSyPBzeNB5vfsCg4b15Rc6Z226UC | 201199.965      |  40,995      |
-| 9ULSXXXfwmC8DKt5jNUNEWNCWPHHoFcRJmrneSZ1fx9U | 200912.4528     |  40,936      |
-| AF4Drv2dmJ232HNzP9yoAQgvbuQFVL8qu3w3To8Bgkz6 | 200598.3721     |  40,872      |
-| HvNPTjAZkFugru7MY8n5c8GpGVKbi5kX275vTj6sVdHT | 200326.5748     |  40,817      |
-| G2we34xLxitEfsrF6Lifye53pvt3BPuWee6aUA3VYtGN | 200313.9147     |  40,814      |
-| 6C3evW4zoDQqiontySrV994gitFvFyjLMq1Kpt5DV9vL | 200000.021      |  40,750      |
-| 8dwEbDxhvtKj42rsSMRcBqR6Kjin6DHqL8yaMv6Y6Yzy | 200000.0054     |  40,750      |
-| DASLrRUzMFz3i3sxvXHMCzD2Doj2f38ieuCzqU4p9Lyz | 200000          |  40,750      |
-| Gy5rEFu8S87E3sKFKzuYTZhEmUbtfwCCCZq5a7KPdsSZ | 200000          |  40,750      |
-| 8CrkvA9fNj4qYFR6MN3bVSg4rqfYSc74Zu9AEBb2QMT1 | 200000          |  40,750      |
-| HHmdwBFfgd1g8nfvwKdSuwuKDj2qFsNuYGfheCGpEW5R | 200000          |  40,750      |
-| 617akVFTF53SFtSo5szjFdtABkyazvzFwsT4KzBRiQzY | 200000          |  40,750      |
-| 7UvdZT4jwNPPxYtRbtGUUSjoCH5aAiX1pGk2rN3rA3ni | 200000          |  40,750      |
-| 5Jep7ZZzRYqfB3fvaFuKk2idzNysiVhwJk9tfEVc1TKQ | 200000          |  40,750      |
-| Dh8VPAaMHmjUyEqeAKLa4BUz3FPSj78zPLSQ1qD7xtp1 | 200000          |  40,750      |
-| 7sXjaVE47yzE22DS8B3jQtgeNLUvj5TfwvxYUeLpGSji | 199383.124      |  40,625      |
-| 4FrGxMC39nikkoU755jQDKUgAdwXcen54ZpUUCQp9So5 | 198667.9317     |  40,479      |
-| 2kWmCPeXJ15xeRGKpEbgFMXafewY6PLp4fQb4rPcRL4t | 197933.9778     |  40,329      |
-| 6hAGyykdtPActQMn7f3mVAucMadLFxE3JdaepnM9kroE | 197808.7215     |  40,304      |
-| Hy9h8rge8TioBqArGWyoKi4znSMHbhZY1DH6Yf6gosBn | 197580.3421     |  40,257      |
-| 3mrfD1QXDEUo1JkyebUkSGqKx6xbRTmKAyXB3aAwXdSs | 196604.2658     |  40,058      |
-| 2kvXJXaekbJ5Nc73x2dpz6gJsofKRWSecYG3KK9voivS | 195806.4037     |  39,896      |
-| 2oonATV8dXAjWKE3DmvuR3oiTdnpBm7cNR6uCnt6zmd2 | 193021.5612     |  39,328      |
-| ADUEPuq3mErA4az8ZN1ebFxNFG3Yztpgd9JBbZLoXXSV | 192449.6837     |  39,212      |
-| DXAb5Swv5vqxPCz9yLCPZPgKJi8V1xavVKAQupVkxwnM | 191005.9973     |  38,918      |
-| AhDaBYAfRi6p2MirffgTbDvazFURmkPEiy9ojcfTyYyG | 189906.322      |  38,694      |
-| 2oNEhynpfEnYDy8TUmdGUmvVP2bsMGD9uV9GfZVqexhM | 188881          |  38,485      |
-| BAnJQStqkDJ9XnQxuicAGCtmvdvYLoMHcdLPm9FLRgB2 | 188832.4935     |  38,475      |
-| CyUUZvQ5S2yRhn5HxycLUAgjqEfwoATyKr6DmuanPpCD | 188809.9548     |  38,470      |
-| 4hw4B6bbcMXTaYWd6ZYY1PiytrwGqL4Cm5as9AEqWaFp | 188156.8381     |  38,337      |
-| 9uw4bLJvqrXa69P1C2Pyj5mJ3ZNxAe5ZhJg3u8MzBAFq | 187345.0179     |  38,172      |
-| 8aN79JXYdgNPdV4wuZhx2rhYbx4f64r37L5u1Vp2GMbK | 187103.3528     |  38,123      |
-| 8BwY79AosToPGFZnejfJGgMPsVADcTvTZJ6zRJPmcbqF | 187103.1995     |  38,123      |
-| 6rxVUgGpKCL6YXBUeL9QzygfGEEzHtPFmoR2Wk5FZMv8 | 187102.2187     |  38,122      |
-| EhiC9zcYwYM565uM8XrtpUMUuBxzkxcaXxkyBiDSSYDc | 186615.5506     |  38,023      |
-| ATQyKtAMYjSqNVZ2BX5xd2pqv1AW7cxQYyBbBs9bPh6A | 185074.6748     |  37,709      |
-| ULZ6PtwBzNqjzym4pFhk7w9JEwCRvUkAGRMTv7R1VgQ  | 185036.5818     |  37,702      |
-| yNr5rbydTartpCuS2cekEn4NwzMb3Jo7tkAsUUMTzzy  | 184174.1507     |  37,526      |
-| CxTVDg1QxxDn7S7VJwEj4xwNo4yFAEHxuPpuhdugaVtb | 183861.7572     |  37,462      |
-| CYCYfm7B2Baz6bEeHj3YBMmemtH9feMWFDgBbVAdMhqu | 180650.4077     |  36,808      |
-| Wvh9CVFJBCiYi59RZV24LoyR5oQMQ45dwDA4kxiFpVj  | 180333.8093     |  36,743      |
-| 2zFXvCLqDRFmQQej8HSNdkGmuFFHAVbkNmcD3SLhicDf | 179522.1606     |  36,578      |
-| C275HqEzpa2SVvhjwExftrP8h7nwbLm3NN7eQNPSrx6f | 178767.2634     |  36,424      |
-| DZbgVmaTEMJsTSjeR4Fmt2mRmqUGxQw9matUZBzH8x7G | 178767.2634     |  36,424      |
-| DcQHcfJzJ2Sg27haPB3uDyLeLmXYQdXFgXTS4dPFpWb2 | 178767.2634     |  36,424      |
-| 7ZjFBakwH6juPyTH7jehHpWDnvJgomFmuyG4qRzif2U  | 178767.2634     |  36,424      |
-| 5mSp2667cXhvMR4o3X4psSAeeSxDdr9GxcPqUfXCZQtz | 178767.2634     |  36,424      |
-| HXPrBCKy2DuD4ijmG6PKNQJWqvESkzJch3f4q3zEM2KF | 178767.2634     |  36,424      |
-| 129uunj1jXuWBRTf73dL2XDeBnMb69obTTwVpv2kb5ex | 178767.2634     |  36,424      |
-| 7JnLfKpWpdECgqESXNgWLYH7YNZzLR5hVkPirvf7YoXF | 177263.6883     |  36,118      |
-| 4EqMvuvzGys55npAXJoj4uFJqCcJe6CPZzVdprfH4EYK | 177119.8241     |  36,088      |
-| 2e3MAr4mcHCYkwxm8eFDfgzwiGVe3oSC9FwgjmgjPp15 | 176352.4235     |  35,932      |
-| J2TXE4XjeKD3G2euuPGHWQQi2WSynLRFSbrjZYvMH9Dh | 175808.5169     |  35,821      |
-| EXsvJFJAKxGP6ffL7fWCoqEpQyus77HcxVJk6AQBzNk9 | 175725.9493     |  35,804      |
-| BEJ3W5tRErtt47csExYjct7Lyj3JrsAMBsCxjzzzAgto | 175512.8794     |  35,761      |
-| 9TKQg8AhhDMWxhNB7c4sWHwr5WS5z6Qe48dfiDBzfYJD | 175163.3936     |  35,690      |
-| 4m9Vorg37bBufF4EigqmgWomK2D4KeJySKhng1B3DEkJ | 175083.4594     |  35,674      |
-| 2pVnqkeTJrymvrqA9bu32mwYTgd9h97PfYUF8zXuQbA2 | 174753.9541     |  35,606      |
-| 2buMHPovUhYUtX6m1zFe5zrvE97az8PuPT7mB6hirB8i | 174162.0534     |  35,486      |
-| FSCR3dkXJM95Arw59pGLd6KSnzG3YF7CqaMjsQHTryUv | 173261.7726     |  35,302      |
-| DMJjpNtpQLPRi5He4F8ndnU2DH7KX4eNBcEEQh98wk6c | 172592.6488     |  35,166      |
-| 8BMfzGQKtLWydxp3W9diGSggahhWgHnCY3ppAFChX8zB | 171920.6922     |  35,029      |
-| HvBLYBG74ZxxAkMLPmfbVxZRa48GA7J3wqbQVHErxNeG | 171829.3807     |  35,010      |
-| FZYTHUcNnqbaMkkanZ7mCfNUa5uddwiXGBzgzvfgHBBU | 171332.1013     |  34,909      |
-| 3FpzfsKPbCkgn611fZWT99v2Wpx7zbo8D42AoCcQFKyj | 170679.4732     |  34,776      |
-| 9CATYnVQAVbQsSQtvjk97oDnU7nuE5RaNJaxG9ePkseJ | 170087.5288     |  34,656      |
-| BWA3SyndLD7t3vhh4cCaYRvPQ9aXiXZH7yC4NWraQuyp | 168155.0755     |  34,262      |
-| BKai7vYJUXG4AoHmUxVNoVqgxxg1FMGRxe7HEA3UrnFt | 167927.1706     |  34,215      |
-| CanAaEGVgEvan2StxyNsgo9oRsaidc9R8mN95oXkYVas | 167592.4031     |  34,147      |
-| FrQXNdwyAJnsgBLaxr1c2JuThJaKRjGXBgBzQPywB514 | 166764.9268     |  33,979      |
-| 7MykQahutpvFDhzqkcJtVZmiuWFGi1z4PAaUawxfz7p  | 166094.1149     |  33,842      |
-| 5vuSRQAQUvmWy42iWnTmpxMTh6s14Fskncsw9YjxYasG | 165976.4039     |  33,818      |
-| DCENJSStLP2NkW4TqWusPDkoE5zfTt7hJLt821ByGFuR | 163883.2398     |  33,391      |
-| AsCyndkbMA68sSovvkftTJ95h8hcFUyNAJJGU2aLJ1GE | 163720.4044     |  33,358      |
-| G7S3zNsbEf3bZUeeugfz4Z7iLadG6XpfUg5amTZeEH7K | 162860.2433     |  33,183      |
-| DzrQoX6RUqhjd6dZdRKvaVPqYu75jgmw9WtRV6WfDrHC | 161660.5428     |  32,939      |
-| AtyfsUPJcdfjGZqzxGWXredSXS5LEqqDm7ap5njFEDMv | 161101.0933     |  32,825      |
-| 65eYrRA8K2D3wDeXiiSPyyZx85c7Jf3627FkpkH6S9pq | 160548.5961     |  32,712      |
-| 38UZ2fLtRrxbJGagdsmzCXHWWJ69qzL6okonvjcHYjqb | 160140.6786     |  32,629      |
-| 9hoyQ1bsjJjVb3JxBe6wqHdmkUVa1FNEyzprjinb9j9Y | 159485.0463     |  32,495      |
-| 4C5K3bnxtwNBJHW1xvbwzxAbudCQtFJprq9c6c3KHxC6 | 159079.6804     |  32,413      |
-| JEJV2yUHTeUrkSK7X4RYD3MNZ87hDnSJ2W7y7EqushMR | 156272.6802     |  31,841      |
-| F1fEMnMSh9V3aLHD7ErMiF55YeDzX8rmw9F7Pkqiu2Pm | 156269.2994     |  31,840      |
-| 5QujT6oWXbfccuhGXWsTwASvPGcw7PrLFC6YA3yTWEiB | 155880.6498     |  31,761      |
-| 6h9dK5RvmQoSLqiX2EdQnvBtYpEkSpZSpte28M8LtTYZ | 155551          |  31,694      |
-| FH9Vk24gFLGVdwaXkdLvZMAseivxMmXnvibfjzBUwptq | 154758.2676     |  31,532      |
-| 2Jid8YK5KML1VGPxtoNxCPxVMLyX2S6buT15ZjLBXt7H | 153689.8118     |  31,314      |
-| CR2ZmrFFGPW1ctTsmyhq4g9msK46BMNrTLUYAcCM8yJY | 153081.8415     |  31,191      |
-| 2P3Cs919dbEVbVUUaHf6bG9ExqJYn9imj13YKiMKjpsU | 153081.8415     |  31,191      |
-| 2hRatVheFkFwyA1Qabig5Ud4QdVtVoYTVV5ZDnhPe45e | 153057.0723     |  31,186      |
-| BK8g2z6vd3YEnfkiN483chgLa37P5Keo6UxdBddUm2oJ | 152930.6923     |  31,160      |
-| EcRUagpH3JNaP3BLxgxC4g3GBqFevGMGWMfRbHeoVwS6 | 152645.0072     |  31,102      |
-| 87fwTeYEVhXeNv6TwAQ2w1rN2fmeLFpQeB76Nf5X73hv | 151906.1971     |  30,951      |
-| F92Vk8s6PjQJppcxQqw7VVegznSaknNMyfK42UbHkLKg | 151898.9235     |  30,950      |
-| DhXezS5iFoTQ4NWg96axmUD2yij1PPZwyNjKXQcr9f26 | 151312.6367     |  30,830      |
-| 9NucEvYS64WtdGRWgstaXsbGFpggQB1jYoXBnMCyjE8t | 150764.2888     |  30,718      |
-| BzT2xgD3VhK5WmuBDgvWbvn5JZY5xBwprrGv3Wk6DnEU | 150648.8847     |  30,695      |
-| 224b6pMbVNuzZxk7gYbQTqeQoqByUuRK6c7xC6Sb9gpo | 150192.936      |  30,602      |
-| GPQ93wjdp9VWkHDmSQhPMaaHY6ES19CQJZL7i6swH6H9 | 150000.9149     |  30,563      |
-| 4qeDmKoDDNNcXvQae58zaeatJj9YtCjTujK9S7nCruaR | 150000.747      |  30,563      |
-| 3TumZEhGSAtE47xLTpffYP5fixx6Nv2eUNTc8eKVcp3Z | 149752.5113     |  30,512      |
-| GyYpHanCv7BomuaX2fKEmzQ6yJ2Py9CTTiRSZQdVQFCQ | 148010.5788     |  30,157      |
-| HSfPQH9rc3SXfoDLRgaCpS4Mekh3b7vw7PtzaNHB1tHH | 147584.512      |  30,070      |
-| 6B3w5sE1aspNcV5xt4ae976xExraDphVytrpb6a9ova3 | 147134          |  29,979      |
-| HBBt9xXEyDYhYCDDArZ9zHiqf3t4XhpTL6YYpi1utAYr | 147011.5237     |  29,954      |
-| citCXcCC6bYy4f7MrwBGcyKcgoTMUGHcxJnssCNXYeW  | 146975.9079     |  29,946      |
-| 5RWtMsTUHj76WP195qj9AeZKtNd7c3kKfbkFywfHrLay | 146269.6097     |  29,803      |
-| EGXmp2ZQDMn6Da7EutiL6RMUW3XDpaJiuxskCuQmWoAu | 146140.1476     |  29,776      |
-| 3ffzjtngFGJv8JzJgFMVPfuWndmYRR2sDRe9VdTDbZMF | 145906.3572     |  29,729      |
-| C5HSBnVKtiKAYzyPxpRU4aaDfvJeLdYYC8Jf2tChEJhH | 145766.3028     |  29,700      |
-| 9E8Npd7yD3jm7X6XjvrAB4mwaGmEatgJLBTsg9y4cGdt | 145671.1661     |  29,681      |
-| FyXZEpx4T9r5HRsBr86AiGUAA7aJWC1KYRcfwetUz1UB | 145435.808      |  29,633      |
-| EskADYQ2q9deMwW9mnky8ACrV8sPi7N6kHKjWxD8jMVu | 145325.8579     |  29,610      |
-| AW7NioqaCZd5BuLj315wYjQQi7oM2PJvVSLpCw82Koy3 | 145006.1811     |  29,545      |
-| HEQbdKt7Lcs6fYUPp4EkFA5WEJQPDL9aHVexnBTzox7X | 144708.6104     |  29,485      |
-| 4wPFVCyG32xQGDLGs1c3ctQ9u3LTzqaBLcVtfcWH7bcB | 144443.5207     |  29,430      |
-| 8dS6NHdujpTMkUeiUHaQMnNdYzqQakUWgcVTtDGWHqEd | 142447.7492     |  29,024      |
-| AhQA2VrHAvVLmb23nETkL3VYDKEc17Xrek4mEEXMrZ9C | 138450.8195     |  28,209      |
-| 7sszJeMTy28hEb4TPamWa8BEW5oYRDVEzH3EL7WTMajN | 138020.5368     |  28,122      |
-| R5PtnYKnn5eu8oTSHjSzuFk8UW57tMLV2PvMJ4gUudS  | 137403.9642     |  27,996      |
-| GhwuSsAMkeV97oeDWmiwexfUFD97KjSdq4PHPnkyLmQ1 | 135818.4462     |  27,673      |
-| 9k868G223qHwpp6JhtMegs2tg2fazjgnA9Lf4R4g5G9R | 135492.7622     |  27,607      |
-| 84nisuq274wNFKJBHTtPXjtmfFAAy9MrsqvNc66YhUMK | 135190.7106     |  27,545      |
-| EPc4rFX3xwJRxjvKAJjJCxV71Tmk8ATcoyEZp4hnqrEB | 134775.2234     |  27,461      |
-| 7yA1Yjb3MrH2bVcYtW73vc11cToaqvjiAP2csvaiAfgP | 134735.0344     |  27,452      |
-| 3QwjJvqnFVkWmJtGVxJcoyBkTU8giVAympj9tRhvJoG5 | 133989.2596     |  27,300      |
-| 68EhqWavn7DJeZdFqQNwTBooggAUjSqTmKLzQSQWMN7o | 133718.568      |  27,245      |
-| 4PhyzipapZvBHKzsNpwPUtWbAAKVxQWAzuqLBEAy3TMo | 133586.7397     |  27,218      |
-| A7MDXSSWKUK7vMi7wiZtPkBq3n7EGzaqS1wfbP8gFsgJ | 133174.5709     |  27,134      |
-| Cm2FKxhhmvtV8vor8qyudcfDzZ24XSpeNXYd9NzcEFyx | 132969.4205     |  27,093      |
-| FQfry3xTMEZHsf9LQAJdym4eA7RNRgffvjr13gka5C4S | 132818.4178     |  27,062      |
-| FjT8MxAYv8gUvQ8TQME6zvceE3n4KncrgX55VitJiT4B | 132307.8114     |  26,958      |
-| CMH2FEeEneBvzfHDGj1xpSdYRkmPgxxQjcVLmew6mAmu | 132263.6346     |  26,949      |
-| 6Ck7nG34U6GTbApPHhryzNAWVmkns7CrweY27xcipwjT | 131215.5761     |  26,735      |
-| FvgX9ZjsDCx97U9ZF3AFCCtH2xCiyaWxwkDYnpbuCDZ5 | 130606.3692     |  26,611      |
-| 4wsGiB1etyaJhSoPCshG9stqCxZp2jmTgMhmZ2Nw1BKo | 130569.9211     |  26,604      |
-| 3yvs1b5AGrciHUJFea9toLeCGBMKZ4z1WGyeNuVdg1t9 | 130373.7109     |  26,564      |
-| HjpkqREwtM2Usc47frritZ8456zUNkP5dnDJovnUdLmF | 129045.8618     |  26,293      |
-| mnEpgJvrpbt7eq8aBVzAs27zuqpUcVePxHFST6BAogU  | 128954.5359     |  26,275      |
-| DtnfQn2baYiektwWc5TbauT1rRKB1E9EEEyV9jhQhdS  | 128857.7809     |  26,255      |
-| G3gnyx3a91Q6Bao29qrxfzD2oMikzu6YiDWCsSdjMv9  | 128689.1537     |  26,220      |
-| 6KwU85VFgCATkW7oPfRYFJPJa7ngttG9R4WWgYbKVgSy | 128512.484      |  26,184      |
-| BJrgPGcretFJp7n34W6MsuioLVuZAkfza5fwNY9nVYWB | 128254.5438     |  26,132      |
-| 63jVkEPLzdtKcg1eib7JoGV3q7k3ByuUukAAkwzQ83ee | 128000.5508     |  26,080      |
-| 7wh9VPjbgDgVGW2hzNd5ceyQ9XciYxJX1MpsK24PUxYy | 127617.5125     |  26,002      |
-| FjkrDpQkQp9qPpFJbyVAaWABvtXiqUXK6chWq5Ng7C8f | 126775.8511     |  25,831      |
-| Gmzpgv6XedMZMvJ5wpQwtW45ZsUQQsi5TFv7TF9eP4CX | 126379.5115     |  25,750      |
-| uTs82JFdKpL4WLmkEVdsK2uQvLXUmh5NJmuSijFYiuZ  | 125886.7983     |  25,649      |
-| CyS7gWvSPU2FnTXjXkcocHT4ebcd9FyHxx7h7EB2Y6gS | 125702.4045     |  25,612      |
-| DzkpCJ6sfnR7tE7LXQFgMwXHf3fqRJsbmr3rSdrsMYRx | 124316.3789     |  25,330      |
-| C2WgK8ipgDcZRLqhTARMXGcKnfLBzASKXiqMrax4K6UK | 124165.0646     |  25,299      |
-| HwT8wPQP6VsskDGADEXxyY62iPFEM4BKT2vR55AWFLjr | 123911.3431     |  25,247      |
-| 9Shzcv8pTMqQdbgXBKD1QAUyBNSEi3UVeSFHkw732YA8 | 123834.967      |  25,231      |
-| AdJ8vo7jPUFy1VTGUA5PEFqcxawXwvd18iyfMjNktzuD | 123444.104      |  25,152      |
-| 5mZvhUZh8gUrt7bF2Kr8QRnKPfPTp7p1jL2Kfc8tWFWa | 123340.1713     |  25,131      |
-| DJsGHNpfth9D1u3xDB5KHB8HHardtjLwQGSWLxxKXGq9 | 122151.44       |  24,888      |
-| 7kmjDneyHdQkwFTPevVDYSqpNg3Nwz2Lu4zrtg19PSVn | 121592.0463     |  24,774      |
-| C8tM7AGpd84ahSNSqsqg2SMBUhGx8xLvJqUM9JcKLRpe | 121334.3228     |  24,722      |
-| Fr7VDesKr1zw2ZycheSpMZdnmnwothrt1xQcxKiyTWv7 | 121322.537      |  24,719      |
-| 4rfcey66ykywxC6RTETrLFcCfV6RezQbdUeYfGMMRkrA | 121255.0403     |  24,706      |
-| MZ4iJGtz3XunUGBC1FesbTjuLizaS9Skuza6213au5t  | 121169.6583     |  24,688      |
-| C7H9bmqFKTFC6wwVDHxVBLVJNbwzQEa8x7BcYF8At5oa | 120585.4408     |  24,569      |
-| A4MEBgGV5SFfCGpiHfPtWw8sP5ifQuracQHGuRJdpEda | 120103.4797     |  24,471      |
-| 814MFYHcTqSeNKx2kmtzcekVXefLEFRkcLsKXEM8MmYJ | 119684.8555     |  24,386      |
-| GVQZC6PDZfKP8vhegWwUwwKdwX9FnP4XcHMjA1BreK3L | 119169.1686     |  24,281      |
-| FUBf99zrB3Fr33q3D3PybwLRkeqDiDgrEv8GQqnyVPei | 118144.966      |  24,072      |
-| 4qSSFw4wVwoTnE5htbVA76uX1W57f5FCpkYoAKyERA31 | 118033.9994     |  24,049      |
-| Dijny4wF137haNgrDmttEX687dLfRnUWw2mirnGymj2p | 117932.1926     |  24,029      |
-| DjzW8k4VkhbBpBsuZb52dZXC6PjSJdjzQNtLZR7yWorv | 117568.2549     |  23,955      |
-| GAS12ZMgRgwVBUqAa1SkCVpDTTMmeGGEiNekwtJ887Lr | 117395.3461     |  23,919      |
-| 65nBZUKyPKGXfh3J1ZxoPUWdgbocS4eFXWTTDUokJ3yB | 117203.706      |  23,880      |
-| HFgSUYUC1Sa8ULfjYJsDZgN6eQUZgMEWLP5ooNy3DsTd | 116126.0712     |  23,661      |
-| 5zAQWW6UZvu8gmVyh9W6qrkbngnAn2Fyb7QjwA5oVRYa | 115866.627      |  23,608      |
-| vfcskQHDgvmji9AXYtNHbLL6GL9KiMaAdvYEJoiySmG  | 115661.6893     |  23,566      |
-| 2XCTLde86QNYW6jTEcgZZZ3cHztUAfooog46gatrJnNv | 112901.9421     |  23,004      |
-| H6qAJn3NZezQdKjv5kq521mUjsbMiSqeGaZ7VQGRU8wp | 112762.8163     |  22,975      |
-| 3NZrNz9dWwpD4iUZN7PjkaX7gkvo8xGijs9TQUE6toWt | 112445.4981     |  22,911      |
-| 9VKuJe9gKSQFV7MMgaQKDmsQrTem9vX9KEwSy7MzFZDq | 112126.4228     |  22,846      |
-| 6YL9NEq9zBMmTkmRNpXpufvHT7nfwv8jLfE3YJAu9h84 | 112009.7683     |  22,822      |
-| 5UsWDgXT2TGzYToQA1qBiQDiw2V8S3svnz1nDhMr8vbX | 111155          |  22,648      |
-| Bkbf8UPDUWjBBbKYpWh9ned5jYDAhuf4HW3oGFouA7iW | 111142.8868     |  22,645      |
-| 4FtevxDwabX3Rzs6cCo716QWyr4cfro2Pe9sd8ted4wr | 110929.5278     |  22,602      |
-| 3EY6HEHLcyquEahWpwFzpzWJAHyadYTPEnNMb96wmSUm | 110450.7177     |  22,504      |
-| 96jbU9fuC2kvSphR9bDrwvJtS5rfp7Thpb1yd4xndNrG | 110201.0983     |  22,453      |
-| Q6rHsRhB58zsYfpeLMXsdVp8rHMBVzqYJCFoS4mWV46  | 110142.2266     |  22,441      |
-| C593m415qcG4eaghAjdBt7t7oQDDcJLvdaxZVQaK12jk | 110000.304      |  22,413      |
-| BKMQ3QPPfV1LWCePWKxN5DcsGSjqNkUr4y6Cp3NCRxEw | 110000          |  22,412      |
-| 2Uiio5Lj7UUGTmC42pXFEEU7QLQZNry2kq9evciXKUrP | 109989.454      |  22,410      |
-| DpEN3TACjqYAXtcdDSpy2HQCWeRppDs1AMNTTrNrTimb | 109974.853      |  22,407      |
-| 3HMMY68LnGSDs5MUVJVnNQDF1VoHt9qJpEDPaTiXNk3N | 109968.2531     |  22,406      |
-| 97vtw41YoVYQwMfSudPrJgw7e9ra4FsX87PZGiBfMg8d | 109907.2088     |  22,394      |
-| 4SN5bmxL7fKEfnUUeyhdnmK7ccC7UkFVDtiWRtLcyk4L | 109660.8953     |  22,343      |
-| Bbnqix5brhENBBQvxuoTKhrvGNRHueNmvPRBmTPHUzbK | 109071.8701     |  22,223      |
-| 8RpY4w55xiNRK2cTBjtXEg2bhR9HiJfFR6iUGn7nHxoV | 108293.7716     |  22,065      |
-| ABGXSpqWM5QBqwfbDDMaX4QQ5fHUvPWq9feKvXkUAaM6 | 108284.7371     |  22,063      |
-| B7MHYUae1iJwcfzQXHasKV6uU7coNaPc2wT4VYUDvytW | 107439.8347     |  21,891      |
-| HoxGwkDnK9FKPebCZJZURMhU9bBNb719wwyBCtxKRmYt | 107260.2716     |  21,854      |
-| vthxxPCu2za2QcFXt1pPou3dcz59ymeXjwRK89spKXb  | 107085.8884     |  21,819      |
-| FtTDnuJvd1kiiV3GWGrV7sDWVmdkeCNYfaex5wWn1M9b | 106011.2845     |  21,600      |
-| ERRnxczBu1bQnDaCgLYJwxafsYASVhTKAMgdAqQVfamD | 105808.098      |  21,558      |
-| 83rqMS27iKKtaju1BEbBD1q54FfmEXQ5F14foEeM1NnS | 104936.6949     |  21,381      |
-| 7xDVg2gVD6q3uqxFuAEhmLXv6edMzSv9Ef8n1w1Mzody | 104399.6131     |  21,271      |
-| 7cEm7gdSUk79vFVZuNv2Uxp8Mu8T4vL6Ai3ThhD9t8cY | 103906.9066     |  21,171      |
-| E7Nt6zVURLtwE7rNndMjL4TUJXxH9DQqSDP7K5s2AKaF | 103784.7201     |  21,146      |
-| HvFjttv5gMd43BUk5ZxBQ5Hmpho5tiMEGGtQXHSaQb5E | 103155.3896     |  21,018      |
-| D2gsYo1KSXSLw8vhSCHXgCxvqS9hAPnwm75EJFeqQQAJ | 103064.1801     |  20,999      |
-| 3SreE5M4iPghVNhuk41G6rD5iLZ2Yc5XvCvKGEbc37gR | 103001.8212     |  20,987      |
-| 3rCpVZRkFg5cv8NyyFr2cTsmJhevKRb6xDFq75LF2brH | 102900.4455     |  20,966      |
-| FMXFpdi4XSeVsp2R4Q1T3UtctLSceDutmU58kcegPbvP | 102841.2336     |  20,954      |
-| 4eR8j531BLNazokjNSGpQ7HLknUAboREvE4CQbkDytnp | 102767.4951     |  20,939      |
-| FzKb1FKA32spjaLR8yjjYys1LxtarkVi66W9eYYzAXhX | 102318.5764     |  20,847      |
-| 9rNaKeC4jrm298mie2mC85vfWJWPmegi5QkAvwRpNiAs | 102077.7806     |  20,798      |
-| EweWLKPvkqbewXut1VjMSsdMSFKBDfeektTMpawWT88A | 101246.0139     |  20,629      |
-| FCzgP9GEs4GvCfcV8RPeaQTo58jqD4fLbu5RHtT5HRW7 | 101057.5534     |  20,590      |
-| FH6SDVYyqChjdNXhbcyqT8Ja2RN2hXbH9X1snkczwahR | 100857.6534     |  20,550      |
-| 2eB5v7ZKPoPQq9KFHqUgwE2Bgfs7GDE5Ch7k9PbegRGX | 100857.1117     |  20,550      |
-| 3DRoTcdxtbZ7FjfV4dBeKPpwSNfHvRdwUurBtFDqZbfb | 100392.0544     |  20,455      |
-| EKrsG1nZ1qsMDS2UHQpKLatpM1o7hjZwUGxjorZaZYo  | 100132.8243     |  20,402      |
-| 13MwUf9oxTaet3Sm9bUsH4iJNVHAomrmn972621p7zxa | 100045.3882     |  20,384      |
-| 5mFxpQX2gBVNNaRmyDLjXsoP4EEiq2FebuVgAXSpQKSX | 100000          |  20,375      |
-| 7xudinFqXEvfQUwC193wwyz1pkSoba8o5u9K8gG3u5Tm | 100000          |  20,375      |
-| CoDYpUXmnFQac6uYdMHnZH4PhPHxQBDpWYXpWP8qJjpg | 100000          |  20,375      |
-| 2nv6SYaDXVmtxWxbPVTEGp9W2HaQE1uEqHV9M5wmvCec | 100000          |  20,375      |
-| 7wbyyBaCwmXAsHmyy33TFTX3cb4H9vuThPqmfyzoAspA | 100000          |  20,375      |
-| 6QHXqbEHThH3mJmKz8s687Hg7xFRmbgfGPh2eBw7D2C1 | 100000          |  20,375      |
-| HazJgWY5pxZwnL6E31NLwW8YAyz6wH2KG4EriVMKcVvV | 100000          |  20,375      |
-| DYnV32Z6H3XSa5H5TfKxQc9cd5u39VT1sqs7i8ppS5Kp | 100000          |  20,375      |
-| Hbd7nuZE4H9Emc1upJSkaXUAYKKZk9MarQchySJRqux1 | 100000          |  20,375      |
-| 8sQkZRo5EE2ixRPZaiwSWnkhuA6dMCZCSUHBoR5ASXT1 | 99398.88426     |  20,252      |
-| 9cSgd3GFXyhHjWkzeaq8XL6MTX1nyEXEJNJgXg5ZjXgk | 99156.89438     |  20,203      |
-| 7EpAuUKefqEgSXkETBaF2hJGeGQjtuVmW9jXe1FY2KQz | 98957.76659     |  20,163      |
-| J3B7tfGMYff8iXv8dXGJsRXqiVCoPHaDUoiXc1QR17Zd | 98464.75993     |  20,062      |
-| AK7hZcZaM8oW69mHcXU96emrG6LnWhBtSHYEni6SPC9U | 98457.08998     |  20,061      |
-| 2BnyGMmpgQVk4jPbjspNdfHRBcyRsgj1ja5An1XELbfH | 98204.13272     |  20,009      |
-| 4SMEfVugh2iQLb99FjaYwF5v6qKKELMhpUdz2DBzVZ6w | 98148.70018     |  19,998      |
-| 2AaQ1xnMhd81xbLSCi8VAuELYtQceb41SKBwWnm2SvET | 97418.96116     |  19,849      |
-| ASFPaqby4nhw1x3GcVkWmDfoAYHQyYu6gwaSFmgHL4Fp | 96690.63951     |  19,701      |
-| CgUFPnUPD7KLPHL9xSzevD3KTNTyA6MMm5YY2VDZ88mh | 95521.67607     |  19,462      |
-| 8AeMyUt7SLoDLxzCvG2jHKLLuuwMfdwnb9fcESydRdZg | 94948.89645     |  19,346      |
-| 5V4hazLAbMKiXAHL6ebJjvujXfZhoczZJMXisT8n6mif | 94733.08639     |  19,302      |
-| GQXJyZhqgYzNsfFYgW6bm8EodZSh7V8FMhVn9xTPBgdc | 94654.87987     |  19,286      |
-| 5Svs2uLP6ezgBZkNJhs4FN92NiynT2ThQgRg97ARZ5eT | 94502.91544     |  19,255      |
-| 2snHHreXbpJ7UwZxPe37gnUNf7Wx7wv6UKDSR2JckKuS | 94129.67646     |  19,179      |
-| FvyXDiCLLJxAvkVHft7Ahzfj9tRe2kMWJG2zpr5cqkB3 | 93923.91503     |  19,137      |
-| 9XiK4tXufD4s8B8BnsF4V68CtDXcPt7AteMANU5tV2EH | 92832.75759     |  18,915      |
-| UvGmxyQNJHz8XCQUWdGZB82HHVDWxDFGaDoJGYjNPrg  | 92551.95343     |  18,857      |
-| Ed83KB3qWhDAQ453KjAaL2PcWx8yYYiTi2Z2wAQfGBFM | 92034.01382     |  18,752      |
-| FRczgqYGbyRCtgh4YC1uFs2h7coYVXHD83gsnkC4e9QZ | 91799.07998     |  18,704      |
-| GEhjyt2zPjH9C8EeG7XhGsdndkWKnCfEXV5CabFMGUBG | 91722.85726     |  18,688      |
-| EMmt4NpssV82A1q3pPtRLX5ahYjLWzpSq7rhzyimtbde | 91562.68723     |  18,656      |
-| 6pKNz2umstQzfmodhvNPstFR5r1d7ivnz8ZdkpBBTRv2 | 91230.93837     |  18,588      |
-| HnZWCSEEGE4wFcmcGqk3zmXCFewFKQRZGpNjnTqZ5WBR | 91162.9893      |  18,574      |
-| 7nTNokLypPSXshjHQz3yXCh2H3psmGYLvDQYDS4FNMW7 | 90922.24571     |  18,525      |
-| 8ZwdQ9jhDgqoX8fwArvJfLkecDSArBhXdWbtN6UD9iAL | 90911.80639     |  18,523      |
-| D3QBs8LXPSQEfYzcchv9pdQsSz6kZz4CqxT4eAEPmwZu | 90888.92575     |  18,519      |
-| b1MVHCgw5k3YafYCqu9XtH2yJnRFyZ4RZUdnNPp1Xcs  | 90534.50179     |  18,446      |
-| JDKCnTYNVn8ipNaimKdhKsnn5pPrjsUtDsJWwXCKioCW | 89996.46123     |  18,337      |
-| CLS4atFDqaicCakTVbjGV5FyDkrFP3RDnbnNdDF9iBeb | 89586.21834     |  18,253      |
-| EopNBHUmJ38EoQKeox19La7RZhtLpimmLxhUhS8XkkL9 | 89563.54266     |  18,248      |
-| 555Hrpy6sxUNoVvxT378X2wKBNRBohiVMXnrhHtNYJgF | 89337.2551      |  18,202      |
-| 4XLxtvRGTzzecSkKn5gH7mDUzQ58E7BfDKo2UMUboHJo | 88733.15882     |  18,079      |
-| DqqUYyXHuUs1k8cnemC2X2HvCi36RQTvLBiQho9qV6Bv | 87430.24384     |  17,814      |
-| CeFkw5fwAK1nRk2E41LQt3HHiwz25VhwUSbXuHWgN8KX | 87349.94832     |  17,797      |
-| CnkxWLgjrAp9nNndrDQ9oHRzVAU4ajwdHJac5YkVuJzf | 87185.08425     |  17,764      |
-| 6DPFQnvyRFTZoABDAPg6VTJXAVWnNFUEesL9UHbwcrpw | 86997.27177     |  17,726      |
-| 2L5voHP5d6jArMYkA7izi5EqX3Djm64DESDfpyWKuU4Z | 86370.98819     |  17,598      |
-| 36v87zAQKUmJfD2SUUD8KpgBiM77Zx8X9cDCgTiWNz4k | 85542.52429     |  17,429      |
-| 9F8Jgm7dSx5CQe7oLNEygp9TiUUB4QGhjMKq62xn11MK | 85192.81568     |  17,358      |
-| AHCpuhcBQ2RC23vGsf7AfzfnjZaxfUVj2PjndYsEDNP  | 85191.37248     |  17,358      |
-| H7UaDsLpAYuLut6Pu1E7nMg9CXiR5wTWFpjj8MPN7vGD | 84408.37962     |  17,198      |
-| BPginxehHezb7kCihRRVgGJRx8f19DRaQxLkjeFz489w | 84124.68119     |  17,140      |
-| 2nWvu253edaPCc9N8ykoABWA2VtAJmkcFnHvmfvXg9Kf | 83700           |  17,054      |
-| 2S1BaFNWPYG1Hp5EgKwyJjhxzKSkcsQRa6noK3D1ccZq | 82826.65122     |  16,876      |
-| H7QWVACvDRoRbafCqow8w4NYGawJpZqR7Zxvux4S4k16 | 81491.59711     |  16,604      |
-| HoYzhytBRJsfvfJyL2XQaMKAvSDMSUR9D3FCNCNq5dQN | 81407.20095     |  16,587      |
-| 81jWvRfSzNpS6R75gsWjAWZ8tuHNQ4QPVji7i6BL6VTw | 81112.95032     |  16,527      |
-| HTVCRheZLMx4JHnerqi6LbhUQStA3Eh7yC5HsdRUc3tX | 81111.71461     |  16,526      |
-| 522cifbGxD2ZpqDpcbLvR6Xtpwg7KaxAQ2KdnBzeuwJi | 80611.99666     |  16,425      |
-| 9QAjaezZTNPasg1ZAhBSkjikepc9JWGT2dxptN94aVDB | 80377.7255      |  16,377      |
-| HnpFev29vyFpQQuJuveCpZJnaTaeqWLdasgLs8YqhQSh | 80069.4048      |  16,314      |
-| 4PccRJXVxAFxpWoYsbGANPNyQ4MeVmh3DND6Ghuz5YYT | 80008           |  16,301      |
-| DgNzrnEo8JGxR3Dk4FCkQxCDyh1PumgHzAxTHvQrvcCJ | 79541.08315     |  16,206      |
-| 4YRUHKcZgpQhrjZD5u81LxBBpadKgMAS1i2mSG8FtjR1 | 78914.37738     |  16,079      |
-| CP1bSP4pQJwVPzdfYmKuCyPF43ZvqEps6NDKCAzZs8tJ | 78796.31665     |  16,055      |
-| RKLKcUK1UUtShdT5BMffVXoZGLuVmA3u6otcfp5a8cR  | 78427.17567     |  15,979      |
-| FqEvG72tnkLfMTYvqakdMCLTgp35pXwDUAExR2j1CoHB | 77963.602       |  15,885      |
-| 7JP7ga1mh1ScQek5jUc8V1AWMXM3y3jue969Z23bP76y | 77907.4309      |  15,873      |
-| 9EZ9nHK66e2G35UanYKfTgKaCNfsBF2AdgWEtto2MtsX | 77703.53297     |  15,832      |
-| gMwhUR33XjWg8gJb2YnDQDqKqMDirvKwqP9efTy1REa  | 76698.06917     |  15,627      |
-| ChRcrE27m9L69gVSyiPiVVZER9XQLA9RBUPxKVHi797E | 75681.44101     |  15,420      |
-| G8a2aForEpLtikoyzbu34Sd8GsAc4HJg6RBv7SUhs9zX | 75488.077       |  15,381      |
-| EPUJimCJkBuUHjzkgtEkuLrDVjDk8sSTBmzV1oYyYqob | 74654.12094     |  15,211      |
-| CnRBAKksE418CKSbfCtJtf2PcQipxLYc2SZTX5PvDhkF | 74163.88423     |  15,111      |
-| 4j9M39LZwq5z36NHAAWm2KNKwGXmfGo8LxWWhHKBREmB | 74028.38765     |  15,083      |
-| 8QAx5HzeT5AFDmpi4Bn5dFDeChZEkuTEhDjgU48mUsyb | 73946.66033     |  15,066      |
-| 4piyzGRiZMbsDouXpLZgvgjjXFAXkPVciC6mGh3DUaUP | 73881.26071     |  15,053      |
-| 28T45PaNpTidk1Aa4f12K4eQDM2QTcMy7VaaFc4cUgdz | 72964.25393     |  14,866      |
-| 2W2mTx4NwkCtkR8XKxvKxjF7s7XMfxFnfkwG8f2YCTyU | 72597.66445     |  14,792      |
-| 6vV8XrhK934VGS6jcX8pQiaQmEZW2YngV9RE46Gi7Y1v | 72585.50341     |  14,789      |
-| 5CWyPPjucga2EfGMovjymwq3Hz2FNK4ih5yxK8wN6rrP | 71997.63615     |  14,669      |
-| 7bJNe1upy36f46boHgtf84AQe3BBoEdoAPZvYuQywQFH | 71963.75226     |  14,662      |
-| 5JwaeUeGjyFBh8YrLJ2Cqc4J47CFcGXcsHQmSs6svJvF | 71729.80326     |  14,615      |
-| 8uog9g8YVQ4D1EBmvBNdvXbDVKKg2fXUeXkqKo6Y7DZ4 | 71690.02691     |  14,607      |
-| 9QgLiHqN9eNBY6Z7QybpFgzZznWYtu83bXCN9tnu2CvR | 71344.96905     |  14,536      |
-| DrhFyMJ6qg2UfAxGYFzhoVEiEXfXeaDxAncw7Vq7JrX8 | 71017.69658     |  14,470      |
-| 7TWgBekn1PvB9zqxgK4PXKuN19A36UgBpvrLiHAEmZ7J | 70987.24747     |  14,463      |
-| Hn3wf6qLfU7NF6zNBC6ZZxGwG4zNa2fSzPj3HvB3jAvm | 70865.83203     |  14,439      |
-| AEWzT7qfi5Bwu1oa6JJK599CBhvG74Wdx5e2jxonhbS1 | 70782.81189     |  14,422      |
-| 4JoPhfYQP38yiUuRi1aKfV98CE1Ab7uvweYzKFVxxKWV | 70657.38633     |  14,396      |
-| B9MiSorMcThNL76aZYGxMGKuCJdiPscek9nhd5XrBh6P | 70527.24487     |  14,370      |
-| Bv9BbShEFwAL7QaMXyXPR8hYwwHy26CfR7WoasbC8Q3i | 70355.50255     |  14,335      |
-| 8fGaPQMFg47acf5BVcDDpTR4foZqgNF7N7jpMRPfLeEB | 70298.07827     |  14,323      |
-| 8pJYsxjAuZdzvvJGQJuV3hEPx931RuSPSXvaPh3bAeH1 | 70000           |  14,262      |
-| 5bJs2XMeEvNGCAFfMRuqtWTfMdHcRkjGKTQwasAoxVfg | 70000           |  14,262      |
-| 8LzpTA9fQr91UVsscVbUuJ6zFrP13zsdH3RdKHL6CFF6 | 69631.4817      |  14,187      |
-| 4P67GrbnM91JFHjkGnT5WS497GjeAfjT59TYXpe6uSzL | 69627.04545     |  14,186      |
-| EsGLUtp3aGhALG82BnMxPxsWX8Cnn8GAhuYKfxMpiWzW | 69613.61069     |  14,184      |
-| Ax5uRgq1wsAVUkYny1ax9tH4wAWZu1pLUdgzMQSPGnP8 | 69583.41631     |  14,177      |
-| FRpqtqSrxBmgJGQC72yZN1qQuGNDY5KNX7KFfFtS6zbs | 69566.15645     |  14,174      |
-| 7zBrZnKUkKA3RGQrqig5vW6sAJZkRRmULroyibp5GURK | 69479.1365      |  14,156      |
-| 4TeX76dDBBoBhjddqxj8suYrq2kvGCDv7W9W4nHmQWST | 69470.29136     |  14,154      |
-| 5MbkUiKBuE3E5xTjHXd5nASzXPcSZtS4kefL3hkxU82D | 69367.83769     |  14,133      |
-| HwVty7X2i7pHVTrW9U3cCkv9HggqVG1eEgPG5YkdKT8R | 69327.41436     |  14,125      |
-| Bqjw7rJ6qPEB87HNeMC9ySwVENKmXmNmuW9Sc541sXms | 68793.73284     |  14,017      |
-| 7jq1DAGQtCRLh7Swe9LKSAL5sJcgdk3gDNQYozhPSFfK | 68631.14344     |  13,983      |
-| 4gyMSk8mje3X2SctU4ruJTVqXZ5Gnu7g6W8J4WepfjcK | 68593.67356     |  13,976      |
-| 7GDYrxjbHA1RdSFmT2NVEPFYrtYH3A4mwTmfeEEK2FRA | 68569.29275     |  13,971      |
-| 3y3kkVavUY6LPq9qT3obnFF5WUH8BzkpuF26crTifSQw | 67886.11259     |  13,832      |
-| AJgzzJyEqczphThGtJAKvRVf2qtQDvwfNEVaNfuNHkFD | 67827.26174     |  13,820      |
-| 7JLN13paL7BYpj8PRenK9XdKeSMmAkjPnPPkoroC2Zt6 | 67786.69874     |  13,811      |
-| CjHokookZD6HU13ogcftXe6422Yncv1h9NdT3HruTU2D | 67648.9771      |  13,783      |
-| 7w4MwNdidXQiDzg7pGWCVqDmzQb88xGotRAExatEwh9w | 67392.74619     |  13,731      |
-| 8WXFbdkWSEF6LLzB963XpqjH5z79KtmNJxgUwowN8hHP | 67176.44832     |  13,687      |
-| 8xBLcaX2foyUQHvvUi6QzWcabAL4WVtqVGczrER55FP8 | 66770.11434     |  13,604      |
-| EPBqL7cyQjLAPgDwGdLAgKUY1TbepQW1tTyF3VHRGTDd | 66686.21507     |  13,587      |
-| EmxRmxyiK7YT1sHEKfhiur4PKyKV7CYfD7GHit1BvUVM | 66618.25265     |  13,573      |
-| 6TkY6yW9CSpN6UJGqTcnHo5FbDquemGSNcQAbbhX33yX | 66581.79834     |  13,566      |
-| 7u2P5MqbfAzkzV2DrCjfJeZq2oLdYqGBGMPa5rqixJub | 66471.38336     |  13,543      |
-| G9MkQrAnFaQbTH9LsmZtbHzzyxpUfKKpTV7xR9C7yguj | 66411.33355     |  13,531      |
-| GQrR5grFdo2brB6bVVkER3KMhigoCMb4bRDJvkJ2QUN6 | 66318.8287      |  13,512      |
-| FX3vw6rLxm4WDQGC1kvVJFu2EQq4VffwVSF9DVx8wjon | 66276.63771     |  13,504      |
-| 9ktKXdBNre3AigwgYRuap4n7mYfTAik3UkgKthc172u3 | 65924.34421     |  13,432      |
-| Ez4TWpdvjfhKxz1qfbNfj2HTH3TZQGvz4CyBwq5SXHqU | 65709.29453     |  13,388      |
-| 3jZx12ZSoVFve2ML7iQVwdrzn1hwT81xFH21EiEtLwtk | 65662.89912     |  13,379      |
-| 4WyCvTPQAVvUrE1nU4Ybqrx2vpXMA2YvuYT8MifPXSb8 | 65590.14716     |  13,364      |
-| NYZueKEZUPKCjYF55dCeMtivZXgghyeT6nW13Pb8H1k  | 65577.81253     |  13,361      |
-| CU6FUnwmMLFVvuMUBmoAXB5QxzjduuBABfh78sUg67Xn | 65469.95177     |  13,339      |
-| 2EQbJY7CuaLFxWqMsBwhQPtqwfnzVCU9x9ixN8oecMkS | 65454.03089     |  13,336      |
-| 978Z5cQLh4Adt8SNKpDVpYoKJe3yeZK7cfXowAgpJuE7 | 65434.92204     |  13,332      |
-| DYZA3rMVEwSR9qwKtAj7C29x3TYiM8XcTVLpP2QZixkU | 65385.64799     |  13,322      |
-| 4iuHZhJz1xQNbTJUrirpTbUtXB4TGCrgJ9Lmb24WYbeA | 65339.18866     |  13,313      |
-| DUeuXfCUqHXkmJQUscyUg4bXjWXfwWJFh6bsRv6c1dHJ | 65138.66944     |  13,272      |
-| wuRmQavHcfYsisRjEMLRrc8gtg2DRioq9aoAWyXFLrj  | 65000           |  13,244      |
-| 6KFVj2czLwNQeE4yBgFau6LHUS72vqgP11Sv1JUNxghz | 64998.10829     |  13,243      |
-| A2Y1NNEdiiUroNZD3HMgcq6TUWC9UGuAkkgRTKPraz1S | 64879.47195     |  13,219      |
-| X4MjmqkwmbyUezeyVnioKSPh4BqVfyeh3eS1J63ZpXF  | 64646.48035     |  13,172      |
-| FikDkeDimG4KzbRwFfULcsmxTdHdagFD9ijFjLnHMDtU | 64533.18782     |  13,148      |
-| 6vVX7QPq4YSsWoHKAK1LVqyTHE7sYwtXaKoJpDpLjR1v | 64345.53499     |  13,110      |
-| 3AEVaRqcNttgNvcoqwiv2wTJusB1CEmXmvXy2rtF8rtU | 64147.022       |  13,070      |
-| 7oBLgk69342ub1642ZhqRm3KyJvxHmuJcEZPyU9baUKo | 64043.75628     |  13,049      |
-| F4VDfff7aNZBqnvHRCraDurD9RjWzcBzy8srQNtCPsj1 | 64001.59837     |  13,040      |
-| EDvwptrQLzHgp7jDF6HNMCAzpUDKn1PFfXu3YAWNGGwg | 63869.24444     |  13,013      |
-| 9kEWEfShY71QEGKskacQgLrdLFJPhYsDn5xW2K54sUGD | 63636.80685     |  12,966      |
-| EzP7BsJ6cE3bSWxyJeE1Wo7wVZUmEp3kmhNE6fpNbgA4 | 63493.29988     |  12,937      |
-| GGAmdFybE2eCefC4xXMvJ371n1TYk9nYL5y87N4HCQn2 | 63355.34516     |  12,908      |
-| 3QPiZ5T6wyFJNDjG9grUudt8FuVqC9iW5buWinqCz9K1 | 63230.85036     |  12,883      |
-| BZUX2kebk4xRqwQyng84AqsXP4QuYMUF7VYaNo98Yrp3 | 63106.72231     |  12,858      |
-| C1JqE7c2GBiNhsJd54XNJ4EC3xH4hAMqzoHt9PQam6A  | 62982.95957     |  12,833      |
-| 3NzUL283bcAQieC98UB68V7mDGpUNy5TudQhQEqyHaJ2 | 62859.5607      |  12,807      |
-| 248MVeSdJehkX2fXZoSV9kiSi2aMHASfKCWdjzR9zt2q | 62627.1435      |  12,760      |
-| 5dEseo176iwXwgyPyzSi9wPjta95gx6iKfdEJ2sKVykL | 62581.40952     |  12,751      |
-| 22N8MPproBeJVEmSGm3NKqoRYNGgJeSB1jPy2uzg4gUf | 62540.13157     |  12,742      |
-| H3D15U6KA6YueSrgLBCBJhe5xufixLQ7EAWqCxMF4Cd3 | 62531.32049     |  12,741      |
-| ESECduuQA2WRfmQCoo5uwwC6u2nain9eygYfk6C9CQqy | 62457.95791     |  12,726      |
-| ATRxgua12BxYiNkjBs9yXoSXVaUtCb6bDT9AH35yfXxm | 62390.95545     |  12,712      |
-| 5LQu1SgUXqicZLw3FjbCdBgwP34XBmK26E9TJ7j1QaTa | 62387.77865     |  12,711      |
-| 6d9D7nybSbyWmTgmmck63rjMWEAgYGZeKtXKdg3JqgBy | 62336.08827     |  12,701      |
-| 5b2PUen1LwHFXDY9kzE6wapmy117nPqzBbAyLWNBzwTZ | 62214.57512     |  12,676      |
-| DwV9LZiKk8xRdo1LiEze7jpafHZwtPHLwhw52Focs193 | 62003.15341     |  12,633      |
-| 6KuhTrzr17Wyj2hccNTAa1zh2HSw899Ps8yrUUGLnT2y | 61964.62938     |  12,625      |
-| GoF5RRSjRn9DRd7eidsgKmEQwYAQ3rAuZNossbLEVnjD | 61825.49803     |  12,597      |
-| Aanh1nqtVxT1JrM9QqtddYcoMPTawvhNdXcwj4LUasdP | 61788.4081      |  12,589      |
-| 7U9mDqvN2Zum82T9CR5wUabskv5h4odd3pnmYXq4ctJi | 61535.01419     |  12,538      |
-| b4qiyBarnsJpm6LuSmbasKdwmPx5UXJVHhBMh5h7nvq  | 61415.82121     |  12,513      |
-| 3a1f84WHyVSgdRB49mx7KZsPF65kpBbfqTAXcexQEtee | 61296.97435     |  12,489      |
-| A1eLWqkW9N6joE8rTq4ntzeuxedUELLijjzeDrBikMqf | 60739.82595     |  12,376      |
-| XxqxyAWDuVKRjqse8rX6ub5CjYRXNahVipYb9XqfUBy  | 60676.98771     |  12,363      |
-| AtK2tyCkKaUCGdnKPyZnH5HkeL3KcqdMkfcm1b94FX7V | 60579.58789     |  12,343      |
-| FSrewoUhkypeuWPAukD1TpTywyhWsGqTgMCzP3qeGNm1 | 60525.33421     |  12,332      |
-| 5nEW6XaR2CMdmhpEjARU95C73mKq6qNaNJgP5VGLRqmB | 60398.84106     |  12,306      |
-| 34JCEwgxVeZxvByerZipfEhDUpWgkxvNkuQQMf32bAsY | 60324.87021     |  12,291      |
-| BG6bMG8Hxm7FwaDDbEDCJ6oFLePQze4W8vnnUXQ3PVED | 60322.08184     |  12,290      |
-| B7nw1PZKNT1Ks2nzpiPmk32f24A2R5fpy3EMEyGWyJ6g | 60236.46904     |  12,273      |
-| 91pMznecGssZQeEbSTwpy6Accvg2NkD9abTzsiaq9gXp | 60101.37871     |  12,245      |
-| 9GaJZACYFp69zQwdbJcszkMrD5yrm8UkyDT4iXt8yn95 | 60000           |  12,225      |
-| 3bNTdiD1LVUAczziZtkfwLf5LyeogVzNtspDnAQX8eon | 60000           |  12,225      |
-| ArcVwarsU54ggBAJuxjdaP1TYG7SnjGZauD9GVwt3BuQ | 59810.23663     |  12,186      |
-| 4KTjNPLsX1erdiTP9g4kPtSqihy4FZjJwamj9KzuS3wB | 59153.30075     |  12,052      |
-| BJ3kMmxyRRYrBi8TFDjZFCnwdpYAQ2ug5dZbSf8SsyYH | 58779.72017     |  11,976      |
-| DccYFQqDUddtXiRTaR6Ps5MomTY4bQx2xTWmUZ7NerYh | 58761.96963     |  11,973      |
-| 9PrvMimwDBkgPu7kRs7rBTHKLWZXG4bKtheJvXEfvQjV | 58554.01348     |  11,930      |
-| 3DVvK2TvzwrrCFe7kw8S6MWrYgP9QfDwDxiq3cpDcQeG | 58094.62361     |  11,837      |
-| F9BLCZFxDsKCQn9vgxVqJ3VE9VCAWEF4psm3zjPi67Ax | 57413.46364     |  11,698      |
-| oyF3bGFUA7VvmqfN9K5sSx8NqeAQQ9fTW7rv2nZnwUC  | 57382.41879     |  11,691      |
-| G8kpKS1ddrqWtDHT4VajvkUGdk6zpiyZSPM4YYDhXzX1 | 57064.02646     |  11,627      |
-| FESAsC2YeFwC5jvqLSyWB4cXLhJizybksEgSyAyF7dmg | 57031.84362     |  11,620      |
-| EBsDbsF9PE5NhQ79ayMxXbqbcVcf2ozoeEzxrk9wnLGv | 56985.47953     |  11,611      |
-| HW1Hj6DHj9L3JsBb6Q9Xzo9NZ2rUYMGiwUS888JuAKf2 | 56966.83985     |  11,607      |
-| 2RSjWKjJr2HkaF5U6hWMkQsmewUkSEPa5KrCe1bBGtDH | 56737.02131     |  11,560      |
-| 6KWM1G3X5PzhdMj2LCwQqvPwfx5aVz5BEnBgmVCL59Un | 56193.12694     |  11,449      |
-| 2EzjDPD25kQNfWKJVZLYSUiFXakw9VFM4tRgWmozgxfg | 56163.14444     |  11,443      |
-| GjNcvKi84TUjaX9e97coyd4EBaFbieDFEbbK9rep5oAP | 56091.21495     |  11,428      |
-| ALxa7hRqeuFtFjTGLtd5h6vYXNwXEmdWKf9JvByPRs1Y | 55917.51317     |  11,393      |
-| EQaCq2YUda8EDEb59XwUZUk3tt8S5cCZbis4Cq7MMjRS | 55906.71072     |  11,391      |
-| 3xG1fFjU2AkTHiTZ346jhgYD9L41S5dyrhuHPtr6V289 | 55883.65739     |  11,386      |
-| 5dGKvqebAjaoty2575ibMgFa69RTrSAPH1MgGG5kQKVw | 55870.36659     |  11,383      |
-| BG7uNJMtaNDFFgd6YjpXt5p6qqLFfMGfZ4D1KhcHw7FJ | 55864.52386     |  11,382      |
-| 99KYPmbvhtT81cNg88Qowv4X4yz5wJbrjKHqgLJQWvXA | 55357.8145      |  11,279      |
-| Exk9sWimvrXbb2W1axgkUs8as44wPm4MMdz97hLm43Yn | 55285.19        |  11,264      |
-| 2rqifazd58MK66dPGMJE3ynNuwQPG14oszEDp65Y6YZq | 55000           |  11,206      |
-| 6ik5fNzn7ym7TMEe7yq4ABWgmQn7EWVbYXmsd49Hwph4 | 54509.72059     |  11,106      |
-| D2TUXLHfXN9iHi5AtaP8qZve5iFqZEs48gwyQFFXesej | 54458.34686     |  11,096      |
-| H2EXkdBXXTTDtULxf2orvowSbaPUn96ezpyCtgo9MKyC | 54365.68511     |  11,077      |
-| BjBirpm8LprujUPRxEGXFa4GuRihHdaAh2RE8P8pyCRu | 54313.68647     |  11,066      |
-| 2LDuEmMdvK8Cb9Sy7CA44P5CBFe4eovpiJP9yiAkS2rv | 54250.12949     |  11,053      |
-| BJBrKPgsgeT919zUviU9xVxS3q3NAZ1LbSeMHUXgj7AZ | 53771           |  10,956      |
-| 8KVPBRTQAfwhyRWJ6z4PNQuCdhz41ZoRRfbYrDKndn5Y | 53758.8302      |  10,953      |
-| 3dFVwUVfcRTCXNGrA2UMZTzvUhLNYrkBeerccnRPUKJ9 | 53751.74639     |  10,952      |
-| g9ycsvhWHdS85W9VgHJXU9VJQynNd4HAZqTNdAkwPWo  | 53697.38081     |  10,941      |
-| 3VwBTkgPbJ26A8Y8t63FNV5L59VpKAiMFvchK2nB9Msy | 53351.75728     |  10,870      |
-| DrGxhRCdQDwHDF2MvVws9P9ArMRrHhUiDDryPUtqF969 | 53267.59791     |  10,853      |
-| Ed1dmM6q5Waa54RzigzrQbeBYS3F6B6HBzU1JeKLi3so | 53223.29962     |  10,844      |
-| Ekkupc87wRidvVksvvSeEeymmS3ABKDr4zhuMzCgPPX9 | 53000           |  10,798      |
-| FS3AEdru867nAa5jAfZosPmrdk2aNUo8WBxfvJabQ2Fj | 52676.89049     |  10,733      |
-| FjBMhFQ7cSJja3W2Uv38BGishrDszey7zPx6B6PST43X | 52443.46866     |  10,685      |
-| 5YVokYbMCwxLA37XBfK3WueqbcnXMst3ZWUWFzQScyKp | 52412.71577     |  10,679      |
-| 8FNgH1atRQUozYXhm97AqDaxuseg1HA6qyBb1abmuryC | 52382.26201     |  10,673      |
-| EKnczMyFuzR7HQjQjxPQTW5QmD5th6ist9nut9T4mPUN | 51563.33118     |  10,506      |
-| 3p9QYKZoKcfMNXu6n4XxUmWnCmrejyeEBrS8Fpk1M18V | 51504.23086     |  10,494      |
-| 8UN4Ut238Z9rHPwuDnmpXKCMVKfvWovLMrfAKfi7gwyH | 51384.5288      |  10,469      |
-| 3ernCVjhG7CE2iRfcvsfgYWnrxJNgpBzeZefjaZFqQo6 | 51341.39384     |  10,461      |
-| DDtRePD6VKpnfU78ZcLAUhRABZadQA1dGcj8qQazs6rh | 51331.11154     |  10,458      |
-| Ba4qUYCBFtbt7LFhygyLkjtLtX5PciWqR6UpuMja7Hio | 51248.84716     |  10,442      |
-| 5bz8SyYUuMYAKHwhJdexoz3nirYGzHvJBghMGxMTFzSt | 51181.58851     |  10,428      |
-| FnADyDejpQ4CMykeNNxDDigRzUpGPxpnQafqhpBD76gy | 51122.44651     |  10,416      |
-| 8kfEuuwwKs7LhJETW17cZPo7FQUbAzZEBDfGycxQe6Gr | 51031.62236     |  10,397      |
-| CKCVMBZjw7J3Xjrj9r84USUkwD6xrLuuajbozXqc7toj | 51027.57377     |  10,397      |
-| Bg5o8KddvvUu9KP9t3mN1LhkkN7w3rwizW2mtHjB4eeN | 50974.80319     |  10,386      |
-| 3zvV7jYWqYddPg5NAv7CNBz1dycRaHNnjWEgdatzKNwx | 50743.25756     |  10,339      |
-| BBcExazmD6Gy6is5ebKP39XJkJDkoCGZvK5qVQtqcJnU | 50708.80908     |  10,332      |
-| 8qwpwnXg9WzGiAhyFJK3UtiC5rKoe8Tz9ZbPC3jiMcFj | 50531.82782     |  10,296      |
-| AxeEDbvdY9HeUBAZFKf5e7WgwDazqjpnBJZXkKa1eemp | 50396.34857     |  10,268      |
-| 9jFRvSPaSDdHsj6MV3Rf4gT95Zq2R3X9VqvJg6iXrYsb | 50185.60143     |  10,225      |
-| DtPtJYDyMA3NLHhGv1sj7ugRFbLA7Q1s3CX3vi3RLypY | 50147.53322     |  10,217      |
-| XCiREHLBisAGgRGBZXSv8Jb5b9w4hpEdvHzVNbpDqUW  | 50080.4676      |  10,204      |
-| 8owuEbQMjExj3sG4jzu1C7ss8851N7S6GNkvcJVHM839 | 50003           |  10,188      |
-| 9ZwKggkK5zQxxzxnkrAq36eQf5aFb6P4woESc5PgxrFA | 50000           |  10,187      |
-| 6wNGSeFHr8pKZVpWVt62gUJynNAfCiZXPmwE2YTTrH7r | 50000           |  10,187      |
-| J3GjHDgFAs3hEh3gUJR6G5LTsxGxtz1UwQiPYqzd4bFH | 50000           |  10,187      |
-| 8JFk9AW3onWbGEykk8vPLZFSVxpAH2AVAqfTVtX9LuVc | 50000           |  10,187      |
-| 6wUk4juheYmTpUxtPgLXHwj3WZaEvsxeFf3tqxfwdnBL | 50000           |  10,187      |
-| 3t3XCwV3qqUeAFgcNApQbEPHyGYfipasvbL734q8qg9V | 49744.13556     |  10,135      |
-| 3Ps1J6FUf1TQuryw8UbaPS72P1tEG3ai5ZYrkjrNc2a3 | 49626.28368     |  10,111      |
-| DFXynZ1BPeca5fVkdk7rtq22R9fDSDnUmdisffZcAQRF | 49473.58355     |  10,080      |
-| 3gzujFPFwHwmfakVa32w1MhBTNa9gvmhs4ohu2jdKNiy | 48990.32932     |  9,981       |
-| Ba4SExxSgx7rNTEqyfnXY8jfi3iHDuiV9iwNPXZdvDpL | 48823.89072     |  9,948       |
-| Er3pXfrr4XcV5U6djdbcA5CK9tsn7Y7hVrokvXpnLbzn | 48795.02165     |  9,942       |
-| EmyP1uxks7vvNLCjDz1Ys9iEV97Y545LXH3xy53AfaZY | 48440.5727      |  9,869       |
-| 7ow3G2tDbmbUnvYXc2F5kHGHCDrRKbxirEzJJBeLbaRw | 48394.96002     |  9,860       |
-| 42wKoypCqVofWkwC5AN4gcXYJCbRcUrqFurD5BjEWcsv | 48350.58401     |  9,851       |
-| 4XJPsxtfuKsWGiqdYTKKavzZ1iA3UxxarTtEfCq1BkWm | 48189.50937     |  9,818       |
-| DkEYzoii1SDT9tdsGfPYXmTBvDad3fhxWjad2WfmVEsp | 48128.55313     |  9,806       |
-| 4sUHmkc1jXtkARhQTMafXrzwnhh6iqMHtqczt5HRxwVS | 48117.8796      |  9,804       |
-| 8PYXocJgig882KP6ZDR3sdmMuT9sxgSbEsCKswznqPGw | 48074.8344      |  9,795       |
-| BGLNFn357EdrntXVS3m2PTT5h7VT3j3TwxxRsjsK6fc3 | 48060.70958     |  9,792       |
-| C9ssnCQqkK8FAAzmo98eRWysu2PTt9WDPNC4fp2UTCvT | 47915.0427      |  9,762       |
-| AWDNAow1GMshs4nwGEw3RW6VQmAkvLatugTBtvLruYPa | 47900.36317     |  9,759       |
-| GQNqfQyJCn5QBm41yMSfhtGmbo5mYZAJUKE9K5G6KbnV | 47855.54603     |  9,750       |
-| 8FjKAgScMJw7iDyjR7TSvKMQG3RGMGa59SyeVKyht3j5 | 47814.51143     |  9,742       |
-| 6pKjyaUcgYwbhZyTcxN399hGU7aQ29Bcm2wfbkoDFVTp | 47744.63118     |  9,728       |
-| CBN7q74mEGdTM5fhPvRH5F3JtspEL35YuXdRmhnsXhAe | 47607.37599     |  9,700       |
-| 7tb7BBU7JznFrXLRX8Uf31mdFssiuEXRnXXVkniMLcKg | 47489.91497     |  9,676       |
-| 5z13Aj585uxDdZopELvHQpVciP582NAfXQ1f6g2DUdx5 | 47481.16325     |  9,674       |
-| Dx1TXnQDktfdARDcaCcLWryHkHpFgtyF3yvZTeRXXNzf | 47436.52291     |  9,665       |
-| 3K1ru3SS7wjx7RgzPiTBWcx4mJhZyo52mw3z8Mrxrx4H | 47424.4628      |  9,662       |
-| 7Uuv7MxBAMbMPAUsBTx7quzGYepQSrGEjMGYxZ4tooqS | 47377.93025     |  9,653       |
-| BrpnN74RKdvQZtXR5t3Y4ZAAS7hM58M9hRw3UAU5bXH4 | 47260.23242     |  9,629       |
-| 2Xzf5KknNZXqqdMTfScYUUG456taSiF3pT5a45DqWrSQ | 47012.82698     |  9,579       |
-| 52t53HYi7ZP8VVhJA47bP59dU8r7cqd7dfX5EbuC6qZs | 46865.34242     |  9,549       |
-| EVL3A8E6urseXf2Rvq5PWh6MK6ScG6JV1vWBtjsyH1k4 | 46671.41902     |  9,509       |
-| BV55ibZgJMDnXGHjPjPEGbNPGXkeAPrK8bFtpKVG1u1A | 46184.62777     |  9,410       |
-| 63WiyhkFMfHRjtJwQvKbWWrAvdA7F9gh1NEp7ZfYa4Ag | 45718.26814     |  9,315       |
-| 6MFVLPZSHgSYQPjBqbvbMzGsWbjtwshdruvn8hbgDP6v | 45703.52004     |  9,312       |
-| 4fgNnGJ3ReVtdLJ2gR9UUnBssTgtdGYtPd2waex8aFg3 | 45703.05069     |  9,312       |
-| 6LPVnJxtvJiUdhKEhaKqPsfhrSRi3Tse2gdhHDrQQrwV | 45518.48364     |  9,274       |
-| AngjCej4mWCBmP8qLNadR8bV6PTpjRt4VEWR1jqfx1t6 | 45488.56758     |  9,268       |
-| DZvrwLF8wEA7X7iAAF8uus17kgMgHsBJiqohg2YbNx5K | 45111.11061     |  9,191       |
-| DHXTBHLxmdDk2Ct3T81zi6D6pRy9rpNDL43yk2hrtqXc | 45076.87125     |  9,184       |
-| AX1yd9bPhUPQaeFZ5qdpfTBgMRjZfXPkuoSo7ArbJvfD | 45000.30019     |  9,169       |
-| 58bqptGK3ccW1MLr5T6nkGT2s8228KgdDqL8Lho6Y7Jn | 44915.28229     |  9,151       |
-| Cq3L7Do32Q7YvxNrqAHCM3drvw7uBor9fsXw8Kt8hjme | 44799.20253     |  9,128       |
-| Hb6vPwworGrC2Hv6d2CkWThNR2Az8Lk88DizWcS33mrg | 44703.13526     |  9,108       |
-| GkNzq43PKTrmqooEESdf4iDQwaRWjDxRjRdczbF58GUu | 44584.80718     |  9,084       |
-| D1ewkkKVNApyeAxjD7pLGPFxkE9Tj2TGgwzaeMsQCYkb | 44487.87729     |  9,064       |
-| 8ZJpxYjJmiAhHCgcu7oyKsL7vtstxAuunucD69TS2gEa | 44448.36087     |  9,056       |
-| 422qq4yEUdXB9hkXF9GWjeE38nywkQ5H7Au4fFQTAQpz | 44355.21156     |  9,037       |
-| 6zCdVAPpyxVv6nbgMxWXoYr8H3aj8Meqgons5HiL9e3h | 44353.00968     |  9,037       |
-| 5aY7gCxdeezavWAiwYsSseuQ4C7xXiKvwtRVfA36WR2f | 44216.98754     |  9,009       |
-| FBdkcFLk2oysu2KTQLXuwA9Mv9HjDEKnSv1A6G4Ry2aR | 44147.68439     |  8,995       |
-| 5XhonFQZnPMVCWnH62Sb7S9g2HU7Tv36iBJrZLbTmnZa | 44103.72259     |  8,986       |
-| 9qPopwfhiDbcosCtUybxAaAKhBwFuxVCq2kPySnG6kGH | 43978.63027     |  8,960       |
-| FBFrixThd2Bdi6J5S44VghQzubEjQigJ2QbRPVWEN9vY | 43800.52661     |  8,924       |
-| 8MFoiEVgDUTGrDn1Xvj12R5n8XDZLeniUosSy7qDV39f | 43759.68366     |  8,916       |
-| D1TsZtEj6den5Lfirn5NBE8MbnYk9ZpM7F43P8rxjWR  | 43730.96222     |  8,910       |
-| 4tfbgw1YkvFHBsnU3EEKFR23FnSubA7hPwAMmUJaDwrr | 43374.98221     |  8,837       |
-| GhdhTmBdwWDD5rgarUHQ6RrAHvq9i6CscAdVBCpobB49 | 43341.08553     |  8,830       |
-| CggXVbKS227mxBy96qtvxypTnqSTjRyzbGvH97noqWsi | 43281.42182     |  8,818       |
-| DFeetyzRLahbTardWEDYKKHnUEiwnoZQwWY8Ct3Ckxc  | 43274.54225     |  8,817       |
-| zapEwQBGA8G2ta4t3AeJUh1wDUWZeHRn8JVqUEZMzt7  | 43202.24316     |  8,802       |
-| AkVreDxxNbNbPE8HJCn7Si3NMY5qeeBunNmuqf4G1A5Z | 43202.09711     |  8,802       |
-| CR3sgdBRfgjgjxqTVC7Gmioatp5xLjXWM2TGVxuzj8UY | 43095.27035     |  8,780       |
-| B5TQnfaut3tiPVZyQKdcNmQC6iUZfARFtbz8EmYZjSAr | 42817.84325     |  8,724       |
-| 5U3QEvkstaJJr5cfKepxMjfoVVpLqdjSicMqpCNRKYgM | 42808.2168      |  8,722       |
-| EktQKw7DXtjNFBMgASsPTYdsn4mzEMVU41K4RKM5iaRb | 42781.38283     |  8,716       |
-| DxS9yG3KUyeeytMsmS1pKmUL4NwncMUowWfEGaE5du5j | 42725.94887     |  8,705       |
-| EqnaSL6sA71UGQhF6tUxTKE5fbRm3kvNhrRTKbNGqZwB | 42491.93194     |  8,657       |
-| gXYYsN7UocYjiUSaUr578f9imZwfWb7kD8vGCCLeZKS  | 42219.15821     |  8,602       |
-| B5YxNfpDzjjDCyysGmmYS6bey9VbJ9FuwCJQ7JLwFd3Z | 42150.47833     |  8,588       |
-| 3WReHBdhtjAHoje8c7Gq7LhNmFqTZe9MHRmM916SCQBx | 42072.06737     |  8,572       |
-| CA9NtbKuX6KbrqyodDdh1tT395Xvzg8JxTBYc4rn5f13 | 41989.57933     |  8,555       |
-| 32BgNuHRRp9XeDetstfun6div1jZbJsFyymwC7QKusWK | 41873.58726     |  8,531       |
-| 8Wk5gQ7g6X84tMGs6CJtGKtMdKYCXtJMbj6cfaJHbvWv | 41781.97129     |  8,513       |
-| NBEJi1xDFxNygA2b7JqRXFSzGYHZUt4nXgrQenkfgNj  | 41716.59295     |  8,499       |
-| 3dMkPbwaG27D5KdFkaWhvkyGtuMQE2VnXo984bafGFW7 | 41625.00001     |  8,481       |
-| FuPfK55BKQUKQ8SZrdYE3UHJaacsRDXZur7NFbTZL1Ho | 41577.63149     |  8,471       |
-| AQpNdzjqQJBFSFtKeikmLF1PN73kxji3vAdAyYDLFBtC | 41545.04841     |  8,464       |
-| FJqeJMkzjRiB9EeMo7MKiX4waiaqEajSsSsKut21VKeZ | 41537.67548     |  8,463       |
-| EH5WFAZnPiYivSfRXMiZdT19NSF7gZxtnbdK2Cnmuvww | 41370.76269     |  8,429       |
-| HwhQoNxryHULKHgY1yyTE8fz3ZBtrv2qygiXTXrEmLbj | 41296.56206     |  8,414       |
-| 5tymGvi6W7chtnkt6YctDxBsEfn7mFM1NSDYCdVqh6Jg | 41246.32836     |  8,404       |
-| 3Zz3KLHGLLq3U7x9WoFrS8yTgJffhJAyJNEh38Ex8ZJ3 | 41143.16127     |  8,383       |
-| BaNFd3Ms72nkcpTbsnsEpgNNhDLhCyDApDsHDQGMJHqK | 41051.92015     |  8,364       |
-| C5GzaEj4TYEcCn5rbqxwjMpto8EBYgShDsomvMqH83rd | 40999.56796     |  8,353       |
-| GMP9RTJAGrEVst8MGo4duDkwGJD7r83hemGuiNuJfUTL | 40889.44213     |  8,331       |
-| EUMAXCbe4GbqZwGFHW9TckZwhzdK7MrJ94AQSsum3qYX | 40808.01112     |  8,314       |
-| 2FVy1DE419KUY4fTCzsXvqCR16tC3s2rXBZD3K3Fmdpe | 40753.20527     |  8,303       |
-| 9enDBsWF1wGTHhMR5M2i2E8huj9PcP2Jrk1JXkVuPpS7 | 40723.58365     |  8,297       |
-| FmaLzDh6es6VeTUFWDkzRr4Td1rFh6UxTM14bXuhFvkf | 40420.12806     |  8,235       |
-| 6DVm5m38tz4HbRe8VZgohFfUwtzvSj3XwUiiKPtsZrL3 | 40336.64472     |  8,218       |
-| A8h2DWga9UqvzAFmVc54dSGERqSJ9vLtNykwqze7WfMH | 40186.4531      |  8,188       |
-| G7Q5ZC7w3FQt7jthfV17wjA9qNQZG4MshPG7PoY42fh7 | 40153.31681     |  8,181       |
-| 4EdZQfT6cN1Eg2fruFi3dnrNxj4zJNHgirjs5UCJo4MS | 40000           |  8,150       |
-| 6KmfZihFwxsbWKYEjVW4FCsbd31r9QwxEpuViL13zNxN | 40000           |  8,150       |
-| 9C56HuAeViiLU8HCYtrZycLpmKRgRcrtYJhRqWzkvNZJ | 39961.31512     |  8,142       |
-| 5Cn4ykksgJRgTfEC7u5jNaNQCwzrqQg3g5RN25xwBw8T | 39896.43868     |  8,129       |
-| FrqVsoKeMpj4shkx3hZAeYQVoAx3FWB5MgbuATYncBVP | 39510.93262     |  8,050       |
-| 2Y1RGjd87T5o72bk4g9d4VAUYR9wJJcDqTsAxnHjN8ME | 39506.50362     |  8,049       |
-| BifgmmyP7uq9ukJoZpLSbgcXs6MuVxqPojSLkmaArnHR | 39357.03115     |  8,019       |
-| 3AvFanCrFz7CaK7HKuZvWRNCXi7EVn12gHJEPp8SqbFg | 39138.70244     |  7,974       |
-| CPbdTQYdHd4FVk4Q2X7hM158LgQ36bRjToyq8eQNCa3X | 38980.81212     |  7,942       |
-| 5CyXX4NEe9GXazjaiN1UHiAX84kaG4cBJrHJ9jRNLLrk | 38974.15684     |  7,941       |
-| HNLhfqUN7K8AXAFgK6vBSiZNmS7mVYFouMuKsE5QDafS | 38907.49457     |  7,927       |
-| Eh4XtUV5PFYwwZPiYjaewZLssjviqMqCsCHZnwQDbFSY | 38596.13785     |  7,864       |
-| H5A8NSbfM2KCfqLuUvMPYPVGvzJN6SNpsiRsHbbMgxo6 | 38595.84818     |  7,864       |
-| Fg5nfmtgfzL1FGTekTMUnZDHKCkUgV6Pjo28uEE5JjPq | 38451.68952     |  7,834       |
-| 88uUq7dR5X1nsRtQkBhZvuDA4FwjW7rBPNS495ciqh81 | 38426.6644      |  7,829       |
-| 2JdRKZBVe44PRc36JsXNWT96Rm2dn8o6xfrtNJJms1Pj | 38367.42919     |  7,817       |
-| H7nXcj95U1z1XuVQHgMPGJT637jbJLQ5EXT74ZWkcScd | 38277.01881     |  7,799       |
-| 7CPB1885XDR8S5Ya6p2cm9dowsnxQM8E1vgcUydN3CCd | 37987.24696     |  7,740       |
-| 5FX7L15YLko7bZbbZfywth3b4paUpwaqd6tzffMscPVo | 37793.70628     |  7,700       |
-| 7L51dMBgBq8dwbPRCQC4SVkTm3rwtjrSkTp3tMCfg4v2 | 37768.67137     |  7,695       |
-| 88oGirg3xhZpSLiQgdKzmYkFtBay8VJKdi5nWNPaeYgC | 37706.81025     |  7,682       |
-| 3qLdMGe54kSJKZNUrv1ji2KJVLLprbtetpnd7AL1Lrnb | 37607.19465     |  7,662       |
-| GHYcHQQy9bsJqqwftER1pdmGZsaB7En2wERowteoiS8f | 37524.10923     |  7,645       |
-| 7Z39U83f7EfNcPpNNR1TrKkgxkUDXTMpo2TgJWcrehRC | 37456.24604     |  7,631       |
-| 8yNhAU14DiLqUrCU8cWRv9QVfuuUmVN26n3SxQLB5MGG | 37264.7636      |  7,592       |
-| bBEvcphQsTjzbuzaugoewkxafcNoWY87rq3C4DVGMx5  | 37237.01485     |  7,587       |
-| FW2m5oHFbpVvotUnUzY8kDdPn8qAS3p5tr5KXN39cS6y | 37230.87219     |  7,585       |
-| 97tGysGR6NfxFj2C6RNYHUvQfBo8nCgGu2nRnbdgG8fL | 36937.62502     |  7,526       |
-| AFJRZzeChY1GDnec4cPgwELcRsYhH6dGJqR4XNiP6wqM | 36883.90152     |  7,515       |
-| 5NRPMgjDNjb5kw1yr9n4DABcLR9p1pZBHA1tYiQhy1v  | 36824.62268     |  7,503       |
-| 3VMjMpMy7Cm8uB5e9sss3y1HKnkM5BxAtXMa4Bzph2ak | 36755.27561     |  7,489       |
-| VzurNCf8yjJp1RmTuHU32wT1XbeGoJXJEqQAgYhEj32  | 36541.42503     |  7,445       |
-| 6RkuT7nuss4QnqPaxj6DLf34rj4sRV429b43gBEdR1WD | 36530.96758     |  7,443       |
-| 5b9LNsvbvxwobp7DYMs9hfcsn52mxdthJF9W4uN17Sj  | 36515.93841     |  7,440       |
-| UqEeVTNEfmNvnYtBGfMYeTdJbahpqf1rxA3fCHnpCiw  | 36500.54088     |  7,437       |
-| 4RhpMM8MW1ebGjpSjNYBsiFvun9ugDhbbJZWHnvB3T1Y | 36460.20468     |  7,428       |
-| Hfi4hUEkSXyuaSbwvQj59QCJbfyPbScNxEPfJGbGZkxd | 36284.81827     |  7,393       |
-| 9TuRMSHgebwGPMQirEvJaQ9dpEYg89uuCuAm8RpQE6AE | 36096.33363     |  7,354       |
-| KzLqnWpmPyKN5goJ7RxA4Nx4epB96Mg1HV7Fyq7DvJf  | 36033.90755     |  7,342       |
-| 38fjgXxzqSNjhrAJmweWSb9Nw5Yeb27eYyy3QeXsvJ3m | 35974.7563      |  7,330       |
-| JD1NQHnk6uXiMJYGT33z6BXDFPDT6BXMsfn4Egp1NLMv | 35968.70565     |  7,328       |
-| HBPniakfFirmkdCfFCU2uV95oHzogVk8Mr6mYxdGH36X | 35935.37754     |  7,321       |
-| 4UtnZLQi4E795keChN77C8tKnCWnzpNdbT4vumavymY1 | 35906.27706     |  7,316       |
-| 49M8XwS9EqEK4Sid122fUKfXWrtBoAJsDGoR17Z66YZ1 | 35489.60979     |  7,231       |
-| 3tsP7yA2tYkmRZy4RSMyuGTsjcxw2ASkn5TTo7ixMz8x | 35284.59222     |  7,189       |
-| G89zf8vY55yw82y2BqrC1qwHBX6E8HUWT6DYzcmcsooX | 35271.6454      |  7,186       |
-| BBEtneC34Y9kX2PZeHvdq1KDV9zxsyg7NpwFXvpMSchp | 35265.2314      |  7,185       |
-| A49xkebzXe2ex4Tj8vp2ELwWHMB8mKvmpd3z9HJJTMVH | 35190.17638     |  7,170       |
-| EfMTrRgveHUv6LrpSpvR97wtxQECiiuBJKF64ShyXthr | 35142.939       |  7,160       |
-| 8ksE9sFnR4E8KKMdfPYU4C1nigChzSD66ydoNvbSqLHs | 35075.90029     |  7,146       |
-| ARTE8fbBAxcFQfDpdXHRzcNSwQC3FFxZEXEXaYSScw6u | 35050.31356     |  7,141       |
-| 6A1XuoqKxseW1MSy46UdqPVfoHTh3Ji3ypPedNG769yb | 34982.10434     |  7,127       |
-| 5jDYRRpZxPpRB7GGrG3dMCYr6CkgNynRMHD1fwzMHCLx | 34945.1206      |  7,120       |
-| FAM31mZVfrFGQKxDizCHhYdoNBEtvGdMcbrpaqxWDarY | 34934.85472     |  7,118       |
-| CLsgqHbQDh5zDtvu4YNM6w2fzh5Fn67VqB7JCtTWrSuU | 34730.59931     |  7,076       |
-| 2D6jYo5pSodeekJs62QnuKPknfXRcj7Ey9p6m3UNUfr3 | 34475.74241     |  7,024       |
-| H64FY42JpR1gCRYqL3SrzPRETwVvnnnmVoX13E3EtQm  | 34425.30974     |  7,014       |
-| 9YLz7JyvgvcZG2vPsfJwpNaeW8LJepyw4HAx2iGxaquJ | 34041.44187     |  6,936       |
-| EkpPXpM6wtVoNTxBJ2oA2ssPRA1Fco4Yd6md9b8GTU9N | 34021.38461     |  6,932       |
-| ceoBXKUeHtzXBNS5RsMPnBcU9Wi7xksgjeurFQnSNdB  | 33961.8805      |  6,919       |
-| ESyWCphxU1DuFdnbuiQDdnWiKnZEPugh9Cv2KXb1WRyt | 33931.99167     |  6,913       |
-| 9H7yWYtV9W2sA25fge413DqFNsnXzoqTkgx7t8xUqX53 | 33758.18265     |  6,878       |
-| RfvkaNVg8WkRNN5fYEYdpE1VLC1xudBtw7QFcr1HjFy  | 33586.58153     |  6,843       |
-| Gjoun8B3V8vT4DzfzUHBjxXR3pRUb3VrHs4Vw2FSyYy5 | 33463.93991     |  6,818       |
-| DPqtN6pjnR34QEGPe6J3cuNYy9ye277wKmpXeKPRT6Y  | 33333.10538     |  6,791       |
-| An9nmLsVapz9ZUEZvXqz8atrg5LyGiVvFHLrS9PuvVWk | 33156.16497     |  6,755       |
-| uGx17mdteA615vpfQeiKTxYWeRFGGmDxMawJdvEBwzB  | 33113.38162     |  6,746       |
-| A2Z3KdRmitNvGnLPvEEMjpUT3vYhf4Ahk8eQVyEuhpS3 | 32976.70317     |  6,719       |
-| 8DRyrym834GuRDexXf9JC5JSjMNVj7Ea51BzQNebPPEv | 32850.8211      |  6,693       |
-| 58BM3eoVJiYSf5uPp8isoW65CW35AdrUaehgkBn4cjmc | 32760.33115     |  6,675       |
-| nKLU35hc13wVRsouPsmF4VL6rEEyjzGAH85dtHppV9v  | 32701.82557     |  6,663       |
-| Hxq5RT1srbZbQ58hJpHhNErGhHi3yo1mKb2zrNjVFcgu | 32594.34896     |  6,641       |
-| 4miSaC9Cc39zVFax4eBnvinu5mZ4SkK6SBWuY6K6Lv8U | 32504.73124     |  6,622       |
-| H2Ffzj7yBDeGN5Cy1uvcNL6yN5o5aiX1PiEuiACF6kXU | 32447.77697     |  6,611       |
-| 28oy1aXq1sBuGdAepEnn6SaR57WNmZMZ3SfLYrSLoWpR | 32436.0819      |  6,608       |
-| HDsnDD96iyMFn7yfh5FnFCr1uwrkQXJTUfLAXN3Lcb6T | 32205.09213     |  6,561       |
-| 9CgbUy4Sp6aVnnbJA6YsMqVrpPtdfkmve3CWN3f6zLQs | 32078.73124     |  6,536       |
-| 7MdvBHYwaFTotsq7TGMXGRX6y1eNB33Fr5YreHpf9z2R | 31978.77918     |  6,515       |
-| BS2KAZ11xdnEAQu8q4MbE2zBX8C4hVP7uPcoVMJrWCNX | 31960.02106     |  6,511       |
-| 5gH36zs5h6naUQoNV6CEvfnCXHJbp4bi32rYNGHhKPsH | 31946.10979     |  6,509       |
-| 2TbE1uiqy6Me6iVi7T4E93ah3aUVLivoPUYeqibVsYTC | 31941.73116     |  6,508       |
-| DZvdTCwAai2LvP7qY5xL2CsfjHSsPDUQEa3gbXfUZ3EB | 31860.1475      |  6,491       |
-| 9Xyp9UsPXZGY41yVvrMvjNNQ8VJ3KHV12TDZf1vmRj72 | 31829.80705     |  6,485       |
-| 8tBJwXB3rPPBCDSYz2AbRX7vEd5rRkUYnMbXrxzJgqR7 | 31810.61645     |  6,481       |
-| Eh3UKXAsjHJ55wTv1922y8PNc9uNzPMESJwm6HzRe8Bc | 31783.42089     |  6,476       |
-| BaCpLrtP91MHFY8GPPLtTCr6eLU5xsd7zDGpLR9xrutL | 31757.38472     |  6,470       |
-| 9usuXiq7nccHmQwx8yiDt22LjNfWZZ45MQDzv4RzCphu | 31625.36085     |  6,443       |
-| 8VUjjDRQcjVh2DL3NaCEQT39FWUCE6ZmBz5A4qVydNM4 | 31605.41592     |  6,439       |
-| J1s5Y1V7dx5eB8kaijF4tN4SCxX93ZuFGKP6GQ65PbCF | 31485.39824     |  6,415       |
-| GCJPAZCs7tSt9BeKQkAHKGQvwTXer1axQMXApgVJbamJ | 31341.68355     |  6,386       |
-| 8bFhyofcWC3XTuFkHmwqBayza9pcu8hAKv4sTEEehZMK | 31250           |  6,367       |
-| A9X9cG8dE5wh4tFc567AcKRtJuT6vvZ8Sb8bLogXWBU5 | 31209.92372     |  6,359       |
-| 85r3F6fXyD8zKmpifjTwjQ3CYoJx6skRtUpnK9U4i9dM | 30955.02765     |  6,307       |
-| 8C8i1qnwLCrRd6kjHUA8RM65cjhbkpoU7mrhHQ2UJFSm | 30916.86502     |  6,299       |
-| BeydDZkGsmCyw349KU7QqnP498gpkE1v5EfCKQm4fYMA | 30798.17345     |  6,275       |
-| Dbd5EonKJSvbw3XPAjo1zwJf1fjCpDKQwzy2fi3F3QuY | 30588.87616     |  6,232       |
-| FBWi15cXEkDC5wyXzCiRGWRQnGvxVdBeGo61SzEPm7mf | 30573.76286     |  6,229       |
-| HNSZ5xZyUvJBQozQiJi9vH8QoxSzWKmy5cBkou3pcCCe | 30395.73487     |  6,193       |
-| GRtb7FhFbLMqaT3UmmyHUwLGc6rrERLGdppnfAsDRDDp | 30360.50589     |  6,186       |
-| Cz2xw59FhcA6amaqdnPfWgiwVj3F2wDpAZ3Li8eFdN2H | 30354.15603     |  6,184       |
-| GM8eY4PX6sQQVkHQNrZW28sYJdkzdJXR3w7CVkGUMXX3 | 30275.75848     |  6,168       |
-| 41N7GAwsUREYE9bfuJyV5AMLQ898V8WPX29fwd5cEtbx | 30256.03129     |  6,164       |
-| GuGivLfNHgqHoMmcu77PxrRhLVLtj8RX5Q48PncbskNp | 30235.24597     |  6,160       |
-| C7aTY1Wge16ptAkD8TCA9GmhHh1zUv5Wp1Y3RfdyuncU | 30193.29539     |  6,152       |
-| A1LYzXp2PsSitWUdhd13w4uzaocuNTqfUZGgSoX9GPXn | 30153.10817     |  6,143       |
-| 8sbWY5sxeXGuG2W1eW7gfjm9XhAxHhgw7xFCpotR79kb | 30139.96309     |  6,141       |
-| FBQdTbNzuPDXBoRHDXRKaDuaqH1X2SVmCNeb7SLmcHNd | 30032.9468      |  6,119       |
-| C5Ya1JvoMrYvfELHi9xMAL7KGwoJd69mdzeqyj7ToL6q | 30000           |  6,112       |
-| JJXDknaGvksRQscEo7khZuhWeb2SuyPiqPASp8Tntt1  | 30000           |  6,112       |
-| JTginGrziXbgFuE1KvBCk9bLmw2rXf3tocj9TixaEjK  | 30000           |  6,112       |
-| DDCyFfUPvUNx45PC4ioBJkqHQ394ouU4M1KyRMT3KwJb | 29998.10757     |  6,112       |
-| 7DhXhEsCEn8AmV8tMohGJQ5vc9zpBfxdykfWbVVMwekk | 29953.64692     |  6,103       |
-| 87zeT6nPBT5Mn3SWhw6kmh7J9LZ8howrYnD5pJDCuXDd | 29945.94129     |  6,101       |
-| Dg6Xt4F7y4gvzkccxdyS24WDme54nxCgNHFjMyZYXEQx | 29843.52973     |  6,080       |
-| 6mcQGxT6AMtubuAfuKsjcPP3fN7FS7R16ZWtmAY2J7PB | 29829.63934     |  6,077       |
-| 7vGP8hvbxwVhbNQJpJraG9ierRRCYbUa6pFCHgSbS1DF | 29794.58605     |  6,070       |
-| EK8dCGQeij2ZxinX2VzfgVcbEcduQBcjr5nuzxYCNpCL | 29729.81303     |  6,057       |
-| DPKwtMHdfQHWsRXY3ajuS5MZuD4gLdFPigpU7eHa612L | 29692.61046     |  6,049       |
-| 8QTj6asHywjysXFk4CdA7Qndp4hrC7zdSmA1cDbr2MFE | 29667.76275     |  6,044       |
-| 6v61XEgy2pZiQG7myN8S8FWvyaJGoN5Un1uehhANAXs3 | 29643.17366     |  6,039       |
-| GiTVMBPhTim3uRfPWnhq2d9giWLcTtTqBFY6BFWAHe3z | 29492.96208     |  6,009       |
-| FoY5yecfzZHGdVPyyLrq1274hWT9GQ9tJoA6dP5qCKTB | 29488.90483     |  6,008       |
-| HB11L2CxTNqF1Sjesz48rb79YfTqTtuV1SnmEZYLWLTK | 29329.56254     |  5,976       |
-| 9pfPRa3RVjTcVmQpPs5FjUiUMqwvvZ3PC3n2ZMTmcpbg | 29297.30699     |  5,969       |
-| Dt8onmf8FWyymjkDGT3y6Qrt8MhGLJnsgBQ7af7QqBDw | 29283.25707     |  5,966       |
-| EUa89Ht7rB9EJrkC359zCTqJRjt5PDxeNn2djf8nSXe  | 29230.44721     |  5,955       |
-| Aeb5EU7fucqPZwvJ3utGCXcmw6qobmLmwrFVDw9VdXrv | 29097.79282     |  5,928       |
-| J2z461s9F736VrH7pHRUj8oeP7QjxnLF8y6NDo4k61kN | 28869.3238      |  5,882       |
-| DZactVqyGhSMA8cy18qSCeV4NuGpstzDPGFTUXjdQanN | 28839.99618     |  5,876       |
-| 5hKcViUBfCSnvjaKLLT1Z7GE78kfHoa49sLZN1av4Ebb | 28757.83394     |  5,859       |
-| 3GNSriaoxAMWLB3r4eLuxkGeVv5Fk8M93XMidToyLHLh | 28750           |  5,857       |
-| 6gzCND21XFbFGrTzM9bmHwrjFkKXk2ui2ebhVHompyh8 | 28731.71411     |  5,854       |
-| 31riXUjEF9CmDfuy1TJ42FXVjgW1f3bdBK4txBQBdzpj | 28691.68174     |  5,846       |
-| APsxGUtB2YeC1iddRP5odU8fReS9Enmjj6ZHPhhF3qBF | 28654.78247     |  5,838       |
-| GNw58TjbcZ8NwZQvhbwPJmKXE9WQBursct1bi6meqrYq | 28648.76952     |  5,837       |
-| 9h5Nyk67Rtp5C8th9eQDMAZ8DWkNgZksaba6f9JGskW5 | 28638.05527     |  5,835       |
-| 8jWFLAB33KtvJJDy6NEvZRYLU1E6fgM7sXZDgN42c6gi | 28526.89824     |  5,812       |
-| PgJ1Ma6hgtEb9xTVS4W8PjSwTV9CkDQvVPDme87pm98  | 28451.04509     |  5,797       |
-| F3rYT5TFQV6WYZTCtnjCsARfrif67Y7aStn51u7eLXcq | 28358.0978      |  5,778       |
-| 3i9C5coS1o7tB37r3fhp8Gv7Wjx9fAGamTuqe4nCaf1o | 28242.21864     |  5,754       |
-| GbVT8Tbc68QVtC1UYSCvsjbSDUKRfbN4tetL3LuzdHy7 | 28192.40789     |  5,744       |
-| G1HCbq5WZWy33FkWNnKydPoYsiKA9kiMTR8bwJ3BPUBh | 28189.7598      |  5,743       |
-| FCpfcQpFCBoXLWmcZwVZsNRivfKcb4JGuFfcaKsUm4dT | 28085.55993     |  5,722       |
-| 992BGvcF2TsHihAucWNhuh6JnSuJc25UvzP4cfT8om4J | 28026.33665     |  5,710       |
-| GiyBr6Pnuhywc62N6wASoCT7tCF4DZszgruGFfVKadRj | 27884.20621     |  5,681       |
-| J41xeQkcesdWjKc7NJpNQPkgVVzz4LyRmii788GWEuRL | 27730.2074      |  5,650       |
-| BnfqhGmwoDVZr9ywpeFbGYVkmCfuy1dZkQ32YXEStmCV | 27724.39508     |  5,648       |
-| 7BZgRDCEPmzkrProSfhfWRHDCKVthPqptahraZtNh2VT | 27535.72323     |  5,610       |
-| 7ZsVsahGgaqwfD9GZP5pCVx9suGL9Q5VXib1tr8B57S9 | 27374.26839     |  5,577       |
-| GptmELS9ffAfQLs3TPwD3PZKbP21t5A7kQv6cTfbMorv | 27338.6443      |  5,570       |
-| AEor2S6LK1zHsBravzB5Z7KXcxQuZsXyosUH6TeNEh36 | 27331.29166     |  5,568       |
-| 5xcrNX37Rn3uAi7whg64AMoTfk7U25J5t5KyKeYpu4Gw | 27199.7373      |  5,542       |
-| 5QU6Z55uWV3twCGxR7nXJuXhPJj7S9mvmQj1dQvBYwJe | 27162.97962     |  5,534       |
-| 9QiC84LriKirXhymDzNiYXZWcGhaGvWLjYtzm53dgYwW | 27106.14523     |  5,522       |
-| 3HNChReoah2GVPKTHsAYyMqNaLM5JquFRojR7vMgwAzo | 27064.85203     |  5,514       |
-| vnpX8wXEoc6kY4iKBQL6b6bxubVG4uAn7vZ1ZMBBto7  | 27038.00348     |  5,509       |
-| 59rpAo57SRqhsHh4ZChGXBaba1eMBDQUkh5LUWGLviRs | 27000           |  5,501       |
-| HEKUDTqNFygvepxWY8R6NVtQh9kfMxb9HJxF8j9RMv7T | 26795.33195     |  5,459       |
-| 3ZKDmtAeQuskvvcx8dsWkwB7hMws3YtbpRi7PwJUtcYq | 26758.77439     |  5,452       |
-| 78kf3RzjuHhhCar2YS8kZMkUKDZUTUPGdiR6FxjBtHVb | 26629.62752     |  5,425       |
-| E3YmL5jxeD9xBE3VKo6mrHAXjuj4pvuAekaL9VsGdhtN | 26521.47988     |  5,403       |
-| GAhxMcHPgCewgKkB5iD13DqPT34arWrvfbEWHWMuezWy | 26437.45348     |  5,386       |
-| FwHwtLFVcaCyYj1u38K5TLZvEXXSXTPxEA5TyrQZM3iz | 26401.21555     |  5,379       |
-| 976kGRFEkzJcwGWQSdXrM2Zs7pMi82wL5WJESov5NVbS | 26345.62455     |  5,368       |
-| 3uhY5NNfBNA8na7UihuX5PPZzn1KQ3Uq2mFW4oicrFMM | 26177.75412     |  5,333       |
-| CDr6VkqLE26mXCJpnA9GdV5yk2QZMCxXAn8dz5uDWdJi | 26174.9486      |  5,333       |
-| 9LU2LzyV9F7ruMDFo1Qk7LnFRGRbckBfNbzAeHUF152B | 26153.7461      |  5,328       |
-| 2km9LCRxAsQGeDyckeuy5mUBp9srATjf4uLvMBnBvec5 | 25924.51632     |  5,282       |
-| 3fGw5rhAGAS711MAKdVbTsWFMEgCHtcpP9JPJZUjXHMB | 25907.56673     |  5,278       |
-| 9QxD93ebN822wbWes738ShkvJPQWHxuJ6NnetJhxzYTx | 25784.37769     |  5,253       |
-| 6juJLX22XhtHHuh5Uy2Ld2GbUhFSNUqdceDQrH97Smff | 25708.5164      |  5,238       |
-| 9Ss8YH44D1gShdrRj1QCp74UFE95YSBsr54XnfuvSPnL | 25695.60673     |  5,235       |
-| FndjbyN3VmCgRMUPnhq3VCsAC4PNKCX5ox8yq3982PDW | 25662.78172     |  5,228       |
-| 6q1bAeeGKJJXdi9G4kEqyyHqd6raoq9P4tZHe8pR1LSv | 25628.01183     |  5,221       |
-| DnkyGUVmi8VYTNJZvGEPhbTyvhRjVUYCmXaKEzuMnGT1 | 25542.5721      |  5,204       |
-| De15pCwE2qbg1PZiLpLgW6NWzH21u8ZgTDvtS2rbv52Y | 25527.29454     |  5,201       |
-| 3AwpF2MzLXshW8vmn1tDjhJDHwJ6jFgdqGqxQdWNM5Sq | 25373.06874     |  5,169       |
-| 398tisYz4cSpRHZLBAyXfSEQMHxMV5UZgY9gsNekegb6 | 25341.09539     |  5,163       |
-| 7WfB82ArFH1AyiRd1E7mnbRG26JTcSypYgLUw9CowPEZ | 25281.02626     |  5,151       |
-| 6zfTfy5fhQcu65SaTH6AK9tjpKemLbKxMzCCkFxAhFKi | 25084.20311     |  5,111       |
-| 2Zhv7Vw8gUDxdVSY8RjX7PkDfYcoGPnnj9Wx8yMjsQ6P | 25064.49051     |  5,106       |
-| Fksh8ypj3NP2PK26DAHGS5xpMfMT4Nue7P1Tq3BuE3kE | 25054.15353     |  5,104       |
-| CsNi3wsXC7XRhtUTv95vXyDj1UCR6QkubwvYurUaGGds | 25044.80115     |  5,102       |
-| 38y4MsbmGA5FC2NA6Py6Y3uSD7PngenKhV5ZhHvNAg2y | 25000           |  5,093       |
-| 9pgw7yUQQWbyNJrtWLA2rsQfsyeKK1xoxBvqTDMhdDVb | 24917.46939     |  5,077       |
-| 7dKqQya7oveaXfkaMKgUb4DUV6FGW4sRZRs77y3V35ez | 24876.48719     |  5,068       |
-| J9EBsSWyfAd5MwF6gzvvKuC9WFV5t9g6fRjeEUMdkB2f | 24755.01953     |  5,043       |
-| 4Cjyo5yb1dhGkrCCFm2GteUn9UJwMEcewGCAUCZMMPfY | 24630.69877     |  5,018       |
-| FpN4zYAvPSVz72f91QK2sF3JJzZpzwSCsfqDKeRP9jGd | 24575.20509     |  5,007       |
-| 3ERHCAZufkLsfq8LZELEYgKv7XFebQqZDAnvipwhHdjf | 24510.93873     |  4,994       |
-| 9hyYNSxTBUXjLqbWcX8f23qUwYvVjgNnYpmLM3GrQ5i1 | 24477.10423     |  4,987       |
-| Gdwhpu9ZmWZzTeg1YKee6ihGkC8WtQieiGbDV6D8BebD | 24443.84758     |  4,980       |
-| 4zwMboaKZ1dR8461rRvck6UGPSnXPkVNBNJmhXPTXGya | 24373.64433     |  4,966       |
-| Fd3tYsAvYEhsaDzMVqUkoRq6wQystzw1BEvjJoSWkAdd | 24210.70936     |  4,933       |
-| C1spjBCUWjqMGvPSXuTbVcUJ6svZfThjoEZiscB8VN9  | 23915.2993      |  4,872       |
-| xU2577FfMnTk2f2DALudaz1m1areMDDLzoWN7yrBLci  | 23880.33448     |  4,865       |
-| 7MGNY1Hiq3e3QfSx87C8xhMFYJb1WWtHyue5RmZFdPDM | 23780.79301     |  4,845       |
-| 8YieGfwRGhtqJUvfreYxJ6CZyX7Ub8xwrHbZzhjGAWQy | 23743.66018     |  4,837       |
-| GjoMwygck1zSx3sogjRV8isxXoqKn9y8iAVNamnbRbwU | 23703.32294     |  4,829       |
-| 12KAgGSmtduQLyncMT1JSNwZ3mFRuUmNXSwrPPTpas3H | 23691.76594     |  4,827       |
-| HFhHbpQpoTiJW1Bvquo6S7xsKWWD281oK4jWBn71Tnz4 | 23676.41615     |  4,824       |
-| 5VyepCt6x4Tg4yivsVFqHz6FjRSDJqFjT7uWbweuQtRj | 23650.2007      |  4,818       |
-| 3GGGDXp3Y5dvGLCHVwjCqUvF18RHg4v9fdTwR8WywG84 | 23609.05601     |  4,810       |
-| A8WcCv7sHbAoWmZ8P9tji9qqo86E4mpMMxPuXp5RKZmH | 23606.87884     |  4,810       |
-| 2nqEuHs7uBmrEagNXbBVTLvQUPmBzzF4qoehVYvYWKhD | 23478.32401     |  4,783       |
-| 3idatcs9sSvpJPrwwwadifjhq6mzuMNUHwCk6XikiKHN | 23441.95145     |  4,776       |
-| BwDSLcahih7WsGZ71xMi2uhkKVFVdCiYKyfxa9uYAprP | 23424.78316     |  4,772       |
-| 6aKCj5DawhqKEmd8JYJVU45qTujgDzfgWsSHX4iPPjaf | 23381.39209     |  4,764       |
-| 5961qofMmKwTNJoyQsWrvpzhw738rGuX8Z5XkSqXkPb  | 23380.11009     |  4,763       |
-| DKM8aSR2t8or7UzA6kaCwYD2wPrUcPoDVvtqEdZ2aeMH | 23314.25835     |  4,750       |
-| s9CcP2fYmDcSXAqBHDApx57qgkPMcK9VjtQsCXDVerk  | 23277.36625     |  4,742       |
-| HUx64uoyr7HJ4jzynFQkGrhEiSFMPg7cZbk5hXQTeoCy | 23245.51521     |  4,736       |
-| 6sf5C43tDAF5CPhdqPSC9bgiy8cFLT65DUnr6uciacoa | 23224.81361     |  4,732       |
-| 7ihsWApQE7p2XKQmuUUuBebygrxc5qae5Km7uYD2pyKa | 23171.53393     |  4,721       |
-| 9bZrpifKpuSGMvSQRToNrLs8mkCc1gjuQWc7utaTCcZ5 | 23162.16442     |  4,719       |
-| EsVBx6BPy9EHpZqqfEBSM6KruAEU6AEVGGxQRxqWSH18 | 23161.95017     |  4,719       |
-| 4Syg2mrsiFZ1jnna92Gfwd9FTvWAdFLH22kn2m94mkhG | 23157.5329      |  4,718       |
-| 253jWJxmvGXiQXuKLSFA7TggwJbkVm2QLpooqn5CGGMc | 23120.59401     |  4,710       |
-| Csocafxg6ezJgVvo2u6daVbBQiL5Ut1FMVDQRmotdiuc | 23104.99401     |  4,707       |
-| 2NTdiGaoK4Zo3UdXrcjNNWpSGpg4N5WsQxhsufcGtd59 | 23053.49003     |  4,697       |
-| 4edN42BbjrKA1wvqXTkUGiE2jhzf3C2mKD5hwzisjHaU | 22991.94156     |  4,684       |
-| 9YT89s98e88pHZhhoMbb6GYiWn65Eyv8sWrAGMXqwBHd | 22971.00617     |  4,680       |
-| 5Tx4DYLR3ufcDYzzqAu1DKzUPHy2vj5BvD2ADd5MPCbM | 22936.74681     |  4,673       |
-| Cmt67FpqXLsZFLwSb26SquRuv6cMgZBPc3kFwAXBxgMT | 22933.15853     |  4,672       |
-| AhMRdZBuGwqD3sh3Y8yvSHygoNVaKyJkoFJdFVeuGciW | 22905.63556     |  4,667       |
-| 2a4Z211DWRan59PzNSYtPWCVZEdaexAA5ZY4JsrWYF2p | 22875.43742     |  4,660       |
-| 9mowgBez7eg7sQAen9JvdbKFnAbUH7hbapyB3biJFUbk | 22688.8695      |  4,622       |
-| 4DbWAT2UBhtXDeqfcKhR4nYKQCpyTBdfxQtGGMYXJ6bR | 22626.22616     |  4,610       |
-| CXLWaUmD5D6BDSKmjq36Sg7CvHrcs7BVidfbQnDxnZXe | 22293.48534     |  4,542       |
-| ELjHEvEq2hEPiBZTLf94x2zeGY5mYjQWsQ5YozpZKfqg | 22153.52372     |  4,513       |
-| j1opmdubY84LUeidrPCsSGskTCYmeJVzds1UWm6nngb  | 22120.49543     |  4,507       |
-| 6ujTVVFccBdPGMZKsmjDx8mTgtWz7gez1bDMyJrRb9eH | 22109.49129     |  4,504       |
-| 4F8KhZq1Sj4rGva7NJA9yza2K276fW5tX2HpBxWVyoBY | 22060.3914      |  4,494       |
-| 669pUZnDC7oeKFj9VKH4uWHcvQk8RMttjjkQM6mb9Ub9 | 22014.51744     |  4,485       |
-| HKJDK5w2rW58N4v3Z5mHf6Sr51iNvPzH121u6p3ApbYj | 22012.25142     |  4,485       |
-| 2QWRp9xtdeRYVeahLzJHJZXDYrAZvxnBRDWNm2L5ETAD | 21989.11731     |  4,480       |
-| H2oNh9xVp1StAjemTxh1FWb6T4VY9Krf9NesZCNrmk7G | 21937.67641     |  4,469       |
-| Ceb3Am4L5pw8DgA74vq9hbe4Uyyq5GqZvSu5qfiHV3QN | 21851.56714     |  4,452       |
-| EucYitdjmgny6hP2EtTAQKyiaat7GJNLEu2ZcF6xPNs9 | 21814.72676     |  4,444       |
-| GbdTJjEapGLLHV5rcR9XtpbJbtct5hgb2qKzpeFskEDH | 21811.7446      |  4,444       |
-| DohVFuHgWYuVH9ixvmqWtA1CxiARPVJm4JtDwHPcQvFn | 21783.80698     |  4,438       |
-| C6w3UB3EiQXdj8a94oUWRpvA8jmfkb2PJvKp68vjXsXB | 21729.05551     |  4,427       |
-| 7qTtrdB1bqyw5z821EoXgaL4hf9pxcMCWvNfubNhmcQ5 | 21719.93162     |  4,425       |
-| BtuKGoBH5cJv4MGD7AhYpAmJqwrAcMyH7XQXEVRVdrtx | 21570.14302     |  4,395       |
-| FXhJAWJkgK8gpkZVf3HSBBC6ZafsWf1Rygae7bM1v2Jo | 21514.35243     |  4,383       |
-| nMv8qzsbFhAtf3pi1qvQX7Cvpd3Q1QgCJYNLNQKp7oT  | 21403.34357     |  4,361       |
-| 5shYkWDYcHJrYLYeqzttcxEHFzYoEmde7UHK3vzLhNU1 | 21374.97966     |  4,355       |
-| HkZ9JAYQ7N8sWKrcCMY18sH4Xbn42oHJRhmnmY8hURGV | 21298.31917     |  4,339       |
-| 8JepCKJvPJvweBriuoRRG3Ru18r4cuUk7BidqKdcSyKM | 21272.12697     |  4,334       |
-| 8pgD9usobSxnPmPhsYkeGTt1WErdu6F6BhY7BA74ANxD | 21224.25886     |  4,324       |
-| ffwLYRx4zFfPptpGEns4FkedCnYrgTJWx7cY537Hwi1  | 21204.93488     |  4,320       |
-| 6UNNWPjhYFMe7i28CmCjbj1kSjXHa3FJ729TyoPpLYr8 | 21162.38211     |  4,311       |
-| CpLHHr8F9MwgW4qQGu6icikhZmgJEjBD5Cen7H8wQDK  | 21129.62081     |  4,305       |
-| CXB4aaBYE1JH4N1PPLwYNFMSQVFgjqAEyEASQHbmyYQC | 21033.78367     |  4,285       |
-| 7ctobb1GRYyJUt2DWW1oBoj3xGXSQN9BMQ5qLYME5VQD | 21000.35373     |  4,278       |
-| Gcy3is8t9kNsp4k2qwb6M28F2UxD6ivSh9vgo7C8Cd2p | 20989.63791     |  4,276       |
-| 4WNBJbmPgCQUegAZGFm1HaUq2aD8Ztj8fuJe6j6eK9pG | 20974.50325     |  4,273       |
-| 9tVSYLJzPfMfx9HC8QcKcJKZ8ksjAhzjMnXyxGPKtkNi | 20825.96829     |  4,243       |
-| 9QF7Ma8S5tLmqy9BZw7A5TvsKeSXCY2bqs7yejfkJSzQ | 20781.18355     |  4,234       |
-| FETQCh56efs3Vzf53yaR89r6E4p8Coq9CHUCHhmrZo77 | 20734.08235     |  4,224       |
-| DLzbNdX317ZLSEV3JhNTDZb9kaqruewCBMk8CtkkP7A3 | 20710.81134     |  4,219       |
-| 5qKJsFmLRX3RvpYbB3Wkq4UkujTbiHhJkoJewQXSSBDB | 20683.87429     |  4,214       |
-| HZAwnSAAc9WmjWkirWaoP3Qq5GdBANLZM3wSQKk95xKt | 20675.08113     |  4,212       |
-| E3LFbc5rTGSUPWFL4YbD58MoyYANgScQLcYTMX4VoCbm | 20652.45187     |  4,208       |
-| ExiqYfGmudgRZFTaFtWiHrF3puzHuNdRiPFc4Cd721xH | 20647.5472      |  4,207       |
-| 5x7EdcTTn9jFV7MUNptPWe1QVGVFEvwGj5CupUsd5vco | 20634.85647     |  4,204       |
-| 738gn1noUcR3Z2cQgVuEyNYhN8VAzUctDCjCpeCasuwN | 20556.16341     |  4,188       |
-| BixcjcEu2sTWXHyYw3DdGR9TCAGFJM2YnL4AFKQ3ZBtm | 20486.70763     |  4,174       |
-| 4bLoKY1fLSrDPjuwUE3SpfvdPfguwnznjPHw2BsjDKj1 | 20484.82226     |  4,173       |
-| 4exC2ZXFoq8sTtjKraAtXewpXrit8c2PaEdG5FdCe477 | 20463.37226     |  4,169       |
-| 3CB8QbUTnjW5s9RGPk86P16qMFbLS7P6jazzY8RYvyJe | 20444.61297     |  4,165       |
-| i6VxZspX8aTAMyhNdbW34XSLEGzKXjHmkXhbUvyDr3D  | 20440.02292     |  4,164       |
-| DRYbGWVrDQEGLqfc8L3gEJhctq7yDSixure5jGCE3rdh | 20430.41138     |  4,162       |
-| 4buEV6sNoF5KQCPtcmMYhCBBftNDy8kYwop1RgAN9EaP | 20417.92046     |  4,160       |
-| X6Seux7bNqBS3d3y6fSMCfJxBmkAnBbuTvQ6BxF5owy  | 20405.44098     |  4,157       |
-| 7NZyYh24NNsqt2fMMiw5dNFCXgyjJBvoCGZsoxWi6g97 | 20392.97295     |  4,155       |
-| Ev6swa29ArBNu54FQugxZsHSjU4nAa8wqM7qHGzZweLC | 20379.11149     |  4,152       |
-| DM383VLWA4tuqvz9uZcwugFzwmiF1p7Mcxu2BUsoYvCf | 20369.12397     |  4,150       |
-| 6LbHkHi3mJTWU1YkZHwjmSMcAf1DBSm93pPnSiKsQN5u | 20360.51369     |  4,148       |
-| DjpKm3Wt3u4ZdZhYoCdqK2Qywzuq6m5ZriaEcjz97QNZ | 20347.45495     |  4,145       |
-| 7dS9E7wsc6kzWPfKYm4nzFtWhWbAUayr37g3YaaH5Hhv | 20192.13134     |  4,114       |
-| DCiRaEYFmK2Y7TrD3AK5VAi8XQrGa7cQQneEzWCedygq | 20186.24103     |  4,113       |
-| EgiNy2j3ti6sdHqGtHqt8uwhBvTdxVoc7mFzgfMXtyYa | 20146.79297     |  4,104       |
-| B17z26tuH9erPqqy6Y2eo4GVP9Zd7hrZPh2kmZMNFtsm | 20065.62819     |  4,088       |
-| 7yMbQgaqvjMZj1PLxudgccqpAZC2F4tqQSxRA8mtNRAo | 20006.26938     |  4,076       |
-| CBT7JP5GP6eo3UiTXC1UH3MA9zNRakHemibn8wYEeQBm | 20003.79092     |  4,075       |
-| 4U86SV3BBH3MPdBXceQymz9PSw5JjKw7kV7oiZanJUV5 | 20000.68195     |  4,075       |
-| 2jVAdtgRRhJRWLyk7BXjh5oenQ2jkJFnEqBDZZmdDr8S | 20000.45984     |  4,075       |
-| 9PgTfdmcDCeVHTY3fM5j9tDBzYgsAAjXWHUXPD2d846y | 20000           |  4,075       |
-| AXg3BP4Q4CNwdbn22T8B7ZzvQt8sTLCUvxRHQrg3R9Zy | 20000           |  4,075       |
-| 6i4oLHjSD2VqZer1Q5TTugcorkJVeT4354U72ACRAF8c | 20000           |  4,075       |
-| ASCSbbJUyLZBQ8XrFzSQwstDDbFDBeorSPrY3B9BBUG4 | 20000           |  4,075       |
-| 2TC97nVU9Y7ufCm2TvDvSMox2K4uYEtwwqX7TFuP3eii | 20000           |  4,075       |
-| 2T4MbnDE4dNFExAtv7hcKkUCSFJG5EFM9AwqE8LQ96mr | 19983.16069     |  4,071       |
-| 2Fi2gGFE6jX3EKRgAowzsHsvGNXoPpYey3ysVXuyHfAA | 19967.88226     |  4,068       |
-| C4SKVShGXv4atFCKeWR44Gb5m8XGW4XuXzgw9Ewivu1S | 19930.06836     |  4,060       |
-| 2L6gmWcNd5ioj59eKU1ahZFjcDgd22KQxJAC4ctexKZJ | 19847.18757     |  4,043       |
-| HSMaDnSB7gJJbxLpNdq12Uw5TJvT7XyeDi5Wk965YzAL | 19828.46678     |  4,040       |
-| HHVReck9utxao7p8zjuUKnzhMGpDL4BkB44PuixWDJ9y | 19793.01229     |  4,032       |
-| AKs1Eonz7VWWa713xWnia2kR8FNRCbwpUT2LmXG3t3YC | 19753.92241     |  4,024       |
-| 6mirDWVeQGksVeeLRLRs8Nb5YtchxeMnZwir5RjSKnE5 | 19734.71472     |  4,021       |
-| 8DqUtcSHSscgejtx17i8x1CYAndVkSeQ2iDYP6YyHWZw | 19730.80214     |  4,020       |
-| DwRjWuX7wdPqmWn6wdxTP9wM3gDXU28BRu1dTq6aGEgb | 19634.54848     |  4,000       |
-| Gp7VZ6hcDh7WMY58UguLJx2JaFJWPbfGmHg7ooZSApf6 | 19629.07521     |  3,999       |
-| 37zFy8rCbCk6UrumygfMoQsiwudrFszpgTLzwsBq81pM | 19627.43674     |  3,999       |
-| 4E2vD79hYw57YpVXboZK5SKqYcGN76pX9KVNBW3spBoy | 19460.79419     |  3,965       |
-| 9hMLWxEGdTqDvk8k19xyVki2ys5ADe1yqahWTgCgi1G6 | 19459.51        |  3,964       |
-| BigTVhMvNmXMoEVSzXVBCoEXo9TyG4VKc8TAdjEfeGys | 19434.69133     |  3,959       |
-| 8QjZ8CDM1ZgADxbEChn7BZoz2axnz1yq8wSfVgHPtd1Q | 19363.58512     |  3,945       |
-| CVrTFQDsCNrY9Zsq96t9YAJKBsnPyv7iaehnFHeSh8xb | 19347.79928     |  3,942       |
-| CyaTg3Wu8sEtiHjZsvnxQ74hSbpe21x5MKreZFgtg2Td | 19334.17833     |  3,939       |
-| BvCsYrpfg9sxuC7UPE4NbYPBDAHqc7swN2PV2u1qFpSB | 19330.52321     |  3,938       |
-| 8KBpxLYWormX494rTsL2KdrDrtvscJZ8PZAxCGccwh5h | 19326.5415      |  3,937       |
-| 2wEGoFFkLXR1CAXzXpEuhqmxu7KcMqqE7QW6C5obyB1v | 19272.84227     |  3,926       |
-| HJGkbbjBSCCuNx42hg7exRJqYH2meeisBVkjPn7pptfi | 19261.8049      |  3,924       |
-| 7q89bU8ctsD3D5VVW2VdwghBbt6Kv2z9MEf7s8BvPPrW | 19249.70874     |  3,922       |
-| 3fqgdv7jNScxGtL7sSZqxXCENpdufMXWENUerM1ZpX44 | 19248.35896     |  3,921       |
-| 7B656NeMS57sBgMjD6DnLXCh2ceR9f6t1nV3XuvDWPPP | 19212.04199     |  3,914       |
-| F9ey77arym57vrmu1GyGDubY2ZMtCVejr3o3sHe9Z4MS | 19118.74424     |  3,895       |
-| D5eeWWaURo2SsVDzgSxKu1c92VHFYafW1K6ySqP7SKKJ | 18997.37333     |  3,870       |
-| hx3AmJS8RfVpxtSmagcQGhSfu56w8vQCt38GFQWcMUi  | 18991.60144     |  3,869       |
-| 33qWciwQrUa8P9B1Jcfp4Gvcp8RCrHCcqH3p7L2W1w2g | 18914.94376     |  3,854       |
-| J1JmbjYMj3UoL1ccUBN2yrQMcBSTDXyFuenVbNBguS8g | 18903.88891     |  3,851       |
-| 2izyeSjbHNrdn4NVN9mot2REDaA2nQiR2qGEghXyp3TW | 18889.08192     |  3,848       |
-| 8QskpazoNzgxFu7iKJomLUmqkN8eppAL77EQFS844XZF | 18759.37166     |  3,822       |
-| ABAWxCVHGweJomBZF7WK7cY6EuXBApJ2pkEvRaaymXHp | 18682.31649     |  3,806       |
-| G3WS6hmxeh1GSFpophJ7WGViAPQZHPdC7kUDfCMunJKb | 18656.17794     |  3,801       |
-| DEt7jJ77i273bWYX6y9YbKA1rpQR9SjdMh6Uzar8CRs4 | 18628.92263     |  3,795       |
-| CDRpff5bepA2ciw3ERTXFYLvhFz45D684GMkwQHzbHyt | 18620.41068     |  3,793       |
-| 3bXjyjpUKKMcTbk6Xk5aagU11LT59VLW1EgHWSUCyFQd | 18581.06155     |  3,785       |
-| 84z5Gz5zbF5zFDNmWVCAdpMBvk5g81WsCKGi1SLGg5op | 18496.5449      |  3,768       |
-| G3wJcpM2NjxcEUTgoydnHgjksq9kgYPCUuCfRwXRZw9L | 18496.26122     |  3,768       |
-| 7ZPWVoRAHZBNNWzw47zbE4pdvHQt7UJW2HBydf5rUram | 18472.70238     |  3,763       |
-| 5ZQ19MkiJG6KwKTt4HcLwd481HfjkUw69W9MXQWht5Fp | 18468.17364     |  3,762       |
-| 7Fc6c1EoMegYLTQ3r2M2op3aCHZYMq6Eq6JnC5yfStSW | 18466.76535     |  3,762       |
-| GVqWFk97zZ9ZScsPvE9ddP6gNDm3knHZRPXMwaHF3YG8 | 18384.54272     |  3,745       |
-| Fzwc5oUWg5PMZ9DxqMqbJGa4Pvog2PHByVHB56fBzkm6 | 18380.28612     |  3,745       |
-| 9kcmwbQ5menpE4k38uhaKeqE4NbUGS7AxE4KmnG8isum | 18378.16885     |  3,744       |
-| AcgxSq772Ks2vRBVLyXBKzCnq6RFCka18DNmEfJYSJB2 | 18373.8707      |  3,743       |
-| 2NuuAs78r9FNWwNMJf2sFfFa98FGK7WXz9Vtdco9ZkpT | 18356.07138     |  3,740       |
-| 6kmb5rtL18R8mayKU4v7XU5B1JLioxszZ1iHr9u2BvDQ | 18344.89484     |  3,737       |
-| D26TDTVgo3b8jyEmpq5KS3FeCsfeKUmRkJ1L25p1UuEj | 18251.27195     |  3,718       |
-| 2fUuR4X2q3JV3Fndg7Uh9XDU7865N2QCyzCke7LbJWWV | 18239.46525     |  3,716       |
-| 6vdNG17iktbwFi58JwVZKqBx9T8mQehEVtHEZFqXy79A | 18233.7276      |  3,715       |
-| 2iRMxWjvqdNtqg1qvACyoW66HYU6KaCq7Q2T8pbH2rpd | 18182.02282     |  3,704       |
-| 2FUSME8J3dvBU9GS5BEuLAunyAhJCo6mzX2nbLK1prXF | 18114.77686     |  3,690       |
-| 2RFJFWXiCACMkMPxa4eLSxbzbVgBsApppwPqgxyjn9G6 | 18018           |  3,671       |
-| Hb4oJ75Er45brAvjxnkikBeuLHSMFc4tD84X3oiW3soz | 18000           |  3,667       |
-| 6hhgVhsFjMjBmUhJTxdnNPEzLc2dj7AnmuiTt81HzuPz | 17996.89005     |  3,666       |
-| FMapSKZoC1wgDibZTBXEujdgMLNP9nTfWYkeJnw4DaWo | 17985.24803     |  3,664       |
-| EggspJuohxjmQT5ZwD7amHAB9dR4fC3xQf4Qm4wPTFjk | 17977.81456     |  3,663       |
-| B918cWokgEvnhVYdtrUAwJjTLMjTdv8YWKH697G2Z1LV | 17884.94763     |  3,644       |
-| 3phcoCC54B1n9XERgPDw9PNiYDnND1ZiyzTYbAHa6gyW | 17881.28813     |  3,643       |
-| 5veEu6Vi6NDr3JZFZpowmzJoDC45T21NrGNdMnB9dE3s | 17871.61513     |  3,641       |
-| 4R2GU3iiXy4JZkkhdcAWqTEYRxpuUjfEZb61HseraAkf | 17846.814       |  3,636       |
-| CL2NEhUGu4fXfgnMf3ma6g37Wk6j6VW4RmJfJsncL7C  | 17800.98904     |  3,627       |
-| HcU1fVNtiYCqx8mwFJnV3jKPH9jStYwNif8uKqwemAD7 | 17789.02981     |  3,624       |
-| HoKSXAVe8YSBEmnxBNEMVfFZB4vExVAYSJg7RW3BVKws | 17787.93029     |  3,624       |
-| j1oxqtEHFn7rUkdABJLmtVtz5fFmHFs4tCG3fWJnkHX  | 17785.92761     |  3,623       |
-| HCCWNzvVBqQR9vLqPMBqLsmJApbbbNoFu2jJR5FCmZUL | 17761.96558     |  3,619       |
-| 4TisK1asSgPakiV5LasCS8JJA8gjdLLvP2agruHAyoGc | 17754.96685     |  3,617       |
-| 9fibDnnxFEyUoUYejVgST9mK6Fvm7enhUR5nkGJf63PW | 17743.70589     |  3,615       |
-| FKgscCiNuY7mX5PtT4GtSnmtzy5u4k2SsjQFzB9MY2MS | 17739.63082     |  3,614       |
-| 5G9HGfQeCozv3xvBZPpRsv8WTKSohy1pLgtLv1AT6Xar | 17619.50496     |  3,590       |
-| 6C3okBtRVg9N5Dax9JFvvw9E7BZ9gcETHEzfSfUnGf47 | 17489.54578     |  3,563       |
-| BUn9K24FX3qAaeWRtFdVSivK6ssHyZ7EJGiAQfHod37X | 17445.26709     |  3,554       |
-| Bq6C2xKvqEue3ocaPa1kavNXKaUjC3ygYFgh4Yd8aFxt | 17378.45028     |  3,540       |
-| 63e8KXjGfrBGVHBVda23zp1uz8Yu4vSa2J8zg29GgZTz | 17361.87768     |  3,537       |
-| 2kHTkU5JWvgFVc31sjK6CUurs9m4NnLoDHLZTWP7aAAh | 17330.78666     |  3,531       |
-| sLLL8HFcyYfux6tv4ouXYov4tKCr9hr9S5iyueVJGcq  | 17303.15404     |  3,525       |
-| ER2LBT2tmbzGhTzVVvgBLWF2vph21P8zLqrtZtJ3NMJ5 | 17280.8074      |  3,521       |
-| CMc6p8NSZuhaiaD3yRhKJJEMwW3p8PSooZKTKiB8inU8 | 17027.59156     |  3,469       |
-| 5C8gJDjsxrA93fgPpksAxG5jUx1mMvabqmyNFpruxzMi | 17000           |  3,463       |
-| 7bvwM7AMNsqZHoZwy5dgQdS7vDgXZxn8ZEf2hrnmuWvL | 16973.93349     |  3,458       |
-| 9VLDG7kpo7mj4FXXDTE1GbnbpQGPonTEiToLzQb3gcYq | 16931.09913     |  3,449       |
-| QUgA3g3UwgkpffGuCPNCZgAgNsrT11eUekd9hohm95i  | 16896.75566     |  3,442       |
-| GkM1gPhmhVJsq6aCL4JBAZkr7KUwPNHgQ8DY93Pc35YR | 16840.43849     |  3,431       |
-| 8LVj3QrM1mne5GwkBpchkx4jSzBpQ1GxT3u5mtm2RbFF | 16791.04102     |  3,421       |
-| G173hkaTJnPuNxS3U5BnNZwK8MX6p4m1xKzy73ic4eSV | 16531.21555     |  3,368       |
-| 6duiChQ8yLiS7N3UzF2QSbQTNGiuYEh6updcYm8bBNNf | 16525.90539     |  3,367       |
-| BbCtkfhWzNFXNQSmenT317B747uyprQ61vmUi4WHvrrv | 16486.98844     |  3,359       |
-| 3JWaJU2U9nijrDSB1pSz9CUbrDyg8eF8epkkP6z23tvA | 16480.70174     |  3,358       |
-| EPym9wXzXab9HPZbMxo8Z1h9FAE28MJJx3y7iprdRX7Q | 16439.9661      |  3,349       |
-| 9kAS5FZmJJnVEkPPH5vKmFUK3CKP5UjHp8WxVe3FZeBu | 16366.43147     |  3,334       |
-| H5RT8NzaYraaj8qS5v4tXTsdDPEA4s9ok8GSsJP5Mhev | 16364.44321     |  3,334       |
-| UGT23TMF2rFP52SXxPU4DMPhhLs3epZNRsgk1dvKcWt  | 16347.39139     |  3,330       |
-| pmixq8z1QCTEfb5zMAC1xy9XDZBU81JxyKzH2eSG9pS  | 16337.10972     |  3,328       |
-| Aic9NCE3tJUYq7giNC74ozY8YjrgvE3aEWzBvxfWomzg | 16254.45262     |  3,311       |
-| E5oMKWfVHofvLsSYXd3rX9cp3bZXxAbFnUJSSRWnzUdW | 16216.45735     |  3,304       |
-| GAbaDZnDfSAbNSb1rQgEXxc5rKTyMYoxq8qJnLz23oH3 | 16213.74204     |  3,303       |
-| HdrP6k2JcNXzRV9kR1gQg8maUKrmRbgr46zSiTSjYeSi | 16131.33007     |  3,286       |
-| 3NzRXsDmtMnCQEpDzpkVR5PuPvGKKWq2Xnt8gn1M5Q7P | 16098.23774     |  3,280       |
-| 3RBRKHsUZPtM8kVmFBMLcMsNzLWJivXdu8edYLB2nunq | 16048.13415     |  3,269       |
-| 4wg6tdizopC4GgzMP3gzZpWrkXAcnJPbjQJPc7ftM3wR | 15964.82823     |  3,252       |
-| HyF6LTp5jpbwYqYaFYXRmpTSNsYxaZiHcHLRrHuPQL1H | 15891.58356     |  3,237       |
-| 4zqjCbiFzxz6ra7VtRuEGFSB7gpyBcarHbEYtcpnoxfD | 15863.08829     |  3,232       |
-| A6SsnaHWD29iprhaJKXiuRz993Hu1pd92rAAjiUMdVbo | 15819.85162     |  3,223       |
-| 41q1iR2rvnt2WBSB5SxzUFAt8dyCFNR9Bro6VRX7Y6Ho | 15815.84398     |  3,222       |
-| Bud2awxESStYjmeYigQgSpcxVtJXS5rCrFNMP5qTHHxZ | 15753.07793     |  3,209       |
-| CfYGJCyRpFRaD766TLW3gtJkxGPhqYJVgJnHSU7DmRuA | 15737.10711     |  3,206       |
-| 5Q6oKDNzMKEvgfECNv7PzARKm35uxAauwxYmG6TGxbyT | 15692.05268     |  3,197       |
-| 4igr5sF7bYi4JrQtNtr8cvCUNyMbkqs9rCH7frJ4Suuy | 15657.54638     |  3,190       |
-| DBHmQY2sFkWnaUaHv2FWjUjSnJMjeMTCU9eBpXYsiy22 | 15642.19387     |  3,187       |
-| BzxzsGWhiu6xJwaq6RB5FYdYUCjU1ZxissZH9t3XSEMq | 15435.81921     |  3,145       |
-| 4azTCTwsnu89FyX6Wqu5zrQ9rzRthBLtTzBcNZF64PZp | 15434.75264     |  3,144       |
-| C5e2ZRmnMo4ieBJAou2wwrLebCG9efdhRuaS7hQXpzsK | 15385.16318     |  3,134       |
-| E2BCt2nrkFjNqo1Ux6V6mCWfddvtw9HhFnvpFasYc9pq | 15370.76789     |  3,131       |
-| BouzB1fVkRGV6oXfBYggBTrpYeW3LJYAJ2TAYRwjpWim | 15354.42153     |  3,128       |
-| H2mGpwVS5VVUNCswnWiyycx4h9jzC3dLo6jsCKYweQ2b | 15347.34471     |  3,127       |
-| AHCyfPm6rvRNGh9yLyGdTxX8hdPsCgrNxoyYQKhHY358 | 15333.19657     |  3,124       |
-| BUkRA8VEQpmcFjZ9iv1NErTtz9bv3BrTxJYJa6Wn7niu | 15319.83245     |  3,121       |
-| 7K1JNGTMzWWVR8ZCfvtp1szK4eqUjujVtnipExWgG8PD | 15207.01729     |  3,098       |
-| DoZbmYDc158nHtoY3dDNqZxxJZpVuYbS112zq2ZGmadh | 15147.0788      |  3,086       |
-| 6kAt8wEchL4aJJVnAvDYkpMKaZL8ixi5G8FKZCPxTnmS | 15103.55473     |  3,077       |
-| 6EsS2SbrMU6dk5bn55hBXWkvvHCwspTmbHCt6oYswAgt | 15088.40993     |  3,074       |
-| H9MBcSoNQrr1BSzky9E2PZcYRbiP2JTpcUnRHXcGbJuW | 15066.5736      |  3,069       |
-| B4xGzkZ1EjYJrjgBUKswJxvzCKcX6UWTZ6d2rcvSrqER | 15027.35175     |  3,061       |
-| HYyePUMittfaRJhpG8NqjJEnG9aqcTqnq8vWGvCzCiaN | 15000.3185      |  3,056       |
-| G9ivbTjJz4bgtjyXr2zkCvUdv8FToXsopxzzacjFnJq6 | 15000           |  3,056       |
-| BaUqKsMaqJZQTthecfiCtvNWBjCnCAFghDrmSKWz4Ats | 15000           |  3,056       |
-| 2UBTq91R5R4ogQndewRpfsYJziu1bLqBqrTD3BXgjcRR | 14990.33442     |  3,054       |
-| 5HVPwnqeqXoZq5apg1s3LxMhrkMB3Ja8ZHN99c7WoZnD | 14980.35462     |  3,052       |
-| 9j3wsQCaXvjTstfJQu1HGE7h6SMhfmjHoVp9L3BZSN68 | 14970.01004     |  3,050       |
-| mFiodmGTAu3NfXWpqCDva6iEXtQKFiU7kHWCUPuVpsn  | 14904.73507     |  3,036       |
-| 6VaoaskbK6CN7CJJBxAApUu6zMGqaGVu3W9hcqRLVMGg | 14876.26361     |  3,031       |
-| B43XUF3GVqtivxxQHaXvaZycz8S3jr4waSvCFDwM74Bb | 14813.72957     |  3,018       |
-| bqugU2dX6pp8G5PBPuHz4FxDoWjWr4M5ZhYBh21dq2K  | 14804.02462     |  3,016       |
-| 3Z8mTry6n4Yz5hJue5xmxufqdb1BBLefGEXV1yTBg4ev | 14798.78024     |  3,015       |
-| 2pokUHgSsWcsDdmYAo4EX1JGeVmXvukVAjvRGexkv7CB | 14650.61832     |  2,985       |
-| BNWBHdayV27CVU2yGm7wuGHNSK8xX1ykdvWLDK3vWs51 | 14647.77892     |  2,984       |
-| 2jwa5XKRXs5Symd3PW2FDTpoW7jeyrBfv3Bt2GbRfxwv | 14607.57347     |  2,976       |
-| DfKNUxqf2cF2PeTH478qk2fLrtgwz9JLiWQ76Q4SJfsx | 14478.26087     |  2,950       |
-| 82LqdZ9gagf7D6vbGkZ3xZt6KdNAdFTTreMCdRciup4v | 14460.34365     |  2,946       |
-| 2bqSSznU1kfhCVYaYyRywS5ifRCF8btU7sWkabc2eW3V | 14375.4895      |  2,929       |
-| 4nfXZMdjFV572oa7nxs1MQWeFYygF5ZxaXaMkQvSVe9M | 14363.56403     |  2,926       |
-| Bn2BryP7PHvyLNzPTg5VVqBEwyPcZG7mhmsNa4VYjovk | 14327.76327     |  2,919       |
-| GezCjMMT38oKxd4UyXYLodSX9y5KCzWQTSGD4tZWdYHX | 14322.4874      |  2,918       |
-| Ez72nPCEn6tzFEhPSN1ahHQ69ktxjc1zAcmREWEhZW8s | 14314.16877     |  2,916       |
-| 3yzTwqcMiTAArghQrwUuEHiKtZFbW5qv43erao44wiqk | 14289.68899     |  2,911       |
-| 5Lggqdm9ttSj4mtqxNrDdT51be83LfW4sVvG8mEwo4pb | 14129           |  2,878       |
-| 3tiHLjYCRDqZd1xv6gUkmpFgDdpddXGhVYXY3ySPxmDp | 14106.22548     |  2,874       |
-| CVuAtGJXEjRDuyrPgeukPtSK1bLnpTLZttVfTLKPyCaM | 14043.13575     |  2,861       |
-| BkcidEZ14sHBKVCxqwMBEdPLQ5FTmd59yBeKxBo2gLLp | 14041.84944     |  2,861       |
-| H2q4vfe4znMhUxDjm8RMibHQfc2oHQZCE1F5Wm4h7qs2 | 13957.38717     |  2,843       |
-| C4uzvDD4Kek2yPwQCWw5KzMHPcArhBRc76YYzesifa7d | 13931.03601     |  2,838       |
-| EtFkGMLADyk9RPW8r1c6ScKsgsAPhGJnKdtfvG2cedKu | 13902.79013     |  2,832       |
-| 25Uqff8X4cB6gZGTeLZzEjTnySjyrtriCntLhB4MsHok | 13857.32348     |  2,823       |
-| 2efhB6vTqGti3Qi9hEwMzKgreTKpPvX6Ve4wx1TJXr5t | 13819.60557     |  2,815       |
-| AtK82Z5N8fq8nBuoaacHVkNVj8axcxurRF4urBHVRBZP | 13756.86499     |  2,803       |
-| B6buvPcqU9HVT33WMM1gop7taJi35m93jNacUqWjN64d | 13733.51343     |  2,798       |
-| CazASUjmhsjEzW1c1ZYQ3tmqqSaDRSkKHf7iMotf5KfD | 13723.72809     |  2,796       |
-| 3TXVxybb224ESxMoHvDhtQEsViTob6uFuPtr4t24YzUr | 13672.75608     |  2,785       |
-| 4eE9iyBQ8J2HwcQeoBKEhZ5QFbDL2sjwUJJRTkyLck4V | 13668.32772     |  2,784       |
-| 829T2CJaicpm5Fw7xvm2v8JZMgDVNpy3YLzN9NXWvmhd | 13637.3476      |  2,778       |
-| 4dyevHtcCZEToxe6cdqfm44U9kVXVpwdx1kHKUBUNiAQ | 13605.5276      |  2,772       |
-| 3p1t6NWWgjXYhkJhwCtdJjg8GUsBaA9okRPNNvx8gJZm | 13599.07274     |  2,770       |
-| 8ZcCuujPm6em1UmSdTeobvi3Jje8hEdqfXknJbeVviLM | 13598.82586     |  2,770       |
-| B4MaXognYT8F3c83uMHHCBv1YGQTjZaV8C7ebaPJRxoD | 13595.22599     |  2,770       |
-| 2F3FWq3S3a7LiQ2K4LY4CzFyEfy1A9CvNTmVCCVPMrHe | 13496.14233     |  2,749       |
-| 9Y5r1cxXmuk2mLkKReMq7eH3VTRNKRKPvFmyD7bXt9EE | 13491.32641     |  2,748       |
-| 8Zb3FM8byxtVdAv4QRhqYBP7GqXHokCGFpC96zYstAAj | 13417.14686     |  2,733       |
-| E5XV2i5V3sCDxSB8wv7nG6JvwGpC9wD9ADX2i8soKwgH | 13391.66048     |  2,728       |
-| 9qADSydSRutCKzrB7kPRc8mDf9ski3yxnfXn7iQvYD8v | 13326.71784     |  2,715       |
-| D9rwdUXDQvFJMCDjxhTbRxpN3pEAsbu238oVC6SV1D2r | 13322.65395     |  2,714       |
-| 9fV8BkGaTFbBaFj21MyWtCqzrfJFZSSFCztJahsiCdU7 | 13294.87075     |  2,708       |
-| THt7oZ1nmCaCxUkQhYE724JAqz4ZnogpNoajqZnJzDM  | 13253.89006     |  2,700       |
-| Aw4C5UJy9NQEvjEhysdsQuPHR738eBVQQPmoVwfKR7F  | 13229.71584     |  2,695       |
-| B7KCMw7owcK5pNs5XbWw5saENymNHstVaxXVCYuL9wRM | 13174.93564     |  2,684       |
-| 8xmhUFWQUE5E63Krohcdt4hyqZ8UX4V7HhQQmyt6GXxz | 13163.61538     |  2,682       |
-| EE1s1hdZN9NePcoWg1B9TPMqGDJrRg41CiGt7LSBvSUh | 13152.80247     |  2,679       |
-| 2sbpjfdsUbadxU51nyfzJwBgxh9dtQCdrJPJGBjE3g18 | 13032.3198      |  2,655       |
-| HgdjX6x1dxREHUnRDiBrfqVBcNcrjqWaseGVbVsqUXuw | 12940.07054     |  2,636       |
-| 9Nsw76CxRjUbzFai1ernMGQAuAaBu6MuXpHK5WwDqP5g | 12923.21905     |  2,633       |
-| FmTQMkFEM3asJJfwBFWWFdtVCUfbG21VbdZA8tzGkyoj | 12902.20731     |  2,628       |
-| DZN9H34GBD1mxsC9SqM5JscuhKA2biyXt4vJvAxyDJT2 | 12854.01228     |  2,619       |
-| yDyP8amRMtnRSXT7LWfMX4H6iFP6hHhsstCtZGSDGwC  | 12823.13592     |  2,612       |
-| 5uvp9iB7mkhcQqaCokhPn34H3wELWWJy6JM871dtJDfe | 12803.12122     |  2,608       |
-| 584uYYK8G1NHJX4VK9ZpJhtHnuRfPTNUdq6jsbmhCSQ  | 12789.1115      |  2,605       |
-| CVUgFyB2BprrJ7V4uBQjfQtLY1bt8vpcuNt8qEt7qYU7 | 12747.61361     |  2,597       |
-| 6MZvM9pvK1uRCcFyD41C34cDNpXzY5h4H6v7LJySez5G | 12660.7298      |  2,579       |
-| D1eRcDwWeo59riiP6c4YPUXo9cQftn2C5QUPwn5qotx5 | 12656.21246     |  2,578       |
-| Bb13KhYNqZAUQE1AHcPbVhqkgmL9ahS6NnA9ydczpEmG | 12647.03348     |  2,576       |
-| 6LKDj9ZrXSShQ29yRSZ7rSCTmbgdaaU1XtgTPW4pYK3k | 12591.3533      |  2,565       |
-| 2wn2kcubFQT7B8H4qMZ124xrNZcW96vUjZ6rr6LdJEGJ | 12501.01651     |  2,547       |
-| 6K6XvQj1EjEfkmnYghWZ6tgLmU4EZ6rDvTSdhqJjyrGs | 12254.41397     |  2,496       |
-| EtbW1r1BBkY4ueNGzmLbG3W2Z7vRzSXir5e1XoQPSWmn | 12230.5611      |  2,492       |
-| EaLwYHQMRrWWxTZS3x7Gkf4BXLbo3DxRXFPPrzo33y7T | 12216.18298     |  2,489       |
-| FjMfj3AMhvnmwknpTEhVXommNXdbZuv4QxMzKa75wM4W | 12209.28273     |  2,487       |
-| Eu9npJoWhNYDurWgzufRo1dk6isAzAUkBJqMGDmxTDhH | 12203.95482     |  2,486       |
-| DXP7XgLBbiB6BZy5pCbnqYGEWj6ngvZLSaKhqEsh8Yqq | 12156.28094     |  2,476       |
-| GSrWs4aLBP2SdhZu8VmZ2W6HK8obnzoPAbH2Gp9T4uhe | 12139.73473     |  2,473       |
-| 6eW233o4kEpYJEuepgWNNiB9t6YSDwR3zTGwicg8isEL | 12129.77847     |  2,471       |
-| 3g5ebGqoyZbvaifua8WA6q8uR7qjrVcd7gC9Kwb1o4mp | 12098.50027     |  2,465       |
-| 6Ss9fnMoZ6nL6Zdp38xtEzkZ3CP1WfG3S88DWpm4TuxP | 12046.81561     |  2,454       |
-| 5xXCWc6Vm45K494GzjAKnfGmMrqSszLABRbKjBUBA7DN | 11990.84418     |  2,443       |
-| 7YsW7d7QKcDVtTLgH39fzA4XNvWa5kz2YtXTT2WYuZpb | 11919.39104     |  2,428       |
-| BiJgQJG8gK3QUSxHV4R7tHPmvQoQkZsjYrxC7Wnncbyh | 11879.94579     |  2,420       |
-| Ga4FSMrMaYctYYBnX4c7wRLJfY59txhzzirxUqkH15q1 | 11863.61688     |  2,417       |
-| EzqjQ6T31ft3PyPyWi3PJjmWSu8ntg6MqJoUHjySJ8uQ | 11778.19596     |  2,399       |
-| 2tFEeixKGYjm8qsMVWs6QqXW6TNQrigCvwMpFDrwz67V | 11715.20541     |  2,387       |
-| JDh4uqHvuaVtJBdur3exgV1j3eecSPsECqaVj7dwCit6 | 11711.51515     |  2,386       |
-| 3gm1pABbN3mtwbVLFwLM8kwqtph7fnGi2nkCDcugWahC | 11694.50637     |  2,382       |
-| 3BqNmLQYS5G7FWAJNZq6xFwZPn8xUS3brur18VJYeCCZ | 11662.10818     |  2,376       |
-| DvAfrg3YNfVAgzychzQhkaXAuC7zJrMyMN4ypYBviy9n | 11652.89507     |  2,374       |
-| Fbb358XBhCjgrK71r1N3EgbcY1GauKCkjxbQhXpudKio | 11645.45484     |  2,372       |
-| HXSBhNGCks6R1K4xCUnLgMtgryRQ8ex9xC1f15LfsSCM | 11638.25704     |  2,371       |
-| HsEAE8Z8s5joR1ATZ8coB5Fosk3Z19NPiFYADo3g6TJZ | 11635.38087     |  2,370       |
-| 9yXXDiTf1CD5EbH6vS5c9xtxQqL7Dopbdyj2wcANLRon | 11615.98233     |  2,366       |
-| Hjra6E1SWxC2YbruGV8rMtXUyz5gYgcBWUfsH52TQ612 | 11614.44069     |  2,366       |
-| 6wHuhPq3AZCSQFFV9kbwKttrk4HzoXjrZp3vKBgxzAvN | 11587.01131     |  2,360       |
-| FtcmNuaT1WDPVNH6FzQJgeqeJTbHzQ5ti35TdG9YgG4a | 11570.14486     |  2,357       |
-| FX6bFXjLWNT6WnERUZzWv4pBodqdb1XUTebGETTc3YxC | 11501.98277     |  2,343       |
-| GHQk8D6SaPm62KYxazqBk6qYoVtMwatuzmegUWe1Aj8q | 11500           |  2,343       |
-| EepFicm51vWq35yKSrRH6fVeQyccmUKiaRo2VfoCJxuC | 11477.1429      |  2,338       |
-| 2fejUCMWURh3FJnFVwy7mf2fX78ke2VoFSoZedEkTZcr | 11453.79322     |  2,333       |
-| JBK8odBD5jW7v9LVFEYfrNtkXX6L2oG3QEJndDRD3AZY | 11419.17137     |  2,326       |
-| ECqh7jtmmDTdVVsWevxVc3xgtzRH8t4dB9RArCvBYEQ2 | 11397.13724     |  2,322       |
-| 6uGJiENncweMADZ5NzTdot1wvt8sBaxZqS2JMGQxwJrF | 11392.35518     |  2,321       |
-| 74jUb7Q3GgQzzkB7KNCB54FjN7x1kZXN7LjWeS5NrQAQ | 11370.6347      |  2,316       |
-| 727LUwGW5jJjLgqUvexN25EJK8vEcxwKhUiw1N1ksiXe | 11340.35319     |  2,310       |
-| 5VHGjNJzgZDdaRCsEkzrBz8vrJT3bEs1jm8My8eZA5ph | 11308.01042     |  2,304       |
-| J3bqa3fQQRQn1BbwRV2Pkvg6kpgWKrPdc1Z5H8ES5TGq | 11293.60902     |  2,301       |
-| 4NgQsnGZkK5c38oyuPTcFFXpHU582mD2cwnVcWjgJghX | 11253.34922     |  2,292       |
-| AGa5N9ssjxtXBeUWFtJ9UDw89huEYkRbJqzznNsnJgm2 | 11240.42266     |  2,290       |
-| 8uzKwYTy17u44wbv9J6sJ1UurFBFLU5XjE3aCWSgfdQ8 | 11179.20165     |  2,277       |
-| D6xDvY8qsqpaTZfdQVHTGg123RXD8dNZpbsSrVsoEirL | 11168.44502     |  2,275       |
-| Gfy6e2bKhpJuFbP1BXLx2m5HVAQqbjD1t2HGbaukYE57 | 11157.01254     |  2,273       |
-| 5mio9qogPD9feXV1wc6b3UXCJCrGGpxwhmLSK4eARENZ | 11155.81129     |  2,273       |
-| 7twgnCPSf1Dw3o2ic7F1VR6DBSu1QzZ8ziEXxy8881ky | 11137.88149     |  2,269       |
-| BYFjRdTtD6CyobELi8EHUjuqR1TvqUwkFRYu223U4GQF | 11126.46058     |  2,267       |
-| 2N2pqCHpNfSXgXoHiYkkLtkLKP3uUCUKMjaGkZwXPfCg | 11081.73757     |  2,257       |
-| 4DEWegVRirXnwLNn36trGK97u1ocaKtuDzYJMQ2ysWSg | 11080.70839     |  2,257       |
-| 7zb4bHbiGeuDxJS86NQr212i7YJk7XvUJvbYJtqxFp3z | 11034.9926      |  2,248       |
-| 5yocebyAMMCdeaUWE3VfF3ZNRDP5UEQibgftiQqqQqoN | 11017.59132     |  2,244       |
-| 7JfgLmHgM4Pnf1hpfvjaFcMqh5qtxSyjfe6Nrq733WyM | 11000.45527     |  2,241       |
-| DWtE6ickUjqbGG7C66gDiu1SFnT9agxLB243doWRcWxk | 10938.35979     |  2,228       |
-| C9Pq5vmMbYTUdbaw4PnaS8rnrC7uRQJe28mWDdZVoBm3 | 10935.41642     |  2,228       |
-| 7Pta9a3iKSppoYUq5C1Mp7obe6JyYy1rXXFfCQzo7Wwa | 10903.92987     |  2,221       |
-| AisFSvQ3jXBmyNU2EPt3H1eCzYUPWSaQDidDxkV263gD | 10853.53133     |  2,211       |
-| BJY2q2Aup5fbnD7puKwPmMY95NNVfYVPteQpNiWX8Np7 | 10823.7143      |  2,205       |
-| D87dHKt9Q8cTFjtDRQjCSg9U44hUC1Vm5VtRaKcKSZxK | 10787.68824     |  2,198       |
-| 5wVSwvPRSXzvq8DYFBYcuFU9e5QXVn4nd89xjKJ8XZq3 | 10681.5522      |  2,176       |
-| 3EjVdbbwCJVBMbji9zTaaqDNfSUoFgza4ckJSU8yaiW4 | 10547.71012     |  2,149       |
-| EMj3WbhRjyLB5LKFWHKf7H7de8BY8wJC9nr582QWA8za | 10518.99886     |  2,143       |
-| J1FSk5J7h8dqhx4QKuhc5YPoyD7TUuptoQXAaTzhTsgF | 10514.81429     |  2,142       |
-| C4uKJXdT64fmjQeybgjnTKdqLSsabHqiaGncBqgGqoSp | 10509.09183     |  2,141       |
-| DePaUhnnZKB9SHDJFs16ok8cSfucv1EKfyYd6tPNA32  | 10490.64042     |  2,137       |
-| NTmngBUcT84deqwGLV6hBFCU8eoi1M593XJjTV85uN5  | 10469.62187     |  2,133       |
-| 2pxnbyrEiVNsdRPnnZe7Gp2AaG4tdf7EeBjaboreBr8m | 10441.84598     |  2,127       |
-| 6aVTaL64Binj4ysWJo3iYdQS59P7TJrhgyP1tYywmkrd | 10374.38057     |  2,113       |
-| i4NtwPif1CXW7GoUAb5MNdQPHwih82xjU42Rn4ZH7rj  | 10310.71605     |  2,100       |
-| FX8FEqcitfG45LuSp86twRDgox2MeoR6qJEyJVZQk4Qm | 10242.86727     |  2,087       |
-| 361GfCNkAabcMJHEixyFZRi9qzzABWf6JoTpD8Yv6R31 | 10209.19012     |  2,080       |
-| 24wnSNAD71Fnm2mdFSePLZoDz2tmNjb5SPaBM6VNTwFh | 10188.74339     |  2,076       |
-| 4spHnfQUHaFv61EBeETLqEM7XfWDcj8D5z4G3g2HGWXP | 10140.79939     |  2,066       |
-| 2AMARr7ghWvprz5xeqNXTs94JzaPBLcJysUiCKzPMWwK | 10115.52993     |  2,061       |
-| 44urWuu56vtVuf5TsBRjFstrscWzhBh1DNsoXn7Axa96 | 10071.32624     |  2,052       |
-| 5fF1iAa4UpDz4JHGpmfaSZ2jpaK9HSHiGD4mtyCkEHGP | 10057.50562     |  2,049       |
-| 88HQTzH5pG4L3obPjHa9SBoovjcbutnWhS4JNhoL2MN  | 10044.14548     |  2,046       |
-| 9tDaw5gTZQcYyZnFEbBQja2n9SHm8ZrgvELbsvRpeFkh | 10039.44058     |  2,045       |
-| G4ef4HhufmpaVkDvRgS4G4MooAMeg171syS32bPe47X8 | 10004.13182     |  2,038       |
-| 5PkSZYrnDgWqo7oZi2efNKbbfUiVqVGfSEVKVcjZxut3 | 10000.79192     |  2,037       |
-| 71AkS73ge1PWnFoSVoscSdjKE9CbGDviCS2G493QTEBj | 10000.7361      |  2,037       |
-| 2cKNdmcADxrfr2eteQ4MjtKLWcXRyMMQ5pUncygtfsof | 10000.38678     |  2,037       |
-| DMkZU6EeeuYEVYpF7ogpmY8bKeTvp5WTH6U1ybpFh76a | 10000.22801     |  2,037       |
-| 2WM8ybv8qpfHTyxN6Wh7qSsK2eBByaZM6ffAzRMhyu3w | 10000           |  2,037       |
-| 9eCMJ48FoXQN33HU8ekzhAxsbvzNZ3w5riLnqMudg89g | 10000           |  2,037       |
-| D1pohMNM9t8rJqPTgQnJN1RF2rdVJm2Zo9ZWuar4KP55 | 10000           |  2,037       |
-| HSspsuvdBdzqT217eQt7gQbxsaokTerjVgHtrme5cAgP | 10000           |  2,037       |
-| 4CPjx5VwcZZQqgEYztY43Wv2c39mxizPznMxYkY9mi4G | 10000           |  2,037       |
-| BYrmoTdM9jNT2dCZ32FFkvY6qYSenbDuajPeVVSWi71i | 10000           |  2,037       |
-| 9kLz82tnVoiztGUcLgELHP7vi9sferuhs8wigRtYoJ54 | 10000           |  2,037       |
-| 9WFp6WGK6KkMb99brzo8buM1Sr6jUsKZdhRWk9kUuQGN | 10000           |  2,037       |
-| 2YKnGLRXfDGakXA48ieGrTErdxNwyEHGqs4XkuEEsipx | 9990            |  2,035       |
-| 2df25n7HfeU2s4M1ZRS8Pev6aWHG6YKxPtJFYsn1P3vu | 9976.525615     |  2,032       |
-| 9nLZKwPJLJHcxAZmwBy6UrH331tmrP7E9jGi2Pe6whqw | 9965.202129     |  2,030       |
-| Eby6NkV3bwh3Cyhok4VsYqQ54cDh6oKNWGwoxMehX6ZM | 9954.346446     |  2,028       |
-| 9ooo2dP6HtDxYbUZ4gV1VZCx5mykkbjhDCW49URQnmNq | 9920.664105     |  2,021       |
-| 8LzDwVs8ZxEg2XUx616HUWdsfZJjv5F8wBGa4hf9Yhwy | 9899.188981     |  2,017       |
-| 13AEGhRfvPEz4DFWeg36qPyRGa9pKxDSmF94A9wxRMz1 | 9887.623418     |  2,014       |
-| 5uc4ebLBtwtJA3gskpT125f4g7DAFYTbF1k2t534sxR4 | 9873.976551     |  2,011       |
-| 91PaMH4J2oEAuaXRZ1WxgLZp882mZMh9EZRw14iUqwE5 | 9854.256829     |  2,007       |
-| 5htHPeNDB874WjAzEunrRNQx9cjX2c2eTg4iYYE2yqGW | 9820.592571     |  2,000       |
-| CHk1XkqvgemnVskqBeRr7rQ1WaqweiQ2UvLU3rRqxDrJ | 9780.065757     |  1,992       |
-| 5f6c865yEB1Kiirg36WTZA4KCumuabYEqxrMoxFDvvyW | 9773.038545     |  1,991       |
-| CsJzLUe3CVqp2jCS49MCW9VTdNo37ULQeo1YsccoUZLJ | 9770.958703     |  1,990       |
-| GvRRMtqLy3PwWqJYXZCLLFpNaFpScpZFDrQYq2FUTWKm | 9756.998765     |  1,988       |
-| 381Q9S2MgjymxCjoMyFfPSKiqyPMpbydBcheSceS7L3B | 9641.313537     |  1,964       |
-| EzwTjrZzkH94BpsDTVdtoJKNkVE4tD64Y9gfbkDYwQyi | 9622.378442     |  1,960       |
-| PFuDi6d1AKSv4evsk8NzRNp7osJBTmySoLHmDTFBrTb  | 9611.639591     |  1,958       |
-| 8xE842qMe5H2drNRHeEKVxZSCmqFQEdMEUh99E6V9S5v | 9554.840141     |  1,946       |
-| ES5HyjU3Q7CTeALc4Ydw1hmStc8bpmfmFCwS7A7qdxGR | 9528.133269     |  1,941       |
-| FY76uJcFhMYGCSCho647Vb9JHTJWq14dAkFjun4ta74R | 9525.920694     |  1,940       |
-| 9pDSjtnFBAsAqsrx7QYsbNjA73Kw7chYDKish8An8Eqx | 9487.636875     |  1,933       |
-| 7rtCRWGcjEkN1pGg8TitxhHgmzwuZJ7qYZnB184199mF | 9481.467326     |  1,931       |
-| 7igS8Yy9FtAaWM2xE3h7MF6XkQJBvfVjuQhHUk4s4Vqp | 9461.723341     |  1,927       |
-| 83Se1buRr2cDwdFa5uqZSEzRnU4sV9oYUbjyjqQzTWMG | 9416.768954     |  1,918       |
-| GuNSjgF5YeHeVdBkBMnXfuawFRzxmWommgK6FAkoWEFA | 9338.58653      |  1,902       |
-| EgT6uVyjxc2V8tdU9bdMWUqmNyyXgvUAv8gy2GDbpEf2 | 9319.681587     |  1,898       |
-| 7Rzymk5ZD7XnHiq57aFpVLnFQZs7649F1EzyYK124wJb | 9308.749139     |  1,896       |
-| FgdRyV7vLEMWvs1bxXETfDsp7isG2QYRSuudWd49wQXq | 9305.447529     |  1,896       |
-| 6HuJfELtDQNTeYjrXw2pv8Q4nZzgtASzwHphjZawj1bW | 9293.966496     |  1,893       |
-| ctMjjowBSprV38vn3DLgjNFXQSrNNibAkJ93cfFW5c4  | 9250.263849     |  1,884       |
-| Df2FWnvQTFNqBfFqKT4aYjLjtGRgJwMsBYsiCpsQ8C1s | 9214.876911     |  1,877       |
-| Av2A2pD4VsWo5UQNd9MjPo8s1H5ZZDrRfUz5awS8tbs  | 9172.198925     |  1,868       |
-| EhQcBB4fzvQ82TTGonKGj1nVo2PHPJD8ffSkASyiHyAc | 9134.183889     |  1,861       |
-| 4SmQNNzG6remxhBKJmiLz7aFvMcboACtD4qrgysVyEsg | 9127.914554     |  1,859       |
-| AtcuSLBw5stmCp6BMvxcqkGcePsV6Bprrc3jBZPb4ZrE | 9083.014314     |  1,850       |
-| 9W23EpVpoYg6qac4SkdGx2AT4F1zckruLFJJWsAqUf3v | 9078.230309     |  1,849       |
-| FWmz8QEXNje7BrB41GoUhkPTwAP8dmh8mpMAtqCRtvFF | 9075.884632     |  1,849       |
-| 4JAYieRWwRtcmdgKSQ2Ag81NWrt5VvSScDem7BwYm11G | 9000.859413     |  1,833       |
-| 2jLrcfJGPx47iebisfL8anyVh3wtNS9ZNW3ZThs5eHfW | 9000            |  1,833       |
-| BVSutc2KPVQ7NMdK64AAmhp5GZdrW2296CRJ8z2x6zK2 | 9000            |  1,833       |
-| 6hxQwwL6PUrkSo6ar9mmYVrfRyvtaCuTiP5fm1LRU571 | 8981.443645     |  1,830       |
-| 6k6zXgcuPiu1rbmygHDZGQAdegDswGQByrVhNfBXT5iW | 8964.633029     |  1,826       |
-| C8bu1k5pzDPmf9R92kHVtWvVYdynAkhqWCEE9eSyjgag | 8957.204969     |  1,825       |
-| 3BC9hfi9sXzFBycTnXT4D4Zkjag2EiJn8quEnR4eY6sz | 8925.785053     |  1,818       |
-| A2h8H3WL7gVkfHAfJsGrFskawitWSJgQooUGVX19zfxP | 8909.630919     |  1,815       |
-| CBKErR6Q23i6psZpXcouVkrRcAyzntdkX3p3YDKMECSh | 8891.180833     |  1,811       |
-| 229AjHfgp2tDbuP8FkkdnfRmjPKduiNMYqs3F8U4zLS2 | 8890.498157     |  1,811       |
-| BBAyyMFYh3pFazUHaKD3BF4vXKJa7P34fmu33Yd2hHQY | 8886.421139     |  1,810       |
-| 9H3rFf3pUQ9UAjaGMceetEnv3CHycNpHuk3gUFsKoTvp | 8858.572541     |  1,804       |
-| HFqp6ErWHY6Uzhj8rFyjYuDya2mXUpYEk8VW75K9PSiY | 8832.81741      |  1,799       |
-| DfUHNEP2omdwUAPTTkgr2psxFCy1edPASAfFY3hXJmzR | 8831            |  1,799       |
-| 54MCs6bTNhP2NwVgiK4LVw2Tujhv6MYFKJnRXKyTtRGp | 8815.839114     |  1,796       |
-| 7NwCPcGPoB8MExsQFWPyPnoRgUaLDhhqty3KDLBtNCdt | 8798.816859     |  1,792       |
-| 5FbgkYHoLwMyF1cRqCahedPtWhKQ3GKyx5g29wJLKrq2 | 8748.566483     |  1,782       |
-| kiShVLBWd3WxjxBUqp44sBtxzx4pLkZSphVgSb7dPU7  | 8732.242934     |  1,779       |
-| 4fJDbRqCex8LVTePuLA9m6crq89935UnPvfrYuT8X94A | 8725.106471     |  1,777       |
-| EuA5Suxg41Rby3aZubuhtqbHheHG3PLvDvM8tUwWQdCM | 8700.986998     |  1,772       |
-| CsKimLL7Kn2g6VM4xZcwEd18cjbAyUDx5dBjnHVDmg3  | 8684.206631     |  1,769       |
-| UHQ3UTp8oM9ymU3bpk7uVTGepRSH5CnJ393wNYaxL1k  | 8654.120394     |  1,763       |
-| FWyzwUnTEQLnUBTnjCyP2GPUiUxA2AHUtAwa99MXM5nR | 8647.191831     |  1,761       |
-| H91Y4q87bbctbH9SNiHrATQo2W4nvagbyPXMhFnFtDvQ | 8623.430705     |  1,757       |
-| GF1MrVdJxwtHRbuJJJkDLcXpDkuvKgLFHvypTWifhGNU | 8610.416902     |  1,754       |
-| DPD1kDqG6xbGRUBSojeXrBxLJ3j6Hgg9HxKoPV18oxj4 | 8609.876337     |  1,754       |
-| PekJoZjmgtszra9PoC1At18mJxoZa8SwyfRVBHzgCqX  | 8598.901449     |  1,752       |
-| F7Ym89srD73Cr9GuMFu6tgawJaUKpTyqeuZYxt7bYjw2 | 8547.443405     |  1,741       |
-| FDiVPpzjfbwxvjjqUSVrqFcCS7CG8aY9WWnxSsMWuj5W | 8535.443014     |  1,739       |
-| 6cYKhufjsyyR6HceGmuu3otCbJTQf8Sb2w87xDsxE5qg | 8532.467315     |  1,738       |
-| 6F2CvCa34rC4ieVSATSo8BGvH817oE5mfezDmL9T6k69 | 8526.090489     |  1,737       |
-| qriVHtyA5s1Mzb8dyAUBoumt5btinJFsRdPhrwoY5Mm  | 8500            |  1,731       |
-| 7JQeyNK55fkUPUmEotupBFpiBGpgEQYLe8Ht1VdSfxcP | 8495.237207     |  1,730       |
-| GCAdiHudNde1KWfN3g8mK2vGLqXcyhbiof1ScY9SRzT7 | 8466.680101     |  1,725       |
-| 69yhtoJR4JYPPABZcSNkzuqbaFbwHsCkja1sP1Q2aVT5 | 8466.183901     |  1,725       |
-| H7aMfiZpJfimM3kcZvS6B4LcwVMSrkmQyZZKRwVQ98fx | 8437.620768     |  1,719       |
-| FNjbGdpd3NThKu14neuexQofUDFqzRX63WdKdhJyGyph | 8392.056271     |  1,709       |
-| 8XuuZxg9FULSvF9FjpgV6TEWEtAjNp6EycupwqzpHEAE | 8378.707797     |  1,707       |
-| 9DgyreQrzQu6pXr7V5qBcBVSy59nwXqAPPQGfU9Z19Vi | 8361.045274     |  1,703       |
-| J9mZ234C5FohRr8YwhwhxhRBnpARAjMr5ajyo1tRjrk9 | 8348.793754     |  1,701       |
-| 6A5vvgb2bbBRnwmipkxDFZvsRkB6Vy5nRe4pfheqQePT | 8332.659236     |  1,697       |
-| ChYXkebMzB91Xv2BXjQAhs91GyKawTKPvYTtBpYpYmwo | 8328.987856     |  1,697       |
-| 8nPEiHtt1br2WqpN7RcrRZwkhuysTiGnfnaDKf5tmVtb | 8262.949028     |  1,683       |
-| Gs3HLZi6FKYZy9BQ8ncJVrP3pzVyQWLG3YKn6bXAP6dF | 8260.103599     |  1,683       |
-| 5ymarLw4coHCKCvBcJBem7Hr7Nke1frTwXg6X895abFK | 8231.77271      |  1,677       |
-| 3zP2xteqot5rZGgsLVpCmXP65sUwVVDhzqSzaiuHGGbb | 8225.76097      |  1,676       |
-| GyFBkFwkM9p8Dd9z3ZWdzCF6DXus2uwxKCpSH8gRq43S | 8216.928422     |  1,674       |
-| 4rGzTCcGaDpmgzzGAXMVpkLbVMVXkB7TBpzEYZgqJbsz | 8207.775801     |  1,672       |
-| 2jgAaExRt59ZLanMz2t7EH32AygH6n2JVuuDvLm8dBsS | 8153.781297     |  1,661       |
-| BiZSLgdaA6kYudR69SXjZsimg7wdHi7GUHwq3TvLzgA4 | 8153.594553     |  1,661       |
-| AbuwXbBUicXwGXnyMb1g3WVYT9sT3LewBgKLw6FEPygf | 8128.179176     |  1,656       |
-| GjhbCEpdELkwvsmPgsBSotWf8xdx2omc8ZEWQXcsoRKU | 8108.747969     |  1,652       |
-| A6BPebrjRARotgRRSrd6DGn954HgWxikdbqssDkpfKDm | 8104.27935      |  1,651       |
-| 6CRdvtvYybkKTkgvHYyrVRxfGPzCEP6vcGc3erUywjsb | 8087.764022     |  1,647       |
-| 6xvncQkoChvM5w3SUKeqy3Coma7UQKeeQsgKRsXoAtSY | 8080.0174       |  1,646       |
-| 6s6QS5NJVBSv2iGhD1e8HUkwoRdyiUtg4TZ38qFvg3Vc | 8060.311988     |  1,642       |
-| GyiPu4hXzWxPdUEjQLMNsMbe9iRJEX7jpxrYgHhVjNrf | 8003.940313     |  1,630       |
-| AxyYqSUoKV3y1yyMZmSp6KcYh1hDD5hkDti3kqk6NXhW | 7996.868899     |  1,629       |
-| 7wtyxk6XuVDiBvceMoMWz6AARMaXdQznoEZdHBZ9oiUm | 7994.292781     |  1,628       |
-| 66o5WiYv1ZvqMzbiJtwZ3FhFgLtESfNBCWAd6FAPqSPG | 7866.986934     |  1,602       |
-| HnXLdiJwEYXed2aZ4ey6SAGsjx7aWb2NYTh6dF9ta8Mg | 7843.009972     |  1,598       |
-| DSN3j1ykL3obAVNv7ZX49VsFCPe4LqzxHnmtLiPwY6xg | 7764.256947     |  1,582       |
-| J8bMHcHKsf8DArETe6xSZYcTwu3QprECCJ5PQi2RX5Jf | 7757.374916     |  1,580       |
-| 2k1a2Q4uHESmBQ6ou7Xfq8E6mWR5oGSRMGxfxh1m1iU4 | 7727.324006     |  1,574       |
-| 9uDYzQMEkAFN4NMu1W6euv4hNrwHvqs4BKcHqBmW5dbW | 7691.912773     |  1,567       |
-| 32pnqJqEztuzc2ot6WZdKEhs9fNgcyLwySaZDzBP3Xp3 | 7674.791421     |  1,563       |
-| 4hxJ9eFcdhpyCXTiuUJh2QAZhWdcqZA4Q7oP1kemQwx4 | 7642.086384     |  1,557       |
-| A7PacvEQhxv5VshpF2paeekQ6V5F1HqzcRdBWz1DQMYe | 7559.147733     |  1,540       |
-| 82PfNxy6Noc1Bqu8XHHS9fazPPmCQ9R347xQgYhwQBJn | 7544.535184     |  1,537       |
-| PvakpEd4DMXX8BTjS5iNA1siSSq35VT1Qu9dK5YGy63  | 7522.36534      |  1,532       |
-| GgSgZXJCjTZVV1UzumK7sMpRGn5DZ4FhiKnhAuLeM3U6 | 7518.325588     |  1,531       |
-| 682DxZSzM9ipjTGXxEuPuTWekju2oRaQ5GEeYB2ZYn4Y | 7464.571151     |  1,520       |
-| EaEJdLQX3AFwdqV6NDhHZShWAMn2Mf1wkkSpJKQzYoVx | 7418.803709     |  1,511       |
-| E9zK98wsJcsoHcuR2cBEGZYvnN7yJXfGZ57vVn29YxLk | 7417.990667     |  1,511       |
-| CuYJaGWPRvw6wEUGnhopk3xxvLMx2pUCj6pjoatyNoEV | 7415.784687     |  1,510       |
-| 9ZQNC5NNmGpzUtqCuAK8pR5NcDKY4H523Az5obUsAyu8 | 7388.331641     |  1,505       |
-| CNKB1GBoYzvDer6tB8b8Wx1bhpgXDfQEf9mfzi8uAQtC | 7374.599507     |  1,502       |
-| 9hZ6ngZCuHSoGFpDxa9GjdibHx9VJQZjHxG5vrS522Zn | 7363.723549     |  1,500       |
-| FnHjM1RtDs2C1MUncvAAoRCKhpyJgzYGFUut2K9FPJ8D | 7313.334154     |  1,490       |
-| 47Rvgd4LM24vEYHjicKB6Dr76ENsKBa9hLP1Yatuq7Uh | 7291.67913      |  1,485       |
-| yubvCYnSheDvBhWJXu9JDRkdYWAjdCzgUmPjAn6EzRX  | 7286.483181     |  1,484       |
-| 2ZktHCGCKYDsTc4rd1BytSKikLDEUTjZK3rTSF32SKgs | 7258.861133     |  1,479       |
-| 7mjPg64zftfuiDUEYajaSCAYZvMynNt5QohkrkYuWEnR | 7255.507617     |  1,478       |
-| 4NUfTUqE9YRxYkHRHXitze9YtKyM4npVMob4tBxth4ky | 7223.286001     |  1,471       |
-| 3RKmA55gpgXwRkc1wynjbmfGdB3uFKqKkMbVgWbWJd5P | 7200            |  1,467       |
-| 9FSCvS7Kbgoa9GawG1tcfYuKMmtFCbg1KtGXWn5RCRRq | 7199.632683     |  1,466       |
-| A42fG31M1tLobKozHFx1iqa1rWDVgFq3SCyiE3UMVijr | 7197.690871     |  1,466       |
-| 3RpWHejJ8epf8HxWQZBXSXUR4CPDJ6vZtjusD7oZ7ta7 | 7179.146121     |  1,462       |
-| 8J7NykUMDjd8YJWZdFtRY51qZ27N3us9nbW66tTi3KB9 | 7171.017855     |  1,461       |
-| CkuDNHJryD5Ah29KkiC9stjbyztJbmF9uFWQeGSWGQbL | 7164.780304     |  1,459       |
-| GSwEzmYXmNLe34GpaAzGYw5KSHFwu6dJEJBaRy7joNhm | 7155.247776     |  1,457       |
-| 6LCpaC7EzDETttJmo2jPHeSb4rtHwwjpD1nViGwmkyMy | 7126.426234     |  1,452       |
-| BsNKEWAL3SeTVK8oez9VhTCDYqQoJeeffar2cNjfZsFJ | 7119.920185     |  1,450       |
-| DDVabyexTTvJJjNRpemKxc3gMrBSMKDQusYeXXuyEgYS | 7084.55759      |  1,443       |
-| BZLkocd2WsbEQc5JGS832aMoTHMDZZAahyyekoEujMUk | 7084.141117     |  1,443       |
-| 67XAdrvrSbeRuHTRRKhugsaJYGSymyZZGkdMTURwEdn9 | 7075.608401     |  1,441       |
-| 8w7YD6rtg2zUxmiGEh53v3c6uswdpdQUx8b4RnxLa5LA | 7073.076261     |  1,441       |
-| 9i7fkQyRLjyaeeQosiWQ2EKJTzzn5QeDkuyx9CTxNusu | 7034.853669     |  1,433       |
-| 2KxPcBoiBvteo2WmASGwCW6fe63geeNoqovTusnaUbp4 | 7000            |  1,426       |
-| AAMLe44yyAFTTicYr5BAmEYbj5Np98CzHtzZ24odiDbo | 6984.197988     |  1,423       |
-| 78uJKxh2cK2PT3Noow9sVeugh4U6sSpDimS8W2iVw452 | 6959.403403     |  1,418       |
-| Bte1sXsPLgdzyfZSe83kr4VVvAZcJp2cPARQEg4P1gsb | 6932.919873     |  1,412       |
-| 7niFp2y3sbLHTtL6Ar6xBqaVA1dmhMBGxVXTTtpQyeiz | 6924.560867     |  1,410       |
-| ErWjNYT83Vp9HPA7Jcq15PRHv5EdCUTkSQcMn18vSBXZ | 6917.755587     |  1,409       |
-| CapuXNQoDviLvU1PxFiizLgPNQCxrsag1uMeyk6zLVps | 6906.004327     |  1,407       |
-| 72QQ7Qcsm72fvHsAQijch72eA6qkYEef1EGg2iMefsLv | 6890.947413     |  1,404       |
-| 3AmTrAGki3JS4QjW11f9P5m38iwWSrrvR7HTqqcJpqXL | 6887.312978     |  1,403       |
-| 4jujU3Qs97xS4J3U4iZSbzayLRLrYL8bCo3y9ZEasdzG | 6836.208664     |  1,392       |
-| 2mtj1g7gFRqw1RZaMVSVsaSXiTLD1QSbsojZ3EmS4u9S | 6793.674016     |  1,384       |
-| DM6aRWWEemgaVoHcRwNP4fFwe3jT3xfP8hy1B7NvYQLM | 6792.612377     |  1,384       |
-| GEUSci2F7wkBCEdc3WjRPHT4F2sekP11TLmMqNSpuHMF | 6779.117666     |  1,381       |
-| 7aj4ayhwu7hSTJgc8euJJ4wa1FkTVidgmbacUpbaoFrA | 6738.85         |  1,373       |
-| 5XkEqzqJZYbUqed7VLyqVwpmBXd65MrTG85SJNRkLK3f | 6719.202207     |  1,369       |
-| 9Qe4iJwWBFi3JwHYD29Yk24sQRoxNxrE7hD6qr6t4tf8 | 6698.998175     |  1,364       |
-| APP9213vXKJggt1CigMCgtp6kNFvsgDMxHyVKY4uVcB3 | 6662.135986     |  1,357       |
-| GfjZDuGs1pjHkQw34PaenH7Xs1VLnfpa8tBu8ngsxY6i | 6642.010448     |  1,353       |
-| FanmLSFsZp2uiqDrhHATxP17XHeyx3G93C2hpWKtZq77 | 6589.144137     |  1,342       |
-| 2D6uHvF6bpt9tKVkdHv1aiu853xCU9eysyJ5DYVRK3PL | 6576.732334     |  1,340       |
-| 9Y9EJPfsAZzRg1kTfh8T77qPxPZkDeKaN7EorR1H2R3k | 6574.291104     |  1,339       |
-| GYBoiCVJt1sHbeeLp8xzvRj9i24xsRNnBeCrKibnMoWc | 6548.605179     |  1,334       |
-| 4oyt1r2VRTk8SPGfAfmCi6fcVDbCk3Ho4afY2FuaHC83 | 6512.437037     |  1,326       |
-| 9zyrMurHQKGdj3ZnqVSxCj5dScezDSa4Ai28DMjo4oLc | 6452.919885     |  1,314       |
-| 5wAEMTnbo6EFa37NbSPARrtxcEuYxrxQhXuGoTvo2uvp | 6440.401987     |  1,312       |
-| ENEPiAH3WzKhuajant1fEuDe7mwktwvhGF9T8NVBNKzh | 6408.072569     |  1,305       |
-| 3mU3R4E3vJFkAQ3LRyfFNCH5ue4kpMTnaqNmKhpQwTE4 | 6398.459785     |  1,303       |
-| 1K7ete2DQyx2kAxLhRp152ZyygkJUq5v6yfvPsTPkwP  | 6377.26078      |  1,299       |
-| 4iWXMdSns6eHLF2zta5WP5HWQPTdt3MA59TbTWTUWz9b | 6324.643381     |  1,288       |
-| 9AFynBSVJTZ1Gf95yzuJBXEgvX83GtzQaL8651cP6w2Z | 6308.394545     |  1,285       |
-| BGAqdG3fBxtQYXWwg3rcrq7ZqBxWS8VCxyV2TZFK2SbF | 6280.769407     |  1,279       |
-| Dn3YNKdgwDTBQ74a1EwbkDNGCv2ECdCE3jhQLKoF9YJh | 6239.392343     |  1,271       |
-| 6sfgTpoS7K38ZHbqTPrHfZDWnngbyuuc2Mpiu49umpJd | 6229.943646     |  1,269       |
-| 9oREybA3h5SKj4VVnyMi1S95gxxQhq9UpsCwibJrwcsV | 6216.568171     |  1,266       |
-| ESfTWC3iNDjU11CbfYoAAvNGjZcDfBiUGZmbzh43cebw | 6200.29409      |  1,263       |
-| 5h3LQqdwVLUHKizaU7FfAM7X7aYyBsEp9KFzRXFFEBbj | 6198.475229     |  1,262       |
-| 6SjRDbKLGVPimSNFDLoWxcQb5j57ud7VhNQJaQnUXSfd | 6184.261716     |  1,260       |
-| Ex1ZnYayaJaicw8m3wXm6PPmYhrthKpp1B8jBCvVeWCy | 6179.464295     |  1,259       |
-| 8hu8uwbWCaaJ1Vxunsyqcwtyoi7YqdfqKAuBbcBQzQXS | 6142.476705     |  1,251       |
-| 2HjsPmv2F6mkbyCXF8yRxtRs1QYMjoL77Fbk4hhvnfvL | 6127.555668     |  1,248       |
-| HRrrAbMVryeNsAsBYfptNgXgTsWREXcB1nyM71sPcwSu | 6110.16546      |  1,244       |
-| CWvmGXjfSDhyAnfRc2JjRvmCyMrJygazxfpHK3KKJ79v | 6107.314233     |  1,244       |
-| JCLMVL4ptohQSH6MRu8HtuTfEF5XSH4Vxi5KKm41YyY9 | 6095.205274     |  1,241       |
-| 3iJnvHWfTG8eV7p4Q8ETH1ZccAhV1JDWbsNULPN2fzJC | 6075.454158     |  1,237       |
-| 4mkyaJcEMG42bghbixpcpZZn4QAUbHM4JmULw62uRTzd | 6061.959294     |  1,235       |
-| 2NsddNAuPzYpKhJv4FstQkzCkkKEocATe9tpz4PBHfnN | 6036.502497     |  1,229       |
-| ELddKzCA5eHQ2ZHQHRGztqXPUDhofF2ke2ZLJdbnvJuG | 6031.186687     |  1,228       |
-| DS65dSKo9PYdafCSzd2Gn48vNeos5mPkkrpy36hCqH12 | 6015.936594     |  1,225       |
-| 55bpuFqou5Gr6MnqfemFsELYuUDHKjX98BZUqvoxNaVw | 6000.227475     |  1,222       |
-| DXyrvYGdkeukLaVcsoqreE2Qsddntfrjxn27zMqdPN6W | 6000.20295      |  1,222       |
-| 8353bZYK6i9UVsztvW6upE2DCJ9WPqhFByHTjnsF1M2b | 6000.124641     |  1,222       |
-| 6DPa12Qu5oQroLmMrDA3KiFA9gePaBDEVwx2QZSV4dJC | 6000.124564     |  1,222       |
-| 6KQbVjvSPTEewcqC2QoRhEeXCqwLwAYT5L4yQ849e2DS | 6000            |  1,222       |
-| FoSWJGT8hRUgQw9GZ13XBizDyKmGT8Hxqrjq6PKa7oCE | 5986.378073     |  1,219       |
-| FB2UsCeXQXmynmbf7epcbuEQd9zodhcn5y2gSkv9QDYT | 5965.803517     |  1,215       |
-| BhsSJQq42KqZa9HxJizm92By27r41qijm2wrAkfHJC9d | 5930.775785     |  1,208       |
-| 6MGoudFQ5BjYiezR4V8tcXba343x6rTZagpHdc2vrNEQ | 5899.275815     |  1,202       |
-| 3pKw5dJYHfgdHXC7JNKgJEnvMhgn39Ztds6DpE9PpzdE | 5836.02751      |  1,189       |
-| CBTdPFdJ4PmUM1arsZiQG65DcycNEShMNNN5d3BEFZ1D | 5822.706558     |  1,186       |
-| aWvuKWPEj9yAQeMGp5YKCQBJpkjdvQtekjtLP3DK8BB  | 5810.197986     |  1,183       |
-| 4peNPtpf6sYYYNvvs9NvwtygimMeLPLe8wAQUQBis8WR | 5780.048801     |  1,177       |
-| 4EHRXBieEYFku3c93pHV7bDfEz7da1XQcBrEToLfizyy | 5750.806893     |  1,171       |
-| 6U91aKa8pmMxkJwBCfPTmUEfZi6dHe7DcFq2ALvB2tbB | 5738.35541      |  1,169       |
-| 6sQiTquT3MxWS9euwZkxoLYYuM5mK258uKRW9U58S14B | 5730.904239     |  1,167       |
-| 4JRPehSbiVuFiDX4PyCLmNxQSsJfPm6tpSY1buaQBDdD | 5730.671673     |  1,167       |
-| AJBRddzBQb4G7g3THQEXqGSvUW2WDzw2UGewEU6oXMMZ | 5727.332486     |  1,166       |
-| GnZEiFKyT4qDgUFuHiLWSV93Su9KkSscGzrf7EvG7Yxn | 5682.70412      |  1,157       |
-| Dp8RQdacERHZdBVnQMeGtjfNgUJTn1HiUJqP4yqgsSus | 5679.989452     |  1,157       |
-| 93a49Ek1nhEWEFJNKbNv5J3DMWLxiUFwA27R3JtWnvHS | 5661.260792     |  1,153       |
-| HaWRKzerE4jKpe9D7619FX8W3361rs66sZwjCCRa9RNC | 5633.322687     |  1,147       |
-| DoPqBmz5ZaaCVxHKCNMkk68B8w3GuRc4BGaQB8nyfBUd | 5626.505053     |  1,146       |
-| 2hAVT51H1VoXDWL3tBgNQNgpfAth8gwksfwkfpyesRA5 | 5622.137312     |  1,145       |
-| CcvdCJae3xnYGxPmiKSuQGoR46RaC5yis1BBafUv8Y2N | 5605.618593     |  1,142       |
-| 5SQbjKRzX9cxnwW5eL5BhKqsrnwaarNX97dD2sxcsEXZ | 5596.285989     |  1,140       |
-| Dm9DWsbC75zj2FoHmJDArvDSjWqTtJyp7R5hetXz6zhp | 5549.255915     |  1,130       |
-| 7an1WkpH1W6vmo9a85sZKBeQtmJVLXNJE6MgRphrC4vc | 5527.7904       |  1,126       |
-| 763xkknLJyLMj2ohH87GtYXgkzGxsCH9Y7oGPmkvRp2h | 5499.6          |  1,120       |
-| HS9uCSbbfLaDWesFokjsKifcV315u27oU4SF47eWhwdX | 5481.285878     |  1,116       |
-| HbAjeMnUbAHh13JsSWNuBbPmMt7d8cNsWJgwZc4ACaYf | 5469.816008     |  1,114       |
-| 4DnnUHeUcU9czeHef6wPVN93ENpNKzQSbQm5yNJKHF1g | 5465.270865     |  1,113       |
-| 31fQ5KRCp6LbjR1neFv8Bz2yBf7m1LqaL223bJAhBwcE | 5459.016867     |  1,112       |
-| Bau6f26h3B4WLZUZxqCGPwY8cXM3vXBSjEK5zVUhXuEX | 5450.935635     |  1,110       |
-| 8soJqRETMFTjnntGE31X8M8aELibX6hsnsrn2Trq2Kh2 | 5446.084026     |  1,109       |
-| CZkaby35ggZgVHpfa7bJ1u3huos54T6fefkg26hSucfb | 5375.106687     |  1,095       |
-| C7KKsPdugwB4P4yZh9vkVXyDbsPGutpQSzmBTpzH8cBC | 5368.612639     |  1,093       |
-| 3TR9AE64z3r7AaEYDEMz7VKErL3zwrFHoJttJe1i8Xvm | 5361.861295     |  1,092       |
-| 5mTifngqr3Ja6D7yPdH4eZQxwWSoX8WtrgbetPbtjFs7 | 5338.605004     |  1,087       |
-| x7HVWEkXp88jgPoK7NSrqV8YY6x3mBbsviV9Jux15WS  | 5327.933184     |  1,085       |
-| AepayVYfbNdKVi6aRoUvakLxC2XigqaZNXiNCaMWm9h  | 5272.14574      |  1,074       |
-| 95kQeSxJ7dTYcuNoCY2uPMWZnEGZMwknT3piTeHMLSYj | 5265.627346     |  1,072       |
-| 79PPjQ2eC5RKrJE7oviB3AcbYuBCjbzs4oZTCUFTBoNG | 5206.313983     |  1,060       |
-| 58ErwbeBSwZWM9yCTP5LufjXfUA9M7VWXbY3jQfn6hd2 | 5166.157146     |  1,052       |
-| 5wwfbhKLneSUS7cHXHZXKv3qqe4BTq2s4rBVeAPFhj4f | 5116.712806     |  1,042       |
-| FRbobt9xNXq1rTXFVp2rxVRpKT6RZsHMvxK4kWvsi1f9 | 5100.618734     |  1,039       |
-| 4xDsmeTWPNjgSVSS1VTfzFq3iHZhp77ffPkAmkZkdu71 | 5100.085248     |  1,039       |
-| DR62zJm13y58wrJnq796fwBn4Sd2Kt16PSnjYc6eVnWV | 5093.032277     |  1,037       |
-| GgZ6UreyNUCobujLxr9upXWXca4LtJkDAoWoNcyRSi8X | 5084.921213     |  1,036       |
-| G23WuRgHUMi1M86roQ96R5p1V8MziDRwwm5zSDijXjyW | 5084.207192     |  1,035       |
-| 8CjGUBgQX95MDxEWQePYHmCx4nbCfui2shy6dZW5xziV | 5083.658911     |  1,035       |
-| 3LoAYHuSd7Gh8d7RTFnhvYtiTiefdZ5ByamU42vkzd76 | 5079.6427       |  1,034       |
-| 2AtrmhLBq86eqXvy9c67v9HhZoyW1NULWMetAA46JN7k | 5054.795772     |  1,029       |
-| 8LB4k5J9smzSizBiM7jY7nF2ppPbrkUNhu6oodigxEA7 | 5041.390631     |  1,027       |
-| 3hDyUMJz23HvB1cFKBuDd3BxpvYUywD1uZXDnwBJCbt4 | 5011.839377     |  1,021       |
-| 8L2sh3Cgiuejtfwme3SMWj8Gin8vqgoqe1nkPf1YYoVj | 5002.19761      |  1,019       |
-| BuJdP5PQtVvrSJU5fa5UCx5uZYJjPDGxT145ZdVhcdxg | 5001            |  1,018       |
-| EQF72c8AUqcyVr995YMXj384V9bg6ys2cuzsrjMancy5 | 5000.310281     |  1,018       |
-| 9kK2PuehQxgcXtnYnPNmukmzfDTsVHv15pE86xwi7vYt | 5000            |  1,018       |
-| 8hYmdT8ieFuopbRpJYLtT8PMmMqVxx2FyELuh2fjRnDC | 5000            |  1,018       |
-| 2f9KNCjZ8wcEq1NCa71LgNUhnt9542GwvxxCnWhmcAHH | 5000            |  1,018       |
-| J4B5Nsg6CAsGgMwwxeirxfeJ87EAQW5577qvVj5MwUDM | 5000            |  1,018       |
-| 2vqNBf2KUQXhVm9vuEbyrs8ZGhmo7tr12DLrWu5AizwH | 4998.107144     |  1,018       |
-| FWNrCbDPhF392cMjze6wbfYenr1paAQGNkDp4AuSZ2St | 4983.842867     |  1,015       |
-| 9Wji1Et9gP3fBcdUVjBAU6sS9Xt5v9T5jph6ToRbKtZi | 4968.775786     |  1,012       |
-| CpoD6tWAsMDeyvVG2q2rD1JbDY6d4AujnvAn2NdrhZV2 | 4962.510995     |  1,011       |
-| HU23r7UoZbqTUuh3vA7emAGztFtqwTeVips789vqxxBw | 4958.622251     |  1,010       |
-| 5JjJjV5JYGsMavfYqQBcA3mbaLw3EWg3WJKkPq8AgzCc | 4955.90156      |  1,009       |
-| 8M7GUFofAz61yLbMrRKeuiLx8MmtY4PoNwiEop8iR6Un | 4944.529325     |  1,007       |
-| 8XKU3jiNrTgiYbeefC5ovNdWs3AuX2qBwL8hFnUcvnG3 | 4926.836775     |  1,003       |
-| UYjsfwWgScf3uXxAFMD46hpnTsVZQxsEchVWiAYjpXp  | 4924.197351     |  1,003       |
-| CwPs16iqweAJuiV4WMXfXFU995tW7z5irpjBtzC4UTt9 | 4921.781178     |  1,002       |
-| 3CgvbiM3op4vjrrjH2zcrQUwsqh5veNVRjFCB9N6sRoD | 4913.716025     |  1,001       |
-| HvzDvK4dXnHG3X6umzoTv5uTD5cnDdvM2dAzBKCM9PUf | 4900            |  998         |
-| G1vbBS93RVF82iGBAKvEgy5JChb9kPsYjVEzqk6L5JCQ | 4894.62845      |  997         |
-| 83Mo5vwpGyjHAvBV23E3CsPznsuJQADQj64y1Z8qzsA5 | 4885.395326     |  995         |
-| FWEiXoRTEf1GKzW5qzY3vXGvj7fVnihEM6C1PiL1NLvS | 4876.813527     |  993         |
-| EFLNq6CHDZBf33XnSJ5ZYjN3o85oj5XQDh651krTCGvR | 4871.707079     |  992         |
-| Ajn6whrGP1JSLXPYJKSpTBjC77BR9goBJcN4qCb99jx2 | 4866.591098     |  991         |
-| 4tNTJ6AfPu15Cdddjivdi2ej82NQyDrD4oRubzuoqokz | 4857.852817     |  989         |
-| 6LXutJvKUw8Q5ue2gCgKHQdAN4suWW8awzFVC6XCguFx | 4850.301165     |  988         |
-| GM4WLzFE7RBnhwWrHdr7hHdBwQTXE8btuAnWbytQZyZU | 4831.451798     |  984         |
-| HBikXzkzAAvEyi7xHMsFgEhwhA71hkcLXQgkCBXgrBNa | 4824.948434     |  983         |
-| 4bB4n3ixCjXbkmzdBXThZ7gYExv1Snbm7njM7P5zibQ3 | 4802.793973     |  978         |
-| DArmxMvmB9qFs2TmUySeAY6sEsgEfZA86HNxjFyQtuZk | 4783.274596     |  974         |
-| 5DuiFTzbiFg9cFgL23EgoAcv3keZ7YiESetrm5BeG8YT | 4781.946554     |  974         |
-| HR1S4JYrdj5L4BTwifDphKxMLNn6h6xcXyUgofvZkDNH | 4778.761045     |  973         |
-| GP8StUXNYSZjPikyRsvkTbvRV1GBxMErb59cpeCJnDf1 | 4776.696909     |  973         |
-| HjjweGSLpFKNnKhNXXZks2Yo7X5QHYcgfGLqw77bX6vN | 4768.379988     |  971         |
-| EjCGjeArqHnbFXm8wqMoK3kaZNzKQTsQ8JmQw6VYvDMi | 4720.748479     |  961         |
-| 8ZDAgxjSw3LWE7hJmiB7a9FfoYCfvgdUvuXJieeUEjBU | 4697.025688     |  957         |
-| GGztQqQ6pCPaJQnNpXBgELr5cs3WwDakRbh1iEMzjgSJ | 4672.354669     |  952         |
-| 2o4235xNLVyDgkRgTTt46zaBnVunMeS4sHcZrdna3bSQ | 4626.54683      |  942         |
-| GJKVXReohj8LK3uqt6b1UsUY8DxotErtwFvspxY8NAFH | 4624.707847     |  942         |
-| FE4fSWW5x4SgzvD9Te8BdnMwAL7mgDKUfQmVFsywKu55 | 4614.428542     |  940         |
-| DC5XH1TxxTjhBrnTXWNjuTMHXFE4BzMDsXkezZ1sWj8A | 4586.686399     |  934         |
-| 3R741U8LLXbmm7cDBCWnRK4fPpUeTcQiwmohSxbZYJoY | 4541.585178     |  925         |
-| 3JK4HYUK5Qa3Hz7Lx7J6gCPzVWrPDDsWcDhRfeokTtfn | 4530.011939     |  923         |
-| Dv6HudNVZv2fkJ4D1GpKfZr5sEcNDkzRHs1VJLGaCjED | 4527.051034     |  922         |
-| Gnh9xJjGtQspGKuoZpyh4tggGxt2LAmnVdLxPuRMgPZA | 4517.51114      |  920         |
-| HoBzgLNdmaLLbpwWnet3GDWKJQFQUiNBVvLVv9YvH4dQ | 4507.307247     |  918         |
-| zLpa1mXoSibyCjqHYL7wfi9QnaFHca3XvurbNndDCPh  | 4499.084879     |  916         |
-| EbHoeDK2K7dN9o5v8Fci7JRHHmDzRGkaav7znMB6kb4  | 4493.043256     |  915         |
-| ABdtEDNkBuvdo7vrR6TqDmAPnduAtVQY5zpn9vSd5gc4 | 4489.187852     |  914         |
-| A9y9wSRAyL8i7qGoePJL9BpTP5LXuTrbo2TnnPTULkG  | 4489.131955     |  914         |
-| BQ72nSv9f3PRyRKCBnHLVrerrv37CYTHm5h3s9VSGQDV | 4445.278258     |  905         |
-| FM6RijzqKihotVKHWKDtKjzKY8tQrmuE67JaLcgtNLNU | 4442.583505     |  905         |
-| 2AzH55omf5zLyVA6TJAMtHQZe7WDYcxhd4BsGsE5DHhN | 4425.852957     |  901         |
-| 9qdh8Mag6dvANjE9DtRZd5BaKpS36EaRhMVELqsT2taS | 4422.619634     |  901         |
-| F1Zki3JDoRgfnadZXCLQb9rCWqWtVfPbr8xjLfAtR68r | 4418.584876     |  900         |
-| CifeGFJZjQNTPZmDJ3Q46JTA3J35P68BNoS5UQdcp9r8 | 4403.770222     |  897         |
-| 9nnLbotNTcUhvbrsA6Mdkx45Sm82G35zo28AqUvjExn8 | 4355.579499     |  887         |
-| cfXqfUS5GjEvpB3HUF6QwLvebaSehBGQSeisPmExpMe  | 4352.110505     |  886         |
-| 9Kp6gC4KTkCZ3yoyvLK24h9arBvFfrBTyprPkkdsPhjs | 4346.371775     |  885         |
-| ESHbEe4Wbn5jPNbVPEXtq2B8wq7gEM3xmUBWWtKctFvC | 4334.781665     |  883         |
-| AGC1f4s4vr7ta2WtHdGJ13ZeLKN8jZh2fWBh4oYamsAt | 4326.807767     |  881         |
-| 4gsYiN3cUNeBohv1PmCRqRPtgS3mHAdWU6iUcZgKVuaF | 4321.315956     |  880         |
-| EuC9JmKsPiJijQKdGvAMxUEhiKJcVLEtwrop5w6R63bC | 4318.970552     |  880         |
-| 7RWud2F6QQu3XDnGU5ijSnADyX7fpMMxk2MQB9Mx2yGA | 4313.739186     |  878         |
-| 6qXX57HxntybHn5kf1yCA7JvxYw4xXVYfjpEABZ6PuCr | 4305.42123      |  877         |
-| CP4UUxUaiTRGLsz4taq8yyaYY5BnzHTRdo7GZCDBnGYZ | 4289.65662      |  874         |
-| HtsJjDYCHvvzLCQqq4hZeSYtusiACRTfGsYfDSuGGK4V | 4263.626519     |  868         |
-| HKSEzY13pDXmwsbM4G8tUgjyuRpCcv3WagKuJjcdwxjV | 4251.174247     |  866         |
-| Ebqk9Z9Wy9p83oSYmm1BRH78zuJjixgeKCbTgP35fMJo | 4240.289627     |  863         |
-| 5b5K5sacfHoWuPHFGvAmDeHTZ6vN2QFMXc5gwUo3T7vm | 4235.406382     |  862         |
-| Fuombz6SUrJAFthJjF86QSMoi6F53uzQ8k7DZEBp5kt9 | 4221.233921     |  860         |
-| EWopn7DkwiyvyacZ3ax4XJ5dnreyonJnXLpQQRmomnQy | 4218.143035     |  859         |
-| u1t4EK6zs1cv8Zn2KkpGGyN5nBiJNYjqCxGP9QFSddN  | 4207.054229     |  857         |
-| 3AXVj5QV6sCQFoNbRJkY97Yey7Ha9ZwaLAUPXDJt8PV7 | 4203.149187     |  856         |
-| 3yajENqGr8CS7ULh3oVDxEtFNVwaRqnJdVDLQt7gqtNU | 4201.104414     |  855         |
-| 9x158swcs843JisTuNq4gfiKfSGacobkq7D4DydHiL64 | 4197.452263     |  855         |
-| 93ASyHYpKuS8ZpkrDyZNNRTbcdAV78mg2RnXhmsQ231m | 4195.885066     |  854         |
-| C2yqj8erVcvdm9jNDHNgxTD4QEx26YhaigtYtZdRCdUa | 4190.498587     |  853         |
-| BaEZjgx153jJBHEbRXqVs9nV8es39zgmHRCuDyp3xcKv | 4182.600421     |  852         |
-| ENiAsraLbqNw27RaVE4ZgtYhahmRcjPy871k6bpqFuA5 | 4154.150621     |  846         |
-| DKcRfhmCjQbFddXsCsCnXHXMXbTwfi5nyjquJpzRSUG5 | 4137.593776     |  843         |
-| 3KtjiuAoEBD7E6x9rGhao3VPcanVsYe83QJhPSC5ptJ5 | 4105.610013     |  836         |
-| DwvkeVWqiASHBvJKD9p86WvvRCTVUuHPYsbaNpN2qmh2 | 4083.134909     |  831         |
-| AdMMHHESvJcji3SGZiitVsGv9jNfUJAydgbJvVDDbYJC | 4076.99508      |  830         |
-| 4fbF534mRybZ5xgnL99BmSUFfUWszfe4Xz39VEkzwj1w | 4074.239812     |  830         |
-| 6TqgzWrrE21zxcDVmZcRJ3mgmCPqDrozLtzDHPn4EsTq | 4070.181874     |  829         |
-| 7iWnBRRhBCiNXXPhqiGzvvBkKrvFSWqqmxRyu9VyYBxE | 4062.699128     |  827         |
-| 3PUHYLsdoW3A5tUCBdR1Pawtzs4uaTTjH4AqqJec7ro7 | 4057.850657     |  826         |
-| ExdD5e8ERwEQGrwKip8xPYbSDXcR3jAdGKtpf8XhH1Pr | 4034.636131     |  822         |
-| AkQFnwvdjksgJNXmPtBCBzAWe1NPXZbg7HXSRwThVYur | 4020.952177     |  819         |
-| ETBgnVWHu6BZNPc3XFr1uwK1F52Tq9WyteBfMbWc4nuw | 4016.817771     |  818         |
-| M2yZavZw3MGfhSvkFSMYny5feMyi46Phe88sC1EAc8E  | 4015.915055     |  818         |
-| G53GTMAaQ6HsCZksQmDEmc4sbKZmaHYBjtyMzE6x1tVd | 4006.346133     |  816         |
-| 5pWjnTBehCyzbDAScohe4iWjRJ3qP4ah5QEvrytVb24m | 4000.388056     |  815         |
-| CtZw8iN9fkapzMgjwRdk8955T1FMqMC9rX4R5AEhvekX | 3990.291129     |  813         |
-| U2FfGQ1rADCurdf2K3mw7LoDFaVMYA6R1aEDbnjvvqX  | 3987.542175     |  812         |
-| ABmccrrHnhHRtBELKDUHvGwb2qJcS6wXW8SsuQLTbvrG | 3981.375252     |  811         |
-| Dk47MRXQ9fMCsy51JXhEceXdEtBkL3EyUSuzJiX7ii53 | 3979.918077     |  810         |
-| DP6zSSQRotmJYbJ2z3nnwLy6PbCkFJskm6Hg5jhtLQXH | 3972.047521     |  809         |
-| CLiRQD38d1MnwZGLmkywxW6zCbhVp4egKt6We2nc14QD | 3934.208739     |  801         |
-| FEQ55rosUCpuzZRzmukwhTnMH26dpgsJvJVMbqujYZLf | 3918.898747     |  798         |
-| Gv3Kji5dL9mqJiVBntLkUDqdtrEYqyVtCqLZUKUanYBC | 3889.279284     |  792         |
-| 7pewRsFyL9FNqd37WgWcHiQcwrcKzEsViCBJWUi4WeTj | 3858.464289     |  786         |
-| 2e1HNCdgZtWdFbbXAEuHMbGNxLyb58PASrmMW1B8Am5t | 3839.113554     |  782         |
-| 6JE28P1FvABtLrvegx9ibXGvqRXVpHwNMnARagb5MfzR | 3823.216331     |  778         |
-| 29aesVE4rKHsQfCmD1mNno67zUaborXMYGojC2LzFRd6 | 3800.864139     |  774         |
-| 8QQGFnT3htRbihUSfAbPFf4PJp33gMP1LX59xrNnDzDf | 3793.473043     |  772         |
-| FdgbPCnRfaawKpH9gBd7CKe2d7pgwePbh1J3G5qMhMW8 | 3760.918188     |  766         |
-| EAQYeKhwMTGoyKh9beD9Nxw29dL8jVPAxgpBvgqiGZLo | 3753.539843     |  764         |
-| FcLbgXg6FzYjt6xERqww39H1WEoQmBYZeX5WUw2uGhAn | 3731.118563     |  760         |
-| D9M7Fv59w3fGiE6AKwqpU1rzrmRQ73gbJbyz4ZPUb8LL | 3716.180046     |  757         |
-| EsLwNE1i9a9jyKLHkRrkTwYQxB3g7owJntkFVCnzLEEh | 3696.27556      |  753         |
-| 83Pfh8AdKBSxmrVaMQyLXtEYALgHBpXQyk8CMDrwfk55 | 3681.296528     |  750         |
-| EDWiGJDLtkRjm8LFsB58VeCVxDgSdZtWw1EM29YntUat | 3679.061707     |  749         |
-| GhBkMgXnKVNkpJtYaXtBnqisVc4x7PcTQWRMCjG6VZ46 | 3647.156797     |  743         |
-| 7uF9GvTtLCMoRYNucU2bbQAtoqdqKgmR9Qbccoj7cjXc | 3636.98841      |  741         |
-| 21VjLimFG4QmBoyXaEBqQEgPEMndG6X3TbgDJm7cbsbS | 3627.427455     |  739         |
-| CSwxAQrHJ9XpyvJrHRJZJVDNR1p7smPSKPUiTwK3WpH8 | 3623.319086     |  738         |
-| 71L8kfJiNzxE4MmjavqCfwhk1CCgDNuGU6WPdHNYeiH9 | 3621.006442     |  737         |
-| 5nA4QxGfEf8hAtXfDzgff5ThasmTPE9pFpeka3ejTnWz | 3609.346367     |  735         |
-| CbmxsU7KQBnPRxFCKbbQ7pP66LQrQ87taNxgsq7rhX4Y | 3595.873368     |  732         |
-| D14TCjySSVXxsok6YcJdfVy3Gwp1CkkTABaDBFiiFFhb | 3595.873368     |  732         |
-| CjCks8Q6VSkPNU8j6FPreixyuJdcHbLokp6BdTCbcu9W | 3594.925512     |  732         |
-| DzKAxUGgCLuMy6SkbtLGcmH7QygZjxHh327HFtR2UNqE | 3593.993683     |  732         |
-| BJKgWdZy9qaipjQ74SAhZSY88HaeGWPmzRYbUe2p1NoK | 3592.875736     |  732         |
-| A4fs1zq8WexMoqCFViUGHzy9DCa1D1A4ohdE1uw29HV6 | 3571.415573     |  727         |
-| 3c6hXXNqnmQJunn9dNvb3hUVeBywJUPWiJ5EVNWLewQS | 3568.967181     |  727         |
-| 2MFoS3MPtvyQ4Wh4M9pdfPjz6UhVoNbFbGJAskCPCj3h | 3518.910607     |  716         |
-| GwgyfUcpCpbZ7E74iB4QabgvRMniYpn1k4vGsMBhEH1Q | 3511.342818     |  715         |
-| 6KcJ9BgWr3uCm2eJ9SKfnWZhGjuDrgG56dvEKiUUftKH | 3511.342817     |  715         |
-| AJJLMBywJhYvabnVoUBgPW5Y7c59VfUDxARsmDA2KFBr | 3511.235191     |  715         |
-| AfozFBJaAi5mDUge1P6nFhsc7eVJcgitkBrerEZbfKUM | 3506.86991      |  714         |
-| CVwBxBYj6YANPHQtqGZYrijVUrRrRPJJR63wG7yhuVqV | 3500.040359     |  713         |
-| 7dEYh47JZpAaejjDRxcVZRVsA9SoDHKn11PKNj5rtfRY | 3479.142806     |  708         |
-| AH1uXYAiLGXZcF16TvSEbfEuztbS5URatnPux4k71KGE | 3464.138149     |  705         |
-| 7rUPX9KRuaDCVa66DgPH4D8k8sJDRieqDCUUsQZsvo29 | 3455.947745     |  704         |
-| 52f8nnfNYes9unvTFvCVyr1VDmnqjA3wLbmPDMNn7gEq | 3453.688565     |  703         |
-| jVt6GdLdN3WZKsECACJUKUhAeMQF92rHaYyoHEmEFLP  | 3442.40385      |  701         |
-| 5T1U4sQnf9YD9bKY5bdBNskyYyoa8RmNu2fxBqafPVp5 | 3426.564391     |  698         |
-| 2HSBwYpMmNZERGP8otWa4CHT9Lc7PwgshxBDZu8fBSGC | 3376.26497      |  687         |
-| 87ghHCqnH9FAuAo3xYH7obS8ugpzaRze5T439wDkkhu  | 3365.569625     |  685         |
-| 5tu4w6ksJuNuNpJQoPBiVErxL7JoMUYQueKgEf4Y1rKV | 3362.925458     |  685         |
-| 71c746kezHHTtEUaMuNByXxcp8qJ6qetiuffQGB8p47F | 3358.293284     |  684         |
-| 4UW4LV4uHqEGGy3voxLE3fjSsXtZsxtknJNsdFaiCGbk | 3343.2261       |  681         |
-| CxRRddXz7xXwAGqXCXq3WUETXtzwjTKW1DUrmUeNjAC  | 3342.592482     |  681         |
-| BKfSgAXX5QXfSx25MdZ3uCr97dz3wFtB9TNHr1K7zX1n | 3339.56114      |  680         |
-| 7dxD5Tqgg59hWQHZknpE5VPo3ddYRiBqr6wrZ7gsze3m | 3326.67237      |  677         |
-| EcVb17JoBMR5RBaU8kn6soPYK5KGTaaXoZHngEvZmytb | 3323.124368     |  677         |
-| FJAMpQE4TQZiiQxEmPNBEYaj9c5R9xKhF86mNkRgGn5E | 3307.025063     |  673         |
-| 38Jtve712Suz4hrGH68KemTa21Yu4hfp9Yf5tDZ1PUqH | 3299.205821     |  672         |
-| FjP45sLPwLJy9fDyRea2F8hfqKm987fjZ3WuzVZpmaTz | 3209.899213     |  654         |
-| Ct5m8y73Ko6eRfjmWfKJmVi3pSq9tBER9nwPAKAqTShL | 3208.244553     |  653         |
-| NaJvtGDPYFSB18YzqDEKaHn4yPgzyHmxTpEzn4NAADN  | 3207.315603     |  653         |
-| 6kLbDtd6WJyLm6CFbsLMo8eAMbfQ1hwmYqickLbmyjBd | 3204.513827     |  652         |
-| 7hyt5j68bgbgp6gakvic9dhEWdfaKxcxiyZcX96SwVzw | 3198.443183     |  651         |
-| 5RwoqF78XCH7HdseDGc5MRiUbiXeUCiLu1x91J85foUJ | 3191.302787     |  650         |
-| A8uapP72oQJecYNtpJTEQuFokyoHGQSnez9QA7FoS2GJ | 3179.147465     |  647         |
-| 4kTDVpV3uBYHEVfvskYtYgSJopEagd8kUnpj6fSEdXUu | 3164.170451     |  644         |
-| 8JVhbc9wVX63uthjQpiNRVf8sgiiGttTVrorKgvXrTpF | 3150.829508     |  641         |
-| 6RBQU4zchxr1Ztbzh8f6YFkbPauCLfkiCNfDgCvDooyR | 3117.993385     |  635         |
-| 8rjL5RZkHzubC1nLp6YBJtCmSTPBjqHS3DMphBfxGKy8 | 3112.088146     |  634         |
-| 6EoqZFkjVJnFJ8JBzw6CGVint1nUspLXDXTcQ3f1qnts | 3102.60233      |  632         |
-| 4VHES8PdTYU4cAQRnLpenYRF9thG7wXrTaRnLH2YoQJE | 3087.915843     |  629         |
-| 8F6eT1oYWsQhdnTQx5oefGbKiR4vRfNoyUZiCqobUUGH | 3065.734148     |  624         |
-| BRh3YQ1KT2DzYvwKWk8hFonS3f4bddU6Sdyee4Adv2Ah | 3053.087457     |  622         |
-| 3ehuvdnosntq8eXQZJvDs2pggHpGSkGrFbCSbCcLVW1Y | 3019.065172     |  615         |
-| 6gMuUMyDQVWF61LrCx7C7A2i6p1GMWUeJajq4ax7ApFi | 3006            |  612         |
-| 75HGH1eH13jFLSrGekyVfNYpgtketghCoJk36NYa9r29 | 3002.481553     |  611         |
-| 6LYfYJ8xSrY6eEGuvRCmEj6GDUUJqHysZz7KPWrE1jDq | 3000            |  611         |
-| 6pCDgz4gavsxupwd7VdyxGiLW3At4uxAkvuZJD5yNjgS | 3000            |  611         |
-| GKQywxzK4bteCRzdGq4gBWiseLpUh5YCEE2HYfrQZMyP | 3000            |  611         |
-| GFQEetA7Lr5U2kKGkWYULkGofriCbTLX8DsnGgdAxxJS | 3000            |  611         |
-| FyR5Xc2WYtnHwXLnzpM69iNDszyLXL5X2SVFW8yHVP1g | 2996.90621      |  610         |
-| Fo1jnxLxX5opbCwtKYXmyogtQ3yVgoxVVjySZdWx2v1k | 2995.856495     |  610         |
-| BpU1SAxCXxWKgCPZpTDgK4z7ePHcqN6UWuCWG6g8HwFL | 2988.584333     |  608         |
-| 61N5MS2GThigyFjWhMvQAdgdjw8eJjUSNXuPtPtLcncP | 2940.575361     |  599         |
-| Hq4Phx7nAXFzrpEPF2np3sEd1unWRu87eegv8ExJhzWU | 2935.643548     |  598         |
-| 48SMQijpQRoEThbBc85bhZUK1N5BXbCiGQjZ9NGje5zT | 2923.574473     |  595         |
-| AoDTSyokRUDtyevipmG8tZ7LvbXA11gQUBxsT7m39iA3 | 2907.762191     |  592         |
-| 98hRY4BEHwJpBxSLBcyh9i3hpenCmhUfX6A3GsfZQSJD | 2895.16927      |  589         |
-| 8dKaJypJMQDARSBCw8KyTzyVxmPzBnA47pfWgHgcq4Y7 | 2874.354278     |  585         |
-| ALuE9bTqrqb3AmLZhYsvGpcK7qCuQhmANFtFv9rUpQ54 | 2873.267689     |  585         |
-| 62CpAYXvcGH5efGVGqRrZ7f3TeDotgdw3Hf36BDiY3X9 | 2866.88475      |  584         |
-| 3PuBWoFTduVvvguAr7hoPSxoYfY6nhwNCX7TrZ1KGT8f | 2860.913385     |  582         |
-| jPRwPGE5P4RCVxAcP1M3VwbdDBPhGxcSdBoed8mB7Sv  | 2858.110767     |  582         |
-| 3886Ws3ovQfu2SXcRxaxCQvzFsVrW7X6nMWqEhr4jwkm | 2850.990566     |  580         |
-| HaEdbUTxwBjzWYp4jdSiabvKxiNnW1iBvMWzYiNM9Wtd | 2810.79365      |  572         |
-| 6WV9C2Jf97H6Mg7TFi6haK2LJVd7PcdCPR4qmZYDmjVc | 2791.486151     |  568         |
-| HFKqdf1vw3NTdFXiuJLjjhcJeBCTaTR3pZprpkbRhLpc | 2788.545865     |  568         |
-| ESUBowKi6zP6f564UgBhjjhippGTEDf5FHyzwZx32MDS | 2786.788802     |  567         |
-| D33BmuNGupbre9FTWMaRo7AoJpUbDxcoZ2mgAiPs9MUg | 2783.107484     |  567         |
-| F4bxPy6kdonj8qgzxtGPdtHDLxjaqktgbvH641Aqcasy | 2778.44444      |  566         |
-| F4g8SFCCDzU2JGgxdcJLWkq7AP1oYggLY2TXTgQ3mgAH | 2774.518823     |  565         |
-| TA5VJCUYHRpu35mvpBijTZxLhx4GFLgQgswiByfXvch  | 2769.903105     |  564         |
-| 7QiChSXSoEvWAKJ8CjmFDzT6nADu5oUKnNuRNzYGdLtn | 2765.292212     |  563         |
-| EMpXoTDijfahyTzM1pVwYitBEL9pGmxH11XXBcB5EBG9 | 2764.850029     |  563         |
-| Bh4pkHmjNZinq2m8jXcqjLCZBMimXexLmqoD5YvoZ9PE | 2764.82909      |  563         |
-| Gxg3qL16ceof5mcKYya9f6NHBCPtDgfhEsTkzedEv7Yn | 2752.699759     |  560         |
-| EKprWdg8bcRT16Dx2ft3LBo1fFKs8xYv9Y81VxqHCNnu | 2745.510105     |  559         |
-| GCQ4AMY1c2AFwafG2x8a9SiQwbqqFs5WoCSiBJz6kfF2 | 2743.508196     |  559         |
-| 4SdAxfS1gMSYdMgZZsaHW6aExA1ESz1Rp54igFjEvwRE | 2725.539955     |  555         |
-| 3NpPQ1m48AFMbPZ1Q3SnSkErdAxGVAWdGEaLTx6AuFCG | 2722.175789     |  554         |
-| CCGiut4B7Eu7TD1aagYCG7pMUyV9vwzrK64TyHVTJqa7 | 2702.274192     |  550         |
-| FYYcmfrtYBgrfcbHumrEq3cTKdmDwkQzjJSuJYyHdxt5 | 2694.825251     |  549         |
-| 6h5ojEUWSV3oAX96uVM2or5H8isV9nYpmWWiHWuaf8Di | 2676.13164      |  545         |
-| GDB5NrpfLmW9cJYTQKqMz2KZQ41dTLNb5Q2a9MJ8FFJ9 | 2662.814486     |  542         |
-| HYnddoq8Aa3xUZi2uqcEkWartVZuG1MTj7M2anZ1mP6w | 2612.473645     |  532         |
-| Eqm4WuUNWKSSwqt5PLak5pAaYeRdh8FScPRvpAh5SyvT | 2610.146966     |  531         |
-| C3F4zSNUSabFVzjodFfiEj2NqVgtfq3dfDfD2MNrnsru | 2588.53138      |  527         |
-| HFFSKj3GJzL3DWuTe6ix3Y6LRG2kKDghNLpgKUU4aM38 | 2584.684335     |  526         |
-| Ewtbogff3VGgfy3t8AREYDjwpSf8d9VbSx4NWB1V3DXi | 2584.488848     |  526         |
-| 8SDLd7HFsnzQ2Ukso88yfxiERb4vLfyB3L7MjtfuRvmg | 2571.927188     |  524         |
-| 7eVXqpmPrdyQCqjnaFo7QUA7bEzVk2kRqgqvsv2EB1vQ | 2550.647231     |  519         |
-| 6CJLm2BZ6b339QiCGJPvuoLJA7qVoT1LyP4oLLZ1t2uq | 2533.948602     |  516         |
-| FwNEETsYiYQncBBsSHXFKRnT6uuH2a2TACBhu68XJ3sa | 2506.472712     |  510         |
-| BBgziAgACsYrWBh8MQJGhPhyGJnzCmEu8KUrjebVPeoL | 2500            |  509         |
-| AgjmyjdBntxgjHd77SKReuqsXfnWApysW6f93CpDHq2W | 2475.068069     |  504         |
-| DaZA2sgwSRiQxp72JbGj3pX9yw4v3TqC7A1ZsmdmQX2H | 2460.872221     |  501         |
-| CkaR4jKASF4rEPBSF6LtVzaokx5sCbFsz43vsLeq5bYa | 2450.002605     |  499         |
-| GRTMwWe2AJYz1WiAFCYZMuRYGhpLXR7DjHtN1uZFTvJH | 2449.269281     |  499         |
-| CDHxguttW8Q9v9khdG7gQqMxm6qfKdCYj74cDoevBkUu | 2441.42686      |  497         |
-| E6S7mpRDW28SjCi1KoDLpfVF86jzdy6T8vUeqxxL4DYT | 2439.983157     |  497         |
-| AzjaCpVazoCQ1ZmZzCPeEoA6hj5yCCFfggTobhN7Qzrz | 2418.927417     |  492         |
-| 6tW7RutcRM6pbuaMquR7Rqrk91hDKNfaWwEF5zERyC14 | 2416.090233     |  492         |
-| DMifmjSqXW7tfzwad9y3aD5JQmwTUL491o7jW69M6fTX | 2362.946567     |  481         |
-| 5c6RqtEiinPMiofVLCK3TphsUzZGmYMD9DzWRoXtoCyX | 2360.71611      |  481         |
-| 8oprn9vFamFUrXi5UpJQAYsQHj3P7HmUXd7ZmwP4ZEgm | 2342.126334     |  477         |
-| 3dXSaYP7LZSocygP7joZp6kWJRENkoeUtKs7ZD92B49V | 2335.881602     |  475         |
-| 9L1BkUns7ydLJDbQsADrStf2pcVV27gVNxU5kXTBxBkN | 2325.751467     |  473         |
-| ByQ3JUUbzfWmMw7hgJC7Z9gF9R6tzMFKWUQuf2pLw41R | 2292.020414     |  467         |
-| 6GuR9UPGgWJSD5KAPqDYgHHPbDdXXKrdvyvDr4H6DPiU | 2266.598229     |  461         |
-| G7THYV5KwEY6jpExvN8ZwMWJeSmzwRCQrtTL693esq8y | 2257.106044     |  459         |
-| 9Fx1pqgBTSERJ6iwnrZ1epbSLTa4PtcjPtCsgLwd47QW | 2249.056255     |  458         |
-| 7JkK5BuPZA7VVe1EiCBU4Y5t9KBM6EtVNUpeUh3KfvkF | 2245.45         |  457         |
-| EiPjG2Fn4qZ8XZLM6cmAZ46XDnKWoEexiGpDHAzLMnHc | 2239.73963      |  456         |
-| DYWMxyfVCz4JuqbYGmQbfYsA2nQmrw87JFtSGDAndMZD | 2220.350221     |  452         |
-| FLQfPHsx4VPzkoir4vgaRaz52SaTTstPyhnYy6h7xpm8 | 2218.101499     |  451         |
-| CUJHZiwWCjfi3chQAKHzAyFrvnsKkutoZUqC2mLGDH9c | 2202.112277     |  448         |
-| 4YdWHqQ6mWw2L4tcDebDcMGHtpQiiafzNQuCLWr4rsZw | 2200            |  448         |
-| CkRr75HRGMwJmfX4Ehc1xfs2hBxkCsaonwqLV8bpM3WF | 2194.205012     |  447         |
-| HQxRt1phEPZnfHn7BWL1WEHGik4yeQ6eJnnfh3xxdsg5 | 2186.063021     |  445         |
-| 22dZgvYFb5iDrELB1JzMd9NyRZ3Ghh5k8LYwAn19ez5A | 2183.370475     |  444         |
-| j1oAbxxiDUWvoHxEDhWE7THLjEkDQW2cSHYn2vttxTF  | 2181.877864     |  444         |
-| 6iJNGeoWmnkjSpwcoJnTN8PGrwR8PN7s91CkZ2uYdzFu | 2168.434411     |  441         |
-| 3Xcc13BYTe7uJxadWiR8ksxnsQQKddgj2No9nejsP2T4 | 2162.630267     |  440         |
-| FBDF8JSDhQGbpvEYbJv2kJrUWiKUuih8ckETjVpRBJZW | 2155.926202     |  439         |
-| 6Cuc5uNKEGCZFJR61AtV2E77ZNMk1cEUnfuFw7efQmQu | 2145.207685     |  437         |
-| 285kXcuNXTGKSuZ1ia66jHsKZvdpP7WwBzUTrsNVVSgK | 2138.61029      |  435         |
-| BD1HSaCsjhYyT3L6rV4TCWd5i2seWCXctKrfru8D4yLS | 2138.211637     |  435         |
-| 4wFtfXA2ws9511SgMKDcSoprWxUUHjKqRUd2VRzFZ72b | 2127.548504     |  433         |
-| GejtJ2UtF2gfXgcpmAPAw4FyT93tKShpoKNJZNy8LA4x | 2124.367324     |  432         |
-| 88T9pRnku53Wv7p4cAA6x7oABMnCzGSohfgq73eBPgyE | 2122.895739     |  432         |
-| fYhF5xL2hajwKovD5TE7GJn2pxD2vaJwETRiQtKpsiH  | 2112.002936     |  430         |
-| 8N1jBE7kthqY1CSwmVnAZ69rpG2UR9C8TK2so4zMgsbY | 2101.976284     |  428         |
-| tUz8bB1cvgMjctrUHiBcGYQbYkwNgXiWEMfdffGUPPJ  | 2093.99178      |  426         |
-| 7CMSgkvTVHvm7uh9eAB2QUWtWGp6TCfggJpKjkeAo73  | 2068.22554      |  421         |
-| 7YH7tkWnKM8WV9nNRYxScF2tPKRkL9Xak2fbAjjkMdxW | 2052.648161     |  418         |
-| 4ax3inm8Eod6QCwzqLUxvqsrPMyefP8tBPZUzPJdrrS7 | 2031.717834     |  413         |
-| Bax1TV7wPT4YqNaQSrgsDdS4KLRcejQAhbEDfoAsjuPw | 2021.85074      |  411         |
-| A9dBaE7Pd76X6DBu554z1DNsXGE9GdKYzBm5cGnSnUcv | 2005.924952     |  408         |
-| FRY5JNzw76u1DAw22CdPA5rnJn1VqeB8U83T4Jgz8sA  | 2002.360353     |  407         |
-| F7zShuWCjfEEZizHmdCRViJ5hathYmkLAh3bb4tshW48 | 2000.878572     |  407         |
-| CnzuHk9YKzefMrQKyyXjVQnnhxn4aBs2gqdPgWqeAS1h | 2000.666182     |  407         |
-| H8ssgFHbC7LBKuboBLRartkdrSgKWkhuy2JpqPgtt7SA | 2000.248883     |  407         |
-| 8qnq6sjCUofe4yhasvdzvmnECcZZNLKENfohofWZ7Drw | 2000            |  407         |
-| DzLnRWquut1StZBTSkiuDUDDjxoG43FZzwFfQxwPbcqX | 2000            |  407         |
-| BfV97yrWBMMVna3skNiWL2dmXVF4Yugyjhu6GX3QhaED | 2000            |  407         |
-| 9A6bzEc61hXKDjXrj68ywr1rnsF22rM9KZhoEWrmmuhd | 2000            |  407         |
-| 2KGpuxyHQghtq21Cg7qVzo9N5peS7w9NTy4wBFRPEHxe | 2000            |  407         |
-| EsRPMosYUS8NW3A2WMX4RLBLKuu9naPZeYtU6cWmZ27p | 1980.084606     |  403         |
-| e9ce7qwscJpYCcZoUcZnyVzTb9bSqkjQebN9QcGa2BA  | 1977.4          |  402         |
-| BciteaEHWXqJ8FMQqe2Qa16g4PuKCVwdhJG8BbCpjdHx | 1974.530953     |  402         |
-| FFpsBTC6wirqvQo5XcTSWBThdeoiijJM44DwnYMVPSxT | 1968.08271      |  401         |
-| 338Xj3E4DtFN4vXoYh4pjaEima3MGXDc7Hy9Gxftmq36 | 1962.170977     |  399         |
-| 4Hh654q2GhVtT3VYEPnqupXAtBc7YsZstAUB1AGrKK5K | 1961.2          |  399         |
-| 2fVCQPD5xvUW6FhMhh25xbNeEoVgo4ghS5zQpVJ7Mb4k | 1959.48644      |  399         |
-| 4K31PxveZ5mLt8LtsG4AoBP3jMSmCNDeQLWvMg2y2LUf | 1952.817519     |  397         |
-| E3QLbESthgH1kxbaDFbwXAQY3P3DBwwwkUvVerR5d8Bb | 1924.697344     |  392         |
-| 8azgat1nC8R85B6nGGVhLtmqe3JoJ4THgv9bHWWZPiKx | 1915.402685     |  390         |
-| 2hnzLuK5DYXM1ELAyDKKUWr6X7ahZZaQfUbouTsZtj7f | 1907.91141      |  388         |
-| 7X9x2aF3bus3fZca6LzTHVpQamY4eRAeyYnWzhp4NCu3 | 1907.101891     |  388         |
-| B9WDBt3g6vWb4NhAc1TH6FYtmXPktvSQCp5UBvhcFfWb | 1902.00707      |  387         |
-| 6QvwtK9hMLSzH3ENPVwKMaUec5T79BkAguqaYQr9axq5 | 1898.451052     |  386         |
-| 7DNr7iCNheEGybRkyvCLPHDJPZox4ffbhKUCp1YR9jLt | 1886.448463     |  384         |
-| ArEomrTowBozrDb7EkXowjKym1Lv6MD4J3qVgcQ4ebt3 | 1883.087694     |  383         |
-| 9QL7n7z27rAztHaSvAKLm6MEhPDLZRAf7k3Ec1BG71Cx | 1882.249041     |  383         |
-| 55KN8jUbG3CFAgLUm6HcUkszZy1tym6u4BBZeB9Pq6wh | 1866.479262     |  380         |
-| FBwKXo9fb4JHAhXBranirQEf6mAAKQ3JWvpZUaTuWnTV | 1864.203853     |  379         |
-| HFRtwe4Dx7PyLctQqHpidDMacfBpBTbK65FohvSZ5ore | 1860.592404     |  379         |
-| DK7U9xK7ZvNLPNU87hFTufutDQRVcruw3t1enZVCN3WQ | 1856.268161     |  378         |
-| CxrR9RnNh1XwxD1gMYYiHA2PuaJ2v4ZhM1BFHN9jWmB5 | 1850.270558     |  377         |
-| H7n8CAntco4enooD9u6LmoatmC628gAH5tcHQVt9FjNB | 1845.804375     |  376         |
-| HCppULXy7Dhc4B4k7vVuVmG2yMmaHDJDBzsAmVEn3YkY | 1842.237334     |  375         |
-| ESt9TRigfB8dR3qNDnaMNhXvQNcGsBNJWKu3n8FG98Eh | 1833.664074     |  373         |
-| CQcQTnsZXEJ1dVffkKotxCLCkdrDBnSroLVzU8R7f5Fn | 1831.56139      |  373         |
-| Fi5xHvWBS6rzUmfP5u2ZExmtUM32ARzobE4pbJ6fKfoj | 1824.508893     |  371         |
-| HAxdppwU9P4a73vugAwSiUHGETspV2C2642enFYWxoin | 1821.381208     |  371         |
-| G37vcM54s9SehSRjsMNgBEuW4Qor9uWRwAM4azKDeAMK | 1809.856853     |  368         |
-| 9xKekemfCusC4vFQXcBHTRBsq7xiM26bQWpqFtKqmzUU | 1805.798114     |  367         |
-| BvSxqiz1ujvqp6GcU1dRzQoXSV1oB8MkUpaFnbSPnJzw | 1800            |  366         |
-| CSWZRGFV3Zpeem7BUxyxz7ci4oxFQYY7CpERF2mexqYH | 1799.698687     |  366         |
-| 7CTMKFqphW9KyrCGcNC8q18eW7hW125yB3Cs3fvGBrz4 | 1796.590508     |  366         |
-| gyQ9Af8xrNhrsFA1t8Ey52oExZkmHrk956SXW8k2ptc  | 1773.253595     |  361         |
-| 31a6zZXf5BhZSWQaSgkunwSponh7MKwvTkRiYn4uBiuU | 1767.380182     |  360         |
-| HyZ2GXGyVDmpgVUD7tNMrxHgKcG3cHNGJTWU39EKWqCy | 1763.213059     |  359         |
-| HZbvvZJW1aMyrDm4HNhVNJvYtdSdHitpEZ7GUktVWpp9 | 1761.445836     |  358         |
-| FnSXLy6CBT4u86VvMJuDa4uCvTy3fWJyA19MbtqZw7b9 | 1756.087364     |  357         |
-| GLN8B4ftXHaNv4HbXkZ9vHjZwwaB6aEmzkXN19jrwtxd | 1743.827944     |  355         |
-| 5MMKKu9wDW7KTQUGw7DHqXf4fVvBug3Mx6U628dmRxoh | 1730.11664      |  352         |
-| 2Vyp2ik8DYNh8vwmSHsqgSymxaSeS6Fsz5KQxjCCjJ7c | 1716.792879     |  349         |
-| BYPuu1zFK5nH8KZ4eYXH8ywkEYQcMBhkTwUtbQR6v3U6 | 1705.088145     |  347         |
-| BNyAvXiJSXrrp1NG7rfJZ4GLUhWfh8xabbjUGv9e3BPL | 1702.463902     |  346         |
-| G2PUPj9ZWuFB76hqcWtaNALWhqzurf3JvmqBfSgBZ41K | 1673.549904     |  340         |
-| G4BuRpBfHD3amNGfE3MABzUmQfehsNHCVFCQzR2piRQb | 1670.757146     |  340         |
-| 2jrXXHLuWQHbbpDYqMXtvtD5aWQBEiaKsHUYA7otUBrm | 1667.453026     |  339         |
-| mY1z4wLpDzGfhFVSRGF5GyU4wNjKhJdvcyN5k89AYae  | 1664            |  339         |
-| 5pPoZrpqEfo5XgjqWisrLzLpsPr1mAi6csEaDCF5yGLg | 1643.006384     |  334         |
-| 5GcqHVLPXWMJGZiT3JPbovZkt6pFNBy8Xx7xX5oFRhmh | 1641.505341     |  334         |
-| f3MWJHmsmR8pYYa2NtWAUNweKsUigMRAUsgG4aB89vb  | 1634.443675     |  333         |
-| 5RAyCqVSQPpZLdZGxeKW4yTVnybVCP6pRAtfLFN4csGw | 1625.604754     |  331         |
-| sdJSbA3TgxRSSnfsAhP34aDHsLKdmKownsy8w9PM72c  | 1623.007874     |  330         |
-| BwaomQzYzNzZ6df5uekF8U2xEUtEyrXgLhpswXPdzLLK | 1620.889314     |  330         |
-| 69XJS1GrDDTdUg59sPTRsRo3Z79czDtHK5oSkRwBqJM1 | 1613.602511     |  328         |
-| 57NiMTWx2HG4J5ERGqemUY2BcaDqhTaygqifDJeoWhWW | 1608.208675     |  327         |
-| D3i7fsRkR7jw58f5R7zJxutNyPiWbisg2vjntyL3DrkG | 1593.421755     |  324         |
-| 2UzpwtmfZAHcA1k15jazCrfHFtdqfWw9UxAG4XntMULq | 1593.206665     |  324         |
-| Ef7N3rB5QQ6XSVvPAKwyuZafi2VyUu4jfS1s7j64QfVZ | 1587.376745     |  323         |
-| CGGqr3SuTh9ypWxyPCzsBH79xh67it47jB2goVHxHFzu | 1587.063038     |  323         |
-| B2Xvgp1bNnn7qHYVuxhbkNCg6xQoh5FYcfmV5UN7L7MK | 1577.930922     |  321         |
-| 7NXVzwWk7RqAgKDeXj3xXxBCZfZntVK3cKZMBNt4dpZU | 1570.592551     |  320         |
-| FWAcLtF5HFwFkUdQutXr4VfYS82DGXQD3rn4FBiw2P8n | 1563.150073     |  318         |
-| CEExEvdnN1hWYmPKyA9khnzPFuyswCvoyGGpePCUtVoa | 1562.752848     |  318         |
-| Cdjj1iHVw4Zm6SNj5GMCCUShm1m8rRHpBMGEci51HSqN | 1558.529833     |  317         |
-| GzzoPM8ZFhnKjZqrp4e4PEy92zbUp17LqxCqR18qZLNL | 1555.097788     |  316         |
-| 4t83f6pqzeYDd7Rp3YUhejbD9suC8ptcGxW9oeYibNMT | 1545.305682     |  314         |
-| BWhQDBEjbn4vngWSnDLk3o2HJa6yBzYFrB8BT1k6SKaE | 1537.930437     |  313         |
-| B5zWDa32TRS3FjmA3KavF53pUpcQMF99dw5uFV15w21g | 1535.832059     |  312         |
-| FSLj3qbBToL3vrsEK2iVUnMvuEXpiMnNS7cdCQGAmktg | 1533.362337     |  312         |
-| 8LqCnPYdEQ4cucVetu1u9mcrVtaD3gDTTAs2ucRBLbH1 | 1520.45572      |  309         |
-| 5HvMBojLyq96gsxkJ4jFzeqtVYxPrLEyNw4GyZTPCZXW | 1517.545477     |  309         |
-| AkTgH1uW6J6j6QHmFNGzZuZwwXaHQsPCpHUriED28tRj | 1514.581665     |  308         |
-| 9JvjWnqaQsPMokhtRzn36vg5h3ZEPzoJPTNMPBfSmPpf | 1500.651414     |  305         |
-| 7v3nN2LT6mQgYPU6uA99neJaHjRTTrAcX6WYLfQGZPxj | 1499.45         |  305         |
-| rYLt2ohtnYadiy2A8RiiqruDupmLyPh7ToCEKGYTUZW  | 1483.405181     |  302         |
-| GQLzbpDbp4ugnuitpNCPEp79mfx1pvoQn3Sq5K8qaSNH | 1480.591259     |  301         |
-| 2GsKv2nxuvSegP5aioP9oMibfHWFpfUCPmffKnx55t4f | 1478.154668     |  301         |
-| 7de3viNKNvzJH85NoSvJaFjjWwH8Tw6Yx2PcMVGnVjG8 | 1464.93132      |  298         |
-| 2szvXEfU7WhPGE7fZMdUiXYSf3afspwxny3c9UzdCdZt | 1447.949025     |  295         |
-| 2dmK6KjRhCZVJ8GAfiVmedgRZTmkEUWSegjRskDZVfKm | 1445.066938     |  294         |
-| AdHbCe4x8sJdFJGu25xHd6V1A7pyYEhMngZBAg7h8bk  | 1442.003072     |  293         |
-| 69y7EGbrq5e6JtmNMkjj2gYNQh81dtnxdTFwMivVzKH6 | 1441.911434     |  293         |
-| HmXqduTTPT5BAhqMzofcDQWphdTFL2yvpiutdXRQMqga | 1440.561538     |  293         |
-| EAXBCyv3cnMLy3nop4iEGiCLyPayHR1SKxpq9q1UHD2t | 1439.922586     |  293         |
-| EP76R95itWu5TsLf5CFJ4qMMfZ5EMmBuaPvB9xBFuPYk | 1433.816153     |  292         |
-| 9MR1zKP8sg6hMVqXPjGTLm426gGoXcfD82Xe9zD2pKWk | 1428.550356     |  291         |
-| DEuFdWxA3kHY6mE7B3Twx9HnManBeRZ7LqweJzZY8uFa | 1425.036192     |  290         |
-| 8TwKXWygSPUYjWKEsqSVy9sjR8i95Nn8u4XfTxASTma6 | 1423.634493     |  290         |
-| 63wGD952VJFtAvZrAuYhmLf6H4JoMSFL2337EaroC6gY | 1422.858732     |  289         |
-| 2EpR1LgwvNPh9KUdfroYfsuAeNVkr4Tzd4kdpQXN3Qbn | 1412.388318     |  287         |
-| HBdW3fnjEY82Lqp86QvaAdb4ttbTt7zmH6754aTfw6E7 | 1410.214368     |  287         |
-| NxWH9BVTXgEcPRTojsFRoocxTbFaD4KrrYqWyv4qA4Y  | 1409.90628      |  287         |
-| 8maodDX1hwqijFfkG8xp3pEzhNrR5zZJAvcvbQQv13Xa | 1409            |  287         |
-| a13fPsm7d8x4Wj6azpXp19poHbVyEGeyzgnMyaY3Bdw  | 1407.822235     |  286         |
-| 7GYKYqV2FjK3yReDAkrJ4JYiM3vDmw22VaR34671wJiL | 1405.900763     |  286         |
-| J6JbMmTmY5VNwPEkF3mxGwsaYTpb1gEzYtsLQswkuwZD | 1398.818505     |  285         |
-| CrVitMtuwgfCxehGZamCRN68FB7arMnohEpLnYNyLLL5 | 1396.545087     |  284         |
-| DjqJTRJ6v4LXQHkwDsARiBfNGrU6UUwzJBKxKk5ScKcb | 1394.013346     |  284         |
-| 899bKfqGNmaySpMDLBKLriaummUzri9ms5N1qXybK8CT | 1391.942899     |  283         |
-| 4Gm2oHTfQtwNkVXhWUK3rrHtK2cs4KJL7jxKK9xXbfp1 | 1390.799545     |  283         |
-| EBWkShs438HUQqdUG7by3iKQ6diRdoqpts1uABVdAjmP | 1383.609271     |  281         |
-| EQ7BXhh1t63Xm3wTvYYV339nnEuoLrMnwYCtL81aLvvY | 1362.797863     |  277         |
-| GePGXFmStJ8KGZSVZtobCAYsWoCeAbX8BjrxkprtFeyd | 1361.027523     |  277         |
-| DfHvoEwSnUsoCxvJiyRHBtfd3K7J32jmctD61cTHjqLA | 1359.102246     |  276         |
-| 98Ejr1YGSwEsCYtQknCd5ZMRcFiTdeSp2MtTApQBfUYd | 1347.710779     |  274         |
-| 5dov7q9Vu81d2ffttY8yKpqrkxdqq5HFU5aJKp4XZd4y | 1347.65         |  274         |
-| EedeH9kx8r5zkiUeCPNpZbhNNUe16xksjqTaoNbY1Uyg | 1337.040012     |  272         |
-| 5HJmaEQzyeMyShwGDui85jGS8Vk9G3WSBLkWfMY8XYK7 | 1335.91939      |  272         |
-| 7zhJzDKs5xPrPc7dhkgDFChKAaKF6VLr8o8PxrmYsHjG | 1333.254582     |  271         |
-| 39e2o6wefyCaSN8UF4M2XA1epM2dUDXMWqdZfjq3pFFD | 1311.157293     |  267         |
-| 4hciUHsW5zgQpBQEov98rxzHSKPEyDUSu6ZAuMLpoQcg | 1306.499416     |  266         |
-| 54LtxsEh6nQX5Pq2dBjDvKoTNcSE8osZPn74ddVxTSJm | 1304.799084     |  265         |
-| 9LKY1Du81gByvTH4WWoHa53TogwVYPZraq135QXyusZT | 1301.546202     |  265         |
-| BgZ5YXspTebkDaaJMGc6kzgPErZdj8LZs7M19UCgfJH6 | 1294.851647     |  263         |
-| GsCUAKXhrhTsWdHkPBDjnBMGLUHF4SX2Xc5WiAXEGXR4 | 1288.156389     |  262         |
-| BNiBxSZq2hur6Kfs6LMP8aHMM3KEyyZcRNhrJ5avNCwd | 1282.49587      |  261         |
-| EpKMP7S6YNvCboQNn8kyfpvKeT3JFwVaYjYWajfgmo9j | 1276.26909      |  260         |
-| 8wBPAmJHh7SQpJhqoRMPh4WYpZh7J18wcuFoCdWdfsJm | 1270.928958     |  258         |
-| Zcc5dUBbtcaVSVqSWNJLHhYBjjUmDUp32ABwDbwoqfZ  | 1267.289233     |  258         |
-| GgtjixYzYzZmARy9KjSvQFxBpHTR6WJav9G65z42vPzD | 1261.859352     |  257         |
-| F7QsmynJ8QSoVmN8bDrbwXo1Lz2vwC8Fi7YPaQPki6gN | 1259.023838     |  256         |
-| F4Vxrmn3T9HAMnartzSgCnRyzHRj1VtmjVLM9PGAM4W  | 1249.564584     |  254         |
-| 8ChEDRxP391L8mBwgwR9HzZH3i1AMfo6PyfBt6brrYJ  | 1248.835957     |  254         |
-| Bpk7g8KM1ZtRwsLQcFvYnZTekdgKvPdaq5oySdc4UgG9 | 1246.565308     |  253         |
-| BcLZa7iPyUgH1DAw67AEu3CH1Wqai7474mJG3p5Qy72H | 1245.729121     |  253         |
-| 43yPJqxXP7yBzURkvPhjXhbXGNmcBoRV9SF4XpxyCZzk | 1245.17643      |  253         |
-| HqG43pbmfFd6jrzT7yWTBFGJa1cjujnSo2dQzDeMXeXK | 1225.236636     |  249         |
-| HdWLaBeJGeDJz6W1aKbz5McT12cbHEYYNiL6doR8k5gM | 1222.441227     |  249         |
-| H9hRQf8sBdQvD5cyBvoXBT1M2Q2RWBnTDgUDXLKF74sk | 1222.406143     |  249         |
-| 2aWmKt19wLSYqqryxM11eroUcR6EBUfS7wdcRkgAVHNN | 1217.895475     |  248         |
-| 6218Td2txjTvrczRxnRTePYx2BL5dmaDDDSTrhbZR63f | 1217.067974     |  247         |
-| FQr8G5BPEuxmgD3T7HxkCnkivyRamteGVEH7cngUFVdR | 1203.440084     |  245         |
-| FVWQuaXemqKjkfkGPaZX6ryD8Pog9Mvv4vsb5xVetf9W | 1199.471223     |  244         |
-| Fz1pP1jWRVJ8EDNzjZR77GKRXd5XX4sBBN4h6nonSpVr | 1199.031203     |  244         |
-| CtPQdhrSX2KCNNq6NHEzEhx2FvB8McYGg6VyPM4gMsb1 | 1197.26555      |  243         |
-| F3ttvCSMgTpJ1SgfnTBdgjjdmFVBA7SVUy6ycJ4EXiHB | 1193.21001      |  243         |
-| 7UwtbygBn7JiLTtQGUbKUR5cqDWuVVkg4UL5NAiTpa99 | 1191.08229      |  242         |
-| 4vF8tM537ehHSya2w35pJRy6Yb3vYmeJxRNEUVnvYA37 | 1190.707891     |  242         |
-| 7CGzrBNNpT8XKtfoUgCgAKaiBeXUVdj5UDSJ25CSc19m | 1190.289325     |  242         |
-| FvUkHB8M3aotQpKKdNVr3pvGtmJS9HH2bd92XY7AdxcC | 1186.176775     |  241         |
-| C8e2igoHsrLmiKtAjbRCosJvPAv2pPSDkc2KZ1tU8Dsv | 1181.391782     |  240         |
-| ATyGqUGCkdyWDWxazMSfHM1BRHNGWSr8WAZKgx4RPW74 | 1179.09992      |  240         |
-| 1G4kQ2DftYZAzUBbdH2UDxD3UqQnSXyRED2oY5Dybti  | 1176.253024     |  239         |
-| 4d8vPGXpCw3ojpSM9UD9HMaLJWyyZSo7DPqzmnorVj2V | 1172.942052     |  238         |
-| DbCXxv8uwpioeqgT3iPSpPs58m1Hve84JhDjkrK8YVka | 1169.286819     |  238         |
-| DSY3Pm2qsKbSm3vaikXSe2MTo1Rk4bpxA92eH3Pa8DMH | 1145.25         |  233         |
-| omZxj41KdZ5wG7CQgF4dy3AnDqnESPPGFHEatkHzTB7  | 1140.146779     |  232         |
-| 2JFzkG6FuyztExekxQxy3tKhT8PcD1nqAneF5tXVr5TA | 1132.907396     |  230         |
-| 51j1zDN8W8EqhdKFq3QqdqxtLnP27swUHkurwYtXeHuN | 1114.233588     |  227         |
-| 53gM4yQBo8GzQjbgkUMmG5QQUoNCxXLPzZFJUEckZvBY | 1113.643304     |  226         |
-| D29CYkmj38jksk1kKtDVL6H5Tb36gQC8vLcx3chnfCzh | 1113.000001     |  226         |
-| G672JA8vEf4K8yzMPdSgtJRePWY2fGgNW3ZpumhxEm9N | 1113            |  226         |
-| 5hmmRAmHATdBMpB3TpU8nK9zzch55xaugXzaWvp3Vi8C | 1100.067763     |  224         |
-| 81hdX4Qw8GdvTvPsYHtVzUujeTi6zH7WqE3UNYDipWcD | 1097            |  223         |
-| HEkK8besyGdnfRw4vSRCkwreHwNjXdZwCeCRZ1bpDiC8 | 1096.581435     |  223         |
-| xYB7XFmY1bwtxsQMRwiaxCZD8sM1JbrNfYaJ7zmEYAb  | 1094.547777     |  223         |
-| JCHh3TjzXvJrLLNGyEyJkaCuMabFa8E5eXUcpuxAYm5t | 1094.3          |  222         |
-| 9AUbkLRYJtA9YBQ5gw51Y85rfufdw1h6cdCNsY9XWkbQ | 1093.5          |  222         |
-| 7fLitEkrwTvxV1ungrivBfJMW5HmUeA42b37Dn4EAjAA | 1093.391007     |  222         |
-| 8UmetxS5NjZmh3odq4RThVuXjbPhgaV4sYc9pzKuhD4Y | 1091.362098     |  222         |
-| 6FGvP561fpHQL2XojxK98tj1TikwNuYpn77qDyz5en1h | 1088.41914      |  221         |
-| 7puAbC73fB6TCXNkLaY2JJqHBHD1n6Bw3q3jCaEux4zQ | 1087.934937     |  221         |
-| 2Ec68fewjp4NEdwr2ouvZGegnCt2Vcn4FQPHh94VokoN | 1084.008547     |  220         |
-| FRJuojA7SSoCRZgpH1PcbubLhTH9pV1HJGv9eWm54Ti5 | 1079.740199     |  220         |
-| CADNEtDtLWQPMnDPczwHotN2QFuJ1Q7dfUTYWJmafg9X | 1078.286737     |  219         |
-| uT2cy5FnJBz14Pc3PqYLtiN3RNJgMW3HWhitA4t7Msb  | 1073            |  218         |
-| 9NwC44KkpGu6DnBgQJZQk8J6EevzYqjuhg16Ly7a1D84 | 1066.532336     |  217         |
-| 9av43mMvyMJ7pDNQUQXzg2JBdqH7wqkxY6raxyJcTgVE | 1059.552687     |  215         |
-| 4Vu6AsajLnyQv7e9QD7ELFaDT6ueidBEq6kTPzSHtFgn | 1057.979486     |  215         |
-| A1FNq6heyHLzSWNE9hKjn5ZAgf2sP1tD7mgawjtafLfY | 1056.553107     |  215         |
-| 93qv5WdhagFCaYRkVz5MhT5GHdNzgknB2C1Zwk5znU9b | 1055.244811     |  215         |
-| 3A2C34HV6YAp5yqmEEQuF7ptzGdfJqe68CMZ8YBWgk8A | 1054.322061     |  214         |
-| 8ZopzQH7KUcyacauPVtFS29bQ2BUCTR1Fcw9V4UYDjaj | 1047.713377     |  213         |
-| 2FBpc2JfSVYJvgFgYUdM9qw7dGnX92u21gu9tpQGvhoR | 1031.504498     |  210         |
-| FoyH2Sor5dGa4EkLmwU6oYh7Fp61FWip5oMZ6Q9gNReE | 1029.316244     |  209         |
-| 5RC741kMn3ct6eawXWtHihDAHp3BCob6QcdNn2Q5UpiA | 1028.104894     |  209         |
-| 3qmCPyzcQdmo6q3zpjXwPXSMN7F4ztMS9WmtsJSDzKrG | 1018.670794     |  207         |
-| Gz8E9ygwsnGX2JY5vbNGmvp96bJ4HQDNMFr84eV6RWN9 | 1014.325901     |  206         |
-| 7VrUimreoigTeW6Db6x6HEMS6N92mWHb3x9RSxTSzdrq | 1013.747584     |  206         |
-| AnPQbqHX4Je81qseFkwYU65eKe6i5BfTf3gJQ3iaZN3v | 1013            |  206         |
-| 2qQZd2KcHnYkMATvktJ3QZFKdyKiJGVKg7cPC37QjnsY | 1012.858086     |  206         |
-| WEUu4dG98vgCjMqt1ita1UWtzjxcqgDaXE5v8JK1AiM  | 1005.826275     |  204         |
-| RbMvAi8cSKiP74NTotyMEteurPDgxF8tyJv39nLZtx7  | 1000.973392     |  203         |
-| 55NQkFDwwW8noThkL9Rd5ngbgUU36fYZeos1k5ZwjGdn | 1000.908768     |  203         |
-| LSEedeUTyrAUaX3rVAVUuABKcSCgZ9nXN8wqX4Qmsnn  | 1000.477604     |  203         |
-| 5A41dHkQqDEzgTEarkW4Sa9CCEEo79jJYuVnpNKMHhKZ | 1000.009648     |  203         |
-| Cmh2Jtv2eZ4QxMrC9B7DD3RytttwWc1Gxjzrrn5vMa5d | 1000.0039       |  203         |
-| FUpNdZ8uLZsLHqnuCbaThC3hYDHmvmGcAMJRM3WaRSvW | 1000            |  203         |
-| 9Wr2paJG8bs3rn3w4AWfENwpKidskrLyRd3dejnc1fxr | 1000            |  203         |
-| DUKE8funVAf9XX4XZaGRxG75YQMEKSBiM7LSabWuUaY3 | 1000            |  203         |
-| Br8TPXmhngsWcryxJJWnHNaqPB4pbBA8A7ricnT6rdJr | 999.999999      |  203         |
-| 9R5y6DVLr3jZaZZjedgbim6rtf7NRPRmQVFV5dbCALUZ | 999.999998      |  203         |
-| 35T3bCWYmacpFAyf2JZrnDpiaBz6ZWgspJL6AooaKQMn | 991.154618      |  201         |
-| 8XfVXvsMZ2ArbkDspifjc4r9LnPzJxWdmPk1D6Ey7pYt | 991.1           |  201         |
-| 5dSzntam6tc1o3vhRi1YBF123hows2CRrszxY87GECfb | 988.48597       |  201         |
-| FX8DnPDc4hYZfu2LSsXRjQuZs8AJ93S6BJcaqgAmopDH | 985.3265        |  200         |
-| 7v554v9Ezkmh1DuZwuvhLabHTxrQq1vARpmTNnGeLBGW | 979.133236      |  199         |
-| 6yYDHDv7hQLs6QBkBU2MDetg1aDrmHV3k3tuuHfFFZLx | 977.676048      |  199         |
-| hJnTkyjfih8pRP8C5s5fCLZbtzRQgJcFsoE57QKStGi  | 976.653072      |  198         |
-| FgKcoogVxsGdytiJcEvAPNHznMGncgjrsct6EpAcLGeV | 975.553581      |  198         |
-| 8LivSwWBo1NA2kkHwGyPmqCppL6V2Svs4ozbonPaSS88 | 965             |  196         |
-| ExzEgtj6gbgiFtQVjgYQe845VZfhD9ZdgqkiWcvZAXDG | 963.367701      |  196         |
-| 2tEWBPXNGrvSYMFEs2q6a4cEbwkFsP4e8w6HuW1DGujy | 955.077912      |  194         |
-| Ef6W78rvGGjvHyr4nsgaTmuVV5zYM9dTkG8PB3iL5LP3 | 951.595295      |  193         |
-| 2gBAJYr3ZZwNqa7qLbTqRheBGRsa3KUTyn8JqgN4pjCb | 948.478639      |  193         |
-| FGho1ZiGmPgpYYSEvsgdCjCHokjc1hv4gUBegkYdoaEe | 938.3795        |  191         |
-| A9WJoGyKahsXiodaiaEW7QbzJ2BXyqPN2jgxeTzR35fU | 938.139035      |  191         |
-| DGWwXzyQ1Hz1Vr1hSV1SkdjshHFiQrFSPvQ5qzKczepn | 938.00241       |  191         |
-| AAda5EXsp3Y1RvmiThgpUAa1hive7eDpccn5tEX3JwNS | 935.909798      |  190         |
-| B9KCgqRcWqfLQqzAgG7QzFuPdgpT55Urdk9fRG7isabE | 935.451478      |  190         |
-| 2a873bCDKQf9EDdMJ5nkYVXEXKJGCC94DhvqyPTu9Zv3 | 925.603522      |  188         |
-| 7eHbAM7CfkVBekAu9xR1Y8kiw4KL6u8zVjCHxGQmCKbt | 923.919389      |  188         |
-| DGJGshaMKkkAtz2j4bipbRDnrMEJeo8o88di81T3spnV | 913.04          |  186         |
-| 35fjKS2HqKvA6e2UkcbUpeJZ1kiwT25dFgDnVSH6mwRT | 911.105067      |  185         |
-| CGJ9URjHhqqwne6EBa1yZzsCKqdPouPUqug2s2p2vppE | 909.513097      |  185         |
-| GdwkuC2zjp2JTiodGLwT1GQoLvCYa7uWnXe989VxwbQ4 | 908.412668      |  185         |
-| KmdAw2M9xcbs8BLWYs4jrjuKMDT646J9tANGdX4TP2H  | 900.7535        |  183         |
-| 7ngjtpaQEXc5ewGPHmC24h7TpsqQsS7RHq51KjVj7dSK | 900.341986      |  183         |
-| FSTBGcaXQi7mL8gzdTcjwNAChTCUyswrgAKWxmPaZQiF | 897.952767      |  182         |
-| 9UJs7F8vXiNNwDy7ToKrg5fJQCCDaHf39yWRGLkCbGMi | 892.795458      |  181         |
-| 3rLZoCDGun7cumDAnZpgBFV59kGfbgEQY1QdTDgsnXsm | 891.107967      |  181         |
-| 2Hh1tN8gzGW1HBm3gaXpdvCCZ8C1o9Ut64mZr63KpTaL | 889.889018      |  181         |
-| 3Tu2wotZ247EdxoXCU8ZvybRoQcHqvoeJsHq5kCxrwLr | 887.5           |  180         |
-| 498wBr98M4t7JLKasu6JLv6UBFUxuUGHr1CFpUAR56FC | 887.075984      |  180         |
-| 53oYC4u9YQM27YAUFwxJssUg42NgDrRwtg84k3sFLZj  | 881.095536      |  179         |
-| 8hAHNYnD5YZUPfxMkREXRy83YUKox8K98M1aanUakwJv | 878.366026      |  178         |
-| FN4QLqTZRQTorKYRvkqTmjkdcUXwmmr5kfGr4kufN6Q2 | 877.04596       |  178         |
-| A11M8CCaQ8ErKmhjX7jMV3w1NMXji9ZjEkjeYCnDLjaF | 875.709689      |  178         |
-| BkhcFULEB6bBYqmXDn7zEb1AUdK8AAnL3uJHEiGWXvdT | 864.23297       |  176         |
-| CY3A6wR26MyLW4wPedyXq2agGCMaYZyBrevCvsJX8iH2 | 861.055138      |  175         |
-| HVxUBBfxMBcvK4vJncEfxJU3fmfXhyr4WWRz5Naab6PP | 860.7           |  175         |
-| 9qfh7e9f1fYDJLHoKnhpmGB8uqFQ1VSQWdA2JznmZKb3 | 855.249176      |  174         |
-| DKy787D2rFiEhK1uxqxYoeFkxzmdLYLEe6JYFJW47i6i | 854.331201      |  174         |
-| BdK1wxE68jLAnFQySRTupDQi5J8tAdV7PZTmtrsw4QL5 | 853.74207       |  173         |
-| Ha83RjABBy84agnaXZt3VNGE3ubsUJ54nwebnon8dZpz | 847.466859      |  172         |
-| CRxkriT3T4z4vihHu1vhR5eBiVFq7oDrzPPsqsqhyZR5 | 840             |  171         |
-| HPrhvm3pyHWwDaejdg184zr7ofMHQDLgVUtbCMycAm5o | 838.292815      |  170         |
-| 89YExpyvjR5dGxSMPJiP3vDE4N6J4EeJjrxT6B9nvRgm | 833.133086      |  169         |
-| DCcj6FtG3jaPUu7VbgZqKPtREq8fSFf9mybWGRsKrSbL | 825.761979      |  168         |
-| j1oeQoPeuEDmjvyMwBmCWexzCQup77kbKKxV59CnYbd  | 823.373966      |  167         |
-| 5uZvApf7jShRjpaqGEUoVERUZ1SH3byweiKhpMEtcfGX | 823.353188      |  167         |
-| 6oAjeqR9oQMmdEMCBs1CicaLC5D3iGAXa2xRx2aSMCne | 822.555154      |  167         |
-| GUx5NbJkbqVSTfCanCoH8yybV81y4wDSz8VtAorHYUX  | 820.578156      |  167         |
-| FtJsVExaRhBTBsT3KaEDcKQH3ZbmYtDJ65YHzAwsAu6n | 816.824         |  166         |
-| D635RcWRELKYUaGfECNQNU6TpypwS3VZe1kpGMqmgTNY | 816.240554      |  166         |
-| 97dAxjJQ5GCtkZxUkXXcfnP6prjNKbwqoYbK12xEcc2  | 813.714844      |  165         |
-| 61AZeN94MYaPoxk5FVG1v1xgrPNWdMQutFAxt7YfSTvG | 813.475844      |  165         |
-| 6Y1XYJT5vsdTfBBCoaoauxrjwDU7qzY64a6Skwg5c9HM | 813.195442      |  165         |
-| 4vVqCfKXhZNQ1GjpiQS1ZgQsY5gcYbjyttZLfzwRKhtu | 813.15721       |  165         |
-| 472F2RwxkuwuA9CnRBYp33qqCiA1QiCB477hqKPQLqNy | 812.841174      |  165         |
-| Ei6bshBWHJHsb967eygapdJKu2WMdMj4Tog6vorWX3ZG | 812.754344      |  165         |
-| CfPoFGrqspRQXvcfiMhbNQiu8vbeS6P8goGPeFWDVU2E | 811.9638        |  165         |
-| 5z45QzidqMLqxkN8u9mdQpudmYj8tgGFtJ4VShLjUJZy | 806.515699      |  164         |
-| 8JK71kX7DqnQAEx5ykBbNy7w2ZsQd1PL93oMH2ytzLYS | 806.027272      |  164         |
-| DdTUDbQYieMs1MoU9smjSDxMVWSoqTNqh8p84XLosCzL | 800.497987      |  163         |
-| EExwe6QyurThJGFHGTPJvooM2ovzYgPob4QFKL4SZBfk | 787.858684      |  160         |
-| B4uXHBrE6ATET3R7fQSa38TwfaugCEKzt2CnNYR4Sh3r | 787.418931      |  160         |
-| 8SSxee8N1fPB5nMnT4TvvQ4J7Qd7mepXrLZmjQg4KCa9 | 773.788046      |  157         |
-| CoZzhbqFESqY5U9QW7MC44bz44wQ17R9XFzdJDKmJJ2m | 770.638602      |  157         |
-| aViwUw1xkdhX37ZhxULDd7oK8zaq6nxSuJ1pafQCcSw  | 767.873975      |  156         |
-| 49sbonTWudDy83xqQSLZDn1ZBZz2Hcj4jSjkgYhfGxCA | 765.971612      |  156         |
-| 9YbB3buNE3AkVghU9His5NBnQDKJsYCw9CQCsW7a264x | 765             |  155         |
-| xvmhXSw3GLa1bex774b6fFPXaDrPvKt326qSNSpZJSN  | 756.359783      |  154         |
-| 62jFhARMfbiVPB6JaDVKZACZshXd3bWNnK5ews7zZ9uE | 754.239809      |  153         |
-| 5wPzakgH322uCMTSjRhaXUpBKPwJHABrqDHvqY5ig5LX | 752             |  153         |
-| HyTbKAuJpa6aHgt4esHn4wWrYYECXnZVvusjU9aMsQvu | 750             |  152         |
-| FqDQvqs4ou2u3RxhPzKVg2oDXGBLrwJmQMZT4w6vPfKe | 749.005055      |  152         |
-| 4wehEsZETH6Z4kFLByi4oYGRueJpGHRdkVkuLjjkXyvc | 736.50514       |  150         |
-| 4pyZLbnTVbzBX2W5P6aHBbaWc6JVmXtFejb5ax6qkh9v | 732.601401      |  149         |
-| 6XJJUbiox2g1GGPnamYAgP9gWGjNMHpZxnC5T5fAKRN9 | 716.891971      |  146         |
-| 7UEMuZkT2tX1Gy4ekEfbdJnTEoYxQxop5i6VNoqRHZem | 714.820045      |  145         |
-| GdwuefHrs5HBtnx2CzZ6hm3vLS6TWt4HDMcaPZ4o4UDG | 713.12678       |  145         |
-| 8vcUz1tGLNzeuELeKSkhF2dyPZz2q4bZdcLFwFyzSoAu | 710             |  144         |
-| BCyFLyRgDrENZTbTKG77LWXgtYegQFyyYuwqxKweoUZW | 707.239683      |  144         |
-| 2A9eALNidMuqKxpQcpWzJ6XxMb14MsrvDAKUB1ziAZiD | 703.847515      |  143         |
-| 6ehx4Mc3JtqSZiMfRft5kCzLxNf7AwFNR1Gg6QUcAH1f | 703.253572      |  143         |
-| FDLjQXSnjJ8Fcj6dSJFtWttBFp2b85fzjv74pd36yMJR | 700             |  142         |
-| AyYuUtppzWekRBF7JF5T43yudsjDk4D7CRR5Y3XFTpsj | 697.008344      |  142         |
-| 4Gb7dBp6YbeHCdr5YM3ssd2uJDeyWGJmwteiGasc2TAh | 695.05284       |  141         |
-| ENWDfAjAp2UEcFD3dxSUWJoX8ZwHd71a5DPLBvSJimH7 | 692.599624      |  141         |
-| 5p5LQ13jMgVS6x5mbrAcbPZv1BZCsDov4sVx6FBfVRze | 691.822618      |  140         |
-| 4Ljce6BLu72HZpaCwkKzt1DjTdh42kUscbrHiZHxqrLo | 690.418042      |  140         |
-| 9WD76UeLBJxn9mmt9aARcKjHWtU2ro263CwdV7e5g1Y7 | 689.467328      |  140         |
-| 69RPMzV3rSWSQuDdivhZLiZ668u375aReXNdW9eyQ8H5 | 688.512432      |  140         |
-| 8VwF44VMAbzu7jdRzHjUNiVjv8J533czG4rAQLfgvbDh | 682.084194      |  138         |
-| BLZJazL9UdzeDaQe1bdAcYa9cLxyPZcoPtrRTpmaAzsy | 667.943245      |  136         |
-| 82icBRHMzZeRSDF4N6bSBoFpsmTuFHfphWGvrYeyj5TH | 665.898815      |  135         |
-| BghttwfAShogHYSB9J9vc6W94x5wtG1KqYb6acwjgCjQ | 649.5           |  132         |
-| HMN3tdbbqpNACXuaYS8wHKqELwEqFvHqNg6yo7bitjzs | 648.606485      |  132         |
-| UYEoVoCCtSrn6k1TQuYhczsKpjpMRJxsDe4kvFCJQzK  | 647.777189      |  131         |
-| 7XtkHghQJhFcTEJmcZNd7XZSn6s2cULUKL9kQWbguRLs | 637.578066      |  129         |
-| 8bhPL6TmxsMfgMa1MYhBmBaqDyqqg1Cf3NMciPXmeEs9 | 636.964625      |  129         |
-| Dmfu9HeQEemNsvLweQzvr5vkiopXfXqgRrtc6oAX4EBh | 632.841332      |  128         |
-| 6A8umFFKh863185w82dVdfbnvKXnfqb38g33HrZ3hWFx | 630.302267      |  128         |
-| 9bKn85W6RuWqqPwzRAUCDifoHnfP9v3jhcTQBiy7YW9s | 629.571031      |  128         |
-| 3iRA7e7J4GNDLqBqDZd4ZgNaz11HWeGMM6PyQWJ74YfV | 628.972966      |  128         |
-| 2jXMMQq6wWKZovmXQ11gAkCMHZRHik6qBT3Wc6bwfmbb | 627             |  127         |
-| B7BQSiNffPEyt9XVNYKwkZY9HrgmKXqr9tmHzzPBMdbH | 627             |  127         |
-| 48Qy1Mkt547FmcNcJbqCYBJ4qALt6gU1zzwP6HfUD2my | 626.57695       |  127         |
-| k19pkHWRWaFdsKfHiKQoisRYjnHoQw1FsWEWM3L1EEL  | 624.375         |  127         |
-| CdS3YRHjWYogbaw9A4yFcFJrC7HePsXow6gF3ov9fHxk | 623.393993      |  127         |
-| 7px1wbuSGGewZhWD5MmNeMM5mhhqh6ATNC2ZRfZgJqUf | 620.827274      |  126         |
-| HTemANFJGETWGsdqy7adCDkS59JxGo3DuSmJ8bXtSM9c | 620.523226      |  126         |
-| FEihCPhDExPSZbYhzKnHHzptSREujQGzVHfmYzTGUy5s | 616.8973        |  125         |
-| FhvuLeNiGBr9wEDnR2UhvDjnqoK2oqFXiknWQdMvN4KX | 612.767903      |  124         |
-| CKXuju3eX5Cjm4W4hP4LF1ZpgJULc9SwNEZ7Vv3aPLqx | 609.250607      |  124         |
-| DXEBmAicpeZZUwChmAH73G3BAN84mN1XGxxpihpWQmdM | 608.899131      |  124         |
-| BtCN94GjYyn1UxjLJrkAphBQLntxtj8aRJQiE1vvxbPJ | 605.668966      |  123         |
-| 21yk6efk4pzVccAG7o4HApGS5uD2WYa11PWvWDoYfNbt | 605.313749      |  123         |
-| Fx3yBDc4MX2CpgtthDNbjgoXkCN1DB8ndyYwkMZG58nU | 600             |  122         |
-| HHUpToXAehyYFDJV4fPKVsem5NMCeE6VXDknZLavg77b | 600             |  122         |
-| 3BNGRpMTq3LS5X2HYSvGwxpAHHc8v5fQ18CFvvnrFc1N | 599.342101      |  122         |
-| 6s2sTvNCC46NArJ1r2dnYEH14wkqxyDz4DqWsxAUGSaQ | 599.327344      |  122         |
-| 2p2QTN8EMQqZDViN4oYgxevzVsmy1eN5HvM8zCwgHrjN | 597.682656      |  121         |
-| 6G1Fbc7WCtHuZCpVxGWmiiGfYbQDmZ2xAxcw1eABaQ9M | 595.664163      |  121         |
-| 41gAkoZcHkhSVJm5YbFJ3ogbn2LMX5qHJ6Byo522A1sF | 593.020051      |  120         |
-| ChT4Ffo1iWaaEUom2Yh6AzTBk28KwhWhDHzbtWLXSyhg | 583.299262      |  118         |
-| 9jF46b3Us2xQGmhN3tBirQuS7gyX63mzbN9GyJ79qqof | 573.608146      |  116         |
-| DAFgs9rmeCXvUTexnsdHMNuDQTPDPg9gTBojy4rTNLF9 | 572.923399      |  116         |
-| 2emSfPwaxiWH3YvwvuqCb9C6TQdPv2pK5fCdzRoRqosg | 563             |  114         |
-| ZZesDQNc6K55Sxk1ZWE9J7EGTunCAnNcjNuTBYbvjQR  | 560.366506      |  114         |
-| GKdeuLgGMepn56Bev6LaKAdc7NhtYp4VNf5s4xgnt2rw | 551.561131      |  112         |
-| 13qf2LfjSgzdYf3YMqeEMn1ee5U1DieQ3KEPWukRrkm5 | 549.001277      |  111         |
-| BGjVy76HGdBJNUSXVqJZx84hZ7jkqXK95Jo5MwBvBHyU | 545.277295      |  111         |
-| 4hbR7rGu44751LF1niaY2xCjM6KHm8AtuE7yC3ax5qwq | 543.07416       |  110         |
-| ALoggg4z2QG1okDoD5kAjKYYPL1A5wcGMCo3xR3WQ7EL | 542.657343      |  110         |
-| 83w4YK8jqreVGpZdFfthZVMVDcKoTLd8AQYV2z61X71N | 537             |  109         |
-| 9qH2D7R7aaQ11hr8uovnjHBBRptG7BbKtvaQNP3inyfr | 535.419451      |  109         |
-| A2jEaq3qD2QcW4dXYKAQbony6qdiD54txe2Ht8sC9Yoo | 532.551775      |  108         |
-| BKu7yumBA5b62yqxAbTkExfJg2jAdigGBx87Hfu3C2gH | 532.296948      |  108         |
-| DeqaieiAp84gouejG84CTHvyvp6TV2ufz6vXA6gXxSDN | 530.784141      |  108         |
-| BzzBbRJwPvtgZrYhoqQDucoFZcQfLvu264SKWsoTsRjq | 518.637292      |  105         |
-| 63BD57usRrhQowzbsKbhiDb4eU91UcX4JN2QAbwNkNQF | 515.414214      |  105         |
-| 4aT4mSric18gv48ixkPVUu9ufuTYyjwqVbtPLpAzpyXa | 512             |  104         |
-| GAkdXG9r5LUEGNDY5S6W5hVVHfqHVVJ2UsP9xwaFCcpC | 510             |  103         |
-| BV4szZm9UhNQZJStRBB8u1jK6divQbMaUxikUzkWbv71 | 508.008938      |  103         |
-| DPHQHHgz8vjxPzUcd5uEH85T1kkpUhAZ1NZboyNqzMAZ | 504.883685      |  102         |
-| DKzLbgcsnBhoGdp3HRYfscdoEw2acz3iTrNWU3FtiP97 | 503.490867      |  102         |
-| 3xv3uRadzGoAD2UMcTU8nE42Sq9MQ1YtHsE1Rpskivbw | 501.640766      |  102         |
-| 7TpqPe71Y8L6NKGHAxdxaiLjZXk95SXHgT6qPTU1TQmv | 501.215874      |  102         |
-| 7dBgQLYSM8iFs9KSwCYc5KUTmM4gVgrU4shrVU5WCYUT | 498             |  101         |
-| J9gXBvkieXiWv2TyG3SrWS6fNvk25bnXqFBCUGC6WXXd | 490.952408      |  100         |
-| EY8pDJsygqA7Db7oyXHk8RpgMYYjkEe9mqhBa3EKPRpG | 490             |  99          |
-| 8jTiTDW9ZbMHvAD9SZWvhPfRx5gUgK7HACMdgbFp2tUz | 484.168846      |  98          |
-| 7q19hPNSLn3peCHSHZoaTeUzaWXzqFvmuQhF7S9yyZKo | 473.415925      |  96          |
-| 5hMWFR7v7cr4ZiRtUarVfP87ykwZ8aJ9Sp3p6B7aKrBY | 471.413374      |  96          |
-| 4aFBFqBWpBha31i4Zv5P37fCGerUPPx3wBSF2cN6nPmZ | 471.21226       |  96          |
-| FivuWMfHdsjxCn1g3vZYDN1ySyz1rsXChLZ1aqKhS9St | 470.133485      |  95          |
-| 7dVdgLLETxBMD4dgffLXVkr89fxrPtFCisTQFWRPDPye | 454.120043      |  92          |
-| 9SuVwUq5UjT918QDNcpvgupsonZoqthQkoNt9RJsa3dY | 452.92261       |  92          |
-| GtSYrnWpJVaSo8FiCvGnG4cFbWQ6MZrkB89kif1L4vuk | 452.100985      |  92          |
-| DCiCR6YxgiPNJhz2UpSxvSA45Wf4m6PfeJkjrh433p8x | 449.9294        |  91          |
-| 83EMMgXxV4NtHSwrCauQdUeo7tiTZYWLP9sjhWtZSG6B | 443.668851      |  90          |
-| Dxp3VkeXzM3r6e3vs4RawRFWdJjXifKyqC9dFaP2EBbn | 438.769231      |  89          |
-| 25uwepu5UKCdDHDZfY9HkCEZjXBYMPku4CizGmCb8Tfo | 431.201608      |  87          |
-| Cn7LnSv8cb3SAP5A7Papbs93FjmQrimTGCyRgLsV4Pjv | 430.539882      |  87          |
-| GfqLAaxen5qoupqng3RPxcwSes5RcFK97pt6hSmmov1D | 426.990362      |  87          |
-| 4VBTe4NRCoFsPpJZ3B1EkREmoqD2CHTcvC77e7amqTi9 | 423.845624      |  86          |
-| 7QZRcChyipgHEGfEffkfUvk3woxpWgQNGsYqnZLCEULs | 423             |  86          |
-| FWgSY35DLeTzXxvLkn5RVAdvu8zRh3r8xZtMtoV26nco | 422.16284       |  86          |
-| BGdJrEdvnAcJF9ETCYtakw6MyX8U4JYd6bV3ZsWxh62F | 420             |  85          |
-| 5pQhMx8FvaSqGWDpTSbwxnifs41bQr5BUi5pZbpPWfFQ | 416.2           |  84          |
-| H8WhrngCpCRGkpim4FcRNzbt1BuT4Y9E6xtWf5AGdUem | 415.094749      |  84          |
-| 5o7HzDA4r9kmNwPB6JJNjWVFJZwWCRrA2xxpjz6RTmZX | 413.049261      |  84          |
-| 69h7goMyyKdcF6ZfpQxTjQPasW7nSf8LNR4Q9yx4eohp | 401.549309      |  81          |
-| HWbAZdGAPijkMqBUyoes8spNdu29nzhxByfFAVLzEXtU | 400.683808      |  81          |
-| 4DuKwo8nsmiJHufGxhGdQXC4jqxkGuSpyvAwmiqo6nE6 | 399             |  81          |
-| 8FTbj5AAnkgb5wRstvrMZ8s7qsZgaFZVEV2t1SyDxdpK | 395.263226      |  80          |
-| 5xxnHyvzcYyXXZEhYSVHsQa7P6CP9nA9zkPZFfzBrpX3 | 394             |  80          |
-| HCe3dcLoREkdQQZJX5nwM3y3UaPz9Rrnhpop2rh86AnS | 393.129579      |  80          |
-| BGoZDmfHoojqGxWM7dyzqo35Eu7y54kcDLzG86ZCXe2V | 393             |  80          |
-| 6oaNbX9A7MLabsdzVUUo9NPK4XB6qH6Wuz3RCBANnZLM | 392.372308      |  79          |
-| 77vup6EiBjnEXHyv9ep7pzUwvUBw8ohZAZWqhMvCG1ts | 391.88736       |  79          |
-| 94exMwJTCjuSzhZGyWfYxer9nHwRu9vFAAFpRepiwc6q | 378.046836      |  77          |
-| 7Ku1yYXQeonYoXES4RzCBYopNz15HR66hT91pEHD9uXU | 375.900357      |  76          |
-| 7QcLBWEMAo8Eby195r6yYrHhUtoPkgrp4Ec95iZi2zCP | 373.992318      |  76          |
-| 9JZFWrUp4Xy6KRCDk44kavCnHvoRo1jsbKa8facM5JkG | 373.299485      |  76          |
-| 8XcnbkaJBDB8EbF59STszhAGzXPLxyhLgZ3U2V3Rao3C | 373.147771      |  76          |
-| 3cu2bxa2vDDEEiCfhmXmHymfyxs9ez9dFbcJ5Wk3FD41 | 367.85          |  74          |
-| 8GYLQdF8jLfZaZpRdfcPduARBNSw4wmwcT41W4mwXfFw | 363.659897      |  74          |
-| CDMHny3DX1dtkxBCrNLgBWKGHJ46DiYWMweKC6fWHHHw | 362.849852      |  73          |
-| D61MDepqr4qGjeoFwngLTBE6hkqpZHR5uHkzmE9qnkyo | 361.515241      |  73          |
-| DVoRspzCGqt9UNAFu3c1Y6L5qYgLUs9CUVwbTq5FMjxU | 361.393847      |  73          |
-| 6gC1wcQ82fzdhUrwSM23HyYWQfLKB5UiotsdfEX8FaEy | 358.745062      |  73          |
-| 9KqEd4FHZm9sEs7Rrwbsm6x9ryXkjpHzZGQLYwAs6iRE | 357.189624      |  72          |
-| 5CoTon3Psa52JkUXw3jUVRUrDRZvvinzUDNkwKKfThG2 | 355.617516      |  72          |
-| E9akeGSKVrfvSx2mN6vowpWAwxu6vJSz9ptKf2sqPbuS | 355.077626      |  72          |
-| 6qijMLcWqhH767SpRR4sX3uk3VLUcrsnyJo2mzxG1vCH | 354.890722      |  72          |
-| AU5zsuFjq8Aa27mZotAAdLNYNfT3AxEzVqdmszvWoneg | 352.448921      |  71          |
-| 7fugeBXcSQbGYF7VAYA5AF2Ruoz4oy91YFHA6y163zhF | 343.173174      |  69          |
-| 3niKENBjVXoBmxhsrCofv7UAAmoW4JstndtFeg3vQsQv | 343             |  69          |
-| 4TU63DxFki9DzYrER6y8VTS5mHupbqjWn2kSEnCigKix | 341.903438      |  69          |
-| ZTeKXM7pqHBZkVKAhdSDCggUm2V6iwZTJZc7MpLcoXE  | 338.401498      |  68          |
-| EvWc4uAYec8HFgggaUV6ViP4xANZhiwN7GJCeAX9XA6C | 331.342609      |  67          |
-| 7EofH34GHRUce1Pis1Zr2yL8KzvAxVPqs6RHDnD7dKyB | 331.31365       |  67          |
-| 21ULEGGccR4VLyfheEyK26AfMTKRWQgyZf4CLvEcP67j | 327.7777        |  66          |
-| 3rzc8voirUPrfgd8JBXnqPCVaGPPwHY41EmwovWzkozZ | 322.15178       |  65          |
-| Dkqs2JGEKmUpvWshGEtt33oQmUKs3nxs4aZvaWKua497 | 320.777515      |  65          |
-| FiL3eSamwHGSx5RBk74fHsb5dsKyN1cPc1EDTtRZqnxy | 320             |  65          |
-| 9JLFf2SP6dnvVK9hoNHYFPnP5dEJkgLb7YYzgM5aaXa9 | 319.855568      |  65          |
-| D424qoV8uLjwu8doYHeakU35YAUaAiCP66MT1wC2YMou | 317.788582      |  64          |
-| GKHZKUb9F5Jg7kxo9TBC8VYbqTAsVW2ywwULVv7Rkoq6 | 316.288441      |  64          |
-| B7YrHss2R7vWNHvKt6zKcq4JCNFJiY4FCvrMYT5fMiw8 | 311.793577      |  63          |
-| CRrj3tauhjFC1dssgra3GbRzZMR7iGXfjjK6A4mSdPh7 | 310.724535      |  63          |
-| 6hSPxZSWco9VNE6AEd68dFGQP97FHayUmoqyL3g1P13v | 308.833396      |  62          |
-| 27hF7WEv5TicQQ6LBXphnKweYMxVsGpbHuhJJDzBiHaX | 308.163394      |  62          |
-| B9iRmjsUVu1CuofkzwhcL3Lv1M3cLrMusKKdZLAieaFz | 308.028532      |  62          |
-| JB4fZVYjbSLcrPLCkYbsfvCebcfdq59cMXPs5wG7jmaQ | 304.767003      |  62          |
-| FwAbxSiCd2Wc8j7BeFfwSrnpHWDGmR4xqv6B6bgbwYKs | 304.739593      |  62          |
-| 9iNexJxBKbvqaeZeTcEqRu4xnZDnJWUk5jTceKq4qSX2 | 304.681374      |  62          |
-| 8hTk6oNzPintBbWtNa1W9gjcfpfDkB8EtEA9WQuMZiU2 | 302.996077      |  61          |
-| Bv1v4pigUnEAs8H6MVwZCmKVswcE8Wu55W2vufPBpzFw | 302.943235      |  61          |
-| 9o5LbfsuW4Phc2fGGnv2KkZFM1XMdX2GquxXoKJxhFPr | 302.855951      |  61          |
-| wNXSQoEYmjoR4cuaEecE5twboy2AuM7Xve4wKf4LfE2  | 300             |  61          |
-| 5xge5FazjbcVd7ATBk1YXt3tvWLx3DTTACqBZUjMoLnp | 299.178323      |  60          |
-| F2u9zZd6yEjEiy4YGVzbMEp33dDuzrvLDpRHeY4HMSrx | 297.969236      |  60          |
-| CBkpTSusYzaWVKnuzwt3fUUTdUSrrChuki78NWaCMcVp | 293.625662      |  59          |
-| 5C1R8jhRA5BgtiaKKc21Pvo92cG4CHqi7Y1PgJq18NZy | 291.314357      |  59          |
-| 6Y1HUHjEuZp7sshgDgLfJUhFEcKdGxWLSe8cXSVMk89U | 288.546048      |  58          |
-| 6x3jRFeFobndn58VKaQYHq5HWG4Dq7k833Tk9TPgr3B  | 285             |  58          |
-| nihFesQziks9omMuZ7vcqCQNRRHvNW2MLAcEmzg8gfB  | 276             |  56          |
-| 9L7R9rwMWCyMQx2kcmAuoqX8xHHpj2xhyBayY5xLBBBb | 272.354111      |  55          |
-| 49DNsv5FYUkWHsj2EHzfkZRSs4ADDTrdMUM7trW21yNK | 270.329216      |  55          |
-| 6ERygQyeHP68PhYVSFC5iGkvBetLDvdWjVHCCh2Naq4R | 268.352653      |  54          |
-| 37iA2nhy7PGzy6L5P75XFtXgHHUrpXPLwmU4wLZWsndy | 266.346401      |  54          |
-| 39wyZqH7C9V8zRR9yUeB7F1GGNEmMgBC7BtSmTNqfNkS | 266.332758      |  54          |
-| G4hq4KhmgVULDUkEk5L31Q4rt9e9MtrJqjikaGA6e3Se | 261.959162      |  53          |
-| 2Pa7FpG3Dc3Czf1Kiwi2CrfUVTDW4mpstHFdgkXcmCC5 | 259.986455      |  52          |
-| ERpnhFSVeMwfMJybNphrrG9EGU7chEwR88UBbiKAkBGS | 259.734115      |  52          |
-| 5UNXijvxFUVEsiSSM9VhN1w42yd4codCZUq7jyEaqQt9 | 257.750628      |  52          |
-| HCiY6uj4PaeEXFVKC6bUJc33m9CYmSp1MjuiyCveTgRj | 257.356032      |  52          |
-| 25CVZ1Sz31smXnfr4aGaQDRrB4tRT1AXnKjH1XZrya3f | 250.599201      |  51          |
-| 6UzEHAVUZd89ogDPm4kp2HbJH3LLsoNCRjWqKRZgnaqs | 247             |  50          |
-| 6XdEKMiRoMt5b3sHmCyX1iXkrCjTkNwCFTyBFY2PDMKE | 246.026039      |  50          |
-| G1yMxat8qxVA1KnexFJbaXj1wHJcQRbsHwRPWxtR9ijM | 243.758495      |  49          |
-| 2KJbzopydgxqx226esJQ2izU5MekqFhXMXoDAksoHJyX | 243.153021      |  49          |
-| 7bSgs3Yx8yoAB6fbL2GowGwgi9LifZMu5aorkYpy2xno | 241             |  49          |
-| 5fgxW4kawSHyRXZrqv3ZiCMFWPf6LJurdoXjgxmqrEKZ | 232.446554      |  47          |
-| AXbp52qiyF1DYqqDHnqYTEsFwMYX4WF22JrKEc3KW4Bo | 232.120886      |  47          |
-| pSwTTFE92RsRtvMCpb3mjruv5ww2KgBNVPscwdWwbxk  | 230.891847      |  47          |
-| 5r8weqygcFF6XUidDz1kaxHfZDbvMNgYr4H2yDU1FjYA | 229.115621      |  46          |
-| BUHXHuANjTpEgHExUfM8WFkmt77ZNdVtAKSaHuX5ECc9 | 227.097603      |  46          |
-| 6BvRNzDKVjKmuHcAEvLFtKReJcq9s33vzryvFnhtU23D | 226.083405      |  46          |
-| DpKM4epH5wSUJcRzcUpiZcEYNNZW6WqdhZaZdYEP619w | 220.217028      |  44          |
-| 4Rzh3aHNxFQxdzPCgeSYD8gF1WWq2j7ZXBUvFXj6QaKH | 217.595709      |  44          |
-| Bn26inMhSPLumK1ZtQcFvRvFS8iCkGf8tbXC8dW79jxC | 216.125658      |  44          |
-| 4TzUYvewUefDeZNMHdyogUxM3jz2mPgTHAJhvD2mHC1V | 215.236213      |  43          |
-| A7CxikWRVwuA735chCjyB1xx2SXobUPDHjkdqXtwfvuV | 212.369964      |  43          |
-| J434EKW6KDmnJHxVty1axHT6kjszKKFEyesKqxdQ7y64 | 211.202319      |  43          |
-| 7JRi3h4ySkdBst6JRRT1DYZ7mS79s9xbFLjny3vR8TqG | 209.926374      |  42          |
-| 5tpq9G71U8gL5Ap9ybF7x3YPrKAxZEsfFittV89ghr6M | 207.515465      |  42          |
-| 9KGpqCvizbX5C72xUP3CVLhTWcH2DhpfPtax2uTgYTPA | 207             |  42          |
-| 52Dvt4Md1CxUXzhuouGhbTxnNxaGaA2EL5Z2CNPp2VQD | 203.354069      |  41          |
-| BxnPFQLBKyyWvN2ZkYGMuYce5jAaurAv35pbLeRd34zJ | 202.017035      |  41          |
-| GqJjEbc8QwNeVxEFquG8mwEFak4fMA4wxxVhJbvmrigw | 200             |  40          |
-| 4M4rGquYVGEPby4yMtbp6xb8KtRpXupMcZcwXxXWJK33 | 199.5           |  40          |
-| 97T7UGZTPzYKQXymhivBWi7m9AakCQ56ufba3EhfSRck | 199.5           |  40          |
-| CE2e9DuP1KK8wWoMGf5kvsXKa6f6XoR7uSqD3RBVspaf | 199.081525      |  40          |
-| 9WaytPrNoPEFmocjktYLxxh9ybKhVn6sknwER9VViJBJ | 196.2           |  39          |
-| 3guzLet9om6Jcc6mYYkZYq4rk2Aro2V9unBuZau1tZSm | 193.71197       |  39          |
-| 6D6EdWFn2fYyyYv1ALtLMP1JqYFJNcXXMzM9LimMEn6A | 193.56689       |  39          |
-| 9vGQ8o4npRZQUYtPXmxbx2a2ZMvek9dSk1nLiWHQJQmy | 192             |  39          |
-| 2XJRnRDH7J75uY5gM8VfRXPLWWHBPLAcMcaxvdveq2gT | 187.270321      |  38          |
-| 46Dp1NfEgwAFNYCYE7LM3pQRK2nZwjwJ2Ej1U6bP1pcr | 186             |  37          |
-| 9ANph4G35xjC2RrDFoQy3dpVDrP9hWAZcgSSNE3Pfxw2 | 184.669279      |  37          |
-| 98KT8Tp712GfWgH2WUTYdibdo4GABRVrZk4rbS1nWDLn | 184.273142      |  37          |
-| HsEB7q4RhFSQu52LjVZM1mY9KwEb8jaBQah96RemUhqL | 180.287466      |  36          |
-| 2VnBNtcqTJ3PQzeQSLmg32MNnJFVqkH2FScSWgxDAQvq | 180             |  36          |
-| DAhB3cBB917doZz2Js2vB4be5wxqTqRq1rTx2xvWnjPn | 178.429378      |  36          |
-| 29CDb5JTf1xS5NBoXvCGMsiqXDge2uex6cHEhG89WZxR | 177             |  36          |
-| G5NzjVzr6NwjosE8bzvK5ftDBCa8jXHwX5E6rZtMeqLs | 176.176686      |  35          |
-| J77HxA3BTtXaqbqHWqghMJuFcjbTswwWeoczUDVXV5Ph | 174.2           |  35          |
-| 7Yp5J5bGjSGsv1YfmDo5Bwc7xEvu9dy8dBBMRLz5dYmG | 173.85          |  35          |
-| FzpV2LmbPn7SPRuqMm91YdAEj4XemND96XAAVYgd6jjN | 169.664953      |  34          |
-| twJ5etDabJLAw5sftdkXGripBrgY471GQyc2HaXEHdb  | 164             |  33          |
-| 9h1k9VqSLJ3a4TVnybgdyi3SJGfXv9V48wCwEmZ8X2f6 | 163.746153      |  33          |
-| 6dLeypENKFrW91w1T9VFvni4UpYZRaxKmKNeeXCpSMzD | 162.397337      |  33          |
-| 7Lx9xfWKtedZWQHe3FX2YZkqNAvxD6aPCn9DSjEJ79fK | 161.144014      |  32          |
-| 6Gqkky8ZyR1noFNmr7YXywZs8hRLFro5Scm5v68zTu8U | 161             |  32          |
-| B3LcqhFzs4oc6kru3KncfFgjjJnCdp6AdyZmuNipYoSM | 159.38188       |  32          |
-| 9MJW7HZ9mZa6xQFra25QgJaDt35RapRDLBXWRTS23cVh | 158.98066       |  32          |
-| 7Aj9J2KC5LbAdvV3Emcxn7anTfZd39TMuMFzZ4Dk5aN6 | 158             |  32          |
-| 2Gya8TvQoCUZA5LyWTUy2tPWdSHs6Gr1E86K6CFHqXaV | 156.590163      |  31          |
-| 7iGDtzuQadD78knQ3EkKmaUWqrWWoSyWuqnNoJU7nLJ9 | 156             |  31          |
-| 6ztizsV1CzLd9bGpgcmvHDJw9aje81aLD8452FoAyNfB | 155.863794      |  31          |
-| 3dDPRK6X4boB1Ggf8CXjW7ANBgvrGPoAiczWttgC2FqG | 155             |  31          |
-| EMXASFhPHwZKjLNiLNoAb8pg1iczUawRgoBbvkJadyRN | 153.05607       |  31          |
-| JBoXchDhPaLD6E2vDiTtcqNsXBXh5uAXqxCZUYFiMLe2 | 152.124883      |  30          |
-| A4uySPDhzzCoHxPd2SniryvCiTWrLSY6EJ4CKeGNBAKE | 150.186547      |  30          |
-| 5NygeWseEz9fqXUUJYQ6vyCWiznQufnDi258fVj1Vhwm | 149.572283      |  30          |
-| 8TRiu8nrC8H4M1RksEe51BEYHgDXAYjx8vJb8U4Z8k3a | 148.65          |  30          |
-| 84U7e7udA5Uc4Vq1e5rysr3dY6JmjbbQL5uHKdEhbD46 | 141.97099       |  28          |
-| 5ZSmRmVQJkiXorCbVvN4HMq3gBwXX477Q7H1t8b8PCnt | 141.449563      |  28          |
-| 5HXjpz9YgMcv7uHAPo6VLDRXvDLyb6hcKzCbBh1i1b49 | 137.595112      |  28          |
-| 6mQAGQJFrCQCqUhnCuaR4EARuikGysY5wEDVGwcQcMcw | 136.736117      |  27          |
-| 4J4WKjGayACkY8zzoKaZAcabELT1qTMHmrb3T7fqCEg1 | 135.409825      |  27          |
-| J31XET6BiQE2eiVgx2PF6G45rPK6VNKWKrog4u2gj5nv | 135             |  27          |
-| JBXrCwx5FmXbpBaqjeUuDbBdgFKMENisF3r6AW76Ybu8 | 130.019699      |  26          |
-| EZAupSjcyPvkuMJmsD5Ef8dDwFFhQTh5zh45yWNCxUPZ | 130             |  26          |
-| HjiNTb9SJzVi9fc3ekr5PUMd3fCkFwEwAde52vDQD3hs | 129.623406      |  26          |
-| GABFents3D1w9YvJUXSWrooJ5as9XQK5Zj1tVbVJJ5kd | 129.6           |  26          |
-| ZG98FUCjb8mJ824Gbs6RsgVmr1FhXb2oNiJHa2dwmPd  | 129.324456      |  26          |
-| EfUH3camBx9uoPjtTppZL1U1eorBiCoMsgDFZeDUcgUG | 129.260924      |  26          |
-| DhktAFj1Rs6rq4B5zxuFFkigqhDbeH6n4FvEQMk8VQRL | 129             |  26          |
-| BCwPiUzYYLs6svSyXqbo4xfs2xbpVoS6XXCEj8LmFX8M | 128.054584      |  26          |
-| 2QrnyVosji6vEkwygGREBto6g9FZP9nbg3zUn4kFDe4o | 126.740371      |  25          |
-| 5Vo84F39G1UWXBvb236xevf4V9aoiXL33VxiS2WaYz7p | 125.090618      |  25          |
-| CnkYi4ds2Hf39QvfhT7Fg3tHPuP1SGTEXv8RJUj6pUi5 | 125.073448      |  25          |
-| 4fsDDrJshohUHEuJoeV5TtTemBasYiijDDkBrYn11xKS | 123.306856      |  25          |
-| Apo2yFMLZo5Yu1ZC2FXLyn5JU7HmMQHEnkbBN2NQZuHS | 122.49264       |  24          |
-| HnW3W2gpPArmdfLeaUnC9Z1ykDKzwtfASqkXE35eu2LQ | 121.782526      |  24          |
-| HeD21Ep5N45BrwXnbBgt5Wn3wzC66Pfs4oBhcwok3Ntr | 121.574246      |  24          |
-| 4DZrshbevstCCqbnKuFZLH2PDFshFd5sxZhbTce74qDK | 121.1           |  24          |
-| E7j9AXdLVgzo9YjVYjtipFqNzkxR42xphLUJXzF4i6g9 | 120.52983       |  24          |
-| 7EQ4eG91LN7a1ppjTZ4VmefiZMDmazmNVXQh7nZbyoBJ | 120.15204       |  24          |
-| E3Wf97QorJD9jrWKhV6H21Jf4VsWWDjTw19PmkqppM9w | 118.841686      |  24          |
-| AE1GPXrSiajXeKBFnVwixBDA7mCkA47V9AKA5jsp8xjX | 117.139493      |  23          |
-| 6TBq3jji1pYpjggXVfZBsSB5Ut2BVDeEQ4RapXAcv7si | 114.533125      |  23          |
-| 9bS61W9JFuJ2NcnmYaggWyDn6G3jcznd8dziJyGtrUo9 | 113             |  23          |
-| HedAD3zhFvCdh22gqJtnGWPxD7rjFX4UD2iYL5zJNKji | 113             |  23          |
-| 6tN8aCK57nGZ9CrjsLk555L4qjk2811tHutD8FVWYSCh | 111.609249      |  22          |
-| FTHZJ4QTuY3WRAtmyq3avppUDc2Je9TBo8ruCw9sDQcc | 111.328097      |  22          |
-| DaEQkG6eCpSTHQZfp8vWfx9XivPfEwCuPxXR98b8KSij | 109.841807      |  22          |
-| AX7GwUcYN8jypVQHBcSjbRB2q9AT4GANMb7hw9Arc4PN | 109             |  22          |
-| 8uiiqfqYJUKqLd2ec8gqGnnSSN1L5MrAyVj4GPrdftHE | 108.945911      |  22          |
-| By75i4LXiGmmh3A4Nr6mXJH8KdKtDLGkUoZuBJPER6nD | 105             |  21          |
-| 2JC5NwjhRiqfCYkJ4PjXsdDLfZmuLJq12HrVo6VJ2KpV | 103.996355      |  21          |
-| J6nZAadQtLiJwFmXfZH2Kf9UgZY2eUQCzQkXti4oPWcr | 100.345513      |  20          |
-| 8XwLEr2toasi3GBdjN9VroqqsPCaT2PfvnwWgPnzgMHC | 100.023861      |  20          |
-| 6y3zhPjVbijSmwnMLu7sieMRnMtKZhbw96bLj19qsmUE | 100             |  20          |
-| 2kXrfi5HMDj3Cnskk3vxZPvSfNpVfDXr2itoaeuBC2qW | 100             |  20          |
-| 6ynG4XJhcUubWAkfwNk1q7hUi1hxvrC7qp15nGAFowyS | 100             |  20          |
-| H9LaMqys5kd4L7j7jDPFtMX1kX8qjGG9fy44iCx6dBo9 | 98.211654       |  20          |
-| CtpLCqV885JgthxaZpoCtY3wHZhG2r4ABaYxs9HRacVv | 96.325319       |  19          |
-| 8t9zb9fg3LemufrXCTLLn7rzXuPw8hzFwVmAE5Jf8MP9 | 95.352743       |  19          |
-| 7YBmdgZVBJ3pgiwH2b4Wb7kyXNc9h16HXfenCkEe44rd | 95.073808       |  19          |
-| djS5Q7PF2JQjhPLBZDP42huhZjzEyKRL9BHn9LLMXrK  | 94.400901       |  19          |
-| 8ZcwqY8B3ydq3gCKQnvYqCcVnvQ9mjcw7Kqp5WSxhZpn | 94              |  19          |
-| 7VcZLtKZjwEr8cNmveUTeZzXbQQmzfjx9YeReZ33F4qN | 92.454777       |  18          |
-| GGxLJ1VjVVmacTP1f6aMVRZCqSrQ6QbuL5N2jBHvWUKE | 91              |  18          |
-| DibvweFTcZGjucBpCPBpT8wMGFqQoT9qLWBftMniNfan | 90.998481       |  18          |
-| Hkxm59xK1D9XuASLzeRwmub4ozHcKndz5LV7YanVCfhV | 90.456035       |  18          |
-| vkm99k5PScF6nxRs5zBAQwoQMyS6zVnHSPRKAHoG7Mf  | 88.312201       |  17          |
-| A5oERnfxyY5Vw7s4zxjAsCsivSFdJBXbdEwcph6NeREZ | 87.961475       |  17          |
-| BwbH3zmWJyH1bm7Yj6hsAtPpvbihQLoumRKFcoT4wHg6 | 87              |  17          |
-| FBBSi69SP3jkHf9DvLzGiUZGL3v2tu6e9yq8Bwtw27aL | 87              |  17          |
-| 8Ti33qV71WXAXokqhMSxCtLTULAShLYTfg68EBerhFEU | 86.245299       |  17          |
-| 34FKjAdVcTax2DHqV2XnbXa9J3zmyKcFuFKWbcmgxjgm | 86.239365       |  17          |
-| DQbZdQsDGvSR8VnX4oAsbyxCbACYJYHgSmiowB4qTVZS | 86.143271       |  17          |
-| 5YQ8MBBm46cJsgoiBrBD7VGDTX1r6RxzDDpFTacR1yvP | 86              |  17          |
-| 3HNnSZS9rCCZkCj99LKGjt8KZDCRD1qSnRbH8RyLn8h9 | 85.5            |  17          |
-| CXk9tNatYLV7RUL1mnv84o1AMMPFNsRymBRjwH8x4igB | 85.2            |  17          |
-| DtkDc1SRVsLJCmg7SXXp3xEjjXxurK8UtBUpFDqjQEXA | 85.2            |  17          |
-| ELKuiHSNSPEsawrnooq828s1gr2tu7v1pe232AtQx8Cs | 83.428031       |  16          |
-| GMG7x922cTmn8TNHAGJzXVeSineQCKXZ8ztQP5fdPBiV | 82.084754       |  16          |
-| 5Z5Qs4ATdMKPnPgFLf6iBkbNJyGvDDqefYtnhpw715Wy | 82              |  16          |
-| 3CbBKU7cjzcSQjxKrUHQ7eMtsAWbAFoZEQMMqqixHcd2 | 81.512848       |  16          |
-| 4NscXjwmoXemGZHS2eEbT8P7oBVmqKL23tn5qV2hpm33 | 81.437365       |  16          |
-| ERMVdyW1SPMsUMmUudZiEyoxhZ3YRfx5K3iSHJYyjvtc | 81.407346       |  16          |
-| 5Y2fnXmqT3qxJhszdouJmPFQ9gSB9WbSL9UY72tAFbjU | 80.73616        |  16          |
-| DSsS2UupZfFKp6Vz78TQDFxsjkCdEuUPtYXd6gddkeyP | 80.176561       |  16          |
-| J9i5MHMR3RM8jwcnkqGDUFRWZfQMoFqieHUjfrAr6smM | 79.522038       |  16          |
-| 5X8mPr7xbV1ZgBMbeT1TD1rBJD7QR4m9sg8DJPwyzqbf | 79.007121       |  16          |
-| 4o5TMFpb9iJZaXfad49HSZAFn3rTtAbLCnzTaX1F7Mva | 77.334976       |  15          |
-| 2f3bsedSZXwWR78Yn15EvbB8TyJd6TNKyyYZkWtSNGej | 76.745102       |  15          |
-| Df6smNqGkrGmyq2huXgnruKRogPhpTsovHFpEg7wHaiR | 76              |  15          |
-| HWzY41cAKjkiTi3tsDNT3scph9BGtVaKS7xZ4rVkhCHE | 74.352906       |  15          |
-| HkCVtvwJxJy2h4KFunrwPCwsNBLJaurgTKdSeqHXUo6N | 74              |  15          |
-| EFK7FSDFddoFP5Y3NnjVjyYYgvUSN6zaisKVxFcfCent | 74              |  15          |
-| HjbGgbj6HGwccxQe3iR7YB2FxSaUJTak95Wv7qJvfnHE | 72              |  14          |
-| 79B4ovKvau5G2HUrh89DUZ8ved118iX41yL17srxyXux | 71.466004       |  14          |
-| DGRJiWbwfkSEjPLWgusGLbAbvaTE5K7B7teMV39A7MHB | 68.856564       |  14          |
-| BYUDRkQHG4anGiKqM7fnbertMX76V8kTF4D67Ed2rAEx | 68.348531       |  13          |
-| DHCLURXS6TjHWK7gEADq4Qmo78JvdeR2JjGHkHgxgbUM | 68.186314       |  13          |
-| 7ZP5fTK9eBf3qq6DJwEqNpSubW8PsorpEtBQHYryVnhR | 68.104813       |  13          |
-| 66318v8gqfwX4x1RhPwsBDvZtT1me2CgDL49uH4XKyMM | 68              |  13          |
-| 5AbqQuDJ5bU9hdvcPzamDRrTxKXhk85gyXbATddHo5sm | 67.506921       |  13          |
-| 8UxtdZiCH68mmbmcE5S2DmJiTa3dxUM4v7rsjUbaYTr1 | 66.842771       |  13          |
-| Auw81WGBmPES82R3BzubKdDL7h1YRW4sULobL72RLoDc | 61              |  12          |
-| mkwtZFC7tpGoDZ5Cj6tA7sJg5vjTjkV6DV8S8hLuNpM  | 60.887376       |  12          |
-| 4SERTMvMm5h4CNJbxEQ7bcyhGTRyCsqTvqMc1F9iXPDh | 60              |  12          |
-| H6QvdRF9rSrS6jFb7D2n1Bj7HsHh5ftcEZUeMbv7EkX1 | 59              |  12          |
-| 91n95WDsokxfjnQETm7iSXhmP7n5TdjKY5x76SRT5WT2 | 56              |  11          |
-| 6sQMf4j5WVQRJTLbhYNkt6FkVfdsL4s11jCMoM9Mk7np | 55.289706       |  11          |
-| CoFoQqWeeWw3VKXeXrVWpaKdfCBhcvnAZq6ao6Q2C1xm | 54              |  11          |
-| BS7yfcNHRTaNZWue9g6SK1nwgeUznudjdy36iRJdmkXZ | 51.234382       |  10          |
-| DbNzR7zYEGtHNct4jzA3xPowQSFsBSG34PQ4F5tBpGBs | 50.928683       |  10          |
-| 7eSx6cEFkrJ2QeMuspSauCX3ykBKybTB53HCAkYorjwt | 50.905624       |  10          |
-| 8nU3bWfTRChUccuiQD8hTGvvqe5Q88WcXng2kgsZ8CqG | 50.522781       |  10          |
-| HSKW29VojtkGvg4ypXqCExYNBcg5CGWVnnnrLvs5TTEP | 50              |  10          |
-| Hda79fTbivonFkGt4XaKdcNi6eLEZzWPfw1RMdajL1tK | 49.507999       |  10          |
-| 8cqy2PB1ALvixyZzwJZ3AqSHfsHBPgvv8xsPLkXpMupo | 49.008529       |  9           |
-| E1EpuvDkNoEP2edMrZQwQ3fazcewspqmAJuSFsAUTy3a | 48.623371       |  9           |
-| CqDy3ij4Wmbr8YbgYfrg2yZVTVHnBF3R9MVm3C2F71ML | 47.021535       |  9           |
-| 3uWCKpyVxvPoPpujHNot8BzXZSEfmiUYciUhX3NcKcNc | 45.886018       |  9           |
-| 6Nk1GGioje2uwveMmic12cLAQsybRVYAyGPwnQJTjEzV | 45.498023       |  9           |
-| 8rzbwSvF6WQz64BjRmetkkynTptqx865n49maHFgECC1 | 45.34927        |  9           |
-| A7UPuJgFZz6ANuy9q4p6R6fdf8ckmuTZmNKVVWGjZooj | 44              |  8           |
-| Djs5WVLQCmZpBRfq3n7KCaK6F8hWesVRYdFjie1XqSSH | 42              |  8           |
-| D52Ax6SDbacT4ErSFNoBENhQy33pc9qvrLvsm3Q3LSvv | 41.702061       |  8           |
-| BAcbwhWFcz75f22Pb7xuM1KDL9WsaU9w3FRx6gN8pW2T | 41.219342       |  8           |
-| HDMY1hKNBAs22XMWuue4WfkJh599JgkAQ98tzvsxpHRc | 39.637425       |  8           |
-| G23yyd4hMtU6fm8ZjRhPvFRW4YwXsqqs9etzPoYZLTTr | 38.853265       |  7           |
-| 7ow2uKPCesHjg4eD14SqsySGYgQ6vrSMC8hrsEAkM4fP | 38              |  7           |
-| AJnaak1zJHhsnYq3WNzGJQphBUB7jPW99XRRJJryDex5 | 37.701317       |  7           |
-| EdbJ6DxExv2gmaNQaYm8MQhJ7fpQycfueoBM7ifsD7AN | 36.617215       |  7           |
-| CNdUuVgGGpKzJyQtsMQ9acMaBKFsGHPkCqAeLVer7Aur | 35.575328       |  7           |
-| B8bqjortzsNAsQ48P2BPffMjptRq7D3sFVuextR6zUCe | 35              |  7           |
-| A6HZBtfyuFWaNZtNZXVE4ivn6jReEqJ3uTSyPSwr5vvy | 34.2            |  6           |
-| CvBgaP9iayqyat9wDHRBbRjinqegs2ceY4bfDMo8X3JQ | 34              |  6           |
-| zPrnFrUqkbKxAXAD6Fwd9KWE6XuAAwuvobJyWpvZrn5  | 32.650163       |  6           |
-| GdhRM6FFuBUcYJG2ncayW7REHx1pNfPbzMXhjSWvE31H | 32.592224       |  6           |
-| Bb5Q3up7DCdWpTfemoC3CTDVyze1cLYumfE92BqayyhQ | 32.563267       |  6           |
-| 4kw2YpAB3EJuPBNjuMYVcgDZEu87gcj3FprdCiTQERgT | 31.023989       |  6           |
-| wDnLPQAvtk6e4aVFahk1xcxZMe9Gi3fX4S5pnBKZUKm  | 31              |  6           |
-| Basq2NUzde2mwmKa4j1A1aU6C6MGy7EbPuHgYd4SRy3A | 31              |  6           |
-| 5JFHNExZxankiPKiwiW8fpCBmfZKJYpsqYczjLfa85TB | 30.726958       |  6           |
-| AHN1c8APVf5qyGLHNZqSi6piuoWLvDgKRZq26zFJBTV7 | 30.051619       |  6           |
-| 4iEujMmseP8ztHyzWUVeasRify9cr8be57p99pBdtYm7 | 30              |  6           |
-| GECpszSTgkRc6vAKGFmxLs4KdXc6Jmu2bj2LpSEV2Htp | 30              |  6           |
-| 25rCXSQPz1WzrS4mz9qZjgFQJn3yz2VsC4UKRoGACDiW | 29.662433       |  6           |
-| C7hU6mqEoRTJxfAddCFBdkwCSUWTU5CGjYwiUGGcvstq | 29.580409       |  6           |
-| AvUwo71w74zreRtDqdWxdHXGb4W5UwsaGFwy114346z2 | 29.202189       |  5           |
-| EDbCrAH47xQUsHw4GP5qLNMCcXk4uEtzEV3bMaZxm4w  | 29.15           |  5           |
-| 5JtKDgpU1W6keR4JhopfnNsbsCU6iptqQwECogqQnomt | 28.612745       |  5           |
-| 12jfGijtwtvq4sHeVTSLJSutDMC2DAZFeq5V3uYMnVXM | 28.115666       |  5           |
-| DEFLdrxDr66ZStAxASuq811YQ3Mog4CwvEHpyBaSoNWg | 28.082227       |  5           |
-| 2PXhaBPhdGVe6dXhCahxZ5Xhb8xvdwPWbbsQ23YNGpBX | 27.727834       |  5           |
-| Cpa9hZTS3Pdn37hT23YSp3Xu1NbNdQu7h3USFnYC1tMQ | 27.5            |  5           |
-| 6gSHv7xAadPiaiMDAGfq7DtPqxtXsSeodmjZ5Ki9hZZM | 27.489222       |  5           |
-| CbxoDro5mxerZUB51sDGeRChKsdzedX6AeDmKdF4jXAj | 27.185181       |  5           |
-| CtNwXg665dmbZxy6T34snd9z94hKNhXHUuZvDu5KVXVU | 27.044703       |  5           |
-| EgmqMWhRCmCQx6sQJmQwYWhaESpqXJkJtoBvzihzdYG7 | 27              |  5           |
-| GpMrFVVC97kHxVx3iGXsK4r5mBzYnKF8giXezNqniJ2F | 27              |  5           |
-| Cyx9uQ2p1tQyLWxTzosemWeQceAgaSFTDejtVyQbPrfi | 26.634241       |  5           |
-| Dz11wgzi757gDeCTAjFz52keZRVsWrzDNLJnA8PenDNm | 26.110128       |  5           |
-| 7mjcKoqgjcMv2UrF2ZLJafeUhshg8W65uZRtgVi1Dbuh | 26              |  5           |
-| 65uq6dN46trKCTDSU7mvjmGRmJmyeD5XD8GJUPgBzYm  | 25.480016       |  5           |
-| Erktx5isS5b3qfYhKui8XhiDQ5MfwfYc5zPx3wdvWccn | 25.243363       |  5           |
-| EAJW6vWU5veXKKwnpbbrMW5mX6vrZy9FQ2PQqAH3rtVb | 25              |  5           |
-| J5MvuhEZEPBhvLWBFfi1FYUFj4vHd7RBEidaNzTCxfwE | 25              |  5           |
-| FWYbutXomHKktMeFZSR4c9aVQJzz5ANMbRL6auuWsXTZ | 25              |  5           |
-| Dzu2QsNuJ3XBis6A5BoibJJvUuYMNzsZnTw42CSbpRUu | 24.464144       |  4           |
-| 7y2KqDQkLoHDeDKGYUKZu6AzCUgu6JYmn6LyFhynwhaf | 24.448817       |  4           |
-| 4uZYM7zzXc4gEDihJh9xAV5M8RviVpjPtdNQk4rKapNk | 24.3498         |  4           |
-| 2JzFVXQPHo3HZUy8gLapGX5g7ogpDhVJ1hD4MYnAVWSN | 24              |  4           |
-| vYeXaLynQcEBmEQyfX1DKQTRCNKxDZZmuRn5N2Qx6QP  | 23.5            |  4           |
-| 8venfqgYTCCmJv5osVUBHk7XyrxyxWKeVGSEt4jDi83Q | 23.373631       |  4           |
-| FmajSz1gD5yCR1YNeFAzAZyK7VPj5dtNh3eUsdpior3v | 23.344574       |  4           |
-| 6U85s2rJaCvzzKzootiDfzAhB1rGzgXiupvxxLpbQnuA | 23              |  4           |
-| GGgUJX5Ckvxg7mw1pB3jXEphg2w3Ndt5x731Vrjk9FkC | 22.926466       |  4           |
-| HWjg6p2Ut8iDZSrCt8PH3xsJvXyydXEpXCN3y6DG4HHp | 22.062391       |  4           |
-| 69pmZgEU6DSkR2ZTQo2mCfJQcD74XMNn7LRT95dV4Efw | 22              |  4           |
-| Fri1e65C9Pba8UuQFsi9rVm16HLS4TXfqxZppgELq6nZ | 21.163176       |  4           |
-| 7BLvjuDRMBpBd7iJQ2nM9P4LhdqxSYS4Kp5QCLvgHjfR | 21.10271        |  4           |
-| FeMY4ZBiUzDU28RLGNn5YqjXMnzhKBrzk44E5g7DuVYr | 21.031697       |  4           |
-| GxpvUCRKUVpePPRtW5F67SfHB2JjyvUU1gWxs8xWsyxJ | 21.020268       |  4           |
-| G2wiKBrVZcXgCRBQAD4xfvWpTyyaPiBo3MmhKnUZCXq8 | 21              |  4           |
-| 8E4t7twGc1oWApzkCf69KzowU1oKM4ZF8nNShKGXqUyG | 21              |  4           |
-| 38G9NwA68hQ6LaUjNGJyGLUAxV9SDEdRGYP2jFrRGw3e | 20.9            |  4           |
-| GcV7b84U8aD1qo4jgWBJ7VHLSKvD2foTGRo3QeJZ8KVH | 20              |  4           |
-| 71Tshou9U7aLEn1869URENR8NNhTSa3Cdn7GYTuuiJe2 | 20              |  4           |
-| JCcS7x282A2XNf1AFBtwGr5QRjvUzmxFdUPeAddcvfLe | 20              |  4           |
-| ExCnhETyjJyiAUoGcXYEvV1N6JxG6e6pGUEoq3YGzF4a | 19.893364       |  4           |
-| CQwT1byuHgjKnL6vzmuNaAywKfDBVxDmFVgsQDBWxcWt | 19.590964       |  3           |
-| ERxkmKgrtHW9LYeoV7Jx36go4YpU4vPKTSnjsusngtBX | 19.538993       |  3           |
-| EEcawPD784pCB4maELi2q2g8UTnuD3cvrjeQm4BTJHiZ | 18.580584       |  3           |
-| 3LwosLoGbgQYY9kVF2DT28kBVmJUaDrpCLwHBBV8r15N | 18              |  3           |
-| 2iQUjr6WTfuVwf52sfP5CbJbj8Vwqa7CF2GqhXL8PBDW | 18              |  3           |
-| 7wT5EgeUbXKCDeRwqkjKWA2x2g1zinctQ7DyyMLG4gkx | 17.988477       |  3           |
-| 9eThqW1J31MCeKAHtMb299iyL8oq35DfzcMr2kHnwHcQ | 17.924406       |  3           |
-| BiLxhwPKxEomtmaGcAGM9KyWLMdfujCFVWtqvw7R56b4 | 17              |  3           |
-| 5SRsyfaB6EiXdsfMn4ynFa1Y2oY5U9pqwWitxwKT4FbS | 17              |  3           |
-| Dw5zDvWQKmWWsWzqTkJmkrFnKCmDni2NKBXh7hpzNQFT | 16.8            |  3           |
-| 8Zh75ZMGRrwtXX5KCpmBe52HZAqd5h1Q15hZzYuwvYyQ | 16.554322       |  3           |
-| 2BjotLEfHJQuMC6yFLDLHjs7y9PQNPHYnpyUXmZ5B9HB | 16              |  3           |
-| D2Y3PYDF6CaY8Ndyd3KwfBB5tRPWyFf1YLzc27nTXVfX | 16              |  3           |
-| JALTHc7phrtRQsfM5LjtKu4L15e3FAaKdSEx3BasQHL9 | 15.776151       |  3           |
-| AMpM1pzAeBKR9KtKvnhN7q1tTrmUDpuX68czHtygGSoK | 15.455009       |  3           |
-| 2nhpDV95oVsiXd6sxufUjV4gtNvp3GUN7mjkRXQpeFic | 15.407595       |  3           |
-| AV5M8abLfrjrpssCQNhsSs9dDjtFdgygVen7egiDioq8 | 15              |  3           |
-| 3KdvMyijBmKANMao5DruBP7pGrSPXa3Wjw62ReYyNbKF | 15              |  3           |
-| B3NCAuSnXjz118NULG3LohzyLBe6ZFJjtP4wHZ2pupyS | 15              |  3           |
-| FceyC2HhC2dj37ePa9AFAtupVcBKvEcCK5VXUpiydfx2 | 14.960107       |  3           |
-| 4aiV7RyTKySagp4Qv4A6XMCdFm9yYcwbHQZKLQSXjtkQ | 14.530578       |  2           |
-| 87hUy1GcqxiBPymYnP64iAKs7UhC5DebXrGo2BRUbX3h | 14.508193       |  2           |
-| ECXRqUVUtjm9X3KK3xJNjGNmoaGPdi5THm24JbNFBcTA | 14.484683       |  2           |
-| 8rYunuAz1mp7HoSWKwyh283jXVqjRgzUyAnwRHQEwQCB | 14.399728       |  2           |
-| BMvt6t2qmK6Yi5ZxYoHSaw8zkuyfs6bkXZaEEdpy8uKX | 14.196408       |  2           |
-| 3gEULfkNTR6f2iThZukHYsanabdfKENZzjF35Wx56iYR | 14              |  2           |
-| BfkDtf64dhVWUvLnF2SbrU9JEBURSERnxy5dRePVku8k | 14              |  2           |
-| EnXuaRErEVTBDpqqfGSoTaBRKC1QrACCv4dkNzzThote | 13.826404       |  2           |
-| 7Gooc2p2Zy5NiRWQsS7dDr8u5w4z7xH3NKMYx18AqPFB | 13.332059       |  2           |
-| 2j3MGgjTZnf5woD1dV9XScaSy5SxPeKh5eTTzcpZ142z | 13.290829       |  2           |
-| DChYkkoBSaHYCBgKRnCAGb8EFZ99Xv1uMkC6ntXAd38r | 13              |  2           |
-| FyFoDaUx39kELe1M4fPbhkTuSwVhxMXDHdm17B77n21m | 13              |  2           |
-| 6MvqPwJrD8TfTZ14kdFYySM9Ngu22Qb1q56bk3Avb96E | 13              |  2           |
-| DjUQkZriYBD3wdpGdoKA6BtHdx75ZZHvNvA5vvhLj28m | 13              |  2           |
-| uab1zNC4d5MfUivu5iJQ1RTRiyF9mmXgNsycpuji1Mq  | 12.5            |  2           |
-| 7iGJhtjDurG6McwT7SnwCY4XWKR959jjdNfHATkeF1xq | 12.5            |  2           |
-| TS5Woue5AchNuPzdkUjAsR4vjLNopBvCNNfkrEw9pGD  | 12.052646       |  2           |
-| 4rf6vnH6zM1drvWN9hm63LinqLrMoKwXTBD3FNfxnM15 | 12              |  2           |
-| AEmGXEcULMUzhNEWc4pcStBMs3UhzT5hcekbcbSBThEY | 12              |  2           |
-| 6B1xGCdMowh6zCe9iKjbWPz4FG5KU9ECktHEfCxQfLe8 | 12              |  2           |
-| 4oGtYPQQtcwQJ5TxJnHNF1RmD4Wztaoya3nkhd71sNjz | 12              |  2           |
-| PDHTzmpYaFGzReXywMzme4ztfC7RwJGDra2wZeMhKg5  | 12              |  2           |
-| DGu4yW9tBJUoTMdB68bFwPAocpNFayJgVL19whNxZVrk | 11.323227       |  2           |
-| 4qJeD3X6smxRK6aY1awms8ZncJp45sVFpmbxJREkQuet | 11.276298       |  2           |
-| 2Tdw6KjDjHjcxxd6eH3kvBXdKjdwwhJyQ5Uxs3GfSMVK | 11              |  2           |
-| 6MYiYjpcwh9nHEyto5NLESWQC1iwL6ZiRn3XRSz8rj6q | 10.724109       |  2           |
-| HQnnFwQgYPNUZ36Akuq1nYKFq8qUohtM1nTWhqEuyKBU | 10.694039       |  2           |
-| HJ8MdWxmfi5zPgsWSCFzus8hD58y3JoyXczoTifoeNkr | 10.659787       |  2           |
-| 8hfPHAzzLrsfFjHKrdwuauvgf6arKpGyzt4PaxA2mntg | 10.362638       |  2           |
-| C3Qh6tSxUCDv4YTB2gh27oBhi94F5D6ChARN7dqHg2Z1 | 10.328735       |  2           |
-| DZJYLV5h4vBKwYm5HefCFZJUU1u23Abo1YNYdGqK6BPq | 10.2            |  2           |
-| 3853wC9rf8gmodQFm8e8dpww9ML81K3BT9prVrLY5a9e | 10.161338       |  2           |
-| AaT4oxTG5118sKv5beWEmjx13M2Gyb5YZEYzGWZ4EA2a | 10              |  2           |
-| B8n1FKB58C5cJpWSf1GncmNUvzDj3hZR9HkMHtA1WrKU | 10              |  2           |
-| 52N3edGg62XonQEp1tGvJ4SkAVi3uVwDvKVwe4ViebjK | 10              |  2           |
-| GSFraMk4XFtYqvxUM4armwNisT5WhuGM3L4qToa3Lai3 | 10              |  2           |
-| 3dEUFvwz9yQ4e5N8irApkWpkeDX5XbKT49sWqvjCkfEH | 10              |  2           |
-| 5jDY2dsmQF5kM6rJnFzU8Rr79W7BtU4DGfQX575NmokD | 10              |  2           |
-| HhX4sKUQJPJRu6QP2gpxBkceiyA3r3uzbex9p3LhLapV | 9.919461        |  2           |
-| 99RGoaA2Py1pQXMtgBxsVne5Cw89y9jK2tQRwv8kYQuV | 9.778178        |  1           |
-| AihSnMiHQJhu6ExkZ5PWFZZBj96LuNFiP1gw7kQLjH5w | 9.75            |  1           |
-| AX4jkmTeyZmj89vLraU3YkhBivfnAmqnzTQusD8gVzVU | 9.45            |  1           |
-| FmPmUs3VHgHaWSeKCBcBUTVYfhkD4wKd4o2CcqFzL9t8 | 9.324641        |  1           |
-| EZ3HCnJ1Ce5x7goxruw9uWza5JfyN2EmuTuVmSbVSBEQ | 9               |  1           |
-| VYAv6q8TpQWDxgwJKNbj9fAYKRNd6QMWsa1TAj3Boj7  | 8.658124        |  1           |
-| aNMx73F3vsxpKvr6KJfVrwmdkCwL2z42KbdiNV2N7y4  | 8.166543        |  1           |
-| AsPjPdtvP4ic1SWZZ5hRsVScWeLzYFiiQhf3dxN84K6x | 8               |  1           |
-| 8ih3Fym8mrq2x8qbMsTdoHZ5bbGsNwyztRripuguARqV | 8               |  1           |
-| 5qtZs2y3fGKL4UJSWeGhgQE5Ub1UWwy9WcknFW5yz5Gt | 8               |  1           |
-| GgbU754G6sMPupv9E6tn7DXaRmynQSpYxqJ4jFTPacRB | 7.813814        |  1           |
-| 9EgJ1AgUjvKTna198zsLFTZew1viEDpR4DMMRiAB8TtV | 7.754917        |  1           |
-| DuxGj4TZ4KykRF7d7oCdAgw8GqpW5si6W5LjwSG4FWLk | 7.616948        |  1           |
-| 6EADMinSDD8jbyYLV6DtpjAvwems52QtcHTfr9zU8xZd | 7.445123        |  1           |
-| 6fifzbSN9TsDrK9edSW8eHnprnG4qkPUG1KE4vybkJuL | 7.3908          |  1           |
-| Gx38M1x7JZ1DMkr1H291fyrtxKbzgE2oYArsjidyQ3LC | 7.25            |  1           |
-| 9MhbqWYR2soVaNuEfMqUeBdmFipMBo8a5DaFek1J2Bg6 | 7.160021        |  1           |
-| CGswb23hvWh6FzHs5NTPBKH8uNkSGHjajZDS6umXT8M3 | 7               |  1           |
-| DAYD4YV6Ujm3JKQ7cdkkqmrGRMimpdtyfJv89myYdrCZ | 7               |  1           |
-| J2dFmgzXkCGom4LrZXFUhmFzNwJjtqfx5mapF2xW1HGJ | 7               |  1           |
-| E7FBn3mZgC4EofwQYF5rTZvqyjww3LZ4EQjVS6QBmEBT | 7               |  1           |
-| 5ZxBY6j4kTyVDCFEBYw3S6JUMThVafv5VmihU272bvRw | 6.953621        |  1           |
-| 9FY92ieMdtHR8ofhckg1ywh4SZf2FpU7iZon3F2Bd4z7 | 6.324903        |  1           |
-| 44kp8a2fVZ9pWpNGBeMQzSjUofd47QfgCt2PFH5zLtx8 | 6.228416        |  1           |
-| C7NRwg7FKdXr1PrfeLGVsatd4uX3Kxq7Wp6yMkvTTXRz | 6               |  1           |
-| BqpW9mzUnSd3NH118ChDVSZDT7Y9a1wz1YCaxbp8UX88 | 6               |  1           |
-| 2CV97RVPU6RUwNkLDcDynjT87pNzhtYxMpsFDhpbQMrz | 6               |  1           |
-| A3isLopXzeYUPCVm8R5MVQwRFQdrhpNpCdjgrHctcMAW | 6               |  1           |
-| B67fRyQikrhpokZzvPzD5fkUjRKuspDhL2CAqpmcpyiP | 6               |  1           |
-| 6MCkLiyBWcm4cXSH6SZpiVNFvVcHUkxEdzDQPwBMoZMH | 5.838302        |  1           |
-| 63NNSfpHqR1G7WdmaTsdrU1qHPVySTwUS5yio8zjcZeF | 5.812131        |  1           |
-| Gvpj3fNV3i3kvyxaveVzNeWrawmFVUbe5b6ZsfHEpVtx | 5.65063         |  1           |
-| 61jZWLYfaqqQupThzCLJ9UVBqrXkEWkc3aVhy8VhroBZ | 5.6             |  1           |
-| CDZmHSh4VUuDMhvRV4QJcXEq7VyyXzhvksYfe3EqL5jo | 5.379021        |  1           |
-| 8GFWC9h1kK6EMu92FK9oVRjnN3mru7QWBs1NF7YLWXDu | 5.341895        |  1           |
-| 7dLDt6H21L4tRfwqQjAudZuGrh8o9VpV7Sb4XJUJaiJs | 5.190523        |  1           |
-| Hq3VErfLnPLyGD6A7G6dJMtUmV4NdGij3b7dJKHU6eDQ | 5.08338         |  1           |
+|Wallet                                      |$VIRAL         |AirDrop       |
+|--------------------------------------------|---------------|--------------|
+|HKAa7RmycFeBJkzTC9g1DF7Yv87XFwk1EQH6CmbCPCPh|16269172.57    | 3,546,406.00 |
+|9gCC2WcLHYQBbi55XQuiZiLK8GQLGopT8LoKMHwDAZei|14336962.08    | 3,125,216.00 |
+|wywyyeR7j6q5YKk365x4AEPPXxdS8fKiKJfoJxWwko6 |13462554.85    | 2,934,610.00 |
+|HtqubtQgkQbShBqUqYEaUgmtVERBxuLE3h5yrSKgTj6E|13003164.95    | 2,834,471.00 |
+|3VJuUWDTxtd9KwdasnoVwhgfudq3yPQh1Tva1DMdM5Kh|12821886.14    | 2,794,955.00 |
+|9f7ckH26ty4gEAdbf2wcnJsRomGqWctZpzTMWY3FMup |12318559.45    | 2,685,239.00 |
+|kqFevmRaveMzfxn6WnrjnTkQazNiNxizATc9aSx3MUh |12098922.24    | 2,637,361.00 |
+|HZeJaY7NPBtuHVRKWHJgRGx4SbfEtUDDxLRMvADg7GsR|12000000       | 2,615,798.00 |
+|4dvPMwSiyopnqpUGTxE8GtKRgPUTUW7cbywNXtQfZwyG|11000000       | 2,397,815.00 |
+|BMUNSradEEiJBkQhKwxG7GDEANfkiaUKGR3vCcfMgHDF|10457927.81    | 2,279,652.00 |
+|31JUoTPXxVEof3Tn8oidMkuo9syvSQ7hBvLXjRLZaxM8| 10,000,000.00 | 2,179,832.00 |
+|CneADaSHk22oLmYJGFAmyHSqxHVG72VfFgS9725KK5Aw|9650000        | 2,103,537.00 |
+|DNPRAUDoX55kEJKohkpNeQSHvURxaVkd8L8HyRRrfwMR|9500000        | 2,070,840.00 |
+|6zgsakwfQcDcZP3kUjiEz2nbKYKoYkZwDjujY9UJGM82|9435386.586    | 2,056,755.00 |
+|DS5WT2g7NjiUwZpQef2h46WciXt6KG1evRkXziotJr6x|9110088.787    | 1,985,846.00 |
+|9cC6PkgCVfwVkuQenkbbxDLV2JGvY8j25qZiRjDfRuAA|8861115.647    | 1,931,574.00 |
+|AfHt7LFgiXefU2CsmDu8rUgJ5xnEFQynezR1VYnU1EVB|8853469.128    | 1,929,907.00 |
+|CLgWxq12MzhQsZAmS8wmUAujeP69sWY4HCG5VrkGe4vv|8573333        | 1,868,842.00 |
+|FDyXw8UZc7hqPg8pdDDokAwTRp52nAm9XZbp2oX4hWU5|8522815.078    | 1,857,830.00 |
+|EbjKj9gYywT3TgXkzDvfUZBYYg1bRrsPXQuEbC8w2hrw|8288337.068    | 1,806,718.00 |
+|GN4EvynAvjc9UrRrD9ae3mjSQmHPL69SDuqkwRwC2vYE|8070000        | 1,759,124.00 |
+|75Yo2bCGiSWrs7T4TyehDqjvBsnm7fhsnV58mVMa5UqU|7973791.498    | 1,738,152.00 |
+|3zYDpggtatqy9kNJRKJX2vUBaVMWXy2bT7ptLJtF4QE3|7408889.791    | 1,615,013.00 |
+|66E8xHrknKPN5tMxDU7C6C654wexaEgMMSfjAL7x8SzL|7020185.532    | 1,530,282.00 |
+|GDSCXMVw9RjNUhwQFyjN9u2V48STMx2bED17R5Y1WB5K|6732571.991    | 1,467,587.00 |
+|7fZHTxYtVCvxzLyRWdyAT1KQyi5QaMWwBQhbEv116F21|5859162.324    | 1,277,198.00 |
+|FAH7iwyMa7Fp9AG3LjSwuwybCrXXwy3tML98rdTq2TT7|5715055.598    | 1,245,786.00 |
+|H58VqQRgn8JnBV9MqXEqLZuA4WqnxmSDyHC1Soio7pMe|5632431.782    | 1,227,775.00 |
+|6w9s25NSScGpkY5uwccL7WyCManxRvHtxGNjobPkw4Gx|5611738.397    | 1,223,264.00 |
+|9AA3d66dyyTqym87pcQpyWQbB9gUF85EF6pHaQgB9Mzx|5495283.922    | 1,197,879.00 |
+|9Zoo8zMYDRbBAva8Yg3a2doJm1cJ6NAnd98gmDDZoxva|5153928.054    | 1,123,469.00 |
+|4MJbMbfCLmTbtFe51kzNpX3gNWhYsUgnpx4oJGKruC8J|5082880.627    | 1,107,982.00 |
+|BpVAVbSxRvBTBGPpdscxpFzspAtGZC7Gp7KPGmAWjndZ|4823415.967    | 1,051,423.00 |
+|DgS8APzPCzqd5RGGoEjyDvH2UUUuZmXoUpsH97RfSqUX|4727907.343    | 1,030,604.00 |
+|3eUsz8aygaCSw81izYVDvRRnKbtsJogakwgr1tqxxeNJ|4716544.165    | 1,028,127.00 |
+|CLF5qW5Y3itZoqtpVg1rm7sBJaCear1gkBdkphuaMiGw|4615523.277    | 1,006,106.00 |
+|DwoXkFt7WJVVmWaKBugjSQLsXTMoQyKrEAjcrDHQV2Nh|4504844.307    | 981,980.00   |
+|8Cw8tK6PMCu9kzKvoQqXsuXPTLPfK1Jsq3uu5utkV4zx|4482196.767    | 977,043.00   |
+|HgueuQ2L1vVC3M7Y42CWeSNjhWWMm9fEadM3mzivr3au|4474884.3      | 975,449.00   |
+|8ZnJ21k3NMeBAaMnFBw7dj8gF5ZNnmURHxyD7KRtmPiC|4401950.223    | 959,551.00   |
+|3Rw3ZiW82Yy85XisdLGQjU2iew4ZxtTp1xY4rWJuBzw6|4282302.928    | 933,470.00   |
+|DWCTVAkj3mB6zjGS3J2216SubUXx8Mrf8Sp6eSbzU7rX|4272815.429    | 931,401.00   |
+|ForQYxfhLMv3ieCWQYxMWwACZZTp16rBUe3r8cwRLnB5|4237592.147    | 923,723.00   |
+|9qcu5e7fQpZMUvk9rTQr4FHgvUsgVAffsWQMGgS4vrcA|4182124.874    | 911,632.00   |
+|6xSs5B7yh2zYrwdvwG4cg1pyeejx9HfcEnH58edihW2u|4119279.056    | 897,933.00   |
+|FNNWVC7czq99F2HJdYqazTiB4jhNZDUCWWzoWRVJjVX |4094319.909    | 892,492.00   |
+|CRJmY9t2TBBW9zZH1yj5oKdxcC1crCg8my1ghMexNFQN|4064773.063    | 886,052.00   |
+|GYdg8zJW9uwN2MVVvg79bjpy55oTGybW4nPu8tmPSobC|4024008.375    | 877,166.00   |
+|C4m88R3Chof8da536MK53AHF429fyUfDb1EtRWStjP2o|4000006.5      | 871,934.00   |
+|2LskvGKzj5VWDDop5Yokh9kNfjuwdiHfABe2SvGMSEZF|3812726.87     | 831,110.00   |
+|2LskvGKzj5VWDDop5Yokh9kNfjuwdiHfABe2SvGMSEZF|3812726.87     | 831,110.00   |
+|DsvuTST3EqgsMz5kSKpoirvYgurZaNbKfHphti6K88ws|3669373.402    | 799,861.00   |
+|7qRTMyrwZ42qY5waxECNz9vaMHzTLpuAJ2RM4vaXotfq|2089282        | 795,780.00   |
+|GpFR2XVGZpgpw8waFa3uqZDLCCjgEVDHDz2egh2RuMdd|3644724.973    | 794,488.00   |
+|GxtbTuX8dhN9SW6H52jrJfkLPXX5j87BcoPeRP7tpvDY|3573862.592    | 779,042.00   |
+|GZHquYohjdmqTNHp3S9F9n5oo2X9h1p4EukKLibxpUzX|3507312.206    | 764,535.00   |
+|CbcRD8t61XxBh2ELFGbCznbhr7useVNUJNuUjqMJbJW1|3459398.246    | 754,090.00   |
+|9xr9w1uWpjWFAy9eXkvEssY4t8RbkRC63y4AFcmWUhpx|3446451.916    | 751,268.00   |
+|DGr6scvYN2wML3mBLPWSrbLZhT4JpxrQ4Cwym3B8xbCM|3441001.622    | 750,080.00   |
+|DZ69UG4HWmgQwdr9Ehfc7kRi4PVDnhKhU9amEk9yXB1T|3379304.613    | 736,631.00   |
+|Bp355Ce4UJyruTHAJSHcXxDA4tpFiSQmCAssXjws2QN1|3363425.765    | 733,170.00   |
+|ED6MTLJFuZjfo6937AXLfpKUGaueVMd9N8ZGrfqZezaY|3330063.817    | 725,897.00   |
+|Cgjxc893894UoQFwXCiUFZzvNwazPh1DVudG4GaHtL33|3305721.244    | 720,591.00   |
+|3KghKtsinSJxKRiCTCM8V2AxfbujpEte5GejiVhfW6b6|3300000.165    | 719,344.00   |
+|UQ4S6kFPuNCAnQwybCPxTqFAxkDjQNZjAUkUJK81pa8 |3279852.892    | 714,952.00   |
+|4ovDSSsXVeJZ29Bo5ocgVQ188JtpTLdM9Bwr5U8HWta1|3225712.727    | 703,151.00   |
+|EcyebryNEbF9ewoNZasdPLEGCwCHcLZdxYLnZbPAhqgz|3,111,135.81   | 678,175.00   |
+|CxLfefFjeedtKUdXVRT5zPvn7rg4j8vjf9w63jtN59sA|3000000        | 653,949.00   |
+|Cabx1cwu6ZJD4kSH3QzZaGELS9PRoBgyts4dU6u9TTVY|3000000        | 653,949.00   |
+|23KTm9TbvZxFoJMrTgSB6nFRj7GzANhzW6Er3QtvpGxf|2955836.829    | 644,322.00   |
+|59Wa2wzgS5NdsxTgdtGa6LJ2Zdw2sRSKsDMqTBCUdA3M|2942032.706    | 641,313.00   |
+|53wNeamSN8EqUwRqezdyDnB5km26fK7gVWFe9xAgGx4w|2917282.876    | 635,918.00   |
+|68cvWWrvECSZsATbMQDEHhTWQLEDMTAoumY68HFjgDPs|2904237.159    | 633,074.00   |
+|DEpTDpi7BaeRQnRfEfgvWg4R6NF8vgZMJLiG6qN7ToH6|2894289.555    | 630,906.00   |
+|7SjHGqdSiQLEMHAUmWgEhep2BcbVefxJkiyEmDb8CuHh|2702540.893    | 589,108.00   |
+|5LWh3SYZyLnqqudj3okicKPpipZso86K5BGmReACoJKB|2697936.617    | 588,104.00   |
+|7eEqnCRDyMG4zr5oHw6xwdGtDwUkwQeWU8hK6Jjznn8p|2696775.821    | 587,851.00   |
+|FjXuoyVdfUJ8CmYgftcK1ddRHUZ9rkVTaX68wkpCCaSs|2685780.886    | 585,455.00   |
+|Da19tFJzGqFRVHVm4sWkw8yFNEwTWMXsiuxgiHhEVu3k|2683948.07     | 585,055.00   |
+|9cxLzxjrTeodcbaEU3KCNGE1a4yFZEcdJ7uEXN378S4U|2622600.45     | 571,682.00   |
+|Ap29K32MgkU1p8FUirNCT2e7zHv21czT67Kfh2a5Rirq|2608101.184    | 568,522.00   |
+|BZecyzWZiNLTG6sbGkTyYA8jsxLFZD4gqDSuotNYd2TX|2604881.74     | 567,820.00   |
+|BKcqepP72WAu4pr2J5BzRf8iEo7ioosCWYTyYqKgMu8y|2557954.244    | 557,591.00   |
+|337XNf49MJqmNQsSKzQhoWSGn4papijx8HxtpG3r5gTs|2509479.149    | 547,024.00   |
+|3qeZD5pF632AtVskBaerPfvJERgJj1hpuyofnDG8knrh|2504399.376    | 545,916.00   |
+|2rx5TuVBkAcaPUGTV2H16A2gZirYy2JPqcvLcV1rMb7a|2500000        | 544,958.00   |
+|97RPA4mQgfsAg2F93Q8bMSb5bJ5qbe1hDSgyAWkfx1z5|2488329.396    | 542,414.00   |
+|BRYSEN6zSWoD3LQ4ewh8R9G6NoL1M4SxNuPyTucWxyWE|2447157.613    | 533,439.00   |
+|tys6sN74Mi7PK8N9QS3wufXVbJ332Ci6uqXvpCVnzqX |2412755.104    | 525,940.00   |
+|Gu8fE89ZLhu4GwSq4hK1PVzLLQwGUn6d4m1TWcwMkQFe|2339691.526    | 510,013.00   |
+|HUWerfkuxrUDBnjNDNkDmzzVwrsZuaY2qEeeEPs57ugH|2279270.636    | 496,842.00   |
+|7Kr5MYD2dHzepXkBhwCSNKoJF6vQzjtDznHUKog9bJ89|2229501.573    | 485,993.00   |
+|Bjh5NWFFb1eUy41L8NGg4TK35DUNADYpS3qa3dNtWakq|2212157.184    | 482,213.00   |
+|7VFnzF7ZViEXvzEiwH2tYXZCD9avD5356yK7yivB7RR1|2183909.632    | 476,055.00   |
+|5F8uDhisZdR7HQU6vBMRr1cMKgrwWpBEVdMDYiJE9TWx|2167225.978    | 472,418.00   |
+|HzGF4eULJkW85xuhbanArjAQW2nxg1GbeFR1Xe6sHLXk|2158842.014    | 470,591.00   |
+|HKnuZNkJZg8HFxpxyuvrGLvxc6TSF22sgnfSrVUeFtZZ|2154115.365    | 469,560.00   |
+|Avgbj72x7CakMkM6LqQX7vuBUf32xF3L45x8cqE6M4TW|2132726.969    | 464,898.00   |
+|B6euzLRppeqBgCgBadq1iTfGAUDRLEBF8BuFvXNbqVvH|2129219.808    | 464,134.00   |
+|5N2WWP7Xpfzmw3Rw2Argvu2Fnpef6zLWGXHQyAYjARca|2085564.467    | 454,618.00   |
+|GdwgaK6E2BQoYe8rYs3FSWmxdNuaTqpvNt8gzMorqXR8|2067979.933    | 450,784.00   |
+|GdwgaK6E2BQoYe8rYs3FSWmxdNuaTqpvNt8gzMorqXR8|2067979.933    | 450,784.00   |
+|7USUh8kQwHkHVbAo8Yw9j1q1FgL5LKqYN7GvwcftbAe4|2059971.938    | 449,039.00   |
+|4v9ed8WEiQstNAgEinxxFkD3VVhiWCZiqSuvt9gkNUE3|2053876.31     | 447,710.00   |
+|3iFTfUx1vDw6ojAsMAExiQrZrTsFgdRycjNHnzAayAyJ|2038967.053    | 444,460.00   |
+|82CerTPG2stQ5EYQeGbGsjk7tzrDvVPdSqV3ibt7ENFH|2008437.651    | 437,805.00   |
+|9nRszxMhdPN7s3Ei21X5tAzSQ96bzy9RJcG6QTSyLaEd|2007469.624    | 437,594.00   |
+|7sPyM2k8CWeZjfn45v8xXJjt1jKMT9eyddngV4tXM1rb|2006247.475    | 437,328.00   |
+|CcMuUWh5BaYnceF3JBYtC9vHxRNySQE23KkShMvtrudW|2001144.17     | 436,215.00   |
+|7LGY3ZtdgzFCJS7viqaTj3Zn3wGTPsQTAP8TH5onL8jA|2001103.888    | 436,207.00   |
+|XWM1swWQkxHJQqeL6jtYPtVeMQ7zc5J9L84FDxHbk7F |2001099.79     | 436,206.00   |
+|FG8F3StX1JWFTeRyJnVtXeG6GHSods5kcdRfdozZWJRX|2000000        | 435,966.00   |
+|HrvfYComeADZTSrLb37AYNNC9VBSRBXdo1qLRS6DWGU |1999623.985    | 435,884.00   |
+|43XbtaJNpG5c3k4kUZPBPoUMRKPri82FkX56uxtMuWqg|1984856.531    | 432,665.00   |
+|AJrpwUDw5GK7yGtK7AzmeRMT27DnuHJyuNk6RAqfZ2UY|1915089.524    | 417,457.00   |
+|Uvouw2rEd7MAu54geeKhJBZ8ynogvJbQD1kNB8ktoJX |1898591.413    | 413,861.00   |
+|ERfMRtUBmWasG6odQd3B8TJ2chdK9GcxLHzJmHAfEYrz|1877339.377    | 409,228.00   |
+|67nPuErn6p9RoTxvaqE6jf3qdPw22fVkKgrsLz72jhUG|1875404.591    | 408,806.00   |
+|HEUuPCh3xGfDoNcfd1mnog95z596SDp3Ymu4aHRdqY1v|1865662.124    | 406,683.00   |
+|5yWkt4vsscQ1TvSF6hL7SJhVvSPXfzkZ5ETywt6fCGsb|1850030.128    | 403,275.00   |
+|7TZKG6Y1qHEjYxKBdBGnQEhBDgnRHqTVqyeHawhyKDy7|1822637.727    | 397,304.00   |
+|4x7dMRtec8y2hXDZb4pL5wQAmvtrsvrUyrKKLvQo5B1L|1818955.092    | 396,501.00   |
+|5owB3uAzmcaDwc5u7sUE1ddUNcAy3h9t3kcG168Tnz1i|1779544.13     | 387,910.00   |
+|HqUKdayzDbPrNvDv3MU3wxNMuT5DjXaVRfMUNJ4NCyUx|1771574.627    | 386,173.00   |
+|5mFAvHRgSQ2dgYmUhRLf9cHrHuHvjkpwtCpfV67YT1rV|1747673.693    | 380,963.00   |
+|ENXugr31QVJhgYbhAfhHUYWcHyYmGW3R947hsF75hxRG|1740283.139    | 379,352.00   |
+|CtU1zd32cAop8wJRQs5zuaQ6HxmL1QcUQZwu2JGtarWY|1738244.43     | 378,908.00   |
+|CfxG5JBXDm7wkRzxBckKu1tXSvsb7tMM1yz8cadxWGYT|1730075.199    | 377,127.00   |
+|4B3K8mM2dP7Aq8DxXVZtdeoTUWfCVAYEuvHAVcxsPe5g|1700000        | 370,571.00   |
+|kmxhCcG2zarka97aMPk98MCtSaVSrevqsSLm86rb3A1 |1689106.502    | 368,196.00   |
+|fDgatUjDuPkZNwSTSSnvMT1wRHwBY55ks7qQHx7dqSw |1687236.803    | 367,789.00   |
+|BrgzDdNszC9D6hYwuXgsRp69B3ZccZSxKtotqmzzsYU1|1685490.154    | 367,408.00   |
+|8pCwnSNYA8vtreQWdU7SNJYqyFERHWd8FeJJ3oChKqnJ|1658994.055    | 361,632.00   |
+|AA8Mo8tFSzBN7sTdhi7xkb9qZFr1oT8S5UwbX75Zn6za|1640200.863    | 357,536.00   |
+|8k4xdNCFKjEcu8PbKVvgAQQxxnUPZU9HctfoK6TJiHPA|1609810.544    | 350,911.00   |
+|AnB8fcE2kADthjLgV5ZA1QdGxSTE2ohr5MqZtKxfP9yw|1608689.726    | 350,667.00   |
+|7fyXqLVQ5vjBgCyumvHqacH9idYqm2tixny1LrY8tyVP|1607404.479    | 350,387.00   |
+|695pqs3VdB3TzrHiCSvkzapNL2GtUwPo2z9hRP9enAb9|1601278.472    | 349,051.00   |
+|6eDXD5hGP1tuJvoG8NdhrFJBDb7HfMW5iUKZyN2gorUD|1597463.252    | 348,220.00   |
+|FP54AVq4K7PHt1gVAbAMQstmNUPpWvswk8g5MuNAZk5d|1593745.56     | 347,409.00   |
+|ckgZ7EeWFWvUwm9uUR64Mus1QphVZpJ98Ghz64KezQt |1575951.592    | 343,530.00   |
+|565FVaKuQYAKjSbST711rtZK86itk5hYTEaaYp2SGo2P|1553655.412    | 338,670.00   |
+|2udv6uCgd5wEsk4uFqMCKdN6MtEu9ZnAWRrpYcr2cGkb|1551926.472    | 338,293.00   |
+|GJDxfYmFuPibENMtyzVTCSpy7FRTuzvgr8nEGhWoYfeq|1549010.17     | 337,658.00   |
+|CZVgGFSuonmyA1KLCryuwXGFThcAPT1GsJDGGtmp7iC6|1546187.926    | 337,042.00   |
+|3MmK9EdQGQyCJyit25xkzttwfwBfvj1kT4diW4WW6WZP|1545480.794    | 336,888.00   |
+|9uNzN9du5P9w4NDFmLgyyYc8FDci3yGrZa3geQmKBssj|1527599.28     | 332,990.00   |
+|FwquHMoH3SDBH58njWdLes4Fm8nqCqZQwoYTCikzQYsH|1524052.492    | 332,217.00   |
+|5nPn9bi4ZPc15GXcDnQXgThjgYD92nsaVtsaHJkqToHv|1513841.807    | 329,992.00   |
+|2niFaBPPs18QzPdVcA38JVnP1en9QfSBhVGQjhRYrUKx|1501550.214    | 327,312.00   |
+|EoK95vNb4YnsYS9mYeQqAAUit71hPMYyyKjpnr7d5Rs |1500000        | 326,974.00   |
+|JARAxEZp3nQUdgVYK2ndYMUZLmMZ8muKqFmnEnnn9aKM|1500000        | 326,974.00   |
+|GH2fh6UZ57TJEXcBvJtaQkBbTNPyuiWHnwDMij71kwc3|1493885.327    | 325,641.00   |
+|3JY17PxDUnpFwXo9PJ231jDbSQa9gWYGaCUgXvQKDdyL|1493553.116    | 325,569.00   |
+|GQji7z1AYDg3QcKdqqRmcJp4epFd5w724pg8AVsvJG5v|1490288.086    | 324,857.00   |
+|D9yX54ukLMDpFXvjw28dNErUfov69JJLbrkJYuf6YyP6|1480659.238    | 322,758.00   |
+|4YDbwdnw45MWv8hNe9z6Tfu1oNVP8L1CHouHagMKDLqo|1473012.094    | 321,091.00   |
+|ArEMfhDGBGg368g6xTo5gera5XhEBU1KRHVwrLGwNP3q|1453811.233    | 316,906.00   |
+|2AKRcp9GMYyt1TAVc7Rf3ncBUras3HmfyVKj46DHsqJs|1448804.753    | 315,815.00   |
+|GePRRL2oqao1VJW9hiMVfcKL2547wnM43XqiewiPSh2H|1441213.483    | 314,160.00   |
+|dJ3AhgK2SS3HjSod8sHerWXwTAwQvxNzPLgYmoKJKf3 |1411702.055    | 307,727.00   |
+|814apLgVbHAQCp35FiZxMHHYsqgVpMXcEmZxqkQpLRNE|1410541.605    | 307,474.00   |
+|2FXcDtiEPRb89b9vBCbuaL8KcoL72VmvewMxNbz3xuh7|1397805.569    | 304,698.00   |
+|HQhuViQsYzVQz1E2HqgFD9VBcFHKqWLxiVwnGD6SwiwU|1351068.325    | 294,510.00   |
+|5kjvGaVEkTZTxAL1FmW5WVSSwrDLc8np69QXVqtM8PrJ|1327166.743    | 289,300.00   |
+|AeprRG8AKBybnWrWgkd2htEe2ZZf4tMc4oJfQ2bH6mDb|1317626.546    | 287,220.00   |
+|CsMnfQveeZkx1G6bGwy9PqxwdyFLZJw7rFKavsKeyE2o|1313979.16     | 286,425.00   |
+|3rQHo5bztTdfWATPecot9DMjRpaZTrJ8xMtoQGr6FBnV|1306432.609    | 284,780.00   |
+|5jXSmjupBv61HJ2srJnvYLKjMncNoikMW5iineA8pAzv|1306167.355    | 284,722.00   |
+|4k8hGUiTnyBh5b8t2C73k3Wb8tzPA4ofDtbedRzd5Biy|1298759.381    | 283,107.00   |
+|HJiu2ZSKfmjmWDkmkN2hJGGUT8yVQoXEMF1pUpTxNXF9|1290520.201    | 281,311.00   |
+|DT578NRh4k2jvcAFDnUtibEmLpVw2S9FdU46oDE67oES|1269297.861    | 276,685.00   |
+|AzJNVzPyKyd7aaUkMBHL7y7zmqBDewvU1SxoED2HsRYE|1260913.414    | 274,857.00   |
+|FbtNj7FxDurjiWf6V7uVUGhtqrzte9kZBVMFPzgvZ9uF|1255743.486    | 273,730.00   |
+|5Kr95c1wR4tmLdWZ54PE1vneNWTtv8TYu7bEzGnJvNBi|1250000        | 272,479.00   |
+|8H8xQMWoqcGkf6XhcovxHJ149nDzEfLRXNg1AUBn94F3|1245456.998    | 271,488.00   |
+|1VLf5PkcsczAGaBJQU3jLaxkRgXxAj9cw2mFQPEkata |1239493.173    | 270,188.00   |
+|C5BWHzEgwNdWj5EY6pkJnPQWL3EWBhuTE6rUPCwyjMe5|1237526        | 269,759.00   |
+|BD5P29SidxDvq1ceibDfvwLpsiXfHpw58eeVKjvy896C|1213631.508    | 264,551.00   |
+|rfAgDKp5QzNyzsQJggano8QKNHJdAzrkJZUqjH9AByb |1209449.244    | 263,639.00   |
+|2bYC6LK3Em8BLNQDaP27zgFaFbWwMvDe1LeWQMS9BbVr|1200772.9      | 261,748.00   |
+|8VR6EKcREnv7ZuuGC6pscSdVRU2bHbp35k7feHxbox5g|1200489.32     | 261,686.00   |
+|9ctrT3EUtBpXC5B23F5vKShAMV548t32nBVwYTrpD1Uw|1194188.982    | 260,313.00   |
+|3zpRC7DeXToDbo3DNMhyyn7X8dunSiWZsAUAmJafNeLQ|1181917.862    | 257,638.00   |
+|72ApBip5Gxx67wApRmPQACwq3K488e7ng7W7bFAevFhR|1172725.086    | 255,634.00   |
+|CKJvvCQhvLW5eabcNac5qxRNEeEyQj31GvNCsUMQKW6D|1162948.186    | 253,503.00   |
+|4hEsG8n3T5MP4SnWVSR79wx6P1PPBTjeLvFo9TqjnD6G|1139556.483    | 248,404.00   |
+|GYpqWGwNLtZUkP7UrG3fEifnhyEszqiJFfgPDpDPSPX4|1139397.463    | 248,369.00   |
+|HmAJDvJi9bcDTkpFE32uwHAWBsS2c4HFy2w7kRVdgxTB|1132555.315    | 246,878.00   |
+|AZoErjmiF6Uh26gj791jk6nfgSDXn3MEmzAcg1xhJL2A|1127803.085    | 245,842.00   |
+|BUg2Zvzc3gAhyUHqY6dVLtQowAupcE26o3gsF98Vxkmb|1126128.587    | 245,477.00   |
+|Ar8G5QVZhPjsGdehkoJxZxeL4Nu8Cp4EUGQ8iq331Wnw|1123626.183    | 244,931.00   |
+|9PTKgMBGeB2Sn662qESB1ouiQvjGUXQaeL92YEGVQ6J3|1117170.988    | 243,524.00   |
+|DZMNYxvMNPNF6nhgznEQm2Qd3cM5r1ipbPuYKW44WDbR|1113773        | 242,783.00   |
+|FEYoyZqquF3d9kcGBjLCU5b9Tv4Yw4XiUKCxiCJ18HE3|1112708.016    | 242,551.00   |
+|9zMcaqLjndi8xrkRMQ1m4k3svM6r9jVdATeww8CRo9Ws|1094047.105    | 238,483.00   |
+|D11xcYNfB3r4dVW18VfjqBMmCiEPdj5BJ9eLnqaMzMZj|1092871.685    | 238,227.00   |
+|8TQutktj6cg2XpGdTVW3WxiJfvAbja6mCxDd9Pp8VLEJ|1084961.963    | 236,503.00   |
+|4BmCJa4iVoMJ8Q1V2Fyf89zQ8jrgkqWjfJVZecMntBTD|1084609.026    | 236,426.00   |
+|GjoGNXhuKxCXBKJUjxSusY4A45M88M3ouiAdcLfui2kJ|1072826.786    | 233,858.00   |
+|GjoGNXhuKxCXBKJUjxSusY4A45M88M3ouiAdcLfui2kJ|1072826.786    | 233,858.00   |
+|9g6fNLLxjmk5KdFUXj4iV732tTgb8zX1Ad5VrVWKyTH8|1071350.7      | 233,536.00   |
+|9PLHPTYsU5wWS4Qf2nErvVVBAXdziASDVjDBG32V2KL6|1063105.314    | 231,739.00   |
+|6btvVgBX9QFuiMuAavcz2bZLVgvw9nLqrGQpnAPYhrJ2|1027453.394    | 223,967.00   |
+|2MjcMofrQcb2kaShnyfALZSta2obtgNhEt2evojJu4oy|1015640.641    | 221,392.00   |
+|GpdXLMBz86qoaEQgb4vk2AisWTYCzwxybMzs28CAAjdF|1015622        | 221,388.00   |
+|5Wojbe39cjtDfQBCTjKBjUHwbo8zzNikduFAwcFzbpLT|1015562.09     | 221,375.00   |
+|Ct6mKGjzcXP4G6QtP5dvpuUNvTTgdZQ1bTfJM2ggFF2U|1013832.275    | 220,998.00   |
+|2ofRHjPwSWoe8d3TTcrQVYgn2bnwZY6bq52gp9Ajj7MN|1012831.284    | 220,780.00   |
+|CJRPsdgLouctJ7ksBqNy7CBKBvUjaus2VXcCvtUAo7r5|1009103.094    | 219,967.00   |
+|5EKPRr5z7eARh8r2d6urNA2KdxkjVK1YpEHby5CsrSJB|1008938.587    | 219,931.00   |
+|CTzYqdpoQyKGga7Tw1A1d7kWhdYHFv65tBo5pgukXPfs|1008341.572    | 219,801.00   |
+|Ev8fMet1yDcWkBLAmG6uHLAF8VWCtjCCriEJ9WLXLToU|1006382.256    | 219,374.00   |
+|6yGcA5Y3Ny3JXQunHH4ujZtxPhnhG41ch3DTt6Qokjjg|1002540.383    | 218,536.00   |
+|3jFoxP4eH3QEZjoJiQht7D7mafXemKG6ywhwdh6hQVLD|1001822.447    | 218,380.00   |
+|L9v6E1VmzpisyHQGKVnyfBZ2tLYHVZw94xxq6Zn4VoL |1001239.753    | 218,253.00   |
+|Cuscjhi2p9Dn9NrkUNsG5cbFKRff2HmALv6BmrEGjTNn|1000225.759    | 218,032.00   |
+|91pMjMGPJy2Cs3LxpDfWftZzdZbvmw1jVNL7gSCvARL9|1000000        | 217,983.00   |
+|7EUVcvZTgHMhaYxFBD5mQaZPNHgN1ZrZZUMKp91SrsG3|1000000        | 217,983.00   |
+|EuEfStyYpSDkLz2yQ9c6YnFfCKhERYjfKmkZPqH8WcAM|1000000        | 217,983.00   |
+|EAKL9HtLX3trU9vUifWvq7wtVzPALY4jK9jcfv1fYtff|1000000        | 217,983.00   |
+|7DZwqAmSkZ5JgxMZ7ZeiAbMTXRXk4dfLS9FViQ7LeREY|1000000        | 217,983.00   |
+|8VKP8U2dxx9WS3AdC9TAqXWzjkMWVsKx8xxpeLbYKcPw|1000000        | 217,983.00   |
+|F9tUEG2aVPJJBjW3SkXYvWvudmMQHs7s41aarBcFymE8|1000000        | 217,983.00   |
+|4ECxVMcFyuXr6r3CJQFwKZrTRpXPwecYdnTuptpZtoBr|1000000        | 217,983.00   |
+|J52GW7sGeaU8PBLtbHCrJeEp243jLAtqzmdgz5nhPZ57|1000000        | 217,983.00   |
+|2PUuVKvWaurLDxCFp2ojAJR8RxKeaSDj8wQ347ziyCxD|1000000        | 217,983.00   |
+|HDBp6vxm3baGpMAYzMMir7PtCozGA6GLVyjxTh9DSw4c|1000000        | 217,983.00   |
+|AB7RZkH63bo12qWYq7BthGSzPjtcGXuTW34cbkGkRnJj|1000000        | 217,983.00   |
+|mguBziboMSfZ4Eb8yViwrQPPx48PXaHpLDHo991TCyw |994045         | 216,685.00   |
+|5XjwR9JzMBrXHKzqXrFGt34VXG6LbcYoFyDjjimGki2f|989944.2195    | 215,791.00   |
+|4QbcyhwKygNEY2bA1jpfoRKQ71ur8zoQX3C5cH8nuaPA|986686         | 215,080.00   |
+|FLqfApy6wTXyWaZHuRz2nX3yJcVzLVAhgwxs4G9qsmMK|984817.949     | 214,673.00   |
+|EA9qLRSErBgq7PyHvozQ2xZtxiqh8SCw2VYzQKjFmoMN|966185.5511    | 210,612.00   |
+|DrDPg8DSUVJMgVU8q2P4BwwvP1bvRehnQWeWuYwyuwo7|966118.2253    | 210,597.00   |
+|ANSQrxDNeuCyAdceu69Pxi5SARtx9xWxCbj2hM2uQnMm|963697.8826    | 210,069.00   |
+|EHa9noeRJV6iqkK9c6jYcdJ7KoDZW4Bc1Mcrgsfs8ocM|939207.4603    | 204,731.00   |
+|GQXHxeuh7aJCtPBuhmFaV41GM2WUrzT6rxxGwWbrBhQe|935844.5594    | 203,998.00   |
+|6DojMBnXmQ63tn721z4zxGcsfymiTAKXexdjfKhGkHxq|924870.0499    | 201,606.00   |
+|FPN8XSRKtuG8sRnzAfYzdTAcewXvihnh8rR5KuRVHMxk|923963         | 201,408.00   |
+|BDyrfwgjAZmjeFx1uj5GirnpHGxEvbX9bCctF6SASASH|922569.4221    | 201,104.00   |
+|21Z3BfXJ8AjhzuhVtCXP2U7DFpGhqcLN8UW8WzpycMU8|913520.8867    | 199,132.00   |
+|7sGgB8b5ZJN1XaeFp9KHLsqzoNvtGkfhUf4CDnWqZUSp|894963.3796    | 195,086.00   |
+|BeHfVRx9RoBFnaum9oowzfFzygmTX4sEN5AWVDrMyWMD|878997.5029    | 191,606.00   |
+|HsYWARoiweZQqFgF51e67fxrH6REnTsb1YnCJiEXptnK|870660.4193    | 189,789.00   |
+|9ApKDhP3LgrJFZgL6m7D2AF698Mqje3AMYzcYK79L93a|869020.0723    | 189,431.00   |
+|8TBoSiU9na8PabkS89XRQFj2rJGsrjf4kLGokbxV9MLF|863507.8174    | 188,230.00   |
+|B3C2CYUhDFCMtLmGmYLyRwgySAyn3PV47whupTNcbZNu|858858.1724    | 187,216.00   |
+|DcyrryVnqv9kK8ANncwCC8aGf3JAxvdemueSQEhBdmC7|855979.0579    | 186,589.00   |
+|HPatSaG9n9dcyo7VYnhwWoVgwmZTGvzqDixGXusBaNFu|854557.9667    | 186,279.00   |
+|DNqeqoG6qBnA5gHeqmcnEFDzhzDnK2h28uQiTMukFX7b|852581.0115    | 185,848.00   |
+|8dHw4VpjVvwdSbLQFrf1Cg8nTs3sxoe6zqdb91MJ5dsE|850000         | 185,285.00   |
+|GhJnRAxrBTRdQJVViUZDcC3EA1w6PqB8gRdKtbTaYwd |845627.9859    | 184,332.00   |
+|GRoVf2kPZEa9e3yYy1WidPXeD6Hac36EZiYTpK6NYu27|833294.2371    | 181,644.00   |
+|9KF1acaa9NKTgHomZrAUPahvEkLZzjWP5HK6oMLULfjM|832509.8359    | 181,473.00   |
+|EfYfLw9Rk86wgf1PT1QZu76aFJaSgvo5HJMZJ6xyzQR6|823216         | 179,447.00   |
+|2eKBg5ZHaH12DVMEVJ67aQEXpqRUP3DnsQ4zqQEtkJjd|822309.6445    | 179,249.00   |
+|G9k5sinBC2rYaQGwNsnwp1EdFCaiqpmjtSGwnK7QZf6p|820672.6404    | 178,892.00   |
+|6qxK54Ev3tx5vxn2ytBqErYrVhD6tA8N14R55PM7qALx|813346.4337    | 177,295.00   |
+|EkJG8NdrkMcHzjLCKnyogHhUwoBrPsBupq4QgTXaWkVq|809236.7608    | 176,400.00   |
+|DxVV1SQsByHdC5kYYPS8pSAh7PRb1cBFLM6sf1Fadtdu|807166.8254    | 175,948.00   |
+|7nSGnEVuyriqFYafDxWa4uh8w1T7Ue6TEwYLPTe6VnsX|804675.4276    | 175,405.00   |
+|9kvtEDnP9zCPQDzQNHaA5efYFMyGz1jZcBDpAZjJcpLG|803005.9459    | 175,041.00   |
+|DBjDJ1NBtfPTBhESZnjzU5HbhrHEaVYxJM3KZsJfBS9P|800000         | 174,386.00   |
+|HMgk9na9PreajYruj6QpBbg7ur32T5vsX2576rELey4t|800000         | 174,386.00   |
+|FPdvybLdTVaBy3Pmjs9FphjpTC2MkoyfZzrQKjXsUjFr|800000         | 174,386.00   |
+|G6j9Q83eKbGnrRQMRH5Wy8uHHg3MnNX8EZP1684iE9qz|800000         | 174,386.00   |
+|6AD2VyzAmxyCjq6eys4YfpBLzijVmxAzzdX1ScPYaL64|793618.1818    | 172,995.00   |
+|7SnxeWoMA3aUoxvr5uPRM4awoU68MXP7t2xSUzuyaDT8|793203         | 172,904.00   |
+|3VoKhTQVbSfWMqx3xx6GWefyJbV5v89fHooxQuV32WE7|789615.0784    | 172,122.00   |
+|Dr1VdoVfpzZNnEv35zX2bBzHGTC1kZVWxezHb8ZCqk9n|787333.8343    | 171,625.00   |
+|B5Ww8qrkFzCz1BaZpZQQ8z9JYw49eYYd6zkXSYofvAkW|786473.7678    | 171,438.00   |
+|EFnZNS3k8qk659Ut6NAcVW5rh3CFNVpwjhttST3HWwY8|782675.7266    | 170,610.00   |
+|2Njunr2PaQsv9u3p8TRLFdUf7J4b5MUgNz7ipC7hQvKE|779054.2582    | 169,820.00   |
+|2Njunr2PaQsv9u3p8TRLFdUf7J4b5MUgNz7ipC7hQvKE|779054.2582    | 169,820.00   |
+|FTtPdm9sEoiBLTrhk7a6Fhc8r3kN385NQiZLfxGY987c|769455.3428    | 167,728.00   |
+|Gr8TzFVHWneWZs1FDUFNWgFn2efArVgisTpcF5RKqCeh|766330.0907    | 167,047.00   |
+|69eX4jEuuWDNHHHms8xJo9MMa4AmtCHZQUbA7igfidfj|757020.7679    | 165,017.00   |
+|25mYnjJ2MXHZH6NvTTdA63JvjgRVcuiaj6MRiEQNs1Dq|750972.4356    | 163,699.00   |
+|FLnyLLcNY3mgoksSGWfxiMrppJsU2HRyYKB5k1LbkGFe|750000         | 163,487.00   |
+|86oBYRPbpiFuudvJiS5g4AnFAp39s9P6eGLo2uSPjNRn|744891.7431    | 162,373.00   |
+|3SrXmHAcvsf8yVz82HTvhaPd6fJ3D9ii4AfhvikuKoy5|738896.0247    | 161,066.00   |
+|3TF9N8MptpMbtvh26VoTNosANQuitcKECqcNQEpQb7gP|735074.4284    | 160,233.00   |
+|65bruXg1eEEnBrvjeCBAbYTEnycmJwrTwHCy7baFZD8H|734225.9234    | 160,048.00   |
+|23MGqNWpmqmvFJWaJ2grEnVqtLGfcfprKhvvjfryQuM3|733924.0214    | 159,983.00   |
+|JXez4t2Sr8S9FcfFvpd6svpkqKcR2AE65TkGY4uVZNA |726724.1163    | 158,413.00   |
+|2yUfhobbvThxVq6fnJVBsMF2jNMu3gGV81VB8AwpjmUs|724188.5602    | 157,860.00   |
+|FgWpcVXDrdcCsaEtyUCkog4ZQJ3C7MVctQySQd1Zf9tR|718555.4603    | 156,633.00   |
+|B9kFkKK2fRfKYR2M4tL9Fc3miAzQSJKqPepgaxGLZ4oa|717305.0405    | 156,360.00   |
+|4aQkbUivhmHDw7zC6GcspHjVrAzsD24XAc41ZfzFUgaq|706934.3851    | 154,099.00   |
+|2J1Gr8din3dZYisbhnjs3MVnkzUGPtFkbSGD2dgkmfLy|690420.69      | 150,500.00   |
+|HKPLtfrdrLGoDhaWk77g6KfzSLSMtFapXX4fxBU4f6Un|683008.6177    | 148,884.00   |
+|4Jhc1FYkqRxdgagu9oWigTTXWb1vremQuJdUTQaaTLia|681255.5016    | 148,502.00   |
+|7Kf1fa1WPzt8h45tRWCcxyt4gng4QsZe1hxqgKncQKZu|680119.4773    | 148,254.00   |
+|E5NbEp3hUiN3J9zpAJpCnMdafuDMNofR4hWBjxXDbGNp|679149.3091    | 148,043.00   |
+|28tfgeEi5VAsgMzS3FyPSdS3KdTv9rpQTgBQ9h7LQJ2e|677479.5857    | 147,679.00   |
+|FmxED8qD2nFxMxV62krYq3zqotg84vBU99awBdntvPoZ|671,120.35     | 146,292.00   |
+|8LckUXTSRWUx4wtJ2GiNjMFezoprLAKB8KgUN5hDKaBB|670967.1046    | 146,259.00   |
+|HXZ3Z7UUjjfUmrzLJVttScGnHE6tn9Zektzv3aeQNu65|664867.1027    | 144,929.00   |
+|2HkSMY9bz2MfdoggesN1HmwaSu3ZPSmF5vb8PHoRoCC5|661706.71      | 144,240.00   |
+|BQWmCphXSLCqqPStoGFKuKGBSdHXrQHxttgrwTwFQH5X|659927.2954    | 143,853.00   |
+|95xa96BrchYinfjt92CyknU4gfdLhWaAtsHzPo3craMB|657399.4808    | 143,302.00   |
+|2PFL5HzfS3WY693gWKNQcoE6fqn6KifwRakZARym4AYD|650221.2809    | 141,737.00   |
+|2WbrKtADkzKwnwFaG2wkKHNRocr64HvgyirJxirz9GFL|647485.3188    | 141,140.00   |
+|5yf9osB9heiqYnwo43SQ5E6eAMZvkRrhTsKznquPsjCH|647320.8341    | 141,105.00   |
+|As1vz67ZKR5XjxhnfeZRL8Agc5pTUN4m3gz2mYnVbZsB|638219.3451    | 139,121.00   |
+|HBQe3Gpvkr5SKemWJog4eH563v8SYeUqfHeVKhnbH1SK|630052.2673    | 137,340.00   |
+|67SywXBHhjGJNSo5yFuf5npTRa6Mci7KeCTU1kTc2WVQ|629233.8117    | 137,162.00   |
+|BoR2P2ymkDqkGuVWDqLwqN1YJ2dVt9EQmswy2TduYG14|625626.6418    | 136,376.00   |
+|GdeJc6SptDBcCk8kL5h58Zth3zRzmE5W3YLxe9qT1SRw|624967.5332    | 136,232.00   |
+|AWzJ7aTmejVCcHXyA3Wx93ZD4JTVxBQPzw5SMJqHoisN|622957.4377    | 135,794.00   |
+|HGbNT39kFo4J5ke7DBgAvEgCiVYubnyk5vhJYrSpnynF|621680.7225    | 135,515.00   |
+|4CJNtDjx1PTWBuCrPuiyd5fYmPnFWfGwGDyHAtugmjf4|615483.1812    | 134,164.00   |
+|3geJk5AobN66qYjRJNQ74HUaa3apKC2ExKPQsAZp8mAR|615399.3832    | 134,146.00   |
+|3bqYbgRnJ59kiuEYkxfgMBgTSWLQTh3uZofth3xoQ4T9|612230.7994    | 133,456.00   |
+|CHxjCfzXRB4hTzX5qKN6cjum19GkGEwcH9YBEjgn9RjB|611817.4663    | 133,365.00   |
+|6GJznAiq3nMH7NbW2tqwTtWKPBsZ71EPyCmqKqmkMQXh|611483.9926    | 133,293.00   |
+|H9aVVyxnB6YhrPmqhXo8yqeQyWzZKgzSDuRMY3Rkwhhf|611069.8574    | 133,202.00   |
+|DEZ7GbEE9sWwz8acCu2CTJ4BQmxYcyKRZTk6i2rG7mUo|605964.5543    | 132,090.00   |
+|GeDfp1WhHo5ZaDP6tKgf2mE4UUWXbbMCxmh42FMDw1Cv|600924.1097    | 130,991.00   |
+|C2nar9wADgYkJjNovLQfhxnDsdRnWTUd4rsKVpUJCsJ |600000         | 130,789.00   |
+|8CNBbX2sMeT2jLugoP8UCgASigTwpAzAk4MksvU4c4m2|596427.0534    | 130,011.00   |
+|9FHrkQMMghonBQCqnYyUGN6p434K7NbajyD8etVpxYMq|593777.5413    | 129,433.00   |
+|CCRFxeSf2hSRypCLshAQgSjVskHHgWp5Kjjkih5ECjYS|590302.9622    | 128,676.00   |
+|Cqcn7QzFCuB8v5XV7hC49yBb2fBJSGDMRtGVazc7Uo4u|582014.1716    | 126,869.00   |
+|6Pi7DGPfTNpPywfwXSnsYY9bhNrMydbSsXyQLiNcRsRB|576506.5983    | 125,668.00   |
+|BfNUWpqBU1RV3mcAX9gAbexBZyBY5rbw5XgWjnJKc3PF|575145.3345    | 125,372.00   |
+|32hoF94M5s5nCuyYNmkZkyBozyLcV4nNgTLMiASAYfxm|569460.4445    | 124,132.00   |
+|8k115G8xsfg78B1mJGQecrFwNNuDHZa6zwkq1BSz8NUT|567265.3891    | 123,654.00   |
+|BxSZhcnmzuDiDXBvdjang5Mc3Mz2pPKC9CSWQdes61eR|561516.313     | 122,401.00   |
+|HDxUZUSAGoPHQJgsYaWpZTnVF1PAjiooP2ND9YW3mn8y|560911.0899    | 122,269.00   |
+|8BFxWkPgZ7AQbx8yWTpfwZNPRjVuGzAj66s9GQzUB7y9|556723.6596    | 121,356.00   |
+|EbpbdyGEBVY8xketQM562QocE9NkB5uoB5BbShMXAJTn|551718.1041    | 120,265.00   |
+|E6ybRnS8wJTTaDXYWnNKpatVVzzjxdbLSmAZMSZWwTqk|551531.6961    | 120,224.00   |
+|CxN56q6EANE7oGL7uBbRECnotBporPkBWFddSvdHhyC8|549635.8544    | 119,811.00   |
+|9vpGLSqbrRCB78Nj87evHPtRzxv5fxompFWj88iLppKF|546716.447     | 119,175.00   |
+|7Ni2m4MvYYDQYZNgZpgZQ7GKtsfQZdhHP8vMWBHNZ4Tz|544713.5418    | 118,738.00   |
+|98puw7GSvhVGdJkzRfZDZL6ziqEWXk65MV5iMwdaKsdG|543648.2841    | 118,506.00   |
+|AXpST48mcrfGjo7b494fQZfepQCDgfEC4oRkmHnk68Rn|537228.127     | 117,106.00   |
+|3aMyo4QCH8beox5M5RSKESxa3XxgbLefe59uBUCnFsXz|531790.1924    | 115,921.00   |
+|EapgVt2uiuJofTnD6QZpvbWqmgquYjpuW4J1YUBM3XUC|530647.6703    | 115,672.00   |
+|ACmTzgiZHumYkzx3PEKYXwxwuhkmMf44aF262CC1MYb6|528174.6994    | 115,133.00   |
+|Eqjv9fCGV9Vxrqtyg1NNECddp7yHNwptmbiDatdoMgJP|523155.9046    | 114,039.00   |
+|ArvVmcc4PZbQyQGd4fAfZtSy75amizwFnhMQNd6YoMf1|521602.9156    | 113,700.00   |
+|DKLw4m59HQJrLWpmSvD523iQL47xPQaMnU7pjyjWen79|510147.3894    | 111,203.00   |
+|4YswRSvCHHN1TtQ2wYkNvqxJPhMGhdvQGXLopefpCB28|507031.9235    | 110,524.00   |
+|6YcL5ZNwRL5Dekokn2HiatCdBCYH7medc6N1YKtsCFR3|504787.1051    | 110,035.00   |
+|2Kxw4bEpQ1p9msDApDi7RKTZXDfoiEup6CH9C4uzH9Fd|503523.7395    | 109,759.00   |
+|esf2Q79HZv83wsaojJAAAQywZpXC3ubdXm1Lfw4Km2F |503358.2464    | 109,723.00   |
+|3FzhnQxYWgSo7ePBYUZYHb2pZrypgrmSBceD7uXGMQQS|502403.3126    | 109,515.00   |
+|EzBQMaLUuq6qFgKziFZUxybj6AezsKt5YfqHxEoLeisa|502371.4926    | 109,508.00   |
+|FhWBjtNWsiTCaWUmLdwyJRCgjtdc4E2m1s8o9bbqf7qe|501312.1393    | 109,277.00   |
+|2yxcX8mKf655pGhptrSwzMQujsynxvfSz7xSs6ZV3pYb|500856.2858    | 109,178.00   |
+|7ReXP7pC3r2mSqBNryvyvVC8hEYXy4tV4vcBF1jGM19a|500193.4825    | 109,033.00   |
+|5Tg9g78YtNeogc3LTPqEdei7f9xWiRJFDjxP1BZEJN5M|500000.0093    | 108,991.00   |
+|ErKr49s7LuERyKbo47p43YjPZ34jvuaubJLTHNdRaLcP|500000         | 108,991.00   |
+|BXUGbAMtGegbMe6KsEuzF6aNaeD1SCBaRQRyGJ7GE5Fu|500000         | 108,991.00   |
+|5tUczgd6rma2xNa7HTiiWqpj6oHLNTNFvNHmtSf5Ls4V|500000         | 108,991.00   |
+|BZr7Lsvc5Q9Qu21aCGDnyhxwjdd7o98BxZwmVeSV3YHr|500000         | 108,991.00   |
+|2aWUoEdAtC9p97eVGHnpGcocPJpPiusEwEzAt7eNw4zL|499838.5114    | 108,956.00   |
+|25uWvNyLNZkGvUzcYtqReCguD7hrvCPpbQVEcBiFM4HP|498227.9399    | 108,605.00   |
+|2v7MFrtLQdeANV6ntS5EqLmRJzrGDLd3EseenngQRrmz|493257.1191    | 107,521.00   |
+|BMeiMwbZkrniyggyBbfThFwbxcvDT9dLr32xvUP3u3my|492707.366     | 107,401.00   |
+|EkMvznJwwzz12kkG8ZoPsrpvUZ9pXWrqzaikFqSdsZwQ|491775.8533    | 107,198.00   |
+|JDsQqRm19C87G5NbobKnD5pmdDQLBXNW5VSRX11fyW23|490565.6991    | 106,935.00   |
+|7wW8H23ET7BQUeA9Kh3ShWp2PzaAhF7Lmx8Y7QDboaM1|488808.9712    | 106,552.00   |
+|DmMyYgaXJkfDwuYoLyTcEJQMtT971Tgpdeq85ziy9UaU|487367.9572    | 106,238.00   |
+|BA9dx7egzax9keZe5JAzKnMyW8GBk1QqY6rRpZgVPWDb|484829.654     | 105,684.00   |
+|F6Ekffq44Ng983KonbJGVzoG2KHuSLEJU8JfYpNe6rsC|482105.4999    | 105,090.00   |
+|GAWTVjTjPskjxiVsqrXAn2Dsj3cYLfhegpxmhK5h5MYf|480476.5717    | 104,735.00   |
+|Bs3fMSyXrDgUG7omiJnUtn4QPYWrv1mS6YvEmPWc2LoW|479161.6493    | 104,449.00   |
+|DNADSJLqRU3whuxtC4NVjuMq1z2c2HXGme2SKjxP6sY3|476673.859     | 103,906.00   |
+|5vnfEDUiKd4G2DpaWS6mmWVLw2Hq1tReRA3VqD5sT7S4|475000         | 103,542.00   |
+|G9jXXtRjXZgsQcv2Vu52o2xRcaJc3XRZSaokZSvjXQYM|474913.1917    | 103,523.00   |
+|AUX9hoxEVyuhjoUmJxfEqnCXUJj2TWBE9mb2TTkMxCxn|472941.3467    | 103,093.00   |
+|Aqb17LAtE1HVhkLNMcZZTjmpv8UgcLsnpmA5xiCc3hCi|471963.0498    | 102,880.00   |
+|AtCnd1mf5G6jemn3i8hXYoEzV7uKGZ6vBS5XenC4XYdD|470386.5092    | 102,536.00   |
+|GWrqu6ULv29hk74ENsdGmt2BE44cmhvWGnEwiUcEVkXJ|466902.6983    | 101,776.00   |
+|AUP7N33Q1gTbXM6ervniEr4rUoAkpFdHtE3KydjogVkp|465026.9489    | 101,368.00   |
+|4apcVo6tWGDkQGvU3FD1doano5kEzCjFXAevKobEWKNx|461105.0878    | 100,513.00   |
+|5taoYBnzd2mGAEATTxADkNiE4eD4fEWupx93akuFQfEZ|458592.6291    | 99,965.00    |
+|FUPmMQ956ruvqR4i3NzBV6djgXrVB7noyoZbjgRAranu|455600.9838    | 99,313.00    |
+|78voeJkhYZsCbWGTsXdZu1CB1PaRWGd4WwebW6psMb79|452740.3572    | 98,689.00    |
+|3WL3CQyp4tVpfr2rdgrebrxntvdSgW66H6uuiijrgp1d|450017.0539    | 98,096.00    |
+|8z43LVNL5AWtRFP1o4VDyRRuNL5PADg33A5CbUDq713p|449584.703     | 98,001.00    |
+|HKQ42dCeivZ7nb5p6zY2eJoKD1ijaeG8QJ61S5VoiXER|449023.7388    | 97,879.00    |
+|6xZZw6dQRoQ3uFtGXDJUhYmLJAru481jvq9tSgZDwHV1|448071.7978    | 97,672.00    |
+|FynbcGX46Jwqm2BRC7Vsi6ksNgDJ9MkQdrydqap8YvmQ|445499.5294    | 97,111.00    |
+|BUTVL68TdbK9f65fh6XzEoQzfFqMiizr6W1s7wqnfxrZ|438860         | 95,664.00    |
+|4h8kjFc4xsmmgFZFJL3PjnkFwdPVCNqJ7kT6C1tLcWnz|433087.9431    | 94,405.00    |
+|44L3GAvR5FGk6Bi2cwNmZW3nWmEpfbGahMqsjEvYyNnH|430781.2002    | 93,903.00    |
+|H9DgowNmL5FdMcaXbh8ZiovBMa4xTKpjx9t9G4mANxCv|430545.5367    | 93,851.00    |
+|EYiox8bvQsgpNCbDvmZpdcqCRPWtWxbGKWxCwTL1Yb8W|429627.6463    | 93,651.00    |
+|FgRgynjDwXBhkDV4KVJY3DMSDhRvXNvpUtzhWKNg2t8u|429406.9721    | 93,603.00    |
+|GW17cyThawLXN8nwzbRTBuWsHXzjDwvQzoAuKiwNLCY1|429244.7811    | 93,568.00    |
+|F31GgV9Ygkpgmxiaz34dDBAEdtKZGgYT7aTB9NSoFhbk|424818.5271    | 92,603.00    |
+|9DSwUEbo31yQQYmLDDit9UTjVE8FiMfEHtnQfS3jqfQt|420918.684     | 91,753.00    |
+|GhoYeDkaCfJ1H8TD3kig71MKvS29GiBHq9gAAuTMN5WY|420415.3879    | 91,643.00    |
+|2xq4wpNnpeYvbGvPwAGo38zfcJTcWwok8W7W7oScMBwn|415848.9089    | 90,648.00    |
+|7DUjm8bjn8d3oaynexCXxPyktEcCH5yWMbWZ3E9twzTt|412702.2617    | 89,962.00    |
+|6p7AexsuTJU5FWpGziXXFF91PKEM4JwPALb69rmdc4eW|412275.781     | 89,869.00    |
+|ACHaw8DzpvhPzTBRZdeEmSaEAJFhg5zKd997xnXp6GX6|410229.1207    | 89,423.00    |
+|DVUMCPG4DJeBJkLqEAn5NpBajFdnaLy2L4n8qFTfs8SY|407745.9121    | 88,881.00    |
+|6ge8uPw8zTB6o4oypyampp2tzUhCYjfdTEtEofYkQCdT|401869.5617    | 87,600.00    |
+|EYZWMh9rfywhfYc27dkEi9imYNe7KdKK2NSqiS68Su1P|401383.9535    | 87,494.00    |
+|H4XWRThKzSdgXpjGqJDQt53j29nNsCjubEWLGUz3EPLU|400000         | 87,193.00    |
+|5msKuQ4cZWE7b4TKJ7FF8jc8qZmKeDNiZJ3CoHNqta8t|395502.8758    | 86,212.00    |
+|DfcdQqduyMukoaPeGzFJFkaG6ioMHT6qWQqpnk32xtpe|393621.7918    | 85,802.00    |
+|BcaGAmP6H2DfYJ1ZX7QYCrHuBhrBw4t7iZnKqvhf7Bcs|392294.9381    | 85,513.00    |
+|2Qzp4AG575P88dq3U2VE4on61EW5GmDaqZaGZimnMTA2|391469.5151    | 85,333.00    |
+|GFP92tA1N5PN2gZf3ipLHsGuSPo4szJ942LMdTsXxvDC|390539.484     | 85,131.00    |
+|Bmi9zf27MNN5pjCtyv2Y15TDQoYgcbcmPTxvEoQ6UwWs|384660.1765    | 83,849.00    |
+|EnPCZZsYCGLuqjDYKDErVC6SUPRmEDBh62HK9Y9Ft5ym|382433.7548    | 83,364.00    |
+|EG2TUp9b9vQi2wQ2nzYXXQLYGUK8XvK6LFW4r3y5UYpA|382203.5811    | 83,313.00    |
+|G2h2mQsCdgQKszk6u3XCAJS8KmoPprDEAMRL5QhHfXpR|381536.5822    | 83,168.00    |
+|6gLB88FuA1rtt24JF6tfW4HvchooaqtwL3ecpqBYuQHn|381364.2491    | 83,130.00    |
+|HRCo2mKPL1q7vhBQ15nJwfLAhmjUEJqAgu1wbk4HaWVg|378320.268     | 82,467.00    |
+|2AmNqNHN8AooWrwkET3fpgjk4AD2Yy8LzM5WfmHRzxfZ|377354.1821    | 82,256.00    |
+|HMnDEL5g4u8H5fg7tCE1N53coZ9f6aaqNEGBnaDFEcu9|373921.4314    | 81,508.00    |
+|A2xXtee2SBoVLkEEbyG9ioUaoh4CdEdx67y6sTukSNGp|372824.9       | 81,269.00    |
+|6vH8LRi8kYMNNA6ESHz5YziUgpshWjCimNdpuCCcoJ2W|372028.276     | 81,095.00    |
+|FgyfYSKEDqCR2BhP8V8osv4A89VHGB7kRLYuZbi7WhDC|369820.4028    | 80,614.00    |
+|HT9G8HwnzQepHSWJqb4EvVgUst4jzWmBgXwWqaPA1hRL|369702.7613    | 80,588.00    |
+|7FsnoGoF4cvD6Q5kBsq2R1qMJVbfdLp1yoavndxVmDby|369571.0723    | 80,560.00    |
+|CNzBPpTpp1Xbfq6MGNCryXoNqpVz5Ea1dazhuisE5mYy|360776.7054    | 78,643.00    |
+|GpfisscvzgWrT8GHji2roFQEmuVS3rFbx6tjkozcBW2k|360215.3247    | 78,520.00    |
+|FPsYNKFC88sn4Sx88McgBtdCXTjo6Z6toHnNsgZoXice|359273.2204    | 78,315.00    |
+|Fbj7W9ZAY5km1VWAkD8kvUNErTUznAwsjhFiFFGM7Xe2|357195.9716    | 77,862.00    |
+|8jpAHBvFydYYnjCJbBa8sBwdzJgWGrp2sYo6yhbqhoeD|355132.8754    | 77,413.00    |
+|G1cfju2KRru2BxPecfaTLzcBhKxLHTqM4GxEe7DQu5Q6|353433.2606    | 77,042.00    |
+|8Vk2ifYtqTc3ZqGuRCDyy5W5fDHjkS1u49DwGcQvNLfE|352088.3068    | 76,749.00    |
+|AfQ1oaudsGjvznX4JNEw671hi57JfWo4CWqhtkdgoVHU|352064.6274    | 76,744.00    |
+|4AVcKWdMXZjR8U2FHQjUceoaL84DzwMoL8WyZv9YLLan|349586.1333    | 76,203.00    |
+|CUQRRMm4PdMRXchSjMezK4C55jGYurm1US7d7BEc1LrY|345524.0845    | 75,318.00    |
+|8L3w5bENL6yLf97McLv3kfkL3sxeiMCMFrBbwZrDoy23|342799.3672    | 74,724.00    |
+|Gvf7jnpCRPHMW293aqZJEDjgdxnw1AGvnYNxf4wUV7SS|340848.5286    | 74,299.00    |
+|A7EHQmCxsfU1gA2KxoQ9dxeCjkDdmdai6jyp5mg5j7iK|339318.0981    | 73,965.00    |
+|A6duiDAeQCxtSiWuHWTKrqr653Ejgqh7syqUS5QNWLK7|336730.6287    | 73,401.00    |
+|7ntiScKaeR27tNK6vGpX8m9HJBnePgFbujjF8J4VWK9G|330786.0933    | 72,105.00    |
+|FDLjQxsnjJ8Fcj6dSJFtWttBFp2b85fzjv74pd36yMJR|330523.9617    | 72,048.00    |
+|9bgkoMqRaBkAtTEdkUrzjH74m7VtJUF3mSyCRm7cj3S8|330470.8486    | 72,037.00    |
+|4oXDqGZbaUpdzJK4gdnforXfXLpEP6Rmqiu7Aegii34J|330024.7694    | 71,939.00    |
+|9PnjcPk6dUsASKcSXgtXKWLbMhwbDKHRN9wNsxwbWJ7q|330000         | 71,934.00    |
+|ADPYYu1dWW2xpCRiu8buvfbjknjCs7KkF6jKKJhxFh5Y|328909.4166    | 71,696.00    |
+|9cQReijHWNreG4tFowjxPBPhFsWgLa5cut8uQPyM1AyW|326938.4791    | 71,267.00    |
+|94U5D95Mzc7unp3gBQrgANEQY7UQRxtddN3LqVRSn7DN|326890.389     | 71,256.00    |
+|FzeepPAnX5d5eXx6UmB3WZjoigWxUYBm8yKZo5s5DPt2|323473.5673    | 70,511.00    |
+|ESAdF4Xm1MsgvFeA2yLX3QvcCnueG7w2f4MK4EUKQz1y|323212.126     | 70,454.00    |
+|GmcXrxjn7AhZTd18vtCdrqmsSyw3NzSE6MohRg7EVxaP|316967.7922    | 69,093.00    |
+|9Rtkayv3vjo9PwdCBhHpbciSYA9btUnfY1X1KJTJREzz|316460.3257    | 68,983.00    |
+|KBJZqYeEARPYuhFAf2Bwc463TyqthcAvNQZXcYfTSE3 |315206.6455    | 68,709.00    |
+|9NBoacvwugvUtP1ZU4NiAeCfggbotRqqZToAhTbkZn2U|312998.7116    | 68,228.00    |
+|78SvoLobQX6fdZz9SgKS49wV3HRQTzaaEej7MxKFDzN |310936.7488    | 67,778.00    |
+|2iHxQLSVRr1zVeBKSypvQrkLf45Y7aL3Vwn2fRox1oxd|309206.0416    | 67,401.00    |
+|3fFUvXtFY5WfrG5pM3jXsGjYAKdoNvsMRNnL5jvpPEAq|304269.1331    | 66,325.00    |
+|FkwLUWi5tBaBgpeCqEjdmKcuJQccbruobfkjJJRSEWXt|304142.8615    | 66,298.00    |
+|EgChNGDxrBtr4dJFWJeTHcyk1dG6mdveUFBNUDtF8mxy|302838.6848    | 66,013.00    |
+|8wfbZg4o8SvrG5XtrY1ofDxTPYZWJw9N9fsz5ZzuttnC|302471.1822    | 65,933.00    |
+|9kEy8HBLsSA2kHZxVgEDW7ANEsP1PaiMiRYmGx76U2gu|300054.7071    | 65,406.00    |
+|9yaE3SPadMpqUqYTMkLicRF49e9Vd9crq9QSDV1HTRg |300000         | 65,394.00    |
+|2bYcxmUwQwn78MfZBx251fiZKJsrAbiEihZy4ZnTgD6W|297570         | 64,865.00    |
+|3THb2gKW1YP3AoqYhetym2Y7PJBFrAodYsMFPoPJL4FZ|295683.1587    | 64,453.00    |
+|5suf5SNZWMHTncokXwUSyU4PakRK1jA2NkhDYgNfG5yh|294949.1312    | 64,293.00    |
+|C8xzAWY998eXijQvjfnPxk5UiyyH5RgMCiBh3YReKCyi|294225.443     | 64,136.00    |
+|hnu5iBK8UoHb51UFsH1RYTUAYdrhjHvV5YMTf9T1CYN |293865.6656    | 64,057.00    |
+|C2FybHMAU63d5eSsVTwd6MrDgnvWfyKWqha4oBuiZ5cV|291311.3574    | 63,500.00    |
+|7vvaXQxYyHLR1JhQ5U7TP32w2oiqmrFokz4mZXJAz6Fb|289637.2269    | 63,136.00    |
+|GcVS3DziTLTraxmd16JNPcutaaEsakYEhXbpe1ihoxt1|287181.3458    | 62,600.00    |
+|36W2GfMkPUujyAA74BLS6VTYKjyW5CBC7jCTMKj8vRjf|286597.5611    | 62,473.00    |
+|7syiiymkY2gYjmV6tQNe1DknLSZm3sfrjgeW7iD2HaSE|286297.5572    | 62,408.00    |
+|H83SygZRgxSUJouXFwPTpcC5rurVaUsUEPy2CrqNfhhe|285338.2228    | 62,198.00    |
+|8gcEfUmeaX5t9knVsvHjv5S52eANtm6dBga84ykX6mmj|285316.6659    | 62,194.00    |
+|ELX6xanzSVdzUMjsrPWyaanTLTeDWrnuXv5pQckCw8q7|284239.1508    | 61,959.00    |
+|9fvc1uRpR5EG262HkEcN8xbeD3FFWCWii7SSUiGTwCEd|283073.0687    | 61,705.00    |
+|ACiAjakeEt7FBDxGasFyTJ1rPjTvEYmkdioBZXV5aXNX|277351.1194    | 60,457.00    |
+|6AfYhD8GgoZJCpnShTifyX1XX6q1GoE2D7hjYs6td51f|277224.8986    | 60,430.00    |
+|E2U1WnGh7sQUsERUs47Nf5Df6v59pMKXJRLeMgEWHp4E|274035.5829    | 59,735.00    |
+|HFWNhAaco8Jfjcd8M3VbACuNHfhL3anmE9k347S1MfoX|271820.3346    | 59,252.00    |
+|DCxxtyApqDSyWrmAP4L2r7UGVCiEU51epAqjsedXN5W1|267531.0827    | 58,317.00    |
+|74gzMj4GRRgxBRMDcLpVc66JFP6Ee6mbgjqj6HcmyeGz|266852.3842    | 58,169.00    |
+|9UEuoDuBNV1e3SuEU7oyjDdffsYpBiK5phH6fZT9zTkR|266056.3158    | 57,995.00    |
+|G7bHijWYPYshoRWuM8LaNtARNrA1DPRjnXXPsoQC4KeZ|265561.0615    | 57,887.00    |
+|7pXEZPFaJK9oVVEics2ApyTqW7thV5ZFpiZ4yu56tMzB|263417.6265    | 57,420.00    |
+|DBDuW11akavg8cj6VaDWfvQYf1rV5RTft16gq92jdBmV|262045.1912    | 57,121.00    |
+|75R5XTcTRgfpimhR2NTFAqfy5fsANcF1daC3ov2HsdeB|261995.3325    | 57,110.00    |
+|EgaEsTJpH8huBFyNzJoKuCjqEoGumupvjSsHgYgNkzpJ|260373.5188    | 56,757.00    |
+|7qUoEhdHucZZdMVqsnnzkvMj3zpuycCmTtToUXnGfr4T|259740         | 56,618.00    |
+|94JzmhTa2bjhxyuBiK1K74k3DDZLu9xpXLNR1K7QU6Dt|259411.5336    | 56,547.00    |
+|H4inw88w7tDYHEnD9ErvVc3pTbHV9oyqcKrAsq2JMWTd|258137.3692    | 56,269.00    |
+|8ffReKcQSTzP4aLewVNSm9NTfUExTKFKhZixkXB1Tu9S|257770.3666    | 56,189.00    |
+|y5xd7sdevoW4Z1gsPLyNcmfxE2Qf3HFNj1rPgvWXNV8 |256779.0145    | 55,973.00    |
+|4r5KULLDN8JcLXyi7ktpJQTnE4CHDNmuq39vzL8sTdJH|254823.4079    | 55,547.00    |
+|4vYKbdvz7nJg51zsPjZ7w7KnF17PnmTszTc1Gy84oY1j|253925.135     | 55,351.00    |
+|HfX41teh3ps5o6TsmZoT7kpFbbpRtKHZHjUeV9Pty7Cx|253068.279     | 55,164.00    |
+|DAvDLjxod8Y5Yv7aDqTBeg9UMhdwfXPT6K28z1kJ68KA|251367.651     | 54,793.00    |
+|J7cajLybrQrf1D3bAueohe3pGy73z1jPH6o7bZDB8c6N|250556.5362    | 54,617.00    |
+|39mYYyFwEmit3TXrCdEzdZ44NNGJ4i1TJbn1TtRvwTn9|248949.5272    | 54,266.00    |
+|GvjQsZbgRT8y9K5uigDCnDhR19vEaf8UAZqnUWAYvM8y|248897.0307    | 54,255.00    |
+|2Kry3Zx1bXSnbn41MmQs5w1m1gKyu431gbyAhdaobLND|247001.1601    | 53,842.00    |
+|FVkxJy4EKVtu1DtfTYW8zDDNbkXURG1R6i4gdgLAh1Di|246575.0608    | 53,749.00    |
+|GZ7pLvrEMm4HACaqcJHZ5TfdeTRgzBEne3Fh8UaWZ2PB|244265.8992    | 53,245.00    |
+|FvfUAaP8izQDMAXFPwDAcuNB7nVZBHJs2Jf8eZfvQ8S8|243725.4076    | 53,128.00    |
+|4ckMD3LgboATnL313AuqrH4DRWytNEHbJeprPQtwykq4|242438.7087    | 52,847.00    |
+|4joYPivCM12mwr3YFn8yaT7GWpUZKsyfZtt96TP2wHXx|241026.9219    | 52,539.00    |
+|ByXi3qKbptgLV4cgrgNDQE1kqSgfSntf66bnz5zNqNSD|240969.6793    | 52,527.00    |
+|BuJg6y1XNjuBXsweSZ7UCgtdcBDJKPq9gGQi9QhCb3RA|238946.3198    | 52,086.00    |
+|3bCAWpao6vfBVT5Md25iguDE19TQoijHSdAfoa7M19gF|238831.4267    | 52,061.00    |
+|8d9ZCE2QLzEWoodCuFMUcZJ3ftvXbBPPg4fxD8oS3wCD|238380.8649    | 51,963.00    |
+|J1PcXug49rHt2RyQySLVg2nwGbSU5ELFhAHdLqSDLpn4|238342.7247    | 51,954.00    |
+|7tzNJaDMfeTMJr75nSdXwYAcuihmem7kQMHbVXegBXrf|237913.6085    | 51,861.00    |
+|FgnAHn2HxKX3NVNgyAc1ZyU7L62CnUrdeCxwL4boa5a2|237879.7162    | 51,853.00    |
+|Es9PJuMVM6vrbGqgULsmRYCSwz5aEw8WKVGvoLF5JZ2Q|237674.1963    | 51,808.00    |
+|APaAtn4RUSfFcwsEnjHvf9AF6nSxij6n8SwfLHJ8ph5D|236560.7129    | 51,566.00    |
+|FLRJFaxkKBtsuN5nQTKqQ7TxSByV1brzabt3Fmbvrz5w|236190.8184    | 51,485.00    |
+|3sDvTFTTee3JyuvwkKoDyGyuX55qZ4mQi1B9Xaa6nnyi|235437.5457    | 51,321.00    |
+|CVpKtQR7y44ejc2JKdHY6qhDhbZjCVxhv7T1a3YFhEUE|235300.9872    | 51,291.00    |
+|6Xfr7n48gqmBwaiAKs4Qb9gjCeNG41BEmTaSwn5c9qJu|235223.1008    | 51,274.00    |
+|71zhNqty4rgTAiZD7QaS2LEzxHqiKxWHevYhjPsWKURW|232311.1333    | 50,639.00    |
+|66J4ubrfV3cgTnEPZJJxSM3TXMoEoAo1TgGcvLM356a6|231976.0121    | 50,566.00    |
+|4CnmUqW95N6nkpKgTeJf6z6SYB3MC3oGFLEHQN4psE4L|231872.8786    | 50,544.00    |
+|DumhKKenhwidMnEatswoRJ7REh9Qd5EUwFGXgoZcYPRL|230622.3159    | 50,271.00    |
+|38wCzSoYicEyfTZBACikwxSn6iuMCuBen8HpiPHZQZc7|229999.674     | 50,136.00    |
+|DNgv6RjHT3DLj2TrLKgrtaAU7VWU4DpKPMECH3cS6L17|229076.2246    | 49,934.00    |
+|4DDKEAZvmVs3NNoqZmcS2SnXa5y5yF4hjRDtLzEZCZy7|228836.5926    | 49,882.00    |
+|HvKB367YF5WsBQgHVVocuEBZBw4v3WacQiTRxCuBprED|228677.1715    | 49,847.00    |
+|CUp9VRwn76BMbkjjX5DAs2GeeyUquCyoHiqoS24DTgku|228000.7211    | 49,700.00    |
+|2GRrLBSCaf6qZCgL7iCmc57LD1vAteW6nbbz4iHDu9Ts|225114.5369    | 49,071.00    |
+|6LiabuWd1KKBXDRKodpQSr6fEMiFtsT1unBK27EebJXe|223401.3772    | 48,697.00    |
+|FmBahv3KkEBwsYv3AJsYgbYpS5coK33dV1BiqrP1Ldiq|222649.74      | 48,533.00    |
+|2TUTtrXbynV7kNHthFysj4bsD7BX7JCRHFeYKkuYsp27|221217.4242    | 48,221.00    |
+|GffgCTqYh9VyVoUp3LdMt4ZQDccznxuXSCYATR7hbn5M|220873.3314    | 48,146.00    |
+|6PMro7SfQ5ryezYnHLkizb2yi4hkwqMR7Y9Uu2iEq5PG|220849.4981    | 48,141.00    |
+|6Jm4faF2ySd3jTrum824GhcAEDTjakZSSpmvgqKZJa6r|220000         | 47,956.00    |
+|BhBiPe6AyHhhhnS2jzqDbYo2JgD9iCtkymuWNqJPsYfz|217792.4739    | 47,475.00    |
+|9TF4LN2qTfiuJimmLoPh6M8Vz6JPkZVsJet2xQg9QjbP|217237.1997    | 47,354.00    |
+|6tamsoLxrNU2jUcJxtmB9mu9GLfhpDjKuVQK3js4vjJ8|214770.4043    | 46,816.00    |
+|AU3rig278eyCKP1eFki5Tkr1HQAuDUmPCkBmsqZPR4xr|214469.292     | 46,750.00    |
+|HwSwHwQH6i7iUbVh3VzgHASnxyHdc5YM4zgE4aiK2APx|214014.2585    | 46,651.00    |
+|2Jz6dNEF6owhtC2Zp2w2mk8Sp5DLASVBJvgu63c45cH6|213961.643     | 46,640.00    |
+|4Pocb7Mo7Pveujpv2fT2MWPN4M8ubZdrkuKsuxM9tkh2|213539.3631    | 46,547.00    |
+|FrtzTnfLQx9vbPbMUBLpZsscMMrKNPxnqBPPvrcxAbkD|213265.2162    | 46,488.00    |
+|BkrCT5jh5jeiCtDSEsrDmz4WLHb9mVXXcd7vPDN1DPSN|213126.0724    | 46,457.00    |
+|BRmeU5U4gxPSNiDucg5QQqmb3aQ7K8agQcFLT9y8zbev|212685.4753    | 46,361.00    |
+|8spTDvPuZABAvhLMogEZ679QZfibdXQkwjKMFtjwEqbC|211110         | 46,018.00    |
+|5YnesYhkHmHkdfwSiU7LLhZ1cPDvk1MQiwKZDutjcsVA|209790.6915    | 45,730.00    |
+|4CExpyzHtbeXuMpVMs4iCFknS9xBZvDjt1nYJZWaqP4h|209214.4078    | 45,605.00    |
+|CBLLZ2fRE5jYrPSoNBer9Wp5o3QgwrkWVHgNV8Eh2qKr|207044.5347    | 45,132.00    |
+|tMmWme52U6swVVKVdTAwWHvEr6qLjXC1nbWcFHGQBwG |205829.6266    | 44,867.00    |
+|EPgsXVTddQ3ThyKWyv1frp3RmH1LBZFjurpdtTyC952o|205614.4571    | 44,820.00    |
+|5PCyDBAvsqqkkSbmHvFZU7NzJ7gKsD5FA9YeQpcywDUQ|204495.2849    | 44,576.00    |
+|ErTQf26e7iKvibuEJupKrrGbZ6CYbJBs3XNron6NA9Ey|201980.0113    | 44,028.00    |
+|EnefntnvF6MC3Qe9cDfqA7Qoraxd6rrFrpYMX1aCGHqd|201950.9232    | 44,021.00    |
+|7mj7G5a4fxn3KFT6XSyPBzeNB5vfsCg4b15Rc6Z226UC|201199.965     | 43,858.00    |
+|9ULSXXXfwmC8DKt5jNUNEWNCWPHHoFcRJmrneSZ1fx9U|200912.4528    | 43,795.00    |
+|AF4Drv2dmJ232HNzP9yoAQgvbuQFVL8qu3w3To8Bgkz6|200598.3721    | 43,727.00    |
+|HvNPTjAZkFugru7MY8n5c8GpGVKbi5kX275vTj6sVdHT|200326.5748    | 43,667.00    |
+|G2we34xLxitEfsrF6Lifye53pvt3BPuWee6aUA3VYtGN|200313.9147    | 43,665.00    |
+|6C3evW4zoDQqiontySrV994gitFvFyjLMq1Kpt5DV9vL|200000.021     | 43,596.00    |
+|8dwEbDxhvtKj42rsSMRcBqR6Kjin6DHqL8yaMv6Y6Yzy|200000.0054    | 43,596.00    |
+|DASLrRUzMFz3i3sxvXHMCzD2Doj2f38ieuCzqU4p9Lyz|200000         | 43,596.00    |
+|Gy5rEFu8S87E3sKFKzuYTZhEmUbtfwCCCZq5a7KPdsSZ|200000         | 43,596.00    |
+|8CrkvA9fNj4qYFR6MN3bVSg4rqfYSc74Zu9AEBb2QMT1|200000         | 43,596.00    |
+|HHmdwBFfgd1g8nfvwKdSuwuKDj2qFsNuYGfheCGpEW5R|200000         | 43,596.00    |
+|617akVFTF53SFtSo5szjFdtABkyazvzFwsT4KzBRiQzY|200000         | 43,596.00    |
+|7UvdZT4jwNPPxYtRbtGUUSjoCH5aAiX1pGk2rN3rA3ni|200000         | 43,596.00    |
+|5Jep7ZZzRYqfB3fvaFuKk2idzNysiVhwJk9tfEVc1TKQ|200000         | 43,596.00    |
+|Dh8VPAaMHmjUyEqeAKLa4BUz3FPSj78zPLSQ1qD7xtp1|200000         | 43,596.00    |
+|7sXjaVE47yzE22DS8B3jQtgeNLUvj5TfwvxYUeLpGSji|199383.124     | 43,462.00    |
+|4FrGxMC39nikkoU755jQDKUgAdwXcen54ZpUUCQp9So5|198667.9317    | 43,306.00    |
+|2kWmCPeXJ15xeRGKpEbgFMXafewY6PLp4fQb4rPcRL4t|197933.9778    | 43,146.00    |
+|6hAGyykdtPActQMn7f3mVAucMadLFxE3JdaepnM9kroE|197808.7215    | 43,118.00    |
+|Hy9h8rge8TioBqArGWyoKi4znSMHbhZY1DH6Yf6gosBn|197580.3421    | 43,069.00    |
+|3mrfD1QXDEUo1JkyebUkSGqKx6xbRTmKAyXB3aAwXdSs|196604.2658    | 42,856.00    |
+|2kvXJXaekbJ5Nc73x2dpz6gJsofKRWSecYG3KK9voivS|195806.4037    | 42,682.00    |
+|2oonATV8dXAjWKE3DmvuR3oiTdnpBm7cNR6uCnt6zmd2|193021.5612    | 42,075.00    |
+|ADUEPuq3mErA4az8ZN1ebFxNFG3Yztpgd9JBbZLoXXSV|192449.6837    | 41,950.00    |
+|DXAb5Swv5vqxPCz9yLCPZPgKJi8V1xavVKAQupVkxwnM|191005.9973    | 41,636.00    |
+|AhDaBYAfRi6p2MirffgTbDvazFURmkPEiy9ojcfTyYyG|189906.322     | 41,396.00    |
+|2oNEhynpfEnYDy8TUmdGUmvVP2bsMGD9uV9GfZVqexhM|188881         | 41,172.00    |
+|BAnJQStqkDJ9XnQxuicAGCtmvdvYLoMHcdLPm9FLRgB2|188832.4935    | 41,162.00    |
+|CyUUZvQ5S2yRhn5HxycLUAgjqEfwoATyKr6DmuanPpCD|188809.9548    | 41,157.00    |
+|4hw4B6bbcMXTaYWd6ZYY1PiytrwGqL4Cm5as9AEqWaFp|188156.8381    | 41,015.00    |
+|9uw4bLJvqrXa69P1C2Pyj5mJ3ZNxAe5ZhJg3u8MzBAFq|187345.0179    | 40,838.00    |
+|8aN79JXYdgNPdV4wuZhx2rhYbx4f64r37L5u1Vp2GMbK|187103.3528    | 40,785.00    |
+|8BwY79AosToPGFZnejfJGgMPsVADcTvTZJ6zRJPmcbqF|187103.1995    | 40,785.00    |
+|6rxVUgGpKCL6YXBUeL9QzygfGEEzHtPFmoR2Wk5FZMv8|187102.2187    | 40,785.00    |
+|EhiC9zcYwYM565uM8XrtpUMUuBxzkxcaXxkyBiDSSYDc|186615.5506    | 40,679.00    |
+|ATQyKtAMYjSqNVZ2BX5xd2pqv1AW7cxQYyBbBs9bPh6A|185074.6748    | 40,343.00    |
+|ULZ6PtwBzNqjzym4pFhk7w9JEwCRvUkAGRMTv7R1VgQ |185036.5818    | 40,334.00    |
+|yNr5rbydTartpCuS2cekEn4NwzMb3Jo7tkAsUUMTzzy |184174.1507    | 40,146.00    |
+|CxTVDg1QxxDn7S7VJwEj4xwNo4yFAEHxuPpuhdugaVtb|183861.7572    | 40,078.00    |
+|CYCYfm7B2Baz6bEeHj3YBMmemtH9feMWFDgBbVAdMhqu|180650.4077    | 39,378.00    |
+|Wvh9CVFJBCiYi59RZV24LoyR5oQMQ45dwDA4kxiFpVj |180333.8093    | 39,309.00    |
+|2zFXvCLqDRFmQQej8HSNdkGmuFFHAVbkNmcD3SLhicDf|179522.1606    | 39,132.00    |
+|C275HqEzpa2SVvhjwExftrP8h7nwbLm3NN7eQNPSrx6f|178767.2634    | 38,968.00    |
+|DZbgVmaTEMJsTSjeR4Fmt2mRmqUGxQw9matUZBzH8x7G|178767.2634    | 38,968.00    |
+|DcQHcfJzJ2Sg27haPB3uDyLeLmXYQdXFgXTS4dPFpWb2|178767.2634    | 38,968.00    |
+|7ZjFBakwH6juPyTH7jehHpWDnvJgomFmuyG4qRzif2U |178767.2634    | 38,968.00    |
+|5mSp2667cXhvMR4o3X4psSAeeSxDdr9GxcPqUfXCZQtz|178767.2634    | 38,968.00    |
+|HXPrBCKy2DuD4ijmG6PKNQJWqvESkzJch3f4q3zEM2KF|178767.2634    | 38,968.00    |
+|129uunj1jXuWBRTf73dL2XDeBnMb69obTTwVpv2kb5ex|178767.2634    | 38,968.00    |
+|7JnLfKpWpdECgqESXNgWLYH7YNZzLR5hVkPirvf7YoXF|177263.6883    | 38,640.00    |
+|4EqMvuvzGys55npAXJoj4uFJqCcJe6CPZzVdprfH4EYK|177119.8241    | 38,609.00    |
+|2e3MAr4mcHCYkwxm8eFDfgzwiGVe3oSC9FwgjmgjPp15|176352.4235    | 38,441.00    |
+|J2TXE4XjeKD3G2euuPGHWQQi2WSynLRFSbrjZYvMH9Dh|175808.5169    | 38,323.00    |
+|EXsvJFJAKxGP6ffL7fWCoqEpQyus77HcxVJk6AQBzNk9|175725.9493    | 38,305.00    |
+|BEJ3W5tRErtt47csExYjct7Lyj3JrsAMBsCxjzzzAgto|175512.8794    | 38,258.00    |
+|9TKQg8AhhDMWxhNB7c4sWHwr5WS5z6Qe48dfiDBzfYJD|175163.3936    | 38,182.00    |
+|4m9Vorg37bBufF4EigqmgWomK2D4KeJySKhng1B3DEkJ|175083.4594    | 38,165.00    |
+|2pVnqkeTJrymvrqA9bu32mwYTgd9h97PfYUF8zXuQbA2|174753.9541    | 38,093.00    |
+|2buMHPovUhYUtX6m1zFe5zrvE97az8PuPT7mB6hirB8i|174162.0534    | 37,964.00    |
+|FSCR3dkXJM95Arw59pGLd6KSnzG3YF7CqaMjsQHTryUv|173261.7726    | 37,768.00    |
+|DMJjpNtpQLPRi5He4F8ndnU2DH7KX4eNBcEEQh98wk6c|172592.6488    | 37,622.00    |
+|8BMfzGQKtLWydxp3W9diGSggahhWgHnCY3ppAFChX8zB|171920.6922    | 37,475.00    |
+|HvBLYBG74ZxxAkMLPmfbVxZRa48GA7J3wqbQVHErxNeG|171829.3807    | 37,455.00    |
+|FZYTHUcNnqbaMkkanZ7mCfNUa5uddwiXGBzgzvfgHBBU|171332.1013    | 37,347.00    |
+|3FpzfsKPbCkgn611fZWT99v2Wpx7zbo8D42AoCcQFKyj|170679.4732    | 37,205.00    |
+|9CATYnVQAVbQsSQtvjk97oDnU7nuE5RaNJaxG9ePkseJ|170087.5288    | 37,076.00    |
+|BWA3SyndLD7t3vhh4cCaYRvPQ9aXiXZH7yC4NWraQuyp|168155.0755    | 36,654.00    |
+|BKai7vYJUXG4AoHmUxVNoVqgxxg1FMGRxe7HEA3UrnFt|167927.1706    | 36,605.00    |
+|CanAaEGVgEvan2StxyNsgo9oRsaidc9R8mN95oXkYVas|167592.4031    | 36,532.00    |
+|FrQXNdwyAJnsgBLaxr1c2JuThJaKRjGXBgBzQPywB514|166764.9268    | 36,351.00    |
+|7MykQahutpvFDhzqkcJtVZmiuWFGi1z4PAaUawxfz7p |166094.1149    | 36,205.00    |
+|5vuSRQAQUvmWy42iWnTmpxMTh6s14Fskncsw9YjxYasG|165976.4039    | 36,180.00    |
+|DCENJSStLP2NkW4TqWusPDkoE5zfTt7hJLt821ByGFuR|163883.2398    | 35,723.00    |
+|AsCyndkbMA68sSovvkftTJ95h8hcFUyNAJJGU2aLJ1GE|163720.4044    | 35,688.00    |
+|G7S3zNsbEf3bZUeeugfz4Z7iLadG6XpfUg5amTZeEH7K|162860.2433    | 35,500.00    |
+|DzrQoX6RUqhjd6dZdRKvaVPqYu75jgmw9WtRV6WfDrHC|161660.5428    | 35,239.00    |
+|AtyfsUPJcdfjGZqzxGWXredSXS5LEqqDm7ap5njFEDMv|161101.0933    | 35,117.00    |
+|65eYrRA8K2D3wDeXiiSPyyZx85c7Jf3627FkpkH6S9pq|160548.5961    | 34,996.00    |
+|38UZ2fLtRrxbJGagdsmzCXHWWJ69qzL6okonvjcHYjqb|160140.6786    | 34,907.00    |
+|9hoyQ1bsjJjVb3JxBe6wqHdmkUVa1FNEyzprjinb9j9Y|159485.0463    | 34,765.00    |
+|4C5K3bnxtwNBJHW1xvbwzxAbudCQtFJprq9c6c3KHxC6|159079.6804    | 34,676.00    |
+|JEJV2yUHTeUrkSK7X4RYD3MNZ87hDnSJ2W7y7EqushMR|156272.6802    | 34,064.00    |
+|F1fEMnMSh9V3aLHD7ErMiF55YeDzX8rmw9F7Pkqiu2Pm|156269.2994    | 34,064.00    |
+|5QujT6oWXbfccuhGXWsTwASvPGcw7PrLFC6YA3yTWEiB|155880.6498    | 33,979.00    |
+|6h9dK5RvmQoSLqiX2EdQnvBtYpEkSpZSpte28M8LtTYZ|155551         | 33,907.00    |
+|FH9Vk24gFLGVdwaXkdLvZMAseivxMmXnvibfjzBUwptq|154758.2676    | 33,734.00    |
+|2Jid8YK5KML1VGPxtoNxCPxVMLyX2S6buT15ZjLBXt7H|153689.8118    | 33,501.00    |
+|CR2ZmrFFGPW1ctTsmyhq4g9msK46BMNrTLUYAcCM8yJY|153081.8415    | 33,369.00    |
+|2P3Cs919dbEVbVUUaHf6bG9ExqJYn9imj13YKiMKjpsU|153081.8415    | 33,369.00    |
+|2hRatVheFkFwyA1Qabig5Ud4QdVtVoYTVV5ZDnhPe45e|153057.0723    | 33,363.00    |
+|BK8g2z6vd3YEnfkiN483chgLa37P5Keo6UxdBddUm2oJ|152930.6923    | 33,336.00    |
+|EcRUagpH3JNaP3BLxgxC4g3GBqFevGMGWMfRbHeoVwS6|152645.0072    | 33,274.00    |
+|87fwTeYEVhXeNv6TwAQ2w1rN2fmeLFpQeB76Nf5X73hv|151906.1971    | 33,112.00    |
+|F92Vk8s6PjQJppcxQqw7VVegznSaknNMyfK42UbHkLKg|151898.9235    | 33,111.00    |
+|DhXezS5iFoTQ4NWg96axmUD2yij1PPZwyNjKXQcr9f26|151312.6367    | 32,983.00    |
+|9NucEvYS64WtdGRWgstaXsbGFpggQB1jYoXBnMCyjE8t|150764.2888    | 32,864.00    |
+|BzT2xgD3VhK5WmuBDgvWbvn5JZY5xBwprrGv3Wk6DnEU|150648.8847    | 32,838.00    |
+|224b6pMbVNuzZxk7gYbQTqeQoqByUuRK6c7xC6Sb9gpo|150192.936     | 32,739.00    |
+|GPQ93wjdp9VWkHDmSQhPMaaHY6ES19CQJZL7i6swH6H9|150000.9149    | 32,697.00    |
+|4qeDmKoDDNNcXvQae58zaeatJj9YtCjTujK9S7nCruaR|150000.747     | 32,697.00    |
+|3TumZEhGSAtE47xLTpffYP5fixx6Nv2eUNTc8eKVcp3Z|149752.5113    | 32,643.00    |
+|GyYpHanCv7BomuaX2fKEmzQ6yJ2Py9CTTiRSZQdVQFCQ|148010.5788    | 32,263.00    |
+|HSfPQH9rc3SXfoDLRgaCpS4Mekh3b7vw7PtzaNHB1tHH|147584.512     | 32,170.00    |
+|6B3w5sE1aspNcV5xt4ae976xExraDphVytrpb6a9ova3|147134         | 32,072.00    |
+|HBBt9xXEyDYhYCDDArZ9zHiqf3t4XhpTL6YYpi1utAYr|147011.5237    | 32,046.00    |
+|citCXcCC6bYy4f7MrwBGcyKcgoTMUGHcxJnssCNXYeW |146975.9079    | 32,038.00    |
+|5RWtMsTUHj76WP195qj9AeZKtNd7c3kKfbkFywfHrLay|146269.6097    | 31,884.00    |
+|EGXmp2ZQDMn6Da7EutiL6RMUW3XDpaJiuxskCuQmWoAu|146140.1476    | 31,856.00    |
+|3ffzjtngFGJv8JzJgFMVPfuWndmYRR2sDRe9VdTDbZMF|145906.3572    | 31,805.00    |
+|C5HSBnVKtiKAYzyPxpRU4aaDfvJeLdYYC8Jf2tChEJhH|145766.3028    | 31,774.00    |
+|9E8Npd7yD3jm7X6XjvrAB4mwaGmEatgJLBTsg9y4cGdt|145671.1661    | 31,753.00    |
+|FyXZEpx4T9r5HRsBr86AiGUAA7aJWC1KYRcfwetUz1UB|145435.808     | 31,702.00    |
+|EskADYQ2q9deMwW9mnky8ACrV8sPi7N6kHKjWxD8jMVu|145325.8579    | 31,678.00    |
+|AW7NioqaCZd5BuLj315wYjQQi7oM2PJvVSLpCw82Koy3|145006.1811    | 31,608.00    |
+|HEQbdKt7Lcs6fYUPp4EkFA5WEJQPDL9aHVexnBTzox7X|144708.6104    | 31,544.00    |
+|4wPFVCyG32xQGDLGs1c3ctQ9u3LTzqaBLcVtfcWH7bcB|144443.5207    | 31,486.00    |
+|8dS6NHdujpTMkUeiUHaQMnNdYzqQakUWgcVTtDGWHqEd|142447.7492    | 31,051.00    |
+|AhQA2VrHAvVLmb23nETkL3VYDKEc17Xrek4mEEXMrZ9C|138450.8195    | 30,179.00    |
+|7sszJeMTy28hEb4TPamWa8BEW5oYRDVEzH3EL7WTMajN|138020.5368    | 30,086.00    |
+|R5PtnYKnn5eu8oTSHjSzuFk8UW57tMLV2PvMJ4gUudS |137403.9642    | 29,951.00    |
+|GhwuSsAMkeV97oeDWmiwexfUFD97KjSdq4PHPnkyLmQ1|135818.4462    | 29,606.00    |
+|9k868G223qHwpp6JhtMegs2tg2fazjgnA9Lf4R4g5G9R|135492.7622    | 29,535.00    |
+|84nisuq274wNFKJBHTtPXjtmfFAAy9MrsqvNc66YhUMK|135190.7106    | 29,469.00    |
+|EPc4rFX3xwJRxjvKAJjJCxV71Tmk8ATcoyEZp4hnqrEB|134775.2234    | 29,378.00    |
+|7yA1Yjb3MrH2bVcYtW73vc11cToaqvjiAP2csvaiAfgP|134735.0344    | 29,369.00    |
+|3QwjJvqnFVkWmJtGVxJcoyBkTU8giVAympj9tRhvJoG5|133989.2596    | 29,207.00    |
+|68EhqWavn7DJeZdFqQNwTBooggAUjSqTmKLzQSQWMN7o|133718.568     | 29,148.00    |
+|4PhyzipapZvBHKzsNpwPUtWbAAKVxQWAzuqLBEAy3TMo|133586.7397    | 29,119.00    |
+|A7MDXSSWKUK7vMi7wiZtPkBq3n7EGzaqS1wfbP8gFsgJ|133174.5709    | 29,029.00    |
+|Cm2FKxhhmvtV8vor8qyudcfDzZ24XSpeNXYd9NzcEFyx|132969.4205    | 28,985.00    |
+|FQfry3xTMEZHsf9LQAJdym4eA7RNRgffvjr13gka5C4S|132818.4178    | 28,952.00    |
+|FjT8MxAYv8gUvQ8TQME6zvceE3n4KncrgX55VitJiT4B|132307.8114    | 28,840.00    |
+|CMH2FEeEneBvzfHDGj1xpSdYRkmPgxxQjcVLmew6mAmu|132263.6346    | 28,831.00    |
+|6Ck7nG34U6GTbApPHhryzNAWVmkns7CrweY27xcipwjT|131215.5761    | 28,602.00    |
+|FvgX9ZjsDCx97U9ZF3AFCCtH2xCiyaWxwkDYnpbuCDZ5|130606.3692    | 28,469.00    |
+|4wsGiB1etyaJhSoPCshG9stqCxZp2jmTgMhmZ2Nw1BKo|130569.9211    | 28,462.00    |
+|3yvs1b5AGrciHUJFea9toLeCGBMKZ4z1WGyeNuVdg1t9|130373.7109    | 28,419.00    |
+|HjpkqREwtM2Usc47frritZ8456zUNkP5dnDJovnUdLmF|129045.8618    | 28,129.00    |
+|mnEpgJvrpbt7eq8aBVzAs27zuqpUcVePxHFST6BAogU |128954.5359    | 28,109.00    |
+|DtnfQn2baYiektwWc5TbauT1rRKB1E9EEEyV9jhQhdS |128857.7809    | 28,088.00    |
+|G3gnyx3a91Q6Bao29qrxfzD2oMikzu6YiDWCsSdjMv9 |128689.1537    | 28,052.00    |
+|6KwU85VFgCATkW7oPfRYFJPJa7ngttG9R4WWgYbKVgSy|128512.484     | 28,013.00    |
+|BJrgPGcretFJp7n34W6MsuioLVuZAkfza5fwNY9nVYWB|128254.5438    | 27,957.00    |
+|63jVkEPLzdtKcg1eib7JoGV3q7k3ByuUukAAkwzQ83ee|128000.5508    | 27,901.00    |
+|7wh9VPjbgDgVGW2hzNd5ceyQ9XciYxJX1MpsK24PUxYy|127617.5125    | 27,818.00    |
+|FjkrDpQkQp9qPpFJbyVAaWABvtXiqUXK6chWq5Ng7C8f|126775.8511    | 27,635.00    |
+|Gmzpgv6XedMZMvJ5wpQwtW45ZsUQQsi5TFv7TF9eP4CX|126379.5115    | 27,548.00    |
+|uTs82JFdKpL4WLmkEVdsK2uQvLXUmh5NJmuSijFYiuZ |125886.7983    | 27,441.00    |
+|CyS7gWvSPU2FnTXjXkcocHT4ebcd9FyHxx7h7EB2Y6gS|125702.4045    | 27,401.00    |
+|DzkpCJ6sfnR7tE7LXQFgMwXHf3fqRJsbmr3rSdrsMYRx|124316.3789    | 27,098.00    |
+|C2WgK8ipgDcZRLqhTARMXGcKnfLBzASKXiqMrax4K6UK|124165.0646    | 27,065.00    |
+|HwT8wPQP6VsskDGADEXxyY62iPFEM4BKT2vR55AWFLjr|123911.3431    | 27,010.00    |
+|9Shzcv8pTMqQdbgXBKD1QAUyBNSEi3UVeSFHkw732YA8|123834.967     | 26,993.00    |
+|AdJ8vo7jPUFy1VTGUA5PEFqcxawXwvd18iyfMjNktzuD|123444.104     | 26,908.00    |
+|5mZvhUZh8gUrt7bF2Kr8QRnKPfPTp7p1jL2Kfc8tWFWa|123340.1713    | 26,886.00    |
+|DJsGHNpfth9D1u3xDB5KHB8HHardtjLwQGSWLxxKXGq9|122151.44      | 26,626.00    |
+|7kmjDneyHdQkwFTPevVDYSqpNg3Nwz2Lu4zrtg19PSVn|121592.0463    | 26,505.00    |
+|C8tM7AGpd84ahSNSqsqg2SMBUhGx8xLvJqUM9JcKLRpe|121334.3228    | 26,448.00    |
+|Fr7VDesKr1zw2ZycheSpMZdnmnwothrt1xQcxKiyTWv7|121322.537     | 26,446.00    |
+|4rfcey66ykywxC6RTETrLFcCfV6RezQbdUeYfGMMRkrA|121255.0403    | 26,431.00    |
+|MZ4iJGtz3XunUGBC1FesbTjuLizaS9Skuza6213au5t |121169.6583    | 26,412.00    |
+|C7H9bmqFKTFC6wwVDHxVBLVJNbwzQEa8x7BcYF8At5oa|120585.4408    | 26,285.00    |
+|A4MEBgGV5SFfCGpiHfPtWw8sP5ifQuracQHGuRJdpEda|120103.4797    | 26,180.00    |
+|814MFYHcTqSeNKx2kmtzcekVXefLEFRkcLsKXEM8MmYJ|119684.8555    | 26,089.00    |
+|GVQZC6PDZfKP8vhegWwUwwKdwX9FnP4XcHMjA1BreK3L|119169.1686    | 25,976.00    |
+|FUBf99zrB3Fr33q3D3PybwLRkeqDiDgrEv8GQqnyVPei|118144.966     | 25,753.00    |
+|4qSSFw4wVwoTnE5htbVA76uX1W57f5FCpkYoAKyERA31|118033.9994    | 25,729.00    |
+|Dijny4wF137haNgrDmttEX687dLfRnUWw2mirnGymj2p|117932.1926    | 25,707.00    |
+|DjzW8k4VkhbBpBsuZb52dZXC6PjSJdjzQNtLZR7yWorv|117568.2549    | 25,627.00    |
+|GAS12ZMgRgwVBUqAa1SkCVpDTTMmeGGEiNekwtJ887Lr|117395.3461    | 25,590.00    |
+|65nBZUKyPKGXfh3J1ZxoPUWdgbocS4eFXWTTDUokJ3yB|117203.706     | 25,548.00    |
+|HFgSUYUC1Sa8ULfjYJsDZgN6eQUZgMEWLP5ooNy3DsTd|116126.0712    | 25,313.00    |
+|5zAQWW6UZvu8gmVyh9W6qrkbngnAn2Fyb7QjwA5oVRYa|115866.627     | 25,256.00    |
+|vfcskQHDgvmji9AXYtNHbLL6GL9KiMaAdvYEJoiySmG |115661.6893    | 25,212.00    |
+|2XCTLde86QNYW6jTEcgZZZ3cHztUAfooog46gatrJnNv|112901.9421    | 24,610.00    |
+|H6qAJn3NZezQdKjv5kq521mUjsbMiSqeGaZ7VQGRU8wp|112762.8163    | 24,580.00    |
+|3NZrNz9dWwpD4iUZN7PjkaX7gkvo8xGijs9TQUE6toWt|112445.4981    | 24,511.00    |
+|9VKuJe9gKSQFV7MMgaQKDmsQrTem9vX9KEwSy7MzFZDq|112126.4228    | 24,441.00    |
+|6YL9NEq9zBMmTkmRNpXpufvHT7nfwv8jLfE3YJAu9h84|112009.7683    | 24,416.00    |
+|5UsWDgXT2TGzYToQA1qBiQDiw2V8S3svnz1nDhMr8vbX|111155         | 24,229.00    |
+|Bkbf8UPDUWjBBbKYpWh9ned5jYDAhuf4HW3oGFouA7iW|111142.8868    | 24,227.00    |
+|4FtevxDwabX3Rzs6cCo716QWyr4cfro2Pe9sd8ted4wr|110929.5278    | 24,180.00    |
+|3EY6HEHLcyquEahWpwFzpzWJAHyadYTPEnNMb96wmSUm|110450.7177    | 24,076.00    |
+|96jbU9fuC2kvSphR9bDrwvJtS5rfp7Thpb1yd4xndNrG|110201.0983    | 24,021.00    |
+|Q6rHsRhB58zsYfpeLMXsdVp8rHMBVzqYJCFoS4mWV46 |110142.2266    | 24,009.00    |
+|C593m415qcG4eaghAjdBt7t7oQDDcJLvdaxZVQaK12jk|110000.304     | 23,978.00    |
+|BKMQ3QPPfV1LWCePWKxN5DcsGSjqNkUr4y6Cp3NCRxEw|110000         | 23,978.00    |
+|2Uiio5Lj7UUGTmC42pXFEEU7QLQZNry2kq9evciXKUrP|109989.454     | 23,975.00    |
+|DpEN3TACjqYAXtcdDSpy2HQCWeRppDs1AMNTTrNrTimb|109974.853     | 23,972.00    |
+|3HMMY68LnGSDs5MUVJVnNQDF1VoHt9qJpEDPaTiXNk3N|109968.2531    | 23,971.00    |
+|97vtw41YoVYQwMfSudPrJgw7e9ra4FsX87PZGiBfMg8d|109907.2088    | 23,957.00    |
+|4SN5bmxL7fKEfnUUeyhdnmK7ccC7UkFVDtiWRtLcyk4L|109660.8953    | 23,904.00    |
+|Bbnqix5brhENBBQvxuoTKhrvGNRHueNmvPRBmTPHUzbK|109071.8701    | 23,775.00    |
+|8RpY4w55xiNRK2cTBjtXEg2bhR9HiJfFR6iUGn7nHxoV|108293.7716    | 23,606.00    |
+|ABGXSpqWM5QBqwfbDDMaX4QQ5fHUvPWq9feKvXkUAaM6|108284.7371    | 23,604.00    |
+|B7MHYUae1iJwcfzQXHasKV6uU7coNaPc2wT4VYUDvytW|107439.8347    | 23,420.00    |
+|HoxGwkDnK9FKPebCZJZURMhU9bBNb719wwyBCtxKRmYt|107260.2716    | 23,380.00    |
+|vthxxPCu2za2QcFXt1pPou3dcz59ymeXjwRK89spKXb |107085.8884    | 23,342.00    |
+|FtTDnuJvd1kiiV3GWGrV7sDWVmdkeCNYfaex5wWn1M9b|106011.2845    | 23,108.00    |
+|ERRnxczBu1bQnDaCgLYJwxafsYASVhTKAMgdAqQVfamD|105808.098     | 23,064.00    |
+|83rqMS27iKKtaju1BEbBD1q54FfmEXQ5F14foEeM1NnS|104936.6949    | 22,874.00    |
+|7xDVg2gVD6q3uqxFuAEhmLXv6edMzSv9Ef8n1w1Mzody|104399.6131    | 22,757.00    |
+|7cEm7gdSUk79vFVZuNv2Uxp8Mu8T4vL6Ai3ThhD9t8cY|103906.9066    | 22,649.00    |
+|E7Nt6zVURLtwE7rNndMjL4TUJXxH9DQqSDP7K5s2AKaF|103784.7201    | 22,623.00    |
+|HvFjttv5gMd43BUk5ZxBQ5Hmpho5tiMEGGtQXHSaQb5E|103155.3896    | 22,486.00    |
+|D2gsYo1KSXSLw8vhSCHXgCxvqS9hAPnwm75EJFeqQQAJ|103064.1801    | 22,466.00    |
+|3SreE5M4iPghVNhuk41G6rD5iLZ2Yc5XvCvKGEbc37gR|103001.8212    | 22,452.00    |
+|3rCpVZRkFg5cv8NyyFr2cTsmJhevKRb6xDFq75LF2brH|102900.4455    | 22,430.00    |
+|FMXFpdi4XSeVsp2R4Q1T3UtctLSceDutmU58kcegPbvP|102841.2336    | 22,417.00    |
+|4eR8j531BLNazokjNSGpQ7HLknUAboREvE4CQbkDytnp|102767.4951    | 22,401.00    |
+|FzKb1FKA32spjaLR8yjjYys1LxtarkVi66W9eYYzAXhX|102318.5764    | 22,303.00    |
+|9rNaKeC4jrm298mie2mC85vfWJWPmegi5QkAvwRpNiAs|102077.7806    | 22,251.00    |
+|EweWLKPvkqbewXut1VjMSsdMSFKBDfeektTMpawWT88A|101246.0139    | 22,069.00    |
+|FCzgP9GEs4GvCfcV8RPeaQTo58jqD4fLbu5RHtT5HRW7|101057.5534    | 22,028.00    |
+|FH6SDVYyqChjdNXhbcyqT8Ja2RN2hXbH9X1snkczwahR|100857.6534    | 21,985.00    |
+|2eB5v7ZKPoPQq9KFHqUgwE2Bgfs7GDE5Ch7k9PbegRGX|100857.1117    | 21,985.00    |
+|3DRoTcdxtbZ7FjfV4dBeKPpwSNfHvRdwUurBtFDqZbfb|100392.0544    | 21,883.00    |
+|EKrsG1nZ1qsMDS2UHQpKLatpM1o7hjZwUGxjorZaZYo |100132.8243    | 21,827.00    |
+|13MwUf9oxTaet3Sm9bUsH4iJNVHAomrmn972621p7zxa|100045.3882    | 21,808.00    |
+|5mFxpQX2gBVNNaRmyDLjXsoP4EEiq2FebuVgAXSpQKSX|100000         | 21,798.00    |
+|7xudinFqXEvfQUwC193wwyz1pkSoba8o5u9K8gG3u5Tm|100000         | 21,798.00    |
+|CoDYpUXmnFQac6uYdMHnZH4PhPHxQBDpWYXpWP8qJjpg|100000         | 21,798.00    |
+|2nv6SYaDXVmtxWxbPVTEGp9W2HaQE1uEqHV9M5wmvCec|100000         | 21,798.00    |
+|7wbyyBaCwmXAsHmyy33TFTX3cb4H9vuThPqmfyzoAspA|100000         | 21,798.00    |
+|6QHXqbEHThH3mJmKz8s687Hg7xFRmbgfGPh2eBw7D2C1|100000         | 21,798.00    |
+|HazJgWY5pxZwnL6E31NLwW8YAyz6wH2KG4EriVMKcVvV|100000         | 21,798.00    |
+|DYnV32Z6H3XSa5H5TfKxQc9cd5u39VT1sqs7i8ppS5Kp|100000         | 21,798.00    |
+|Hbd7nuZE4H9Emc1upJSkaXUAYKKZk9MarQchySJRqux1|100000         | 21,798.00    |
+|8sQkZRo5EE2ixRPZaiwSWnkhuA6dMCZCSUHBoR5ASXT1|99398.88426    | 21,667.00    |
+|9cSgd3GFXyhHjWkzeaq8XL6MTX1nyEXEJNJgXg5ZjXgk|99156.89438    | 21,614.00    |
+|7EpAuUKefqEgSXkETBaF2hJGeGQjtuVmW9jXe1FY2KQz|98957.76659    | 21,571.00    |
+|J3B7tfGMYff8iXv8dXGJsRXqiVCoPHaDUoiXc1QR17Zd|98464.75993    | 21,463.00    |
+|AK7hZcZaM8oW69mHcXU96emrG6LnWhBtSHYEni6SPC9U|98457.08998    | 21,461.00    |
+|2BnyGMmpgQVk4jPbjspNdfHRBcyRsgj1ja5An1XELbfH|98204.13272    | 21,406.00    |
+|4SMEfVugh2iQLb99FjaYwF5v6qKKELMhpUdz2DBzVZ6w|98148.70018    | 21,394.00    |
+|2AaQ1xnMhd81xbLSCi8VAuELYtQceb41SKBwWnm2SvET|97418.96116    | 21,235.00    |
+|ASFPaqby4nhw1x3GcVkWmDfoAYHQyYu6gwaSFmgHL4Fp|96690.63951    | 21,076.00    |
+|CgUFPnUPD7KLPHL9xSzevD3KTNTyA6MMm5YY2VDZ88mh|95521.67607    | 20,822.00    |
+|8AeMyUt7SLoDLxzCvG2jHKLLuuwMfdwnb9fcESydRdZg|94948.89645    | 20,697.00    |
+|5V4hazLAbMKiXAHL6ebJjvujXfZhoczZJMXisT8n6mif|94733.08639    | 20,650.00    |
+|GQXJyZhqgYzNsfFYgW6bm8EodZSh7V8FMhVn9xTPBgdc|94654.87987    | 20,633.00    |
+|5Svs2uLP6ezgBZkNJhs4FN92NiynT2ThQgRg97ARZ5eT|94502.91544    | 20,600.00    |
+|2snHHreXbpJ7UwZxPe37gnUNf7Wx7wv6UKDSR2JckKuS|94129.67646    | 20,518.00    |
+|FvyXDiCLLJxAvkVHft7Ahzfj9tRe2kMWJG2zpr5cqkB3|93923.91503    | 20,473.00    |
+|9XiK4tXufD4s8B8BnsF4V68CtDXcPt7AteMANU5tV2EH|92832.75759    | 20,235.00    |
+|UvGmxyQNJHz8XCQUWdGZB82HHVDWxDFGaDoJGYjNPrg |92551.95343    | 20,174.00    |
+|Ed83KB3qWhDAQ453KjAaL2PcWx8yYYiTi2Z2wAQfGBFM|92034.01382    | 20,061.00    |
+|FRczgqYGbyRCtgh4YC1uFs2h7coYVXHD83gsnkC4e9QZ|91799.07998    | 20,010.00    |
+|GEhjyt2zPjH9C8EeG7XhGsdndkWKnCfEXV5CabFMGUBG|91722.85726    | 19,994.00    |
+|EMmt4NpssV82A1q3pPtRLX5ahYjLWzpSq7rhzyimtbde|91562.68723    | 19,959.00    |
+|6pKNz2umstQzfmodhvNPstFR5r1d7ivnz8ZdkpBBTRv2|91230.93837    | 19,886.00    |
+|HnZWCSEEGE4wFcmcGqk3zmXCFewFKQRZGpNjnTqZ5WBR|91162.9893     | 19,872.00    |
+|7nTNokLypPSXshjHQz3yXCh2H3psmGYLvDQYDS4FNMW7|90922.24571    | 19,819.00    |
+|8ZwdQ9jhDgqoX8fwArvJfLkecDSArBhXdWbtN6UD9iAL|90911.80639    | 19,817.00    |
+|D3QBs8LXPSQEfYzcchv9pdQsSz6kZz4CqxT4eAEPmwZu|90888.92575    | 19,812.00    |
+|b1MVHCgw5k3YafYCqu9XtH2yJnRFyZ4RZUdnNPp1Xcs |90534.50179    | 19,735.00    |
+|JDKCnTYNVn8ipNaimKdhKsnn5pPrjsUtDsJWwXCKioCW|89996.46123    | 19,617.00    |
+|CLS4atFDqaicCakTVbjGV5FyDkrFP3RDnbnNdDF9iBeb|89586.21834    | 19,528.00    |
+|EopNBHUmJ38EoQKeox19La7RZhtLpimmLxhUhS8XkkL9|89563.54266    | 19,523.00    |
+|555Hrpy6sxUNoVvxT378X2wKBNRBohiVMXnrhHtNYJgF|89337.2551     | 19,474.00    |
+|4XLxtvRGTzzecSkKn5gH7mDUzQ58E7BfDKo2UMUboHJo|88733.15882    | 19,342.00    |
+|DqqUYyXHuUs1k8cnemC2X2HvCi36RQTvLBiQho9qV6Bv|87430.24384    | 19,058.00    |
+|CeFkw5fwAK1nRk2E41LQt3HHiwz25VhwUSbXuHWgN8KX|87349.94832    | 19,040.00    |
+|CnkxWLgjrAp9nNndrDQ9oHRzVAU4ajwdHJac5YkVuJzf|87185.08425    | 19,004.00    |
+|6DPFQnvyRFTZoABDAPg6VTJXAVWnNFUEesL9UHbwcrpw|86997.27177    | 18,963.00    |
+|2L5voHP5d6jArMYkA7izi5EqX3Djm64DESDfpyWKuU4Z|86370.98819    | 18,827.00    |
+|36v87zAQKUmJfD2SUUD8KpgBiM77Zx8X9cDCgTiWNz4k|85542.52429    | 18,646.00    |
+|9F8Jgm7dSx5CQe7oLNEygp9TiUUB4QGhjMKq62xn11MK|85192.81568    | 18,570.00    |
+|AHCpuhcBQ2RC23vGsf7AfzfnjZaxfUVj2PjndYsEDNP |85191.37248    | 18,570.00    |
+|H7UaDsLpAYuLut6Pu1E7nMg9CXiR5wTWFpjj8MPN7vGD|84408.37962    | 18,399.00    |
+|BPginxehHezb7kCihRRVgGJRx8f19DRaQxLkjeFz489w|84124.68119    | 18,337.00    |
+|2nWvu253edaPCc9N8ykoABWA2VtAJmkcFnHvmfvXg9Kf|83700          | 18,245.00    |
+|2S1BaFNWPYG1Hp5EgKwyJjhxzKSkcsQRa6noK3D1ccZq|82826.65122    | 18,054.00    |
+|H7QWVACvDRoRbafCqow8w4NYGawJpZqR7Zxvux4S4k16|81491.59711    | 17,763.00    |
+|HoYzhytBRJsfvfJyL2XQaMKAvSDMSUR9D3FCNCNq5dQN|81407.20095    | 17,745.00    |
+|81jWvRfSzNpS6R75gsWjAWZ8tuHNQ4QPVji7i6BL6VTw|81112.95032    | 17,681.00    |
+|HTVCRheZLMx4JHnerqi6LbhUQStA3Eh7yC5HsdRUc3tX|81111.71461    | 17,680.00    |
+|522cifbGxD2ZpqDpcbLvR6Xtpwg7KaxAQ2KdnBzeuwJi|80611.99666    | 17,572.00    |
+|9QAjaezZTNPasg1ZAhBSkjikepc9JWGT2dxptN94aVDB|80377.7255     | 17,520.00    |
+|HnpFev29vyFpQQuJuveCpZJnaTaeqWLdasgLs8YqhQSh|80069.4048     | 17,453.00    |
+|4PccRJXVxAFxpWoYsbGANPNyQ4MeVmh3DND6Ghuz5YYT|80008          | 17,440.00    |
+|DgNzrnEo8JGxR3Dk4FCkQxCDyh1PumgHzAxTHvQrvcCJ|79541.08315    | 17,338.00    |
+|4YRUHKcZgpQhrjZD5u81LxBBpadKgMAS1i2mSG8FtjR1|78914.37738    | 17,202.00    |
+|CP1bSP4pQJwVPzdfYmKuCyPF43ZvqEps6NDKCAzZs8tJ|78796.31665    | 17,176.00    |
+|RKLKcUK1UUtShdT5BMffVXoZGLuVmA3u6otcfp5a8cR |78427.17567    | 17,095.00    |
+|FqEvG72tnkLfMTYvqakdMCLTgp35pXwDUAExR2j1CoHB|77963.602      | 16,994.00    |
+|7JP7ga1mh1ScQek5jUc8V1AWMXM3y3jue969Z23bP76y|77907.4309     | 16,982.00    |
+|9EZ9nHK66e2G35UanYKfTgKaCNfsBF2AdgWEtto2MtsX|77703.53297    | 16,938.00    |
+|gMwhUR33XjWg8gJb2YnDQDqKqMDirvKwqP9efTy1REa |76698.06917    | 16,718.00    |
+|ChRcrE27m9L69gVSyiPiVVZER9XQLA9RBUPxKVHi797E|75681.44101    | 16,497.00    |
+|G8a2aForEpLtikoyzbu34Sd8GsAc4HJg6RBv7SUhs9zX|75488.077      | 16,455.00    |
+|EPUJimCJkBuUHjzkgtEkuLrDVjDk8sSTBmzV1oYyYqob|74654.12094    | 16,273.00    |
+|CnRBAKksE418CKSbfCtJtf2PcQipxLYc2SZTX5PvDhkF|74163.88423    | 16,166.00    |
+|4j9M39LZwq5z36NHAAWm2KNKwGXmfGo8LxWWhHKBREmB|74028.38765    | 16,136.00    |
+|8QAx5HzeT5AFDmpi4Bn5dFDeChZEkuTEhDjgU48mUsyb|73946.66033    | 16,119.00    |
+|4piyzGRiZMbsDouXpLZgvgjjXFAXkPVciC6mGh3DUaUP|73881.26071    | 16,104.00    |
+|28T45PaNpTidk1Aa4f12K4eQDM2QTcMy7VaaFc4cUgdz|72964.25393    | 15,904.00    |
+|2W2mTx4NwkCtkR8XKxvKxjF7s7XMfxFnfkwG8f2YCTyU|72597.66445    | 15,825.00    |
+|6vV8XrhK934VGS6jcX8pQiaQmEZW2YngV9RE46Gi7Y1v|72585.50341    | 15,822.00    |
+|5CWyPPjucga2EfGMovjymwq3Hz2FNK4ih5yxK8wN6rrP|71997.63615    | 15,694.00    |
+|7bJNe1upy36f46boHgtf84AQe3BBoEdoAPZvYuQywQFH|71963.75226    | 15,686.00    |
+|5JwaeUeGjyFBh8YrLJ2Cqc4J47CFcGXcsHQmSs6svJvF|71729.80326    | 15,635.00    |
+|8uog9g8YVQ4D1EBmvBNdvXbDVKKg2fXUeXkqKo6Y7DZ4|71690.02691    | 15,627.00    |
+|9QgLiHqN9eNBY6Z7QybpFgzZznWYtu83bXCN9tnu2CvR|71344.96905    | 15,552.00    |
+|DrhFyMJ6qg2UfAxGYFzhoVEiEXfXeaDxAncw7Vq7JrX8|71017.69658    | 15,480.00    |
+|7TWgBekn1PvB9zqxgK4PXKuN19A36UgBpvrLiHAEmZ7J|70987.24747    | 15,474.00    |
+|Hn3wf6qLfU7NF6zNBC6ZZxGwG4zNa2fSzPj3HvB3jAvm|70865.83203    | 15,447.00    |
+|AEWzT7qfi5Bwu1oa6JJK599CBhvG74Wdx5e2jxonhbS1|70782.81189    | 15,429.00    |
+|4JoPhfYQP38yiUuRi1aKfV98CE1Ab7uvweYzKFVxxKWV|70657.38633    | 15,402.00    |
+|B9MiSorMcThNL76aZYGxMGKuCJdiPscek9nhd5XrBh6P|70527.24487    | 15,373.00    |
+|Bv9BbShEFwAL7QaMXyXPR8hYwwHy26CfR7WoasbC8Q3i|70355.50255    | 15,336.00    |
+|8fGaPQMFg47acf5BVcDDpTR4foZqgNF7N7jpMRPfLeEB|70298.07827    | 15,323.00    |
+|8pJYsxjAuZdzvvJGQJuV3hEPx931RuSPSXvaPh3bAeH1|70000          | 15,258.00    |
+|5bJs2XMeEvNGCAFfMRuqtWTfMdHcRkjGKTQwasAoxVfg|70000          | 15,258.00    |
+|8LzpTA9fQr91UVsscVbUuJ6zFrP13zsdH3RdKHL6CFF6|69631.4817     | 15,178.00    |
+|4P67GrbnM91JFHjkGnT5WS497GjeAfjT59TYXpe6uSzL|69627.04545    | 15,177.00    |
+|EsGLUtp3aGhALG82BnMxPxsWX8Cnn8GAhuYKfxMpiWzW|69613.61069    | 15,174.00    |
+|Ax5uRgq1wsAVUkYny1ax9tH4wAWZu1pLUdgzMQSPGnP8|69583.41631    | 15,168.00    |
+|FRpqtqSrxBmgJGQC72yZN1qQuGNDY5KNX7KFfFtS6zbs|69566.15645    | 15,164.00    |
+|7zBrZnKUkKA3RGQrqig5vW6sAJZkRRmULroyibp5GURK|69479.1365     | 15,145.00    |
+|4TeX76dDBBoBhjddqxj8suYrq2kvGCDv7W9W4nHmQWST|69470.29136    | 15,143.00    |
+|5MbkUiKBuE3E5xTjHXd5nASzXPcSZtS4kefL3hkxU82D|69367.83769    | 15,121.00    |
+|HwVty7X2i7pHVTrW9U3cCkv9HggqVG1eEgPG5YkdKT8R|69327.41436    | 15,112.00    |
+|Bqjw7rJ6qPEB87HNeMC9ySwVENKmXmNmuW9Sc541sXms|68793.73284    | 14,995.00    |
+|7jq1DAGQtCRLh7Swe9LKSAL5sJcgdk3gDNQYozhPSFfK|68631.14344    | 14,960.00    |
+|4gyMSk8mje3X2SctU4ruJTVqXZ5Gnu7g6W8J4WepfjcK|68593.67356    | 14,952.00    |
+|7GDYrxjbHA1RdSFmT2NVEPFYrtYH3A4mwTmfeEEK2FRA|68569.29275    | 14,946.00    |
+|3y3kkVavUY6LPq9qT3obnFF5WUH8BzkpuF26crTifSQw|67886.11259    | 14,798.00    |
+|AJgzzJyEqczphThGtJAKvRVf2qtQDvwfNEVaNfuNHkFD|67827.26174    | 14,785.00    |
+|7JLN13paL7BYpj8PRenK9XdKeSMmAkjPnPPkoroC2Zt6|67786.69874    | 14,776.00    |
+|CjHokookZD6HU13ogcftXe6422Yncv1h9NdT3HruTU2D|67648.9771     | 14,746.00    |
+|7w4MwNdidXQiDzg7pGWCVqDmzQb88xGotRAExatEwh9w|67392.74619    | 14,690.00    |
+|8WXFbdkWSEF6LLzB963XpqjH5z79KtmNJxgUwowN8hHP|67176.44832    | 14,643.00    |
+|8xBLcaX2foyUQHvvUi6QzWcabAL4WVtqVGczrER55FP8|66770.11434    | 14,554.00    |
+|EPBqL7cyQjLAPgDwGdLAgKUY1TbepQW1tTyF3VHRGTDd|66686.21507    | 14,536.00    |
+|EmxRmxyiK7YT1sHEKfhiur4PKyKV7CYfD7GHit1BvUVM|66618.25265    | 14,521.00    |
+|6TkY6yW9CSpN6UJGqTcnHo5FbDquemGSNcQAbbhX33yX|66581.79834    | 14,513.00    |
+|7u2P5MqbfAzkzV2DrCjfJeZq2oLdYqGBGMPa5rqixJub|66471.38336    | 14,489.00    |
+|G9MkQrAnFaQbTH9LsmZtbHzzyxpUfKKpTV7xR9C7yguj|66411.33355    | 14,476.00    |
+|GQrR5grFdo2brB6bVVkER3KMhigoCMb4bRDJvkJ2QUN6|66318.8287     | 14,456.00    |
+|FX3vw6rLxm4WDQGC1kvVJFu2EQq4VffwVSF9DVx8wjon|66276.63771    | 14,447.00    |
+|9ktKXdBNre3AigwgYRuap4n7mYfTAik3UkgKthc172u3|65924.34421    | 14,370.00    |
+|Ez4TWpdvjfhKxz1qfbNfj2HTH3TZQGvz4CyBwq5SXHqU|65709.29453    | 14,323.00    |
+|3jZx12ZSoVFve2ML7iQVwdrzn1hwT81xFH21EiEtLwtk|65662.89912    | 14,313.00    |
+|4WyCvTPQAVvUrE1nU4Ybqrx2vpXMA2YvuYT8MifPXSb8|65590.14716    | 14,297.00    |
+|NYZueKEZUPKCjYF55dCeMtivZXgghyeT6nW13Pb8H1k |65577.81253    | 14,294.00    |
+|CU6FUnwmMLFVvuMUBmoAXB5QxzjduuBABfh78sUg67Xn|65469.95177    | 14,271.00    |
+|2EQbJY7CuaLFxWqMsBwhQPtqwfnzVCU9x9ixN8oecMkS|65454.03089    | 14,267.00    |
+|978Z5cQLh4Adt8SNKpDVpYoKJe3yeZK7cfXowAgpJuE7|65434.92204    | 14,263.00    |
+|DYZA3rMVEwSR9qwKtAj7C29x3TYiM8XcTVLpP2QZixkU|65385.64799    | 14,252.00    |
+|4iuHZhJz1xQNbTJUrirpTbUtXB4TGCrgJ9Lmb24WYbeA|65339.18866    | 14,242.00    |
+|DUeuXfCUqHXkmJQUscyUg4bXjWXfwWJFh6bsRv6c1dHJ|65138.66944    | 14,199.00    |
+|wuRmQavHcfYsisRjEMLRrc8gtg2DRioq9aoAWyXFLrj |65000          | 14,168.00    |
+|6KFVj2czLwNQeE4yBgFau6LHUS72vqgP11Sv1JUNxghz|64998.10829    | 14,168.00    |
+|A2Y1NNEdiiUroNZD3HMgcq6TUWC9UGuAkkgRTKPraz1S|64879.47195    | 14,142.00    |
+|X4MjmqkwmbyUezeyVnioKSPh4BqVfyeh3eS1J63ZpXF |64646.48035    | 14,091.00    |
+|FikDkeDimG4KzbRwFfULcsmxTdHdagFD9ijFjLnHMDtU|64533.18782    | 14,067.00    |
+|6vVX7QPq4YSsWoHKAK1LVqyTHE7sYwtXaKoJpDpLjR1v|64345.53499    | 14,026.00    |
+|3AEVaRqcNttgNvcoqwiv2wTJusB1CEmXmvXy2rtF8rtU|64147.022      | 13,982.00    |
+|7oBLgk69342ub1642ZhqRm3KyJvxHmuJcEZPyU9baUKo|64043.75628    | 13,960.00    |
+|F4VDfff7aNZBqnvHRCraDurD9RjWzcBzy8srQNtCPsj1|64001.59837    | 13,951.00    |
+|EDvwptrQLzHgp7jDF6HNMCAzpUDKn1PFfXu3YAWNGGwg|63869.24444    | 13,922.00    |
+|9kEWEfShY71QEGKskacQgLrdLFJPhYsDn5xW2K54sUGD|63636.80685    | 13,871.00    |
+|EzP7BsJ6cE3bSWxyJeE1Wo7wVZUmEp3kmhNE6fpNbgA4|63493.29988    | 13,840.00    |
+|GGAmdFybE2eCefC4xXMvJ371n1TYk9nYL5y87N4HCQn2|63355.34516    | 13,810.00    |
+|3QPiZ5T6wyFJNDjG9grUudt8FuVqC9iW5buWinqCz9K1|63230.85036    | 13,783.00    |
+|BZUX2kebk4xRqwQyng84AqsXP4QuYMUF7VYaNo98Yrp3|63106.72231    | 13,756.00    |
+|C1JqE7c2GBiNhsJd54XNJ4EC3xH4hAMqzoHt9PQam6A |62982.95957    | 13,729.00    |
+|3NzUL283bcAQieC98UB68V7mDGpUNy5TudQhQEqyHaJ2|62859.5607     | 13,702.00    |
+|248MVeSdJehkX2fXZoSV9kiSi2aMHASfKCWdjzR9zt2q|62627.1435     | 13,651.00    |
+|5dEseo176iwXwgyPyzSi9wPjta95gx6iKfdEJ2sKVykL|62581.40952    | 13,641.00    |
+|22N8MPproBeJVEmSGm3NKqoRYNGgJeSB1jPy2uzg4gUf|62540.13157    | 13,632.00    |
+|H3D15U6KA6YueSrgLBCBJhe5xufixLQ7EAWqCxMF4Cd3|62531.32049    | 13,630.00    |
+|ESECduuQA2WRfmQCoo5uwwC6u2nain9eygYfk6C9CQqy|62457.95791    | 13,614.00    |
+|ATRxgua12BxYiNkjBs9yXoSXVaUtCb6bDT9AH35yfXxm|62390.95545    | 13,600.00    |
+|5LQu1SgUXqicZLw3FjbCdBgwP34XBmK26E9TJ7j1QaTa|62387.77865    | 13,599.00    |
+|6d9D7nybSbyWmTgmmck63rjMWEAgYGZeKtXKdg3JqgBy|62336.08827    | 13,588.00    |
+|5b2PUen1LwHFXDY9kzE6wapmy117nPqzBbAyLWNBzwTZ|62214.57512    | 13,561.00    |
+|DwV9LZiKk8xRdo1LiEze7jpafHZwtPHLwhw52Focs193|62003.15341    | 13,515.00    |
+|6KuhTrzr17Wyj2hccNTAa1zh2HSw899Ps8yrUUGLnT2y|61964.62938    | 13,507.00    |
+|GoF5RRSjRn9DRd7eidsgKmEQwYAQ3rAuZNossbLEVnjD|61825.49803    | 13,476.00    |
+|Aanh1nqtVxT1JrM9QqtddYcoMPTawvhNdXcwj4LUasdP|61788.4081     | 13,468.00    |
+|7U9mDqvN2Zum82T9CR5wUabskv5h4odd3pnmYXq4ctJi|61535.01419    | 13,413.00    |
+|b4qiyBarnsJpm6LuSmbasKdwmPx5UXJVHhBMh5h7nvq |61415.82121    | 13,387.00    |
+|3a1f84WHyVSgdRB49mx7KZsPF65kpBbfqTAXcexQEtee|61296.97435    | 13,361.00    |
+|A1eLWqkW9N6joE8rTq4ntzeuxedUELLijjzeDrBikMqf|60739.82595    | 13,240.00    |
+|XxqxyAWDuVKRjqse8rX6ub5CjYRXNahVipYb9XqfUBy |60676.98771    | 13,226.00    |
+|AtK2tyCkKaUCGdnKPyZnH5HkeL3KcqdMkfcm1b94FX7V|60579.58789    | 13,205.00    |
+|FSrewoUhkypeuWPAukD1TpTywyhWsGqTgMCzP3qeGNm1|60525.33421    | 13,193.00    |
+|5nEW6XaR2CMdmhpEjARU95C73mKq6qNaNJgP5VGLRqmB|60398.84106    | 13,165.00    |
+|34JCEwgxVeZxvByerZipfEhDUpWgkxvNkuQQMf32bAsY|60324.87021    | 13,149.00    |
+|BG6bMG8Hxm7FwaDDbEDCJ6oFLePQze4W8vnnUXQ3PVED|60322.08184    | 13,149.00    |
+|B7nw1PZKNT1Ks2nzpiPmk32f24A2R5fpy3EMEyGWyJ6g|60236.46904    | 13,130.00    |
+|91pMznecGssZQeEbSTwpy6Accvg2NkD9abTzsiaq9gXp|60101.37871    | 13,101.00    |
+|9GaJZACYFp69zQwdbJcszkMrD5yrm8UkyDT4iXt8yn95|60000          | 13,078.00    |
+|3bNTdiD1LVUAczziZtkfwLf5LyeogVzNtspDnAQX8eon|60000          | 13,078.00    |
+|ArcVwarsU54ggBAJuxjdaP1TYG7SnjGZauD9GVwt3BuQ|59810.23663    | 13,037.00    |
+|4KTjNPLsX1erdiTP9g4kPtSqihy4FZjJwamj9KzuS3wB|59153.30075    | 12,894.00    |
+|BJ3kMmxyRRYrBi8TFDjZFCnwdpYAQ2ug5dZbSf8SsyYH|58779.72017    | 12,812.00    |
+|DccYFQqDUddtXiRTaR6Ps5MomTY4bQx2xTWmUZ7NerYh|58761.96963    | 12,809.00    |
+|9PrvMimwDBkgPu7kRs7rBTHKLWZXG4bKtheJvXEfvQjV|58554.01348    | 12,763.00    |
+|3DVvK2TvzwrrCFe7kw8S6MWrYgP9QfDwDxiq3cpDcQeG|58094.62361    | 12,663.00    |
+|F9BLCZFxDsKCQn9vgxVqJ3VE9VCAWEF4psm3zjPi67Ax|57413.46364    | 12,515.00    |
+|oyF3bGFUA7VvmqfN9K5sSx8NqeAQQ9fTW7rv2nZnwUC |57382.41879    | 12,508.00    |
+|G8kpKS1ddrqWtDHT4VajvkUGdk6zpiyZSPM4YYDhXzX1|57064.02646    | 12,438.00    |
+|FESAsC2YeFwC5jvqLSyWB4cXLhJizybksEgSyAyF7dmg|57031.84362    | 12,431.00    |
+|EBsDbsF9PE5NhQ79ayMxXbqbcVcf2ozoeEzxrk9wnLGv|56985.47953    | 12,421.00    |
+|HW1Hj6DHj9L3JsBb6Q9Xzo9NZ2rUYMGiwUS888JuAKf2|56966.83985    | 12,417.00    |
+|2RSjWKjJr2HkaF5U6hWMkQsmewUkSEPa5KrCe1bBGtDH|56737.02131    | 12,367.00    |
+|6KWM1G3X5PzhdMj2LCwQqvPwfx5aVz5BEnBgmVCL59Un|56193.12694    | 12,249.00    |
+|2EzjDPD25kQNfWKJVZLYSUiFXakw9VFM4tRgWmozgxfg|56163.14444    | 12,242.00    |
+|GjNcvKi84TUjaX9e97coyd4EBaFbieDFEbbK9rep5oAP|56091.21495    | 12,226.00    |
+|ALxa7hRqeuFtFjTGLtd5h6vYXNwXEmdWKf9JvByPRs1Y|55917.51317    | 12,189.00    |
+|EQaCq2YUda8EDEb59XwUZUk3tt8S5cCZbis4Cq7MMjRS|55906.71072    | 12,186.00    |
+|3xG1fFjU2AkTHiTZ346jhgYD9L41S5dyrhuHPtr6V289|55883.65739    | 12,181.00    |
+|5dGKvqebAjaoty2575ibMgFa69RTrSAPH1MgGG5kQKVw|55870.36659    | 12,178.00    |
+|BG7uNJMtaNDFFgd6YjpXt5p6qqLFfMGfZ4D1KhcHw7FJ|55864.52386    | 12,177.00    |
+|99KYPmbvhtT81cNg88Qowv4X4yz5wJbrjKHqgLJQWvXA|55357.8145     | 12,067.00    |
+|Exk9sWimvrXbb2W1axgkUs8as44wPm4MMdz97hLm43Yn|55285.19       | 12,051.00    |
+|2rqifazd58MK66dPGMJE3ynNuwQPG14oszEDp65Y6YZq|55000          | 11,989.00    |
+|6ik5fNzn7ym7TMEe7yq4ABWgmQn7EWVbYXmsd49Hwph4|54509.72059    | 11,882.00    |
+|D2TUXLHfXN9iHi5AtaP8qZve5iFqZEs48gwyQFFXesej|54458.34686    | 11,871.00    |
+|H2EXkdBXXTTDtULxf2orvowSbaPUn96ezpyCtgo9MKyC|54365.68511    | 11,850.00    |
+|BjBirpm8LprujUPRxEGXFa4GuRihHdaAh2RE8P8pyCRu|54313.68647    | 11,839.00    |
+|2LDuEmMdvK8Cb9Sy7CA44P5CBFe4eovpiJP9yiAkS2rv|54250.12949    | 11,825.00    |
+|BJBrKPgsgeT919zUviU9xVxS3q3NAZ1LbSeMHUXgj7AZ|53771          | 11,721.00    |
+|8KVPBRTQAfwhyRWJ6z4PNQuCdhz41ZoRRfbYrDKndn5Y|53758.8302     | 11,718.00    |
+|3dFVwUVfcRTCXNGrA2UMZTzvUhLNYrkBeerccnRPUKJ9|53751.74639    | 11,716.00    |
+|g9ycsvhWHdS85W9VgHJXU9VJQynNd4HAZqTNdAkwPWo |53697.38081    | 11,705.00    |
+|3VwBTkgPbJ26A8Y8t63FNV5L59VpKAiMFvchK2nB9Msy|53351.75728    | 11,629.00    |
+|DrGxhRCdQDwHDF2MvVws9P9ArMRrHhUiDDryPUtqF969|53267.59791    | 11,611.00    |
+|Ed1dmM6q5Waa54RzigzrQbeBYS3F6B6HBzU1JeKLi3so|53223.29962    | 11,601.00    |
+|Ekkupc87wRidvVksvvSeEeymmS3ABKDr4zhuMzCgPPX9|53000          | 11,553.00    |
+|FS3AEdru867nAa5jAfZosPmrdk2aNUo8WBxfvJabQ2Fj|52676.89049    | 11,482.00    |
+|FjBMhFQ7cSJja3W2Uv38BGishrDszey7zPx6B6PST43X|52443.46866    | 11,431.00    |
+|5YVokYbMCwxLA37XBfK3WueqbcnXMst3ZWUWFzQScyKp|52412.71577    | 11,425.00    |
+|8FNgH1atRQUozYXhm97AqDaxuseg1HA6qyBb1abmuryC|52382.26201    | 11,418.00    |
+|EKnczMyFuzR7HQjQjxPQTW5QmD5th6ist9nut9T4mPUN|51563.33118    | 11,239.00    |
+|3p9QYKZoKcfMNXu6n4XxUmWnCmrejyeEBrS8Fpk1M18V|51504.23086    | 11,227.00    |
+|8UN4Ut238Z9rHPwuDnmpXKCMVKfvWovLMrfAKfi7gwyH|51384.5288     | 11,200.00    |
+|3ernCVjhG7CE2iRfcvsfgYWnrxJNgpBzeZefjaZFqQo6|51341.39384    | 11,191.00    |
+|DDtRePD6VKpnfU78ZcLAUhRABZadQA1dGcj8qQazs6rh|51331.11154    | 11,189.00    |
+|Ba4qUYCBFtbt7LFhygyLkjtLtX5PciWqR6UpuMja7Hio|51248.84716    | 11,171.00    |
+|5bz8SyYUuMYAKHwhJdexoz3nirYGzHvJBghMGxMTFzSt|51181.58851    | 11,156.00    |
+|FnADyDejpQ4CMykeNNxDDigRzUpGPxpnQafqhpBD76gy|51122.44651    | 11,143.00    |
+|8kfEuuwwKs7LhJETW17cZPo7FQUbAzZEBDfGycxQe6Gr|51031.62236    | 11,124.00    |
+|CKCVMBZjw7J3Xjrj9r84USUkwD6xrLuuajbozXqc7toj|51027.57377    | 11,123.00    |
+|Bg5o8KddvvUu9KP9t3mN1LhkkN7w3rwizW2mtHjB4eeN|50974.80319    | 11,111.00    |
+|3zvV7jYWqYddPg5NAv7CNBz1dycRaHNnjWEgdatzKNwx|50743.25756    | 11,061.00    |
+|BBcExazmD6Gy6is5ebKP39XJkJDkoCGZvK5qVQtqcJnU|50708.80908    | 11,053.00    |
+|8qwpwnXg9WzGiAhyFJK3UtiC5rKoe8Tz9ZbPC3jiMcFj|50531.82782    | 11,015.00    |
+|AxeEDbvdY9HeUBAZFKf5e7WgwDazqjpnBJZXkKa1eemp|50396.34857    | 10,985.00    |
+|9jFRvSPaSDdHsj6MV3Rf4gT95Zq2R3X9VqvJg6iXrYsb|50185.60143    | 10,939.00    |
+|DtPtJYDyMA3NLHhGv1sj7ugRFbLA7Q1s3CX3vi3RLypY|50147.53322    | 10,931.00    |
+|XCiREHLBisAGgRGBZXSv8Jb5b9w4hpEdvHzVNbpDqUW |50080.4676     | 10,916.00    |
+|8owuEbQMjExj3sG4jzu1C7ss8851N7S6GNkvcJVHM839|50003          | 10,899.00    |
+|9ZwKggkK5zQxxzxnkrAq36eQf5aFb6P4woESc5PgxrFA|50000          | 10,899.00    |
+|6wNGSeFHr8pKZVpWVt62gUJynNAfCiZXPmwE2YTTrH7r|50000          | 10,899.00    |
+|J3GjHDgFAs3hEh3gUJR6G5LTsxGxtz1UwQiPYqzd4bFH|50000          | 10,899.00    |
+|8JFk9AW3onWbGEykk8vPLZFSVxpAH2AVAqfTVtX9LuVc|50000          | 10,899.00    |
+|6wUk4juheYmTpUxtPgLXHwj3WZaEvsxeFf3tqxfwdnBL|50000          | 10,899.00    |
+|3t3XCwV3qqUeAFgcNApQbEPHyGYfipasvbL734q8qg9V|49744.13556    | 10,843.00    |
+|3Ps1J6FUf1TQuryw8UbaPS72P1tEG3ai5ZYrkjrNc2a3|49626.28368    | 10,817.00    |
+|DFXynZ1BPeca5fVkdk7rtq22R9fDSDnUmdisffZcAQRF|49473.58355    | 10,784.00    |
+|3gzujFPFwHwmfakVa32w1MhBTNa9gvmhs4ohu2jdKNiy|48990.32932    | 10,679.00    |
+|Ba4SExxSgx7rNTEqyfnXY8jfi3iHDuiV9iwNPXZdvDpL|48823.89072    | 10,642.00    |
+|Er3pXfrr4XcV5U6djdbcA5CK9tsn7Y7hVrokvXpnLbzn|48795.02165    | 10,636.00    |
+|EmyP1uxks7vvNLCjDz1Ys9iEV97Y545LXH3xy53AfaZY|48440.5727     | 10,559.00    |
+|7ow3G2tDbmbUnvYXc2F5kHGHCDrRKbxirEzJJBeLbaRw|48394.96002    | 10,549.00    |
+|42wKoypCqVofWkwC5AN4gcXYJCbRcUrqFurD5BjEWcsv|48350.58401    | 10,539.00    |
+|4XJPsxtfuKsWGiqdYTKKavzZ1iA3UxxarTtEfCq1BkWm|48189.50937    | 10,504.00    |
+|DkEYzoii1SDT9tdsGfPYXmTBvDad3fhxWjad2WfmVEsp|48128.55313    | 10,491.00    |
+|4sUHmkc1jXtkARhQTMafXrzwnhh6iqMHtqczt5HRxwVS|48117.8796     | 10,488.00    |
+|8PYXocJgig882KP6ZDR3sdmMuT9sxgSbEsCKswznqPGw|48074.8344     | 10,479.00    |
+|BGLNFn357EdrntXVS3m2PTT5h7VT3j3TwxxRsjsK6fc3|48060.70958    | 10,476.00    |
+|C9ssnCQqkK8FAAzmo98eRWysu2PTt9WDPNC4fp2UTCvT|47915.0427     | 10,444.00    |
+|AWDNAow1GMshs4nwGEw3RW6VQmAkvLatugTBtvLruYPa|47900.36317    | 10,441.00    |
+|GQNqfQyJCn5QBm41yMSfhtGmbo5mYZAJUKE9K5G6KbnV|47855.54603    | 10,431.00    |
+|8FjKAgScMJw7iDyjR7TSvKMQG3RGMGa59SyeVKyht3j5|47814.51143    | 10,422.00    |
+|6pKjyaUcgYwbhZyTcxN399hGU7aQ29Bcm2wfbkoDFVTp|47744.63118    | 10,407.00    |
+|CBN7q74mEGdTM5fhPvRH5F3JtspEL35YuXdRmhnsXhAe|47607.37599    | 10,377.00    |
+|7tb7BBU7JznFrXLRX8Uf31mdFssiuEXRnXXVkniMLcKg|47489.91497    | 10,352.00    |
+|5z13Aj585uxDdZopELvHQpVciP582NAfXQ1f6g2DUdx5|47481.16325    | 10,350.00    |
+|Dx1TXnQDktfdARDcaCcLWryHkHpFgtyF3yvZTeRXXNzf|47436.52291    | 10,340.00    |
+|3K1ru3SS7wjx7RgzPiTBWcx4mJhZyo52mw3z8Mrxrx4H|47424.4628     | 10,337.00    |
+|7Uuv7MxBAMbMPAUsBTx7quzGYepQSrGEjMGYxZ4tooqS|47377.93025    | 10,327.00    |
+|BrpnN74RKdvQZtXR5t3Y4ZAAS7hM58M9hRw3UAU5bXH4|47260.23242    | 10,301.00    |
+|2Xzf5KknNZXqqdMTfScYUUG456taSiF3pT5a45DqWrSQ|47012.82698    | 10,248.00    |
+|52t53HYi7ZP8VVhJA47bP59dU8r7cqd7dfX5EbuC6qZs|46865.34242    | 10,215.00    |
+|EVL3A8E6urseXf2Rvq5PWh6MK6ScG6JV1vWBtjsyH1k4|46671.41902    | 10,173.00    |
+|BV55ibZgJMDnXGHjPjPEGbNPGXkeAPrK8bFtpKVG1u1A|46184.62777    | 10,067.00    |
+|63WiyhkFMfHRjtJwQvKbWWrAvdA7F9gh1NEp7ZfYa4Ag|45718.26814    | 9,965.00     |
+|6MFVLPZSHgSYQPjBqbvbMzGsWbjtwshdruvn8hbgDP6v|45703.52004    | 9,962.00     |
+|4fgNnGJ3ReVtdLJ2gR9UUnBssTgtdGYtPd2waex8aFg3|45703.05069    | 9,962.00     |
+|6LPVnJxtvJiUdhKEhaKqPsfhrSRi3Tse2gdhHDrQQrwV|45518.48364    | 9,922.00     |
+|AngjCej4mWCBmP8qLNadR8bV6PTpjRt4VEWR1jqfx1t6|45488.56758    | 9,915.00     |
+|DZvrwLF8wEA7X7iAAF8uus17kgMgHsBJiqohg2YbNx5K|45111.11061    | 9,833.00     |
+|DHXTBHLxmdDk2Ct3T81zi6D6pRy9rpNDL43yk2hrtqXc|45076.87125    | 9,826.00     |
+|AX1yd9bPhUPQaeFZ5qdpfTBgMRjZfXPkuoSo7ArbJvfD|45000.30019    | 9,809.00     |
+|58bqptGK3ccW1MLr5T6nkGT2s8228KgdDqL8Lho6Y7Jn|44915.28229    | 9,790.00     |
+|Cq3L7Do32Q7YvxNrqAHCM3drvw7uBor9fsXw8Kt8hjme|44799.20253    | 9,765.00     |
+|Hb6vPwworGrC2Hv6d2CkWThNR2Az8Lk88DizWcS33mrg|44703.13526    | 9,744.00     |
+|GkNzq43PKTrmqooEESdf4iDQwaRWjDxRjRdczbF58GUu|44584.80718    | 9,718.00     |
+|D1ewkkKVNApyeAxjD7pLGPFxkE9Tj2TGgwzaeMsQCYkb|44487.87729    | 9,697.00     |
+|8ZJpxYjJmiAhHCgcu7oyKsL7vtstxAuunucD69TS2gEa|44448.36087    | 9,688.00     |
+|422qq4yEUdXB9hkXF9GWjeE38nywkQ5H7Au4fFQTAQpz|44355.21156    | 9,668.00     |
+|6zCdVAPpyxVv6nbgMxWXoYr8H3aj8Meqgons5HiL9e3h|44353.00968    | 9,668.00     |
+|5aY7gCxdeezavWAiwYsSseuQ4C7xXiKvwtRVfA36WR2f|44216.98754    | 9,638.00     |
+|FBdkcFLk2oysu2KTQLXuwA9Mv9HjDEKnSv1A6G4Ry2aR|44147.68439    | 9,623.00     |
+|5XhonFQZnPMVCWnH62Sb7S9g2HU7Tv36iBJrZLbTmnZa|44103.72259    | 9,613.00     |
+|9qPopwfhiDbcosCtUybxAaAKhBwFuxVCq2kPySnG6kGH|43978.63027    | 9,586.00     |
+|FBFrixThd2Bdi6J5S44VghQzubEjQigJ2QbRPVWEN9vY|43800.52661    | 9,547.00     |
+|8MFoiEVgDUTGrDn1Xvj12R5n8XDZLeniUosSy7qDV39f|43759.68366    | 9,538.00     |
+|D1TsZtEj6den5Lfirn5NBE8MbnYk9ZpM7F43P8rxjWR |43730.96222    | 9,532.00     |
+|4tfbgw1YkvFHBsnU3EEKFR23FnSubA7hPwAMmUJaDwrr|43374.98221    | 9,455.00     |
+|GhdhTmBdwWDD5rgarUHQ6RrAHvq9i6CscAdVBCpobB49|43341.08553    | 9,447.00     |
+|CggXVbKS227mxBy96qtvxypTnqSTjRyzbGvH97noqWsi|43281.42182    | 9,434.00     |
+|DFeetyzRLahbTardWEDYKKHnUEiwnoZQwWY8Ct3Ckxc |43274.54225    | 9,433.00     |
+|zapEwQBGA8G2ta4t3AeJUh1wDUWZeHRn8JVqUEZMzt7 |43202.24316    | 9,417.00     |
+|AkVreDxxNbNbPE8HJCn7Si3NMY5qeeBunNmuqf4G1A5Z|43202.09711    | 9,417.00     |
+|CR3sgdBRfgjgjxqTVC7Gmioatp5xLjXWM2TGVxuzj8UY|43095.27035    | 9,394.00     |
+|B5TQnfaut3tiPVZyQKdcNmQC6iUZfARFtbz8EmYZjSAr|42817.84325    | 9,333.00     |
+|5U3QEvkstaJJr5cfKepxMjfoVVpLqdjSicMqpCNRKYgM|42808.2168     | 9,331.00     |
+|EktQKw7DXtjNFBMgASsPTYdsn4mzEMVU41K4RKM5iaRb|42781.38283    | 9,325.00     |
+|DxS9yG3KUyeeytMsmS1pKmUL4NwncMUowWfEGaE5du5j|42725.94887    | 9,313.00     |
+|EqnaSL6sA71UGQhF6tUxTKE5fbRm3kvNhrRTKbNGqZwB|42491.93194    | 9,262.00     |
+|gXYYsN7UocYjiUSaUr578f9imZwfWb7kD8vGCCLeZKS |42219.15821    | 9,203.00     |
+|B5YxNfpDzjjDCyysGmmYS6bey9VbJ9FuwCJQ7JLwFd3Z|42150.47833    | 9,188.00     |
+|3WReHBdhtjAHoje8c7Gq7LhNmFqTZe9MHRmM916SCQBx|42072.06737    | 9,171.00     |
+|CA9NtbKuX6KbrqyodDdh1tT395Xvzg8JxTBYc4rn5f13|41989.57933    | 9,153.00     |
+|32BgNuHRRp9XeDetstfun6div1jZbJsFyymwC7QKusWK|41873.58726    | 9,127.00     |
+|8Wk5gQ7g6X84tMGs6CJtGKtMdKYCXtJMbj6cfaJHbvWv|41781.97129    | 9,107.00     |
+|NBEJi1xDFxNygA2b7JqRXFSzGYHZUt4nXgrQenkfgNj |41716.59295    | 9,093.00     |
+|3dMkPbwaG27D5KdFkaWhvkyGtuMQE2VnXo984bafGFW7|41625.00001    | 9,073.00     |
+|FuPfK55BKQUKQ8SZrdYE3UHJaacsRDXZur7NFbTZL1Ho|41577.63149    | 9,063.00     |
+|AQpNdzjqQJBFSFtKeikmLF1PN73kxji3vAdAyYDLFBtC|41545.04841    | 9,056.00     |
+|FJqeJMkzjRiB9EeMo7MKiX4waiaqEajSsSsKut21VKeZ|41537.67548    | 9,054.00     |
+|EH5WFAZnPiYivSfRXMiZdT19NSF7gZxtnbdK2Cnmuvww|41370.76269    | 9,018.00     |
+|HwhQoNxryHULKHgY1yyTE8fz3ZBtrv2qygiXTXrEmLbj|41296.56206    | 9,001.00     |
+|5tymGvi6W7chtnkt6YctDxBsEfn7mFM1NSDYCdVqh6Jg|41246.32836    | 8,991.00     |
+|3Zz3KLHGLLq3U7x9WoFrS8yTgJffhJAyJNEh38Ex8ZJ3|41143.16127    | 8,968.00     |
+|BaNFd3Ms72nkcpTbsnsEpgNNhDLhCyDApDsHDQGMJHqK|41051.92015    | 8,948.00     |
+|C5GzaEj4TYEcCn5rbqxwjMpto8EBYgShDsomvMqH83rd|40999.56796    | 8,937.00     |
+|GMP9RTJAGrEVst8MGo4duDkwGJD7r83hemGuiNuJfUTL|40889.44213    | 8,913.00     |
+|EUMAXCbe4GbqZwGFHW9TckZwhzdK7MrJ94AQSsum3qYX|40808.01112    | 8,895.00     |
+|2FVy1DE419KUY4fTCzsXvqCR16tC3s2rXBZD3K3Fmdpe|40753.20527    | 8,883.00     |
+|9enDBsWF1wGTHhMR5M2i2E8huj9PcP2Jrk1JXkVuPpS7|40723.58365    | 8,877.00     |
+|FmaLzDh6es6VeTUFWDkzRr4Td1rFh6UxTM14bXuhFvkf|40420.12806    | 8,810.00     |
+|6DVm5m38tz4HbRe8VZgohFfUwtzvSj3XwUiiKPtsZrL3|40336.64472    | 8,792.00     |
+|A8h2DWga9UqvzAFmVc54dSGERqSJ9vLtNykwqze7WfMH|40186.4531     | 8,759.00     |
+|G7Q5ZC7w3FQt7jthfV17wjA9qNQZG4MshPG7PoY42fh7|40153.31681    | 8,752.00     |
+|4EdZQfT6cN1Eg2fruFi3dnrNxj4zJNHgirjs5UCJo4MS|40000          | 8,719.00     |
+|6KmfZihFwxsbWKYEjVW4FCsbd31r9QwxEpuViL13zNxN|40000          | 8,719.00     |
+|9C56HuAeViiLU8HCYtrZycLpmKRgRcrtYJhRqWzkvNZJ|39961.31512    | 8,710.00     |
+|5Cn4ykksgJRgTfEC7u5jNaNQCwzrqQg3g5RN25xwBw8T|39896.43868    | 8,696.00     |
+|FrqVsoKeMpj4shkx3hZAeYQVoAx3FWB5MgbuATYncBVP|39510.93262    | 8,612.00     |
+|2Y1RGjd87T5o72bk4g9d4VAUYR9wJJcDqTsAxnHjN8ME|39506.50362    | 8,611.00     |
+|BifgmmyP7uq9ukJoZpLSbgcXs6MuVxqPojSLkmaArnHR|39357.03115    | 8,579.00     |
+|3AvFanCrFz7CaK7HKuZvWRNCXi7EVn12gHJEPp8SqbFg|39138.70244    | 8,531.00     |
+|CPbdTQYdHd4FVk4Q2X7hM158LgQ36bRjToyq8eQNCa3X|38980.81212    | 8,497.00     |
+|5CyXX4NEe9GXazjaiN1UHiAX84kaG4cBJrHJ9jRNLLrk|38974.15684    | 8,495.00     |
+|HNLhfqUN7K8AXAFgK6vBSiZNmS7mVYFouMuKsE5QDafS|38907.49457    | 8,481.00     |
+|Eh4XtUV5PFYwwZPiYjaewZLssjviqMqCsCHZnwQDbFSY|38596.13785    | 8,413.00     |
+|H5A8NSbfM2KCfqLuUvMPYPVGvzJN6SNpsiRsHbbMgxo6|38595.84818    | 8,413.00     |
+|Fg5nfmtgfzL1FGTekTMUnZDHKCkUgV6Pjo28uEE5JjPq|38451.68952    | 8,381.00     |
+|88uUq7dR5X1nsRtQkBhZvuDA4FwjW7rBPNS495ciqh81|38426.6644     | 8,376.00     |
+|2JdRKZBVe44PRc36JsXNWT96Rm2dn8o6xfrtNJJms1Pj|38367.42919    | 8,363.00     |
+|H7nXcj95U1z1XuVQHgMPGJT637jbJLQ5EXT74ZWkcScd|38277.01881    | 8,343.00     |
+|7CPB1885XDR8S5Ya6p2cm9dowsnxQM8E1vgcUydN3CCd|37987.24696    | 8,280.00     |
+|5FX7L15YLko7bZbbZfywth3b4paUpwaqd6tzffMscPVo|37793.70628    | 8,238.00     |
+|7L51dMBgBq8dwbPRCQC4SVkTm3rwtjrSkTp3tMCfg4v2|37768.67137    | 8,232.00     |
+|88oGirg3xhZpSLiQgdKzmYkFtBay8VJKdi5nWNPaeYgC|37706.81025    | 8,219.00     |
+|3qLdMGe54kSJKZNUrv1ji2KJVLLprbtetpnd7AL1Lrnb|37607.19465    | 8,197.00     |
+|GHYcHQQy9bsJqqwftER1pdmGZsaB7En2wERowteoiS8f|37524.10923    | 8,179.00     |
+|7Z39U83f7EfNcPpNNR1TrKkgxkUDXTMpo2TgJWcrehRC|37456.24604    | 8,164.00     |
+|8yNhAU14DiLqUrCU8cWRv9QVfuuUmVN26n3SxQLB5MGG|37264.7636     | 8,123.00     |
+|bBEvcphQsTjzbuzaugoewkxafcNoWY87rq3C4DVGMx5 |37237.01485    | 8,117.00     |
+|FW2m5oHFbpVvotUnUzY8kDdPn8qAS3p5tr5KXN39cS6y|37230.87219    | 8,115.00     |
+|97tGysGR6NfxFj2C6RNYHUvQfBo8nCgGu2nRnbdgG8fL|36937.62502    | 8,051.00     |
+|AFJRZzeChY1GDnec4cPgwELcRsYhH6dGJqR4XNiP6wqM|36883.90152    | 8,040.00     |
+|5NRPMgjDNjb5kw1yr9n4DABcLR9p1pZBHA1tYiQhy1v |36824.62268    | 8,027.00     |
+|3VMjMpMy7Cm8uB5e9sss3y1HKnkM5BxAtXMa4Bzph2ak|36755.27561    | 8,012.00     |
+|VzurNCf8yjJp1RmTuHU32wT1XbeGoJXJEqQAgYhEj32 |36541.42503    | 7,965.00     |
+|6RkuT7nuss4QnqPaxj6DLf34rj4sRV429b43gBEdR1WD|36530.96758    | 7,963.00     |
+|5b9LNsvbvxwobp7DYMs9hfcsn52mxdthJF9W4uN17Sj |36515.93841    | 7,959.00     |
+|UqEeVTNEfmNvnYtBGfMYeTdJbahpqf1rxA3fCHnpCiw |36500.54088    | 7,956.00     |
+|4RhpMM8MW1ebGjpSjNYBsiFvun9ugDhbbJZWHnvB3T1Y|36460.20468    | 7,947.00     |
+|Hfi4hUEkSXyuaSbwvQj59QCJbfyPbScNxEPfJGbGZkxd|36284.81827    | 7,909.00     |
+|9TuRMSHgebwGPMQirEvJaQ9dpEYg89uuCuAm8RpQE6AE|36096.33363    | 7,868.00     |
+|KzLqnWpmPyKN5goJ7RxA4Nx4epB96Mg1HV7Fyq7DvJf |36033.90755    | 7,854.00     |
+|38fjgXxzqSNjhrAJmweWSb9Nw5Yeb27eYyy3QeXsvJ3m|35974.7563     | 7,841.00     |
+|JD1NQHnk6uXiMJYGT33z6BXDFPDT6BXMsfn4Egp1NLMv|35968.70565    | 7,840.00     |
+|HBPniakfFirmkdCfFCU2uV95oHzogVk8Mr6mYxdGH36X|35935.37754    | 7,833.00     |
+|4UtnZLQi4E795keChN77C8tKnCWnzpNdbT4vumavymY1|35906.27706    | 7,826.00     |
+|49M8XwS9EqEK4Sid122fUKfXWrtBoAJsDGoR17Z66YZ1|35489.60979    | 7,736.00     |
+|3tsP7yA2tYkmRZy4RSMyuGTsjcxw2ASkn5TTo7ixMz8x|35284.59222    | 7,691.00     |
+|G89zf8vY55yw82y2BqrC1qwHBX6E8HUWT6DYzcmcsooX|35271.6454     | 7,688.00     |
+|BBEtneC34Y9kX2PZeHvdq1KDV9zxsyg7NpwFXvpMSchp|35265.2314     | 7,687.00     |
+|A49xkebzXe2ex4Tj8vp2ELwWHMB8mKvmpd3z9HJJTMVH|35190.17638    | 7,670.00     |
+|EfMTrRgveHUv6LrpSpvR97wtxQECiiuBJKF64ShyXthr|35142.939      | 7,660.00     |
+|8ksE9sFnR4E8KKMdfPYU4C1nigChzSD66ydoNvbSqLHs|35075.90029    | 7,645.00     |
+|ARTE8fbBAxcFQfDpdXHRzcNSwQC3FFxZEXEXaYSScw6u|35050.31356    | 7,640.00     |
+|6A1XuoqKxseW1MSy46UdqPVfoHTh3Ji3ypPedNG769yb|34982.10434    | 7,625.00     |
+|5jDYRRpZxPpRB7GGrG3dMCYr6CkgNynRMHD1fwzMHCLx|34945.1206     | 7,617.00     |
+|FAM31mZVfrFGQKxDizCHhYdoNBEtvGdMcbrpaqxWDarY|34934.85472    | 7,615.00     |
+|CLsgqHbQDh5zDtvu4YNM6w2fzh5Fn67VqB7JCtTWrSuU|34730.59931    | 7,570.00     |
+|2D6jYo5pSodeekJs62QnuKPknfXRcj7Ey9p6m3UNUfr3|34475.74241    | 7,515.00     |
+|H64FY42JpR1gCRYqL3SrzPRETwVvnnnmVoX13E3EtQm |34425.30974    | 7,504.00     |
+|9YLz7JyvgvcZG2vPsfJwpNaeW8LJepyw4HAx2iGxaquJ|34041.44187    | 7,420.00     |
+|EkpPXpM6wtVoNTxBJ2oA2ssPRA1Fco4Yd6md9b8GTU9N|34021.38461    | 7,416.00     |
+|ceoBXKUeHtzXBNS5RsMPnBcU9Wi7xksgjeurFQnSNdB |33961.8805     | 7,403.00     |
+|ESyWCphxU1DuFdnbuiQDdnWiKnZEPugh9Cv2KXb1WRyt|33931.99167    | 7,396.00     |
+|9H7yWYtV9W2sA25fge413DqFNsnXzoqTkgx7t8xUqX53|33758.18265    | 7,358.00     |
+|RfvkaNVg8WkRNN5fYEYdpE1VLC1xudBtw7QFcr1HjFy |33586.58153    | 7,321.00     |
+|Gjoun8B3V8vT4DzfzUHBjxXR3pRUb3VrHs4Vw2FSyYy5|33463.93991    | 7,294.00     |
+|DPqtN6pjnR34QEGPe6J3cuNYy9ye277wKmpXeKPRT6Y |33333.10538    | 7,266.00     |
+|An9nmLsVapz9ZUEZvXqz8atrg5LyGiVvFHLrS9PuvVWk|33156.16497    | 7,227.00     |
+|uGx17mdteA615vpfQeiKTxYWeRFGGmDxMawJdvEBwzB |33113.38162    | 7,218.00     |
+|A2Z3KdRmitNvGnLPvEEMjpUT3vYhf4Ahk8eQVyEuhpS3|32976.70317    | 7,188.00     |
+|8DRyrym834GuRDexXf9JC5JSjMNVj7Ea51BzQNebPPEv|32850.8211     | 7,160.00     |
+|58BM3eoVJiYSf5uPp8isoW65CW35AdrUaehgkBn4cjmc|32760.33115    | 7,141.00     |
+|nKLU35hc13wVRsouPsmF4VL6rEEyjzGAH85dtHppV9v |32701.82557    | 7,128.00     |
+|Hxq5RT1srbZbQ58hJpHhNErGhHi3yo1mKb2zrNjVFcgu|32594.34896    | 7,105.00     |
+|4miSaC9Cc39zVFax4eBnvinu5mZ4SkK6SBWuY6K6Lv8U|32504.73124    | 7,085.00     |
+|H2Ffzj7yBDeGN5Cy1uvcNL6yN5o5aiX1PiEuiACF6kXU|32447.77697    | 7,073.00     |
+|28oy1aXq1sBuGdAepEnn6SaR57WNmZMZ3SfLYrSLoWpR|32436.0819     | 7,070.00     |
+|HDsnDD96iyMFn7yfh5FnFCr1uwrkQXJTUfLAXN3Lcb6T|32205.09213    | 7,020.00     |
+|9CgbUy4Sp6aVnnbJA6YsMqVrpPtdfkmve3CWN3f6zLQs|32078.73124    | 6,992.00     |
+|7MdvBHYwaFTotsq7TGMXGRX6y1eNB33Fr5YreHpf9z2R|31978.77918    | 6,970.00     |
+|BS2KAZ11xdnEAQu8q4MbE2zBX8C4hVP7uPcoVMJrWCNX|31960.02106    | 6,966.00     |
+|5gH36zs5h6naUQoNV6CEvfnCXHJbp4bi32rYNGHhKPsH|31946.10979    | 6,963.00     |
+|2TbE1uiqy6Me6iVi7T4E93ah3aUVLivoPUYeqibVsYTC|31941.73116    | 6,962.00     |
+|DZvdTCwAai2LvP7qY5xL2CsfjHSsPDUQEa3gbXfUZ3EB|31860.1475     | 6,944.00     |
+|9Xyp9UsPXZGY41yVvrMvjNNQ8VJ3KHV12TDZf1vmRj72|31829.80705    | 6,938.00     |
+|8tBJwXB3rPPBCDSYz2AbRX7vEd5rRkUYnMbXrxzJgqR7|31810.61645    | 6,934.00     |
+|Eh3UKXAsjHJ55wTv1922y8PNc9uNzPMESJwm6HzRe8Bc|31783.42089    | 6,928.00     |
+|BaCpLrtP91MHFY8GPPLtTCr6eLU5xsd7zDGpLR9xrutL|31757.38472    | 6,922.00     |
+|9usuXiq7nccHmQwx8yiDt22LjNfWZZ45MQDzv4RzCphu|31625.36085    | 6,893.00     |
+|8VUjjDRQcjVh2DL3NaCEQT39FWUCE6ZmBz5A4qVydNM4|31605.41592    | 6,889.00     |
+|J1s5Y1V7dx5eB8kaijF4tN4SCxX93ZuFGKP6GQ65PbCF|31485.39824    | 6,863.00     |
+|GCJPAZCs7tSt9BeKQkAHKGQvwTXer1axQMXApgVJbamJ|31341.68355    | 6,831.00     |
+|8bFhyofcWC3XTuFkHmwqBayza9pcu8hAKv4sTEEehZMK|31250          | 6,811.00     |
+|A9X9cG8dE5wh4tFc567AcKRtJuT6vvZ8Sb8bLogXWBU5|31209.92372    | 6,803.00     |
+|85r3F6fXyD8zKmpifjTwjQ3CYoJx6skRtUpnK9U4i9dM|30955.02765    | 6,747.00     |
+|8C8i1qnwLCrRd6kjHUA8RM65cjhbkpoU7mrhHQ2UJFSm|30916.86502    | 6,739.00     |
+|BeydDZkGsmCyw349KU7QqnP498gpkE1v5EfCKQm4fYMA|30798.17345    | 6,713.00     |
+|Dbd5EonKJSvbw3XPAjo1zwJf1fjCpDKQwzy2fi3F3QuY|30588.87616    | 6,667.00     |
+|FBWi15cXEkDC5wyXzCiRGWRQnGvxVdBeGo61SzEPm7mf|30573.76286    | 6,664.00     |
+|HNSZ5xZyUvJBQozQiJi9vH8QoxSzWKmy5cBkou3pcCCe|30395.73487    | 6,625.00     |
+|GRtb7FhFbLMqaT3UmmyHUwLGc6rrERLGdppnfAsDRDDp|30360.50589    | 6,618.00     |
+|Cz2xw59FhcA6amaqdnPfWgiwVj3F2wDpAZ3Li8eFdN2H|30354.15603    | 6,616.00     |
+|GM8eY4PX6sQQVkHQNrZW28sYJdkzdJXR3w7CVkGUMXX3|30275.75848    | 6,599.00     |
+|41N7GAwsUREYE9bfuJyV5AMLQ898V8WPX29fwd5cEtbx|30256.03129    | 6,595.00     |
+|GuGivLfNHgqHoMmcu77PxrRhLVLtj8RX5Q48PncbskNp|30235.24597    | 6,590.00     |
+|C7aTY1Wge16ptAkD8TCA9GmhHh1zUv5Wp1Y3RfdyuncU|30193.29539    | 6,581.00     |
+|A1LYzXp2PsSitWUdhd13w4uzaocuNTqfUZGgSoX9GPXn|30153.10817    | 6,572.00     |
+|8sbWY5sxeXGuG2W1eW7gfjm9XhAxHhgw7xFCpotR79kb|30139.96309    | 6,570.00     |
+|FBQdTbNzuPDXBoRHDXRKaDuaqH1X2SVmCNeb7SLmcHNd|30032.9468     | 6,546.00     |
+|C5Ya1JvoMrYvfELHi9xMAL7KGwoJd69mdzeqyj7ToL6q|30000          | 6,539.00     |
+|JJXDknaGvksRQscEo7khZuhWeb2SuyPiqPASp8Tntt1 |30000          | 6,539.00     |
+|JTginGrziXbgFuE1KvBCk9bLmw2rXf3tocj9TixaEjK |30000          | 6,539.00     |
+|DDCyFfUPvUNx45PC4ioBJkqHQ394ouU4M1KyRMT3KwJb|29998.10757    | 6,539.00     |
+|7DhXhEsCEn8AmV8tMohGJQ5vc9zpBfxdykfWbVVMwekk|29953.64692    | 6,529.00     |
+|87zeT6nPBT5Mn3SWhw6kmh7J9LZ8howrYnD5pJDCuXDd|29945.94129    | 6,527.00     |
+|Dg6Xt4F7y4gvzkccxdyS24WDme54nxCgNHFjMyZYXEQx|29843.52973    | 6,505.00     |
+|6mcQGxT6AMtubuAfuKsjcPP3fN7FS7R16ZWtmAY2J7PB|29829.63934    | 6,502.00     |
+|7vGP8hvbxwVhbNQJpJraG9ierRRCYbUa6pFCHgSbS1DF|29794.58605    | 6,494.00     |
+|EK8dCGQeij2ZxinX2VzfgVcbEcduQBcjr5nuzxYCNpCL|29729.81303    | 6,480.00     |
+|DPKwtMHdfQHWsRXY3ajuS5MZuD4gLdFPigpU7eHa612L|29692.61046    | 6,472.00     |
+|8QTj6asHywjysXFk4CdA7Qndp4hrC7zdSmA1cDbr2MFE|29667.76275    | 6,467.00     |
+|6v61XEgy2pZiQG7myN8S8FWvyaJGoN5Un1uehhANAXs3|29643.17366    | 6,461.00     |
+|GiTVMBPhTim3uRfPWnhq2d9giWLcTtTqBFY6BFWAHe3z|29492.96208    | 6,428.00     |
+|FoY5yecfzZHGdVPyyLrq1274hWT9GQ9tJoA6dP5qCKTB|29488.90483    | 6,428.00     |
+|HB11L2CxTNqF1Sjesz48rb79YfTqTtuV1SnmEZYLWLTK|29329.56254    | 6,393.00     |
+|9pfPRa3RVjTcVmQpPs5FjUiUMqwvvZ3PC3n2ZMTmcpbg|29297.30699    | 6,386.00     |
+|Dt8onmf8FWyymjkDGT3y6Qrt8MhGLJnsgBQ7af7QqBDw|29283.25707    | 6,383.00     |
+|EUa89Ht7rB9EJrkC359zCTqJRjt5PDxeNn2djf8nSXe |29230.44721    | 6,371.00     |
+|Aeb5EU7fucqPZwvJ3utGCXcmw6qobmLmwrFVDw9VdXrv|29097.79282    | 6,342.00     |
+|J2z461s9F736VrH7pHRUj8oeP7QjxnLF8y6NDo4k61kN|28869.3238     | 6,293.00     |
+|DZactVqyGhSMA8cy18qSCeV4NuGpstzDPGFTUXjdQanN|28839.99618    | 6,286.00     |
+|5hKcViUBfCSnvjaKLLT1Z7GE78kfHoa49sLZN1av4Ebb|28757.83394    | 6,268.00     |
+|3GNSriaoxAMWLB3r4eLuxkGeVv5Fk8M93XMidToyLHLh|28750          | 6,267.00     |
+|6gzCND21XFbFGrTzM9bmHwrjFkKXk2ui2ebhVHompyh8|28731.71411    | 6,263.00     |
+|31riXUjEF9CmDfuy1TJ42FXVjgW1f3bdBK4txBQBdzpj|28691.68174    | 6,254.00     |
+|APsxGUtB2YeC1iddRP5odU8fReS9Enmjj6ZHPhhF3qBF|28654.78247    | 6,246.00     |
+|GNw58TjbcZ8NwZQvhbwPJmKXE9WQBursct1bi6meqrYq|28648.76952    | 6,244.00     |
+|9h5Nyk67Rtp5C8th9eQDMAZ8DWkNgZksaba6f9JGskW5|28638.05527    | 6,242.00     |
+|8jWFLAB33KtvJJDy6NEvZRYLU1E6fgM7sXZDgN42c6gi|28526.89824    | 6,218.00     |
+|PgJ1Ma6hgtEb9xTVS4W8PjSwTV9CkDQvVPDme87pm98 |28451.04509    | 6,201.00     |
+|F3rYT5TFQV6WYZTCtnjCsARfrif67Y7aStn51u7eLXcq|28358.0978     | 6,181.00     |
+|3i9C5coS1o7tB37r3fhp8Gv7Wjx9fAGamTuqe4nCaf1o|28242.21864    | 6,156.00     |
+|GbVT8Tbc68QVtC1UYSCvsjbSDUKRfbN4tetL3LuzdHy7|28192.40789    | 6,145.00     |
+|G1HCbq5WZWy33FkWNnKydPoYsiKA9kiMTR8bwJ3BPUBh|28189.7598     | 6,144.00     |
+|FCpfcQpFCBoXLWmcZwVZsNRivfKcb4JGuFfcaKsUm4dT|28085.55993    | 6,122.00     |
+|992BGvcF2TsHihAucWNhuh6JnSuJc25UvzP4cfT8om4J|28026.33665    | 6,109.00     |
+|GiyBr6Pnuhywc62N6wASoCT7tCF4DZszgruGFfVKadRj|27884.20621    | 6,078.00     |
+|J41xeQkcesdWjKc7NJpNQPkgVVzz4LyRmii788GWEuRL|27730.2074     | 6,044.00     |
+|BnfqhGmwoDVZr9ywpeFbGYVkmCfuy1dZkQ32YXEStmCV|27724.39508    | 6,043.00     |
+|7BZgRDCEPmzkrProSfhfWRHDCKVthPqptahraZtNh2VT|27535.72323    | 6,002.00     |
+|7ZsVsahGgaqwfD9GZP5pCVx9suGL9Q5VXib1tr8B57S9|27374.26839    | 5,967.00     |
+|GptmELS9ffAfQLs3TPwD3PZKbP21t5A7kQv6cTfbMorv|27338.6443     | 5,959.00     |
+|AEor2S6LK1zHsBravzB5Z7KXcxQuZsXyosUH6TeNEh36|27331.29166    | 5,957.00     |
+|5xcrNX37Rn3uAi7whg64AMoTfk7U25J5t5KyKeYpu4Gw|27199.7373     | 5,929.00     |
+|5QU6Z55uWV3twCGxR7nXJuXhPJj7S9mvmQj1dQvBYwJe|27162.97962    | 5,921.00     |
+|9QiC84LriKirXhymDzNiYXZWcGhaGvWLjYtzm53dgYwW|27106.14523    | 5,908.00     |
+|3HNChReoah2GVPKTHsAYyMqNaLM5JquFRojR7vMgwAzo|27064.85203    | 5,899.00     |
+|vnpX8wXEoc6kY4iKBQL6b6bxubVG4uAn7vZ1ZMBBto7 |27038.00348    | 5,893.00     |
+|59rpAo57SRqhsHh4ZChGXBaba1eMBDQUkh5LUWGLviRs|27000          | 5,885.00     |
+|HEKUDTqNFygvepxWY8R6NVtQh9kfMxb9HJxF8j9RMv7T|26795.33195    | 5,840.00     |
+|3ZKDmtAeQuskvvcx8dsWkwB7hMws3YtbpRi7PwJUtcYq|26758.77439    | 5,832.00     |
+|78kf3RzjuHhhCar2YS8kZMkUKDZUTUPGdiR6FxjBtHVb|26629.62752    | 5,804.00     |
+|E3YmL5jxeD9xBE3VKo6mrHAXjuj4pvuAekaL9VsGdhtN|26521.47988    | 5,781.00     |
+|GAhxMcHPgCewgKkB5iD13DqPT34arWrvfbEWHWMuezWy|26437.45348    | 5,762.00     |
+|FwHwtLFVcaCyYj1u38K5TLZvEXXSXTPxEA5TyrQZM3iz|26401.21555    | 5,755.00     |
+|976kGRFEkzJcwGWQSdXrM2Zs7pMi82wL5WJESov5NVbS|26345.62455    | 5,742.00     |
+|3uhY5NNfBNA8na7UihuX5PPZzn1KQ3Uq2mFW4oicrFMM|26177.75412    | 5,706.00     |
+|CDr6VkqLE26mXCJpnA9GdV5yk2QZMCxXAn8dz5uDWdJi|26174.9486     | 5,705.00     |
+|9LU2LzyV9F7ruMDFo1Qk7LnFRGRbckBfNbzAeHUF152B|26153.7461     | 5,701.00     |
+|2km9LCRxAsQGeDyckeuy5mUBp9srATjf4uLvMBnBvec5|25924.51632    | 5,651.00     |
+|3fGw5rhAGAS711MAKdVbTsWFMEgCHtcpP9JPJZUjXHMB|25907.56673    | 5,647.00     |
+|9QxD93ebN822wbWes738ShkvJPQWHxuJ6NnetJhxzYTx|25784.37769    | 5,620.00     |
+|6juJLX22XhtHHuh5Uy2Ld2GbUhFSNUqdceDQrH97Smff|25708.5164     | 5,604.00     |
+|9Ss8YH44D1gShdrRj1QCp74UFE95YSBsr54XnfuvSPnL|25695.60673    | 5,601.00     |
+|FndjbyN3VmCgRMUPnhq3VCsAC4PNKCX5ox8yq3982PDW|25662.78172    | 5,594.00     |
+|6q1bAeeGKJJXdi9G4kEqyyHqd6raoq9P4tZHe8pR1LSv|25628.01183    | 5,586.00     |
+|DnkyGUVmi8VYTNJZvGEPhbTyvhRjVUYCmXaKEzuMnGT1|25542.5721     | 5,567.00     |
+|De15pCwE2qbg1PZiLpLgW6NWzH21u8ZgTDvtS2rbv52Y|25527.29454    | 5,564.00     |
+|3AwpF2MzLXshW8vmn1tDjhJDHwJ6jFgdqGqxQdWNM5Sq|25373.06874    | 5,530.00     |
+|398tisYz4cSpRHZLBAyXfSEQMHxMV5UZgY9gsNekegb6|25341.09539    | 5,523.00     |
+|7WfB82ArFH1AyiRd1E7mnbRG26JTcSypYgLUw9CowPEZ|25281.02626    | 5,510.00     |
+|6zfTfy5fhQcu65SaTH6AK9tjpKemLbKxMzCCkFxAhFKi|25084.20311    | 5,467.00     |
+|2Zhv7Vw8gUDxdVSY8RjX7PkDfYcoGPnnj9Wx8yMjsQ6P|25064.49051    | 5,463.00     |
+|Fksh8ypj3NP2PK26DAHGS5xpMfMT4Nue7P1Tq3BuE3kE|25054.15353    | 5,461.00     |
+|CsNi3wsXC7XRhtUTv95vXyDj1UCR6QkubwvYurUaGGds|25044.80115    | 5,459.00     |
+|38y4MsbmGA5FC2NA6Py6Y3uSD7PngenKhV5ZhHvNAg2y|25000          | 5,449.00     |
+|9pgw7yUQQWbyNJrtWLA2rsQfsyeKK1xoxBvqTDMhdDVb|24917.46939    | 5,431.00     |
+|7dKqQya7oveaXfkaMKgUb4DUV6FGW4sRZRs77y3V35ez|24876.48719    | 5,422.00     |
+|J9EBsSWyfAd5MwF6gzvvKuC9WFV5t9g6fRjeEUMdkB2f|24755.01953    | 5,396.00     |
+|4Cjyo5yb1dhGkrCCFm2GteUn9UJwMEcewGCAUCZMMPfY|24630.69877    | 5,369.00     |
+|FpN4zYAvPSVz72f91QK2sF3JJzZpzwSCsfqDKeRP9jGd|24575.20509    | 5,356.00     |
+|3ERHCAZufkLsfq8LZELEYgKv7XFebQqZDAnvipwhHdjf|24510.93873    | 5,342.00     |
+|9hyYNSxTBUXjLqbWcX8f23qUwYvVjgNnYpmLM3GrQ5i1|24477.10423    | 5,335.00     |
+|Gdwhpu9ZmWZzTeg1YKee6ihGkC8WtQieiGbDV6D8BebD|24443.84758    | 5,328.00     |
+|4zwMboaKZ1dR8461rRvck6UGPSnXPkVNBNJmhXPTXGya|24373.64433    | 5,313.00     |
+|Fd3tYsAvYEhsaDzMVqUkoRq6wQystzw1BEvjJoSWkAdd|24210.70936    | 5,277.00     |
+|C1spjBCUWjqMGvPSXuTbVcUJ6svZfThjoEZiscB8VN9 |23915.2993     | 5,213.00     |
+|xU2577FfMnTk2f2DALudaz1m1areMDDLzoWN7yrBLci |23880.33448    | 5,205.00     |
+|7MGNY1Hiq3e3QfSx87C8xhMFYJb1WWtHyue5RmZFdPDM|23780.79301    | 5,183.00     |
+|8YieGfwRGhtqJUvfreYxJ6CZyX7Ub8xwrHbZzhjGAWQy|23743.66018    | 5,175.00     |
+|GjoMwygck1zSx3sogjRV8isxXoqKn9y8iAVNamnbRbwU|23703.32294    | 5,166.00     |
+|12KAgGSmtduQLyncMT1JSNwZ3mFRuUmNXSwrPPTpas3H|23691.76594    | 5,164.00     |
+|HFhHbpQpoTiJW1Bvquo6S7xsKWWD281oK4jWBn71Tnz4|23676.41615    | 5,161.00     |
+|5VyepCt6x4Tg4yivsVFqHz6FjRSDJqFjT7uWbweuQtRj|23650.2007     | 5,155.00     |
+|3GGGDXp3Y5dvGLCHVwjCqUvF18RHg4v9fdTwR8WywG84|23609.05601    | 5,146.00     |
+|A8WcCv7sHbAoWmZ8P9tji9qqo86E4mpMMxPuXp5RKZmH|23606.87884    | 5,145.00     |
+|2nqEuHs7uBmrEagNXbBVTLvQUPmBzzF4qoehVYvYWKhD|23478.32401    | 5,117.00     |
+|3idatcs9sSvpJPrwwwadifjhq6mzuMNUHwCk6XikiKHN|23441.95145    | 5,109.00     |
+|BwDSLcahih7WsGZ71xMi2uhkKVFVdCiYKyfxa9uYAprP|23424.78316    | 5,106.00     |
+|6aKCj5DawhqKEmd8JYJVU45qTujgDzfgWsSHX4iPPjaf|23381.39209    | 5,096.00     |
+|5961qofMmKwTNJoyQsWrvpzhw738rGuX8Z5XkSqXkPb |23380.11009    | 5,096.00     |
+|DKM8aSR2t8or7UzA6kaCwYD2wPrUcPoDVvtqEdZ2aeMH|23314.25835    | 5,082.00     |
+|s9CcP2fYmDcSXAqBHDApx57qgkPMcK9VjtQsCXDVerk |23277.36625    | 5,074.00     |
+|HUx64uoyr7HJ4jzynFQkGrhEiSFMPg7cZbk5hXQTeoCy|23245.51521    | 5,067.00     |
+|6sf5C43tDAF5CPhdqPSC9bgiy8cFLT65DUnr6uciacoa|23224.81361    | 5,062.00     |
+|7ihsWApQE7p2XKQmuUUuBebygrxc5qae5Km7uYD2pyKa|23171.53393    | 5,051.00     |
+|9bZrpifKpuSGMvSQRToNrLs8mkCc1gjuQWc7utaTCcZ5|23162.16442    | 5,048.00     |
+|EsVBx6BPy9EHpZqqfEBSM6KruAEU6AEVGGxQRxqWSH18|23161.95017    | 5,048.00     |
+|4Syg2mrsiFZ1jnna92Gfwd9FTvWAdFLH22kn2m94mkhG|23157.5329     | 5,047.00     |
+|253jWJxmvGXiQXuKLSFA7TggwJbkVm2QLpooqn5CGGMc|23120.59401    | 5,039.00     |
+|Csocafxg6ezJgVvo2u6daVbBQiL5Ut1FMVDQRmotdiuc|23104.99401    | 5,036.00     |
+|2NTdiGaoK4Zo3UdXrcjNNWpSGpg4N5WsQxhsufcGtd59|23053.49003    | 5,025.00     |
+|4edN42BbjrKA1wvqXTkUGiE2jhzf3C2mKD5hwzisjHaU|22991.94156    | 5,011.00     |
+|9YT89s98e88pHZhhoMbb6GYiWn65Eyv8sWrAGMXqwBHd|22971.00617    | 5,007.00     |
+|5Tx4DYLR3ufcDYzzqAu1DKzUPHy2vj5BvD2ADd5MPCbM|22936.74681    | 4,999.00     |
+|Cmt67FpqXLsZFLwSb26SquRuv6cMgZBPc3kFwAXBxgMT|22933.15853    | 4,999.00     |
+|AhMRdZBuGwqD3sh3Y8yvSHygoNVaKyJkoFJdFVeuGciW|22905.63556    | 4,993.00     |
+|2a4Z211DWRan59PzNSYtPWCVZEdaexAA5ZY4JsrWYF2p|22875.43742    | 4,986.00     |
+|9mowgBez7eg7sQAen9JvdbKFnAbUH7hbapyB3biJFUbk|22688.8695     | 4,945.00     |
+|4DbWAT2UBhtXDeqfcKhR4nYKQCpyTBdfxQtGGMYXJ6bR|22626.22616    | 4,932.00     |
+|CXLWaUmD5D6BDSKmjq36Sg7CvHrcs7BVidfbQnDxnZXe|22293.48534    | 4,859.00     |
+|ELjHEvEq2hEPiBZTLf94x2zeGY5mYjQWsQ5YozpZKfqg|22153.52372    | 4,829.00     |
+|j1opmdubY84LUeidrPCsSGskTCYmeJVzds1UWm6nngb |22120.49543    | 4,821.00     |
+|6ujTVVFccBdPGMZKsmjDx8mTgtWz7gez1bDMyJrRb9eH|22109.49129    | 4,819.00     |
+|4F8KhZq1Sj4rGva7NJA9yza2K276fW5tX2HpBxWVyoBY|22060.3914     | 4,808.00     |
+|669pUZnDC7oeKFj9VKH4uWHcvQk8RMttjjkQM6mb9Ub9|22014.51744    | 4,798.00     |
+|HKJDK5w2rW58N4v3Z5mHf6Sr51iNvPzH121u6p3ApbYj|22012.25142    | 4,798.00     |
+|2QWRp9xtdeRYVeahLzJHJZXDYrAZvxnBRDWNm2L5ETAD|21989.11731    | 4,793.00     |
+|H2oNh9xVp1StAjemTxh1FWb6T4VY9Krf9NesZCNrmk7G|21937.67641    | 4,782.00     |
+|Ceb3Am4L5pw8DgA74vq9hbe4Uyyq5GqZvSu5qfiHV3QN|21851.56714    | 4,763.00     |
+|EucYitdjmgny6hP2EtTAQKyiaat7GJNLEu2ZcF6xPNs9|21814.72676    | 4,755.00     |
+|GbdTJjEapGLLHV5rcR9XtpbJbtct5hgb2qKzpeFskEDH|21811.7446     | 4,754.00     |
+|DohVFuHgWYuVH9ixvmqWtA1CxiARPVJm4JtDwHPcQvFn|21783.80698    | 4,748.00     |
+|C6w3UB3EiQXdj8a94oUWRpvA8jmfkb2PJvKp68vjXsXB|21729.05551    | 4,736.00     |
+|7qTtrdB1bqyw5z821EoXgaL4hf9pxcMCWvNfubNhmcQ5|21719.93162    | 4,734.00     |
+|BtuKGoBH5cJv4MGD7AhYpAmJqwrAcMyH7XQXEVRVdrtx|21570.14302    | 4,701.00     |
+|FXhJAWJkgK8gpkZVf3HSBBC6ZafsWf1Rygae7bM1v2Jo|21514.35243    | 4,689.00     |
+|nMv8qzsbFhAtf3pi1qvQX7Cvpd3Q1QgCJYNLNQKp7oT |21403.34357    | 4,665.00     |
+|5shYkWDYcHJrYLYeqzttcxEHFzYoEmde7UHK3vzLhNU1|21374.97966    | 4,659.00     |
+|HkZ9JAYQ7N8sWKrcCMY18sH4Xbn42oHJRhmnmY8hURGV|21298.31917    | 4,642.00     |
+|8JepCKJvPJvweBriuoRRG3Ru18r4cuUk7BidqKdcSyKM|21272.12697    | 4,636.00     |
+|8pgD9usobSxnPmPhsYkeGTt1WErdu6F6BhY7BA74ANxD|21224.25886    | 4,626.00     |
+|ffwLYRx4zFfPptpGEns4FkedCnYrgTJWx7cY537Hwi1 |21204.93488    | 4,622.00     |
+|6UNNWPjhYFMe7i28CmCjbj1kSjXHa3FJ729TyoPpLYr8|21162.38211    | 4,613.00     |
+|CpLHHr8F9MwgW4qQGu6icikhZmgJEjBD5Cen7H8wQDK |21129.62081    | 4,605.00     |
+|CXB4aaBYE1JH4N1PPLwYNFMSQVFgjqAEyEASQHbmyYQC|21033.78367    | 4,585.00     |
+|7ctobb1GRYyJUt2DWW1oBoj3xGXSQN9BMQ5qLYME5VQD|21000.35373    | 4,577.00     |
+|Gcy3is8t9kNsp4k2qwb6M28F2UxD6ivSh9vgo7C8Cd2p|20989.63791    | 4,575.00     |
+|4WNBJbmPgCQUegAZGFm1HaUq2aD8Ztj8fuJe6j6eK9pG|20974.50325    | 4,572.00     |
+|9tVSYLJzPfMfx9HC8QcKcJKZ8ksjAhzjMnXyxGPKtkNi|20825.96829    | 4,539.00     |
+|9QF7Ma8S5tLmqy9BZw7A5TvsKeSXCY2bqs7yejfkJSzQ|20781.18355    | 4,529.00     |
+|FETQCh56efs3Vzf53yaR89r6E4p8Coq9CHUCHhmrZo77|20734.08235    | 4,519.00     |
+|DLzbNdX317ZLSEV3JhNTDZb9kaqruewCBMk8CtkkP7A3|20710.81134    | 4,514.00     |
+|5qKJsFmLRX3RvpYbB3Wkq4UkujTbiHhJkoJewQXSSBDB|20683.87429    | 4,508.00     |
+|HZAwnSAAc9WmjWkirWaoP3Qq5GdBANLZM3wSQKk95xKt|20675.08113    | 4,506.00     |
+|E3LFbc5rTGSUPWFL4YbD58MoyYANgScQLcYTMX4VoCbm|20652.45187    | 4,501.00     |
+|ExiqYfGmudgRZFTaFtWiHrF3puzHuNdRiPFc4Cd721xH|20647.5472     | 4,500.00     |
+|5x7EdcTTn9jFV7MUNptPWe1QVGVFEvwGj5CupUsd5vco|20634.85647    | 4,498.00     |
+|738gn1noUcR3Z2cQgVuEyNYhN8VAzUctDCjCpeCasuwN|20556.16341    | 4,480.00     |
+|BixcjcEu2sTWXHyYw3DdGR9TCAGFJM2YnL4AFKQ3ZBtm|20486.70763    | 4,465.00     |
+|4bLoKY1fLSrDPjuwUE3SpfvdPfguwnznjPHw2BsjDKj1|20484.82226    | 4,465.00     |
+|4exC2ZXFoq8sTtjKraAtXewpXrit8c2PaEdG5FdCe477|20463.37226    | 4,460.00     |
+|3CB8QbUTnjW5s9RGPk86P16qMFbLS7P6jazzY8RYvyJe|20444.61297    | 4,456.00     |
+|i6VxZspX8aTAMyhNdbW34XSLEGzKXjHmkXhbUvyDr3D |20440.02292    | 4,455.00     |
+|DRYbGWVrDQEGLqfc8L3gEJhctq7yDSixure5jGCE3rdh|20430.41138    | 4,453.00     |
+|4buEV6sNoF5KQCPtcmMYhCBBftNDy8kYwop1RgAN9EaP|20417.92046    | 4,450.00     |
+|X6Seux7bNqBS3d3y6fSMCfJxBmkAnBbuTvQ6BxF5owy |20405.44098    | 4,448.00     |
+|7NZyYh24NNsqt2fMMiw5dNFCXgyjJBvoCGZsoxWi6g97|20392.97295    | 4,445.00     |
+|Ev6swa29ArBNu54FQugxZsHSjU4nAa8wqM7qHGzZweLC|20379.11149    | 4,442.00     |
+|DM383VLWA4tuqvz9uZcwugFzwmiF1p7Mcxu2BUsoYvCf|20369.12397    | 4,440.00     |
+|6LbHkHi3mJTWU1YkZHwjmSMcAf1DBSm93pPnSiKsQN5u|20360.51369    | 4,438.00     |
+|DjpKm3Wt3u4ZdZhYoCdqK2Qywzuq6m5ZriaEcjz97QNZ|20347.45495    | 4,435.00     |
+|7dS9E7wsc6kzWPfKYm4nzFtWhWbAUayr37g3YaaH5Hhv|20192.13134    | 4,401.00     |
+|DCiRaEYFmK2Y7TrD3AK5VAi8XQrGa7cQQneEzWCedygq|20186.24103    | 4,400.00     |
+|EgiNy2j3ti6sdHqGtHqt8uwhBvTdxVoc7mFzgfMXtyYa|20146.79297    | 4,391.00     |
+|B17z26tuH9erPqqy6Y2eo4GVP9Zd7hrZPh2kmZMNFtsm|20065.62819    | 4,373.00     |
+|7yMbQgaqvjMZj1PLxudgccqpAZC2F4tqQSxRA8mtNRAo|20006.26938    | 4,361.00     |
+|CBT7JP5GP6eo3UiTXC1UH3MA9zNRakHemibn8wYEeQBm|20003.79092    | 4,360.00     |
+|4U86SV3BBH3MPdBXceQymz9PSw5JjKw7kV7oiZanJUV5|20000.68195    | 4,359.00     |
+|2jVAdtgRRhJRWLyk7BXjh5oenQ2jkJFnEqBDZZmdDr8S|20000.45984    | 4,359.00     |
+|9PgTfdmcDCeVHTY3fM5j9tDBzYgsAAjXWHUXPD2d846y|20000          | 4,359.00     |
+|AXg3BP4Q4CNwdbn22T8B7ZzvQt8sTLCUvxRHQrg3R9Zy|20000          | 4,359.00     |
+|6i4oLHjSD2VqZer1Q5TTugcorkJVeT4354U72ACRAF8c|20000          | 4,359.00     |
+|ASCSbbJUyLZBQ8XrFzSQwstDDbFDBeorSPrY3B9BBUG4|20000          | 4,359.00     |
+|2TC97nVU9Y7ufCm2TvDvSMox2K4uYEtwwqX7TFuP3eii|20000          | 4,359.00     |
+|2T4MbnDE4dNFExAtv7hcKkUCSFJG5EFM9AwqE8LQ96mr|19983.16069    | 4,355.00     |
+|2Fi2gGFE6jX3EKRgAowzsHsvGNXoPpYey3ysVXuyHfAA|19967.88226    | 4,352.00     |
+|C4SKVShGXv4atFCKeWR44Gb5m8XGW4XuXzgw9Ewivu1S|19930.06836    | 4,344.00     |
+|2L6gmWcNd5ioj59eKU1ahZFjcDgd22KQxJAC4ctexKZJ|19847.18757    | 4,326.00     |
+|HSMaDnSB7gJJbxLpNdq12Uw5TJvT7XyeDi5Wk965YzAL|19828.46678    | 4,322.00     |
+|HHVReck9utxao7p8zjuUKnzhMGpDL4BkB44PuixWDJ9y|19793.01229    | 4,314.00     |
+|AKs1Eonz7VWWa713xWnia2kR8FNRCbwpUT2LmXG3t3YC|19753.92241    | 4,306.00     |
+|6mirDWVeQGksVeeLRLRs8Nb5YtchxeMnZwir5RjSKnE5|19734.71472    | 4,301.00     |
+|8DqUtcSHSscgejtx17i8x1CYAndVkSeQ2iDYP6YyHWZw|19730.80214    | 4,300.00     |
+|DwRjWuX7wdPqmWn6wdxTP9wM3gDXU28BRu1dTq6aGEgb|19634.54848    | 4,280.00     |
+|Gp7VZ6hcDh7WMY58UguLJx2JaFJWPbfGmHg7ooZSApf6|19629.07521    | 4,278.00     |
+|37zFy8rCbCk6UrumygfMoQsiwudrFszpgTLzwsBq81pM|19627.43674    | 4,278.00     |
+|4E2vD79hYw57YpVXboZK5SKqYcGN76pX9KVNBW3spBoy|19460.79419    | 4,242.00     |
+|9hMLWxEGdTqDvk8k19xyVki2ys5ADe1yqahWTgCgi1G6|19459.51       | 4,241.00     |
+|BigTVhMvNmXMoEVSzXVBCoEXo9TyG4VKc8TAdjEfeGys|19434.69133    | 4,236.00     |
+|8QjZ8CDM1ZgADxbEChn7BZoz2axnz1yq8wSfVgHPtd1Q|19363.58512    | 4,220.00     |
+|CVrTFQDsCNrY9Zsq96t9YAJKBsnPyv7iaehnFHeSh8xb|19347.79928    | 4,217.00     |
+|CyaTg3Wu8sEtiHjZsvnxQ74hSbpe21x5MKreZFgtg2Td|19334.17833    | 4,214.00     |
+|BvCsYrpfg9sxuC7UPE4NbYPBDAHqc7swN2PV2u1qFpSB|19330.52321    | 4,213.00     |
+|8KBpxLYWormX494rTsL2KdrDrtvscJZ8PZAxCGccwh5h|19326.5415     | 4,212.00     |
+|2wEGoFFkLXR1CAXzXpEuhqmxu7KcMqqE7QW6C5obyB1v|19272.84227    | 4,201.00     |
+|HJGkbbjBSCCuNx42hg7exRJqYH2meeisBVkjPn7pptfi|19261.8049     | 4,198.00     |
+|7q89bU8ctsD3D5VVW2VdwghBbt6Kv2z9MEf7s8BvPPrW|19249.70874    | 4,196.00     |
+|3fqgdv7jNScxGtL7sSZqxXCENpdufMXWENUerM1ZpX44|19248.35896    | 4,195.00     |
+|7B656NeMS57sBgMjD6DnLXCh2ceR9f6t1nV3XuvDWPPP|19212.04199    | 4,187.00     |
+|F9ey77arym57vrmu1GyGDubY2ZMtCVejr3o3sHe9Z4MS|19118.74424    | 4,167.00     |
+|D5eeWWaURo2SsVDzgSxKu1c92VHFYafW1K6ySqP7SKKJ|18997.37333    | 4,141.00     |
+|hx3AmJS8RfVpxtSmagcQGhSfu56w8vQCt38GFQWcMUi |18991.60144    | 4,139.00     |
+|33qWciwQrUa8P9B1Jcfp4Gvcp8RCrHCcqH3p7L2W1w2g|18914.94376    | 4,123.00     |
+|J1JmbjYMj3UoL1ccUBN2yrQMcBSTDXyFuenVbNBguS8g|18903.88891    | 4,120.00     |
+|2izyeSjbHNrdn4NVN9mot2REDaA2nQiR2qGEghXyp3TW|18889.08192    | 4,117.00     |
+|8QskpazoNzgxFu7iKJomLUmqkN8eppAL77EQFS844XZF|18759.37166    | 4,089.00     |
+|ABAWxCVHGweJomBZF7WK7cY6EuXBApJ2pkEvRaaymXHp|18682.31649    | 4,072.00     |
+|G3WS6hmxeh1GSFpophJ7WGViAPQZHPdC7kUDfCMunJKb|18656.17794    | 4,066.00     |
+|DEt7jJ77i273bWYX6y9YbKA1rpQR9SjdMh6Uzar8CRs4|18628.92263    | 4,060.00     |
+|CDRpff5bepA2ciw3ERTXFYLvhFz45D684GMkwQHzbHyt|18620.41068    | 4,058.00     |
+|3bXjyjpUKKMcTbk6Xk5aagU11LT59VLW1EgHWSUCyFQd|18581.06155    | 4,050.00     |
+|84z5Gz5zbF5zFDNmWVCAdpMBvk5g81WsCKGi1SLGg5op|18496.5449     | 4,031.00     |
+|G3wJcpM2NjxcEUTgoydnHgjksq9kgYPCUuCfRwXRZw9L|18496.26122    | 4,031.00     |
+|7ZPWVoRAHZBNNWzw47zbE4pdvHQt7UJW2HBydf5rUram|18472.70238    | 4,026.00     |
+|5ZQ19MkiJG6KwKTt4HcLwd481HfjkUw69W9MXQWht5Fp|18468.17364    | 4,025.00     |
+|7Fc6c1EoMegYLTQ3r2M2op3aCHZYMq6Eq6JnC5yfStSW|18466.76535    | 4,025.00     |
+|GVqWFk97zZ9ZScsPvE9ddP6gNDm3knHZRPXMwaHF3YG8|18384.54272    | 4,007.00     |
+|Fzwc5oUWg5PMZ9DxqMqbJGa4Pvog2PHByVHB56fBzkm6|18380.28612    | 4,006.00     |
+|9kcmwbQ5menpE4k38uhaKeqE4NbUGS7AxE4KmnG8isum|18378.16885    | 4,006.00     |
+|AcgxSq772Ks2vRBVLyXBKzCnq6RFCka18DNmEfJYSJB2|18373.8707     | 4,005.00     |
+|2NuuAs78r9FNWwNMJf2sFfFa98FGK7WXz9Vtdco9ZkpT|18356.07138    | 4,001.00     |
+|6kmb5rtL18R8mayKU4v7XU5B1JLioxszZ1iHr9u2BvDQ|18344.89484    | 3,998.00     |
+|D26TDTVgo3b8jyEmpq5KS3FeCsfeKUmRkJ1L25p1UuEj|18251.27195    | 3,978.00     |
+|2fUuR4X2q3JV3Fndg7Uh9XDU7865N2QCyzCke7LbJWWV|18239.46525    | 3,975.00     |
+|6vdNG17iktbwFi58JwVZKqBx9T8mQehEVtHEZFqXy79A|18233.7276     | 3,974.00     |
+|2iRMxWjvqdNtqg1qvACyoW66HYU6KaCq7Q2T8pbH2rpd|18182.02282    | 3,963.00     |
+|2FUSME8J3dvBU9GS5BEuLAunyAhJCo6mzX2nbLK1prXF|18114.77686    | 3,948.00     |
+|2RFJFWXiCACMkMPxa4eLSxbzbVgBsApppwPqgxyjn9G6|18018          | 3,927.00     |
+|Hb4oJ75Er45brAvjxnkikBeuLHSMFc4tD84X3oiW3soz|18000          | 3,923.00     |
+|6hhgVhsFjMjBmUhJTxdnNPEzLc2dj7AnmuiTt81HzuPz|17996.89005    | 3,923.00     |
+|FMapSKZoC1wgDibZTBXEujdgMLNP9nTfWYkeJnw4DaWo|17985.24803    | 3,920.00     |
+|EggspJuohxjmQT5ZwD7amHAB9dR4fC3xQf4Qm4wPTFjk|17977.81456    | 3,918.00     |
+|B918cWokgEvnhVYdtrUAwJjTLMjTdv8YWKH697G2Z1LV|17884.94763    | 3,898.00     |
+|3phcoCC54B1n9XERgPDw9PNiYDnND1ZiyzTYbAHa6gyW|17881.28813    | 3,897.00     |
+|5veEu6Vi6NDr3JZFZpowmzJoDC45T21NrGNdMnB9dE3s|17871.61513    | 3,895.00     |
+|4R2GU3iiXy4JZkkhdcAWqTEYRxpuUjfEZb61HseraAkf|17846.814      | 3,890.00     |
+|CL2NEhUGu4fXfgnMf3ma6g37Wk6j6VW4RmJfJsncL7C |17800.98904    | 3,880.00     |
+|HcU1fVNtiYCqx8mwFJnV3jKPH9jStYwNif8uKqwemAD7|17789.02981    | 3,877.00     |
+|HoKSXAVe8YSBEmnxBNEMVfFZB4vExVAYSJg7RW3BVKws|17787.93029    | 3,877.00     |
+|j1oxqtEHFn7rUkdABJLmtVtz5fFmHFs4tCG3fWJnkHX |17785.92761    | 3,877.00     |
+|HCCWNzvVBqQR9vLqPMBqLsmJApbbbNoFu2jJR5FCmZUL|17761.96558    | 3,871.00     |
+|4TisK1asSgPakiV5LasCS8JJA8gjdLLvP2agruHAyoGc|17754.96685    | 3,870.00     |
+|9fibDnnxFEyUoUYejVgST9mK6Fvm7enhUR5nkGJf63PW|17743.70589    | 3,867.00     |
+|FKgscCiNuY7mX5PtT4GtSnmtzy5u4k2SsjQFzB9MY2MS|17739.63082    | 3,866.00     |
+|5G9HGfQeCozv3xvBZPpRsv8WTKSohy1pLgtLv1AT6Xar|17619.50496    | 3,840.00     |
+|6C3okBtRVg9N5Dax9JFvvw9E7BZ9gcETHEzfSfUnGf47|17489.54578    | 3,812.00     |
+|BUn9K24FX3qAaeWRtFdVSivK6ssHyZ7EJGiAQfHod37X|17445.26709    | 3,802.00     |
+|Bq6C2xKvqEue3ocaPa1kavNXKaUjC3ygYFgh4Yd8aFxt|17378.45028    | 3,788.00     |
+|63e8KXjGfrBGVHBVda23zp1uz8Yu4vSa2J8zg29GgZTz|17361.87768    | 3,784.00     |
+|2kHTkU5JWvgFVc31sjK6CUurs9m4NnLoDHLZTWP7aAAh|17330.78666    | 3,777.00     |
+|sLLL8HFcyYfux6tv4ouXYov4tKCr9hr9S5iyueVJGcq |17303.15404    | 3,771.00     |
+|ER2LBT2tmbzGhTzVVvgBLWF2vph21P8zLqrtZtJ3NMJ5|17280.8074     | 3,766.00     |
+|CMc6p8NSZuhaiaD3yRhKJJEMwW3p8PSooZKTKiB8inU8|17027.59156    | 3,711.00     |
+|5C8gJDjsxrA93fgPpksAxG5jUx1mMvabqmyNFpruxzMi|17000          | 3,705.00     |
+|7bvwM7AMNsqZHoZwy5dgQdS7vDgXZxn8ZEf2hrnmuWvL|16973.93349    | 3,700.00     |
+|9VLDG7kpo7mj4FXXDTE1GbnbpQGPonTEiToLzQb3gcYq|16931.09913    | 3,690.00     |
+|QUgA3g3UwgkpffGuCPNCZgAgNsrT11eUekd9hohm95i |16896.75566    | 3,683.00     |
+|GkM1gPhmhVJsq6aCL4JBAZkr7KUwPNHgQ8DY93Pc35YR|16840.43849    | 3,670.00     |
+|8LVj3QrM1mne5GwkBpchkx4jSzBpQ1GxT3u5mtm2RbFF|16791.04102    | 3,660.00     |
+|G173hkaTJnPuNxS3U5BnNZwK8MX6p4m1xKzy73ic4eSV|16531.21555    | 3,603.00     |
+|6duiChQ8yLiS7N3UzF2QSbQTNGiuYEh6updcYm8bBNNf|16525.90539    | 3,602.00     |
+|BbCtkfhWzNFXNQSmenT317B747uyprQ61vmUi4WHvrrv|16486.98844    | 3,593.00     |
+|3JWaJU2U9nijrDSB1pSz9CUbrDyg8eF8epkkP6z23tvA|16480.70174    | 3,592.00     |
+|EPym9wXzXab9HPZbMxo8Z1h9FAE28MJJx3y7iprdRX7Q|16439.9661     | 3,583.00     |
+|9kAS5FZmJJnVEkPPH5vKmFUK3CKP5UjHp8WxVe3FZeBu|16366.43147    | 3,567.00     |
+|H5RT8NzaYraaj8qS5v4tXTsdDPEA4s9ok8GSsJP5Mhev|16364.44321    | 3,567.00     |
+|UGT23TMF2rFP52SXxPU4DMPhhLs3epZNRsgk1dvKcWt |16347.39139    | 3,563.00     |
+|pmixq8z1QCTEfb5zMAC1xy9XDZBU81JxyKzH2eSG9pS |16337.10972    | 3,561.00     |
+|Aic9NCE3tJUYq7giNC74ozY8YjrgvE3aEWzBvxfWomzg|16254.45262    | 3,543.00     |
+|E5oMKWfVHofvLsSYXd3rX9cp3bZXxAbFnUJSSRWnzUdW|16216.45735    | 3,534.00     |
+|GAbaDZnDfSAbNSb1rQgEXxc5rKTyMYoxq8qJnLz23oH3|16213.74204    | 3,534.00     |
+|HdrP6k2JcNXzRV9kR1gQg8maUKrmRbgr46zSiTSjYeSi|16131.33007    | 3,516.00     |
+|3NzRXsDmtMnCQEpDzpkVR5PuPvGKKWq2Xnt8gn1M5Q7P|16098.23774    | 3,509.00     |
+|3RBRKHsUZPtM8kVmFBMLcMsNzLWJivXdu8edYLB2nunq|16048.13415    | 3,498.00     |
+|4wg6tdizopC4GgzMP3gzZpWrkXAcnJPbjQJPc7ftM3wR|15964.82823    | 3,480.00     |
+|HyF6LTp5jpbwYqYaFYXRmpTSNsYxaZiHcHLRrHuPQL1H|15891.58356    | 3,464.00     |
+|4zqjCbiFzxz6ra7VtRuEGFSB7gpyBcarHbEYtcpnoxfD|15863.08829    | 3,457.00     |
+|A6SsnaHWD29iprhaJKXiuRz993Hu1pd92rAAjiUMdVbo|15819.85162    | 3,448.00     |
+|41q1iR2rvnt2WBSB5SxzUFAt8dyCFNR9Bro6VRX7Y6Ho|15815.84398    | 3,447.00     |
+|Bud2awxESStYjmeYigQgSpcxVtJXS5rCrFNMP5qTHHxZ|15753.07793    | 3,433.00     |
+|CfYGJCyRpFRaD766TLW3gtJkxGPhqYJVgJnHSU7DmRuA|15737.10711    | 3,430.00     |
+|5Q6oKDNzMKEvgfECNv7PzARKm35uxAauwxYmG6TGxbyT|15692.05268    | 3,420.00     |
+|4igr5sF7bYi4JrQtNtr8cvCUNyMbkqs9rCH7frJ4Suuy|15657.54638    | 3,413.00     |
+|DBHmQY2sFkWnaUaHv2FWjUjSnJMjeMTCU9eBpXYsiy22|15642.19387    | 3,409.00     |
+|BzxzsGWhiu6xJwaq6RB5FYdYUCjU1ZxissZH9t3XSEMq|15435.81921    | 3,364.00     |
+|4azTCTwsnu89FyX6Wqu5zrQ9rzRthBLtTzBcNZF64PZp|15434.75264    | 3,364.00     |
+|C5e2ZRmnMo4ieBJAou2wwrLebCG9efdhRuaS7hQXpzsK|15385.16318    | 3,353.00     |
+|E2BCt2nrkFjNqo1Ux6V6mCWfddvtw9HhFnvpFasYc9pq|15370.76789    | 3,350.00     |
+|BouzB1fVkRGV6oXfBYggBTrpYeW3LJYAJ2TAYRwjpWim|15354.42153    | 3,347.00     |
+|H2mGpwVS5VVUNCswnWiyycx4h9jzC3dLo6jsCKYweQ2b|15347.34471    | 3,345.00     |
+|AHCyfPm6rvRNGh9yLyGdTxX8hdPsCgrNxoyYQKhHY358|15333.19657    | 3,342.00     |
+|BUkRA8VEQpmcFjZ9iv1NErTtz9bv3BrTxJYJa6Wn7niu|15319.83245    | 3,339.00     |
+|7K1JNGTMzWWVR8ZCfvtp1szK4eqUjujVtnipExWgG8PD|15207.01729    | 3,314.00     |
+|DoZbmYDc158nHtoY3dDNqZxxJZpVuYbS112zq2ZGmadh|15147.0788     | 3,301.00     |
+|6kAt8wEchL4aJJVnAvDYkpMKaZL8ixi5G8FKZCPxTnmS|15103.55473    | 3,292.00     |
+|6EsS2SbrMU6dk5bn55hBXWkvvHCwspTmbHCt6oYswAgt|15088.40993    | 3,289.00     |
+|H9MBcSoNQrr1BSzky9E2PZcYRbiP2JTpcUnRHXcGbJuW|15066.5736     | 3,284.00     |
+|B4xGzkZ1EjYJrjgBUKswJxvzCKcX6UWTZ6d2rcvSrqER|15027.35175    | 3,275.00     |
+|HYyePUMittfaRJhpG8NqjJEnG9aqcTqnq8vWGvCzCiaN|15000.3185     | 3,269.00     |
+|G9ivbTjJz4bgtjyXr2zkCvUdv8FToXsopxzzacjFnJq6|15000          | 3,269.00     |
+|BaUqKsMaqJZQTthecfiCtvNWBjCnCAFghDrmSKWz4Ats|15000          | 3,269.00     |
+|2UBTq91R5R4ogQndewRpfsYJziu1bLqBqrTD3BXgjcRR|14990.33442    | 3,267.00     |
+|5HVPwnqeqXoZq5apg1s3LxMhrkMB3Ja8ZHN99c7WoZnD|14980.35462    | 3,265.00     |
+|9j3wsQCaXvjTstfJQu1HGE7h6SMhfmjHoVp9L3BZSN68|14970.01004    | 3,263.00     |
+|mFiodmGTAu3NfXWpqCDva6iEXtQKFiU7kHWCUPuVpsn |14904.73507    | 3,248.00     |
+|6VaoaskbK6CN7CJJBxAApUu6zMGqaGVu3W9hcqRLVMGg|14876.26361    | 3,242.00     |
+|B43XUF3GVqtivxxQHaXvaZycz8S3jr4waSvCFDwM74Bb|14813.72957    | 3,229.00     |
+|bqugU2dX6pp8G5PBPuHz4FxDoWjWr4M5ZhYBh21dq2K |14804.02462    | 3,227.00     |
+|3Z8mTry6n4Yz5hJue5xmxufqdb1BBLefGEXV1yTBg4ev|14798.78024    | 3,225.00     |
+|2pokUHgSsWcsDdmYAo4EX1JGeVmXvukVAjvRGexkv7CB|14650.61832    | 3,193.00     |
+|BNWBHdayV27CVU2yGm7wuGHNSK8xX1ykdvWLDK3vWs51|14647.77892    | 3,192.00     |
+|2jwa5XKRXs5Symd3PW2FDTpoW7jeyrBfv3Bt2GbRfxwv|14607.57347    | 3,184.00     |
+|DfKNUxqf2cF2PeTH478qk2fLrtgwz9JLiWQ76Q4SJfsx|14478.26087    | 3,156.00     |
+|82LqdZ9gagf7D6vbGkZ3xZt6KdNAdFTTreMCdRciup4v|14460.34365    | 3,152.00     |
+|2bqSSznU1kfhCVYaYyRywS5ifRCF8btU7sWkabc2eW3V|14375.4895     | 3,133.00     |
+|4nfXZMdjFV572oa7nxs1MQWeFYygF5ZxaXaMkQvSVe9M|14363.56403    | 3,131.00     |
+|Bn2BryP7PHvyLNzPTg5VVqBEwyPcZG7mhmsNa4VYjovk|14327.76327    | 3,123.00     |
+|GezCjMMT38oKxd4UyXYLodSX9y5KCzWQTSGD4tZWdYHX|14322.4874     | 3,122.00     |
+|Ez72nPCEn6tzFEhPSN1ahHQ69ktxjc1zAcmREWEhZW8s|14314.16877    | 3,120.00     |
+|3yzTwqcMiTAArghQrwUuEHiKtZFbW5qv43erao44wiqk|14289.68899    | 3,114.00     |
+|5Lggqdm9ttSj4mtqxNrDdT51be83LfW4sVvG8mEwo4pb|14129          | 3,079.00     |
+|3tiHLjYCRDqZd1xv6gUkmpFgDdpddXGhVYXY3ySPxmDp|14106.22548    | 3,074.00     |
+|CVuAtGJXEjRDuyrPgeukPtSK1bLnpTLZttVfTLKPyCaM|14043.13575    | 3,061.00     |
+|BkcidEZ14sHBKVCxqwMBEdPLQ5FTmd59yBeKxBo2gLLp|14041.84944    | 3,060.00     |
+|H2q4vfe4znMhUxDjm8RMibHQfc2oHQZCE1F5Wm4h7qs2|13957.38717    | 3,042.00     |
+|C4uzvDD4Kek2yPwQCWw5KzMHPcArhBRc76YYzesifa7d|13931.03601    | 3,036.00     |
+|EtFkGMLADyk9RPW8r1c6ScKsgsAPhGJnKdtfvG2cedKu|13902.79013    | 3,030.00     |
+|25Uqff8X4cB6gZGTeLZzEjTnySjyrtriCntLhB4MsHok|13857.32348    | 3,020.00     |
+|2efhB6vTqGti3Qi9hEwMzKgreTKpPvX6Ve4wx1TJXr5t|13819.60557    | 3,012.00     |
+|AtK82Z5N8fq8nBuoaacHVkNVj8axcxurRF4urBHVRBZP|13756.86499    | 2,998.00     |
+|B6buvPcqU9HVT33WMM1gop7taJi35m93jNacUqWjN64d|13733.51343    | 2,993.00     |
+|CazASUjmhsjEzW1c1ZYQ3tmqqSaDRSkKHf7iMotf5KfD|13723.72809    | 2,991.00     |
+|3TXVxybb224ESxMoHvDhtQEsViTob6uFuPtr4t24YzUr|13672.75608    | 2,980.00     |
+|4eE9iyBQ8J2HwcQeoBKEhZ5QFbDL2sjwUJJRTkyLck4V|13668.32772    | 2,979.00     |
+|829T2CJaicpm5Fw7xvm2v8JZMgDVNpy3YLzN9NXWvmhd|13637.3476     | 2,972.00     |
+|4dyevHtcCZEToxe6cdqfm44U9kVXVpwdx1kHKUBUNiAQ|13605.5276     | 2,965.00     |
+|3p1t6NWWgjXYhkJhwCtdJjg8GUsBaA9okRPNNvx8gJZm|13599.07274    | 2,964.00     |
+|8ZcCuujPm6em1UmSdTeobvi3Jje8hEdqfXknJbeVviLM|13598.82586    | 2,964.00     |
+|B4MaXognYT8F3c83uMHHCBv1YGQTjZaV8C7ebaPJRxoD|13595.22599    | 2,963.00     |
+|2F3FWq3S3a7LiQ2K4LY4CzFyEfy1A9CvNTmVCCVPMrHe|13496.14233    | 2,941.00     |
+|9Y5r1cxXmuk2mLkKReMq7eH3VTRNKRKPvFmyD7bXt9EE|13491.32641    | 2,940.00     |
+|8Zb3FM8byxtVdAv4QRhqYBP7GqXHokCGFpC96zYstAAj|13417.14686    | 2,924.00     |
+|E5XV2i5V3sCDxSB8wv7nG6JvwGpC9wD9ADX2i8soKwgH|13391.66048    | 2,919.00     |
+|9qADSydSRutCKzrB7kPRc8mDf9ski3yxnfXn7iQvYD8v|13326.71784    | 2,905.00     |
+|D9rwdUXDQvFJMCDjxhTbRxpN3pEAsbu238oVC6SV1D2r|13322.65395    | 2,904.00     |
+|9fV8BkGaTFbBaFj21MyWtCqzrfJFZSSFCztJahsiCdU7|13294.87075    | 2,898.00     |
+|THt7oZ1nmCaCxUkQhYE724JAqz4ZnogpNoajqZnJzDM |13253.89006    | 2,889.00     |
+|Aw4C5UJy9NQEvjEhysdsQuPHR738eBVQQPmoVwfKR7F |13229.71584    | 2,883.00     |
+|B7KCMw7owcK5pNs5XbWw5saENymNHstVaxXVCYuL9wRM|13174.93564    | 2,871.00     |
+|8xmhUFWQUE5E63Krohcdt4hyqZ8UX4V7HhQQmyt6GXxz|13163.61538    | 2,869.00     |
+|EE1s1hdZN9NePcoWg1B9TPMqGDJrRg41CiGt7LSBvSUh|13152.80247    | 2,867.00     |
+|2sbpjfdsUbadxU51nyfzJwBgxh9dtQCdrJPJGBjE3g18|13032.3198     | 2,840.00     |
+|HgdjX6x1dxREHUnRDiBrfqVBcNcrjqWaseGVbVsqUXuw|12940.07054    | 2,820.00     |
+|9Nsw76CxRjUbzFai1ernMGQAuAaBu6MuXpHK5WwDqP5g|12923.21905    | 2,817.00     |
+|FmTQMkFEM3asJJfwBFWWFdtVCUfbG21VbdZA8tzGkyoj|12902.20731    | 2,812.00     |
+|DZN9H34GBD1mxsC9SqM5JscuhKA2biyXt4vJvAxyDJT2|12854.01228    | 2,801.00     |
+|yDyP8amRMtnRSXT7LWfMX4H6iFP6hHhsstCtZGSDGwC |12823.13592    | 2,795.00     |
+|5uvp9iB7mkhcQqaCokhPn34H3wELWWJy6JM871dtJDfe|12803.12122    | 2,790.00     |
+|584uYYK8G1NHJX4VK9ZpJhtHnuRfPTNUdq6jsbmhCSQ |12789.1115     | 2,787.00     |
+|CVUgFyB2BprrJ7V4uBQjfQtLY1bt8vpcuNt8qEt7qYU7|12747.61361    | 2,778.00     |
+|6MZvM9pvK1uRCcFyD41C34cDNpXzY5h4H6v7LJySez5G|12660.7298     | 2,759.00     |
+|D1eRcDwWeo59riiP6c4YPUXo9cQftn2C5QUPwn5qotx5|12656.21246    | 2,758.00     |
+|Bb13KhYNqZAUQE1AHcPbVhqkgmL9ahS6NnA9ydczpEmG|12647.03348    | 2,756.00     |
+|6LKDj9ZrXSShQ29yRSZ7rSCTmbgdaaU1XtgTPW4pYK3k|12591.3533     | 2,744.00     |
+|2wn2kcubFQT7B8H4qMZ124xrNZcW96vUjZ6rr6LdJEGJ|12501.01651    | 2,725.00     |
+|6K6XvQj1EjEfkmnYghWZ6tgLmU4EZ6rDvTSdhqJjyrGs|12254.41397    | 2,671.00     |
+|EtbW1r1BBkY4ueNGzmLbG3W2Z7vRzSXir5e1XoQPSWmn|12230.5611     | 2,666.00     |
+|EaLwYHQMRrWWxTZS3x7Gkf4BXLbo3DxRXFPPrzo33y7T|12216.18298    | 2,662.00     |
+|FjMfj3AMhvnmwknpTEhVXommNXdbZuv4QxMzKa75wM4W|12209.28273    | 2,661.00     |
+|Eu9npJoWhNYDurWgzufRo1dk6isAzAUkBJqMGDmxTDhH|12203.95482    | 2,660.00     |
+|DXP7XgLBbiB6BZy5pCbnqYGEWj6ngvZLSaKhqEsh8Yqq|12156.28094    | 2,649.00     |
+|GSrWs4aLBP2SdhZu8VmZ2W6HK8obnzoPAbH2Gp9T4uhe|12139.73473    | 2,646.00     |
+|6eW233o4kEpYJEuepgWNNiB9t6YSDwR3zTGwicg8isEL|12129.77847    | 2,644.00     |
+|3g5ebGqoyZbvaifua8WA6q8uR7qjrVcd7gC9Kwb1o4mp|12098.50027    | 2,637.00     |
+|6Ss9fnMoZ6nL6Zdp38xtEzkZ3CP1WfG3S88DWpm4TuxP|12046.81561    | 2,626.00     |
+|5xXCWc6Vm45K494GzjAKnfGmMrqSszLABRbKjBUBA7DN|11990.84418    | 2,613.00     |
+|7YsW7d7QKcDVtTLgH39fzA4XNvWa5kz2YtXTT2WYuZpb|11919.39104    | 2,598.00     |
+|BiJgQJG8gK3QUSxHV4R7tHPmvQoQkZsjYrxC7Wnncbyh|11879.94579    | 2,589.00     |
+|Ga4FSMrMaYctYYBnX4c7wRLJfY59txhzzirxUqkH15q1|11863.61688    | 2,586.00     |
+|EzqjQ6T31ft3PyPyWi3PJjmWSu8ntg6MqJoUHjySJ8uQ|11778.19596    | 2,567.00     |
+|2tFEeixKGYjm8qsMVWs6QqXW6TNQrigCvwMpFDrwz67V|11715.20541    | 2,553.00     |
+|JDh4uqHvuaVtJBdur3exgV1j3eecSPsECqaVj7dwCit6|11711.51515    | 2,552.00     |
+|3gm1pABbN3mtwbVLFwLM8kwqtph7fnGi2nkCDcugWahC|11694.50637    | 2,549.00     |
+|3BqNmLQYS5G7FWAJNZq6xFwZPn8xUS3brur18VJYeCCZ|11662.10818    | 2,542.00     |
+|DvAfrg3YNfVAgzychzQhkaXAuC7zJrMyMN4ypYBviy9n|11652.89507    | 2,540.00     |
+|Fbb358XBhCjgrK71r1N3EgbcY1GauKCkjxbQhXpudKio|11645.45484    | 2,538.00     |
+|HXSBhNGCks6R1K4xCUnLgMtgryRQ8ex9xC1f15LfsSCM|11638.25704    | 2,536.00     |
+|HsEAE8Z8s5joR1ATZ8coB5Fosk3Z19NPiFYADo3g6TJZ|11635.38087    | 2,536.00     |
+|9yXXDiTf1CD5EbH6vS5c9xtxQqL7Dopbdyj2wcANLRon|11615.98233    | 2,532.00     |
+|Hjra6E1SWxC2YbruGV8rMtXUyz5gYgcBWUfsH52TQ612|11614.44069    | 2,531.00     |
+|6wHuhPq3AZCSQFFV9kbwKttrk4HzoXjrZp3vKBgxzAvN|11587.01131    | 2,525.00     |
+|FtcmNuaT1WDPVNH6FzQJgeqeJTbHzQ5ti35TdG9YgG4a|11570.14486    | 2,522.00     |
+|FX6bFXjLWNT6WnERUZzWv4pBodqdb1XUTebGETTc3YxC|11501.98277    | 2,507.00     |
+|GHQk8D6SaPm62KYxazqBk6qYoVtMwatuzmegUWe1Aj8q|11500          | 2,506.00     |
+|EepFicm51vWq35yKSrRH6fVeQyccmUKiaRo2VfoCJxuC|11477.1429     | 2,501.00     |
+|2fejUCMWURh3FJnFVwy7mf2fX78ke2VoFSoZedEkTZcr|11453.79322    | 2,496.00     |
+|JBK8odBD5jW7v9LVFEYfrNtkXX6L2oG3QEJndDRD3AZY|11419.17137    | 2,489.00     |
+|ECqh7jtmmDTdVVsWevxVc3xgtzRH8t4dB9RArCvBYEQ2|11397.13724    | 2,484.00     |
+|6uGJiENncweMADZ5NzTdot1wvt8sBaxZqS2JMGQxwJrF|11392.35518    | 2,483.00     |
+|74jUb7Q3GgQzzkB7KNCB54FjN7x1kZXN7LjWeS5NrQAQ|11370.6347     | 2,478.00     |
+|727LUwGW5jJjLgqUvexN25EJK8vEcxwKhUiw1N1ksiXe|11340.35319    | 2,472.00     |
+|5VHGjNJzgZDdaRCsEkzrBz8vrJT3bEs1jm8My8eZA5ph|11308.01042    | 2,464.00     |
+|J3bqa3fQQRQn1BbwRV2Pkvg6kpgWKrPdc1Z5H8ES5TGq|11293.60902    | 2,461.00     |
+|4NgQsnGZkK5c38oyuPTcFFXpHU582mD2cwnVcWjgJghX|11253.34922    | 2,453.00     |
+|AGa5N9ssjxtXBeUWFtJ9UDw89huEYkRbJqzznNsnJgm2|11240.42266    | 2,450.00     |
+|8uzKwYTy17u44wbv9J6sJ1UurFBFLU5XjE3aCWSgfdQ8|11179.20165    | 2,436.00     |
+|D6xDvY8qsqpaTZfdQVHTGg123RXD8dNZpbsSrVsoEirL|11168.44502    | 2,434.00     |
+|Gfy6e2bKhpJuFbP1BXLx2m5HVAQqbjD1t2HGbaukYE57|11157.01254    | 2,432.00     |
+|5mio9qogPD9feXV1wc6b3UXCJCrGGpxwhmLSK4eARENZ|11155.81129    | 2,431.00     |
+|7twgnCPSf1Dw3o2ic7F1VR6DBSu1QzZ8ziEXxy8881ky|11137.88149    | 2,427.00     |
+|BYFjRdTtD6CyobELi8EHUjuqR1TvqUwkFRYu223U4GQF|11126.46058    | 2,425.00     |
+|2N2pqCHpNfSXgXoHiYkkLtkLKP3uUCUKMjaGkZwXPfCg|11081.73757    | 2,415.00     |
+|4DEWegVRirXnwLNn36trGK97u1ocaKtuDzYJMQ2ysWSg|11080.70839    | 2,415.00     |
+|7zb4bHbiGeuDxJS86NQr212i7YJk7XvUJvbYJtqxFp3z|11034.9926     | 2,405.00     |
+|5yocebyAMMCdeaUWE3VfF3ZNRDP5UEQibgftiQqqQqoN|11017.59132    | 2,401.00     |
+|7JfgLmHgM4Pnf1hpfvjaFcMqh5qtxSyjfe6Nrq733WyM|11000.45527    | 2,397.00     |
+|DWtE6ickUjqbGG7C66gDiu1SFnT9agxLB243doWRcWxk|10938.35979    | 2,384.00     |
+|C9Pq5vmMbYTUdbaw4PnaS8rnrC7uRQJe28mWDdZVoBm3|10935.41642    | 2,383.00     |
+|7Pta9a3iKSppoYUq5C1Mp7obe6JyYy1rXXFfCQzo7Wwa|10903.92987    | 2,376.00     |
+|AisFSvQ3jXBmyNU2EPt3H1eCzYUPWSaQDidDxkV263gD|10853.53133    | 2,365.00     |
+|BJY2q2Aup5fbnD7puKwPmMY95NNVfYVPteQpNiWX8Np7|10823.7143     | 2,359.00     |
+|D87dHKt9Q8cTFjtDRQjCSg9U44hUC1Vm5VtRaKcKSZxK|10787.68824    | 2,351.00     |
+|5wVSwvPRSXzvq8DYFBYcuFU9e5QXVn4nd89xjKJ8XZq3|10681.5522     | 2,328.00     |
+|3EjVdbbwCJVBMbji9zTaaqDNfSUoFgza4ckJSU8yaiW4|10547.71012    | 2,299.00     |
+|EMj3WbhRjyLB5LKFWHKf7H7de8BY8wJC9nr582QWA8za|10518.99886    | 2,292.00     |
+|J1FSk5J7h8dqhx4QKuhc5YPoyD7TUuptoQXAaTzhTsgF|10514.81429    | 2,292.00     |
+|C4uKJXdT64fmjQeybgjnTKdqLSsabHqiaGncBqgGqoSp|10509.09183    | 2,290.00     |
+|DePaUhnnZKB9SHDJFs16ok8cSfucv1EKfyYd6tPNA32 |10490.64042    | 2,286.00     |
+|NTmngBUcT84deqwGLV6hBFCU8eoi1M593XJjTV85uN5 |10469.62187    | 2,282.00     |
+|2pxnbyrEiVNsdRPnnZe7Gp2AaG4tdf7EeBjaboreBr8m|10441.84598    | 2,276.00     |
+|6aVTaL64Binj4ysWJo3iYdQS59P7TJrhgyP1tYywmkrd|10374.38057    | 2,261.00     |
+|i4NtwPif1CXW7GoUAb5MNdQPHwih82xjU42Rn4ZH7rj |10310.71605    | 2,247.00     |
+|FX8FEqcitfG45LuSp86twRDgox2MeoR6qJEyJVZQk4Qm|10242.86727    | 2,232.00     |
+|361GfCNkAabcMJHEixyFZRi9qzzABWf6JoTpD8Yv6R31|10209.19012    | 2,225.00     |
+|24wnSNAD71Fnm2mdFSePLZoDz2tmNjb5SPaBM6VNTwFh|10188.74339    | 2,220.00     |
+|4spHnfQUHaFv61EBeETLqEM7XfWDcj8D5z4G3g2HGWXP|10140.79939    | 2,210.00     |
+|2AMARr7ghWvprz5xeqNXTs94JzaPBLcJysUiCKzPMWwK|10115.52993    | 2,205.00     |
+|44urWuu56vtVuf5TsBRjFstrscWzhBh1DNsoXn7Axa96|10071.32624    | 2,195.00     |
+|5fF1iAa4UpDz4JHGpmfaSZ2jpaK9HSHiGD4mtyCkEHGP|10057.50562    | 2,192.00     |
+|88HQTzH5pG4L3obPjHa9SBoovjcbutnWhS4JNhoL2MN |10044.14548    | 2,189.00     |
+|9tDaw5gTZQcYyZnFEbBQja2n9SHm8ZrgvELbsvRpeFkh|10039.44058    | 2,188.00     |
+|G4ef4HhufmpaVkDvRgS4G4MooAMeg171syS32bPe47X8|10004.13182    | 2,180.00     |
+|5PkSZYrnDgWqo7oZi2efNKbbfUiVqVGfSEVKVcjZxut3|10000.79192    | 2,180.00     |
+|71AkS73ge1PWnFoSVoscSdjKE9CbGDviCS2G493QTEBj|10000.7361     | 2,179.00     |
+|2cKNdmcADxrfr2eteQ4MjtKLWcXRyMMQ5pUncygtfsof|10000.38678    | 2,179.00     |
+|DMkZU6EeeuYEVYpF7ogpmY8bKeTvp5WTH6U1ybpFh76a|10000.22801    | 2,179.00     |
+|2WM8ybv8qpfHTyxN6Wh7qSsK2eBByaZM6ffAzRMhyu3w|10000          | 2,179.00     |
+|9eCMJ48FoXQN33HU8ekzhAxsbvzNZ3w5riLnqMudg89g|10000          | 2,179.00     |
+|D1pohMNM9t8rJqPTgQnJN1RF2rdVJm2Zo9ZWuar4KP55|10000          | 2,179.00     |
+|HSspsuvdBdzqT217eQt7gQbxsaokTerjVgHtrme5cAgP|10000          | 2,179.00     |
+|4CPjx5VwcZZQqgEYztY43Wv2c39mxizPznMxYkY9mi4G|10000          | 2,179.00     |
+|BYrmoTdM9jNT2dCZ32FFkvY6qYSenbDuajPeVVSWi71i|10000          | 2,179.00     |
+|9kLz82tnVoiztGUcLgELHP7vi9sferuhs8wigRtYoJ54|10000          | 2,179.00     |
+|9WFp6WGK6KkMb99brzo8buM1Sr6jUsKZdhRWk9kUuQGN|10000          | 2,179.00     |
+|2YKnGLRXfDGakXA48ieGrTErdxNwyEHGqs4XkuEEsipx|9990           | 2,177.00     |
+|2df25n7HfeU2s4M1ZRS8Pev6aWHG6YKxPtJFYsn1P3vu|9976.525615    | 2,174.00     |
+|9nLZKwPJLJHcxAZmwBy6UrH331tmrP7E9jGi2Pe6whqw|9965.202129    | 2,172.00     |
+|Eby6NkV3bwh3Cyhok4VsYqQ54cDh6oKNWGwoxMehX6ZM|9954.346446    | 2,169.00     |
+|9ooo2dP6HtDxYbUZ4gV1VZCx5mykkbjhDCW49URQnmNq|9920.664105    | 2,162.00     |
+|8LzDwVs8ZxEg2XUx616HUWdsfZJjv5F8wBGa4hf9Yhwy|9899.188981    | 2,157.00     |
+|13AEGhRfvPEz4DFWeg36qPyRGa9pKxDSmF94A9wxRMz1|9887.623418    | 2,155.00     |
+|5uc4ebLBtwtJA3gskpT125f4g7DAFYTbF1k2t534sxR4|9873.976551    | 2,152.00     |
+|91PaMH4J2oEAuaXRZ1WxgLZp882mZMh9EZRw14iUqwE5|9854.256829    | 2,148.00     |
+|5htHPeNDB874WjAzEunrRNQx9cjX2c2eTg4iYYE2yqGW|9820.592571    | 2,140.00     |
+|CHk1XkqvgemnVskqBeRr7rQ1WaqweiQ2UvLU3rRqxDrJ|9780.065757    | 2,131.00     |
+|5f6c865yEB1Kiirg36WTZA4KCumuabYEqxrMoxFDvvyW|9773.038545    | 2,130.00     |
+|CsJzLUe3CVqp2jCS49MCW9VTdNo37ULQeo1YsccoUZLJ|9770.958703    | 2,129.00     |
+|GvRRMtqLy3PwWqJYXZCLLFpNaFpScpZFDrQYq2FUTWKm|9756.998765    | 2,126.00     |
+|381Q9S2MgjymxCjoMyFfPSKiqyPMpbydBcheSceS7L3B|9641.313537    | 2,101.00     |
+|EzwTjrZzkH94BpsDTVdtoJKNkVE4tD64Y9gfbkDYwQyi|9622.378442    | 2,097.00     |
+|PFuDi6d1AKSv4evsk8NzRNp7osJBTmySoLHmDTFBrTb |9611.639591    | 2,095.00     |
+|8xE842qMe5H2drNRHeEKVxZSCmqFQEdMEUh99E6V9S5v|9554.840141    | 2,082.00     |
+|ES5HyjU3Q7CTeALc4Ydw1hmStc8bpmfmFCwS7A7qdxGR|9528.133269    | 2,076.00     |
+|FY76uJcFhMYGCSCho647Vb9JHTJWq14dAkFjun4ta74R|9525.920694    | 2,076.00     |
+|9pDSjtnFBAsAqsrx7QYsbNjA73Kw7chYDKish8An8Eqx|9487.636875    | 2,068.00     |
+|7rtCRWGcjEkN1pGg8TitxhHgmzwuZJ7qYZnB184199mF|9481.467326    | 2,066.00     |
+|7igS8Yy9FtAaWM2xE3h7MF6XkQJBvfVjuQhHUk4s4Vqp|9461.723341    | 2,062.00     |
+|83Se1buRr2cDwdFa5uqZSEzRnU4sV9oYUbjyjqQzTWMG|9416.768954    | 2,052.00     |
+|GuNSjgF5YeHeVdBkBMnXfuawFRzxmWommgK6FAkoWEFA|9338.58653     | 2,035.00     |
+|EgT6uVyjxc2V8tdU9bdMWUqmNyyXgvUAv8gy2GDbpEf2|9319.681587    | 2,031.00     |
+|7Rzymk5ZD7XnHiq57aFpVLnFQZs7649F1EzyYK124wJb|9308.749139    | 2,029.00     |
+|FgdRyV7vLEMWvs1bxXETfDsp7isG2QYRSuudWd49wQXq|9305.447529    | 2,028.00     |
+|6HuJfELtDQNTeYjrXw2pv8Q4nZzgtASzwHphjZawj1bW|9293.966496    | 2,025.00     |
+|ctMjjowBSprV38vn3DLgjNFXQSrNNibAkJ93cfFW5c4 |9250.263849    | 2,016.00     |
+|Df2FWnvQTFNqBfFqKT4aYjLjtGRgJwMsBYsiCpsQ8C1s|9214.876911    | 2,008.00     |
+|Av2A2pD4VsWo5UQNd9MjPo8s1H5ZZDrRfUz5awS8tbs |9172.198925    | 1,999.00     |
+|EhQcBB4fzvQ82TTGonKGj1nVo2PHPJD8ffSkASyiHyAc|9134.183889    | 1,991.00     |
+|4SmQNNzG6remxhBKJmiLz7aFvMcboACtD4qrgysVyEsg|9127.914554    | 1,989.00     |
+|AtcuSLBw5stmCp6BMvxcqkGcePsV6Bprrc3jBZPb4ZrE|9083.014314    | 1,979.00     |
+|9W23EpVpoYg6qac4SkdGx2AT4F1zckruLFJJWsAqUf3v|9078.230309    | 1,978.00     |
+|FWmz8QEXNje7BrB41GoUhkPTwAP8dmh8mpMAtqCRtvFF|9075.884632    | 1,978.00     |
+|4JAYieRWwRtcmdgKSQ2Ag81NWrt5VvSScDem7BwYm11G|9000.859413    | 1,962.00     |
+|2jLrcfJGPx47iebisfL8anyVh3wtNS9ZNW3ZThs5eHfW|9000           | 1,961.00     |
+|BVSutc2KPVQ7NMdK64AAmhp5GZdrW2296CRJ8z2x6zK2|9000           | 1,961.00     |
+|6hxQwwL6PUrkSo6ar9mmYVrfRyvtaCuTiP5fm1LRU571|8981.443645    | 1,957.00     |
+|6k6zXgcuPiu1rbmygHDZGQAdegDswGQByrVhNfBXT5iW|8964.633029    | 1,954.00     |
+|C8bu1k5pzDPmf9R92kHVtWvVYdynAkhqWCEE9eSyjgag|8957.204969    | 1,952.00     |
+|3BC9hfi9sXzFBycTnXT4D4Zkjag2EiJn8quEnR4eY6sz|8925.785053    | 1,945.00     |
+|A2h8H3WL7gVkfHAfJsGrFskawitWSJgQooUGVX19zfxP|8909.630919    | 1,942.00     |
+|CBKErR6Q23i6psZpXcouVkrRcAyzntdkX3p3YDKMECSh|8891.180833    | 1,938.00     |
+|229AjHfgp2tDbuP8FkkdnfRmjPKduiNMYqs3F8U4zLS2|8890.498157    | 1,937.00     |
+|BBAyyMFYh3pFazUHaKD3BF4vXKJa7P34fmu33Yd2hHQY|8886.421139    | 1,937.00     |
+|9H3rFf3pUQ9UAjaGMceetEnv3CHycNpHuk3gUFsKoTvp|8858.572541    | 1,931.00     |
+|HFqp6ErWHY6Uzhj8rFyjYuDya2mXUpYEk8VW75K9PSiY|8832.81741     | 1,925.00     |
+|DfUHNEP2omdwUAPTTkgr2psxFCy1edPASAfFY3hXJmzR|8831           | 1,925.00     |
+|54MCs6bTNhP2NwVgiK4LVw2Tujhv6MYFKJnRXKyTtRGp|8815.839114    | 1,921.00     |
+|7NwCPcGPoB8MExsQFWPyPnoRgUaLDhhqty3KDLBtNCdt|8798.816859    | 1,917.00     |
+|5FbgkYHoLwMyF1cRqCahedPtWhKQ3GKyx5g29wJLKrq2|8748.566483    | 1,907.00     |
+|kiShVLBWd3WxjxBUqp44sBtxzx4pLkZSphVgSb7dPU7 |8732.242934    | 1,903.00     |
+|4fJDbRqCex8LVTePuLA9m6crq89935UnPvfrYuT8X94A|8725.106471    | 1,901.00     |
+|EuA5Suxg41Rby3aZubuhtqbHheHG3PLvDvM8tUwWQdCM|8700.986998    | 1,896.00     |
+|CsKimLL7Kn2g6VM4xZcwEd18cjbAyUDx5dBjnHVDmg3 |8684.206631    | 1,893.00     |
+|UHQ3UTp8oM9ymU3bpk7uVTGepRSH5CnJ393wNYaxL1k |8654.120394    | 1,886.00     |
+|FWyzwUnTEQLnUBTnjCyP2GPUiUxA2AHUtAwa99MXM5nR|8647.191831    | 1,884.00     |
+|H91Y4q87bbctbH9SNiHrATQo2W4nvagbyPXMhFnFtDvQ|8623.430705    | 1,879.00     |
+|GF1MrVdJxwtHRbuJJJkDLcXpDkuvKgLFHvypTWifhGNU|8610.416902    | 1,876.00     |
+|DPD1kDqG6xbGRUBSojeXrBxLJ3j6Hgg9HxKoPV18oxj4|8609.876337    | 1,876.00     |
+|PekJoZjmgtszra9PoC1At18mJxoZa8SwyfRVBHzgCqX |8598.901449    | 1,874.00     |
+|F7Ym89srD73Cr9GuMFu6tgawJaUKpTyqeuZYxt7bYjw2|8547.443405    | 1,863.00     |
+|FDiVPpzjfbwxvjjqUSVrqFcCS7CG8aY9WWnxSsMWuj5W|8535.443014    | 1,860.00     |
+|6cYKhufjsyyR6HceGmuu3otCbJTQf8Sb2w87xDsxE5qg|8532.467315    | 1,859.00     |
+|6F2CvCa34rC4ieVSATSo8BGvH817oE5mfezDmL9T6k69|8526.090489    | 1,858.00     |
+|qriVHtyA5s1Mzb8dyAUBoumt5btinJFsRdPhrwoY5Mm |8500           | 1,852.00     |
+|7JQeyNK55fkUPUmEotupBFpiBGpgEQYLe8Ht1VdSfxcP|8495.237207    | 1,851.00     |
+|GCAdiHudNde1KWfN3g8mK2vGLqXcyhbiof1ScY9SRzT7|8466.680101    | 1,845.00     |
+|69yhtoJR4JYPPABZcSNkzuqbaFbwHsCkja1sP1Q2aVT5|8466.183901    | 1,845.00     |
+|H7aMfiZpJfimM3kcZvS6B4LcwVMSrkmQyZZKRwVQ98fx|8437.620768    | 1,839.00     |
+|FNjbGdpd3NThKu14neuexQofUDFqzRX63WdKdhJyGyph|8392.056271    | 1,829.00     |
+|8XuuZxg9FULSvF9FjpgV6TEWEtAjNp6EycupwqzpHEAE|8378.707797    | 1,826.00     |
+|9DgyreQrzQu6pXr7V5qBcBVSy59nwXqAPPQGfU9Z19Vi|8361.045274    | 1,822.00     |
+|J9mZ234C5FohRr8YwhwhxhRBnpARAjMr5ajyo1tRjrk9|8348.793754    | 1,819.00     |
+|6A5vvgb2bbBRnwmipkxDFZvsRkB6Vy5nRe4pfheqQePT|8332.659236    | 1,816.00     |
+|ChYXkebMzB91Xv2BXjQAhs91GyKawTKPvYTtBpYpYmwo|8328.987856    | 1,815.00     |
+|8nPEiHtt1br2WqpN7RcrRZwkhuysTiGnfnaDKf5tmVtb|8262.949028    | 1,801.00     |
+|Gs3HLZi6FKYZy9BQ8ncJVrP3pzVyQWLG3YKn6bXAP6dF|8260.103599    | 1,800.00     |
+|5ymarLw4coHCKCvBcJBem7Hr7Nke1frTwXg6X895abFK|8231.77271     | 1,794.00     |
+|3zP2xteqot5rZGgsLVpCmXP65sUwVVDhzqSzaiuHGGbb|8225.76097     | 1,793.00     |
+|GyFBkFwkM9p8Dd9z3ZWdzCF6DXus2uwxKCpSH8gRq43S|8216.928422    | 1,791.00     |
+|4rGzTCcGaDpmgzzGAXMVpkLbVMVXkB7TBpzEYZgqJbsz|8207.775801    | 1,789.00     |
+|2jgAaExRt59ZLanMz2t7EH32AygH6n2JVuuDvLm8dBsS|8153.781297    | 1,777.00     |
+|BiZSLgdaA6kYudR69SXjZsimg7wdHi7GUHwq3TvLzgA4|8153.594553    | 1,777.00     |
+|AbuwXbBUicXwGXnyMb1g3WVYT9sT3LewBgKLw6FEPygf|8128.179176    | 1,771.00     |
+|GjhbCEpdELkwvsmPgsBSotWf8xdx2omc8ZEWQXcsoRKU|8108.747969    | 1,767.00     |
+|A6BPebrjRARotgRRSrd6DGn954HgWxikdbqssDkpfKDm|8104.27935     | 1,766.00     |
+|6CRdvtvYybkKTkgvHYyrVRxfGPzCEP6vcGc3erUywjsb|8087.764022    | 1,762.00     |
+|6xvncQkoChvM5w3SUKeqy3Coma7UQKeeQsgKRsXoAtSY|8080.0174      | 1,761.00     |
+|6s6QS5NJVBSv2iGhD1e8HUkwoRdyiUtg4TZ38qFvg3Vc|8060.311988    | 1,757.00     |
+|GyiPu4hXzWxPdUEjQLMNsMbe9iRJEX7jpxrYgHhVjNrf|8003.940313    | 1,744.00     |
+|AxyYqSUoKV3y1yyMZmSp6KcYh1hDD5hkDti3kqk6NXhW|7996.868899    | 1,743.00     |
+|7wtyxk6XuVDiBvceMoMWz6AARMaXdQznoEZdHBZ9oiUm|7994.292781    | 1,742.00     |
+|66o5WiYv1ZvqMzbiJtwZ3FhFgLtESfNBCWAd6FAPqSPG|7866.986934    | 1,714.00     |
+|HnXLdiJwEYXed2aZ4ey6SAGsjx7aWb2NYTh6dF9ta8Mg|7843.009972    | 1,709.00     |
+|DSN3j1ykL3obAVNv7ZX49VsFCPe4LqzxHnmtLiPwY6xg|7764.256947    | 1,692.00     |
+|J8bMHcHKsf8DArETe6xSZYcTwu3QprECCJ5PQi2RX5Jf|7757.374916    | 1,690.00     |
+|2k1a2Q4uHESmBQ6ou7Xfq8E6mWR5oGSRMGxfxh1m1iU4|7727.324006    | 1,684.00     |
+|9uDYzQMEkAFN4NMu1W6euv4hNrwHvqs4BKcHqBmW5dbW|7691.912773    | 1,676.00     |
+|32pnqJqEztuzc2ot6WZdKEhs9fNgcyLwySaZDzBP3Xp3|7674.791421    | 1,672.00     |
+|4hxJ9eFcdhpyCXTiuUJh2QAZhWdcqZA4Q7oP1kemQwx4|7642.086384    | 1,665.00     |
+|A7PacvEQhxv5VshpF2paeekQ6V5F1HqzcRdBWz1DQMYe|7559.147733    | 1,647.00     |
+|82PfNxy6Noc1Bqu8XHHS9fazPPmCQ9R347xQgYhwQBJn|7544.535184    | 1,644.00     |
+|PvakpEd4DMXX8BTjS5iNA1siSSq35VT1Qu9dK5YGy63 |7522.36534     | 1,639.00     |
+|GgSgZXJCjTZVV1UzumK7sMpRGn5DZ4FhiKnhAuLeM3U6|7518.325588    | 1,638.00     |
+|682DxZSzM9ipjTGXxEuPuTWekju2oRaQ5GEeYB2ZYn4Y|7464.571151    | 1,627.00     |
+|EaEJdLQX3AFwdqV6NDhHZShWAMn2Mf1wkkSpJKQzYoVx|7418.803709    | 1,617.00     |
+|E9zK98wsJcsoHcuR2cBEGZYvnN7yJXfGZ57vVn29YxLk|7417.990667    | 1,616.00     |
+|CuYJaGWPRvw6wEUGnhopk3xxvLMx2pUCj6pjoatyNoEV|7415.784687    | 1,616.00     |
+|9ZQNC5NNmGpzUtqCuAK8pR5NcDKY4H523Az5obUsAyu8|7388.331641    | 1,610.00     |
+|CNKB1GBoYzvDer6tB8b8Wx1bhpgXDfQEf9mfzi8uAQtC|7374.599507    | 1,607.00     |
+|9hZ6ngZCuHSoGFpDxa9GjdibHx9VJQZjHxG5vrS522Zn|7363.723549    | 1,605.00     |
+|FnHjM1RtDs2C1MUncvAAoRCKhpyJgzYGFUut2K9FPJ8D|7313.334154    | 1,594.00     |
+|47Rvgd4LM24vEYHjicKB6Dr76ENsKBa9hLP1Yatuq7Uh|7291.67913     | 1,589.00     |
+|yubvCYnSheDvBhWJXu9JDRkdYWAjdCzgUmPjAn6EzRX |7286.483181    | 1,588.00     |
+|2ZktHCGCKYDsTc4rd1BytSKikLDEUTjZK3rTSF32SKgs|7258.861133    | 1,582.00     |
+|7mjPg64zftfuiDUEYajaSCAYZvMynNt5QohkrkYuWEnR|7255.507617    | 1,581.00     |
+|4NUfTUqE9YRxYkHRHXitze9YtKyM4npVMob4tBxth4ky|7223.286001    | 1,574.00     |
+|3RKmA55gpgXwRkc1wynjbmfGdB3uFKqKkMbVgWbWJd5P|7200           | 1,569.00     |
+|9FSCvS7Kbgoa9GawG1tcfYuKMmtFCbg1KtGXWn5RCRRq|7199.632683    | 1,569.00     |
+|A42fG31M1tLobKozHFx1iqa1rWDVgFq3SCyiE3UMVijr|7197.690871    | 1,568.00     |
+|3RpWHejJ8epf8HxWQZBXSXUR4CPDJ6vZtjusD7oZ7ta7|7179.146121    | 1,564.00     |
+|8J7NykUMDjd8YJWZdFtRY51qZ27N3us9nbW66tTi3KB9|7171.017855    | 1,563.00     |
+|CkuDNHJryD5Ah29KkiC9stjbyztJbmF9uFWQeGSWGQbL|7164.780304    | 1,561.00     |
+|GSwEzmYXmNLe34GpaAzGYw5KSHFwu6dJEJBaRy7joNhm|7155.247776    | 1,559.00     |
+|6LCpaC7EzDETttJmo2jPHeSb4rtHwwjpD1nViGwmkyMy|7126.426234    | 1,553.00     |
+|BsNKEWAL3SeTVK8oez9VhTCDYqQoJeeffar2cNjfZsFJ|7119.920185    | 1,552.00     |
+|DDVabyexTTvJJjNRpemKxc3gMrBSMKDQusYeXXuyEgYS|7084.55759     | 1,544.00     |
+|BZLkocd2WsbEQc5JGS832aMoTHMDZZAahyyekoEujMUk|7084.141117    | 1,544.00     |
+|67XAdrvrSbeRuHTRRKhugsaJYGSymyZZGkdMTURwEdn9|7075.608401    | 1,542.00     |
+|8w7YD6rtg2zUxmiGEh53v3c6uswdpdQUx8b4RnxLa5LA|7073.076261    | 1,541.00     |
+|9i7fkQyRLjyaeeQosiWQ2EKJTzzn5QeDkuyx9CTxNusu|7034.853669    | 1,533.00     |
+|2KxPcBoiBvteo2WmASGwCW6fe63geeNoqovTusnaUbp4|7000           | 1,525.00     |
+|AAMLe44yyAFTTicYr5BAmEYbj5Np98CzHtzZ24odiDbo|6984.197988    | 1,522.00     |
+|78uJKxh2cK2PT3Noow9sVeugh4U6sSpDimS8W2iVw452|6959.403403    | 1,517.00     |
+|Bte1sXsPLgdzyfZSe83kr4VVvAZcJp2cPARQEg4P1gsb|6932.919873    | 1,511.00     |
+|7niFp2y3sbLHTtL6Ar6xBqaVA1dmhMBGxVXTTtpQyeiz|6924.560867    | 1,509.00     |
+|ErWjNYT83Vp9HPA7Jcq15PRHv5EdCUTkSQcMn18vSBXZ|6917.755587    | 1,507.00     |
+|CapuXNQoDviLvU1PxFiizLgPNQCxrsag1uMeyk6zLVps|6906.004327    | 1,505.00     |
+|72QQ7Qcsm72fvHsAQijch72eA6qkYEef1EGg2iMefsLv|6890.947413    | 1,502.00     |
+|3AmTrAGki3JS4QjW11f9P5m38iwWSrrvR7HTqqcJpqXL|6887.312978    | 1,501.00     |
+|4jujU3Qs97xS4J3U4iZSbzayLRLrYL8bCo3y9ZEasdzG|6836.208664    | 1,490.00     |
+|2mtj1g7gFRqw1RZaMVSVsaSXiTLD1QSbsojZ3EmS4u9S|6793.674016    | 1,480.00     |
+|DM6aRWWEemgaVoHcRwNP4fFwe3jT3xfP8hy1B7NvYQLM|6792.612377    | 1,480.00     |
+|GEUSci2F7wkBCEdc3WjRPHT4F2sekP11TLmMqNSpuHMF|6779.117666    | 1,477.00     |
+|7aj4ayhwu7hSTJgc8euJJ4wa1FkTVidgmbacUpbaoFrA|6738.85        | 1,468.00     |
+|5XkEqzqJZYbUqed7VLyqVwpmBXd65MrTG85SJNRkLK3f|6719.202207    | 1,464.00     |
+|9Qe4iJwWBFi3JwHYD29Yk24sQRoxNxrE7hD6qr6t4tf8|6698.998175    | 1,460.00     |
+|APP9213vXKJggt1CigMCgtp6kNFvsgDMxHyVKY4uVcB3|6662.135986    | 1,452.00     |
+|GfjZDuGs1pjHkQw34PaenH7Xs1VLnfpa8tBu8ngsxY6i|6642.010448    | 1,447.00     |
+|FanmLSFsZp2uiqDrhHATxP17XHeyx3G93C2hpWKtZq77|6589.144137    | 1,436.00     |
+|2D6uHvF6bpt9tKVkdHv1aiu853xCU9eysyJ5DYVRK3PL|6576.732334    | 1,433.00     |
+|9Y9EJPfsAZzRg1kTfh8T77qPxPZkDeKaN7EorR1H2R3k|6574.291104    | 1,433.00     |
+|GYBoiCVJt1sHbeeLp8xzvRj9i24xsRNnBeCrKibnMoWc|6548.605179    | 1,427.00     |
+|4oyt1r2VRTk8SPGfAfmCi6fcVDbCk3Ho4afY2FuaHC83|6512.437037    | 1,419.00     |
+|9zyrMurHQKGdj3ZnqVSxCj5dScezDSa4Ai28DMjo4oLc|6452.919885    | 1,406.00     |
+|5wAEMTnbo6EFa37NbSPARrtxcEuYxrxQhXuGoTvo2uvp|6440.401987    | 1,403.00     |
+|ENEPiAH3WzKhuajant1fEuDe7mwktwvhGF9T8NVBNKzh|6408.072569    | 1,396.00     |
+|3mU3R4E3vJFkAQ3LRyfFNCH5ue4kpMTnaqNmKhpQwTE4|6398.459785    | 1,394.00     |
+|1K7ete2DQyx2kAxLhRp152ZyygkJUq5v6yfvPsTPkwP |6377.26078     | 1,390.00     |
+|4iWXMdSns6eHLF2zta5WP5HWQPTdt3MA59TbTWTUWz9b|6324.643381    | 1,378.00     |
+|9AFynBSVJTZ1Gf95yzuJBXEgvX83GtzQaL8651cP6w2Z|6308.394545    | 1,375.00     |
+|BGAqdG3fBxtQYXWwg3rcrq7ZqBxWS8VCxyV2TZFK2SbF|6280.769407    | 1,369.00     |
+|Dn3YNKdgwDTBQ74a1EwbkDNGCv2ECdCE3jhQLKoF9YJh|6239.392343    | 1,360.00     |
+|6sfgTpoS7K38ZHbqTPrHfZDWnngbyuuc2Mpiu49umpJd|6229.943646    | 1,358.00     |
+|9oREybA3h5SKj4VVnyMi1S95gxxQhq9UpsCwibJrwcsV|6216.568171    | 1,355.00     |
+|ESfTWC3iNDjU11CbfYoAAvNGjZcDfBiUGZmbzh43cebw|6200.29409     | 1,351.00     |
+|5h3LQqdwVLUHKizaU7FfAM7X7aYyBsEp9KFzRXFFEBbj|6198.475229    | 1,351.00     |
+|6SjRDbKLGVPimSNFDLoWxcQb5j57ud7VhNQJaQnUXSfd|6184.261716    | 1,348.00     |
+|Ex1ZnYayaJaicw8m3wXm6PPmYhrthKpp1B8jBCvVeWCy|6179.464295    | 1,347.00     |
+|8hu8uwbWCaaJ1Vxunsyqcwtyoi7YqdfqKAuBbcBQzQXS|6142.476705    | 1,338.00     |
+|2HjsPmv2F6mkbyCXF8yRxtRs1QYMjoL77Fbk4hhvnfvL|6127.555668    | 1,335.00     |
+|HRrrAbMVryeNsAsBYfptNgXgTsWREXcB1nyM71sPcwSu|6110.16546     | 1,331.00     |
+|CWvmGXjfSDhyAnfRc2JjRvmCyMrJygazxfpHK3KKJ79v|6107.314233    | 1,331.00     |
+|JCLMVL4ptohQSH6MRu8HtuTfEF5XSH4Vxi5KKm41YyY9|6095.205274    | 1,328.00     |
+|3iJnvHWfTG8eV7p4Q8ETH1ZccAhV1JDWbsNULPN2fzJC|6075.454158    | 1,324.00     |
+|4mkyaJcEMG42bghbixpcpZZn4QAUbHM4JmULw62uRTzd|6061.959294    | 1,321.00     |
+|2NsddNAuPzYpKhJv4FstQkzCkkKEocATe9tpz4PBHfnN|6036.502497    | 1,315.00     |
+|ELddKzCA5eHQ2ZHQHRGztqXPUDhofF2ke2ZLJdbnvJuG|6031.186687    | 1,314.00     |
+|DS65dSKo9PYdafCSzd2Gn48vNeos5mPkkrpy36hCqH12|6015.936594    | 1,311.00     |
+|55bpuFqou5Gr6MnqfemFsELYuUDHKjX98BZUqvoxNaVw|6000.227475    | 1,307.00     |
+|DXyrvYGdkeukLaVcsoqreE2Qsddntfrjxn27zMqdPN6W|6000.20295     | 1,307.00     |
+|8353bZYK6i9UVsztvW6upE2DCJ9WPqhFByHTjnsF1M2b|6000.124641    | 1,307.00     |
+|6DPa12Qu5oQroLmMrDA3KiFA9gePaBDEVwx2QZSV4dJC|6000.124564    | 1,307.00     |
+|6KQbVjvSPTEewcqC2QoRhEeXCqwLwAYT5L4yQ849e2DS|6000           | 1,307.00     |
+|FoSWJGT8hRUgQw9GZ13XBizDyKmGT8Hxqrjq6PKa7oCE|5986.378073    | 1,304.00     |
+|FB2UsCeXQXmynmbf7epcbuEQd9zodhcn5y2gSkv9QDYT|5965.803517    | 1,300.00     |
+|BhsSJQq42KqZa9HxJizm92By27r41qijm2wrAkfHJC9d|5930.775785    | 1,292.00     |
+|6MGoudFQ5BjYiezR4V8tcXba343x6rTZagpHdc2vrNEQ|5899.275815    | 1,285.00     |
+|3pKw5dJYHfgdHXC7JNKgJEnvMhgn39Ztds6DpE9PpzdE|5836.02751     | 1,272.00     |
+|CBTdPFdJ4PmUM1arsZiQG65DcycNEShMNNN5d3BEFZ1D|5822.706558    | 1,269.00     |
+|aWvuKWPEj9yAQeMGp5YKCQBJpkjdvQtekjtLP3DK8BB |5810.197986    | 1,266.00     |
+|4peNPtpf6sYYYNvvs9NvwtygimMeLPLe8wAQUQBis8WR|5780.048801    | 1,259.00     |
+|4EHRXBieEYFku3c93pHV7bDfEz7da1XQcBrEToLfizyy|5750.806893    | 1,253.00     |
+|6U91aKa8pmMxkJwBCfPTmUEfZi6dHe7DcFq2ALvB2tbB|5738.35541     | 1,250.00     |
+|6sQiTquT3MxWS9euwZkxoLYYuM5mK258uKRW9U58S14B|5730.904239    | 1,249.00     |
+|4JRPehSbiVuFiDX4PyCLmNxQSsJfPm6tpSY1buaQBDdD|5730.671673    | 1,249.00     |
+|AJBRddzBQb4G7g3THQEXqGSvUW2WDzw2UGewEU6oXMMZ|5727.332486    | 1,248.00     |
+|GnZEiFKyT4qDgUFuHiLWSV93Su9KkSscGzrf7EvG7Yxn|5682.70412     | 1,238.00     |
+|Dp8RQdacERHZdBVnQMeGtjfNgUJTn1HiUJqP4yqgsSus|5679.989452    | 1,238.00     |
+|93a49Ek1nhEWEFJNKbNv5J3DMWLxiUFwA27R3JtWnvHS|5661.260792    | 1,234.00     |
+|HaWRKzerE4jKpe9D7619FX8W3361rs66sZwjCCRa9RNC|5633.322687    | 1,227.00     |
+|DoPqBmz5ZaaCVxHKCNMkk68B8w3GuRc4BGaQB8nyfBUd|5626.505053    | 1,226.00     |
+|2hAVT51H1VoXDWL3tBgNQNgpfAth8gwksfwkfpyesRA5|5622.137312    | 1,225.00     |
+|CcvdCJae3xnYGxPmiKSuQGoR46RaC5yis1BBafUv8Y2N|5605.618593    | 1,221.00     |
+|5SQbjKRzX9cxnwW5eL5BhKqsrnwaarNX97dD2sxcsEXZ|5596.285989    | 1,219.00     |
+|Dm9DWsbC75zj2FoHmJDArvDSjWqTtJyp7R5hetXz6zhp|5549.255915    | 1,209.00     |
+|7an1WkpH1W6vmo9a85sZKBeQtmJVLXNJE6MgRphrC4vc|5527.7904      | 1,204.00     |
+|763xkknLJyLMj2ohH87GtYXgkzGxsCH9Y7oGPmkvRp2h|5499.6         | 1,198.00     |
+|HS9uCSbbfLaDWesFokjsKifcV315u27oU4SF47eWhwdX|5481.285878    | 1,194.00     |
+|HbAjeMnUbAHh13JsSWNuBbPmMt7d8cNsWJgwZc4ACaYf|5469.816008    | 1,192.00     |
+|4DnnUHeUcU9czeHef6wPVN93ENpNKzQSbQm5yNJKHF1g|5465.270865    | 1,191.00     |
+|31fQ5KRCp6LbjR1neFv8Bz2yBf7m1LqaL223bJAhBwcE|5459.016867    | 1,189.00     |
+|Bau6f26h3B4WLZUZxqCGPwY8cXM3vXBSjEK5zVUhXuEX|5450.935635    | 1,188.00     |
+|8soJqRETMFTjnntGE31X8M8aELibX6hsnsrn2Trq2Kh2|5446.084026    | 1,187.00     |
+|CZkaby35ggZgVHpfa7bJ1u3huos54T6fefkg26hSucfb|5375.106687    | 1,171.00     |
+|C7KKsPdugwB4P4yZh9vkVXyDbsPGutpQSzmBTpzH8cBC|5368.612639    | 1,170.00     |
+|3TR9AE64z3r7AaEYDEMz7VKErL3zwrFHoJttJe1i8Xvm|5361.861295    | 1,168.00     |
+|5mTifngqr3Ja6D7yPdH4eZQxwWSoX8WtrgbetPbtjFs7|5338.605004    | 1,163.00     |
+|x7HVWEkXp88jgPoK7NSrqV8YY6x3mBbsviV9Jux15WS |5327.933184    | 1,161.00     |
+|AepayVYfbNdKVi6aRoUvakLxC2XigqaZNXiNCaMWm9h |5272.14574     | 1,149.00     |
+|95kQeSxJ7dTYcuNoCY2uPMWZnEGZMwknT3piTeHMLSYj|5265.627346    | 1,147.00     |
+|79PPjQ2eC5RKrJE7oviB3AcbYuBCjbzs4oZTCUFTBoNG|5206.313983    | 1,134.00     |
+|58ErwbeBSwZWM9yCTP5LufjXfUA9M7VWXbY3jQfn6hd2|5166.157146    | 1,126.00     |
+|5wwfbhKLneSUS7cHXHZXKv3qqe4BTq2s4rBVeAPFhj4f|5116.712806    | 1,115.00     |
+|FRbobt9xNXq1rTXFVp2rxVRpKT6RZsHMvxK4kWvsi1f9|5100.618734    | 1,111.00     |
+|4xDsmeTWPNjgSVSS1VTfzFq3iHZhp77ffPkAmkZkdu71|5100.085248    | 1,111.00     |
+|DR62zJm13y58wrJnq796fwBn4Sd2Kt16PSnjYc6eVnWV|5093.032277    | 1,110.00     |
+|GgZ6UreyNUCobujLxr9upXWXca4LtJkDAoWoNcyRSi8X|5084.921213    | 1,108.00     |
+|G23WuRgHUMi1M86roQ96R5p1V8MziDRwwm5zSDijXjyW|5084.207192    | 1,108.00     |
+|8CjGUBgQX95MDxEWQePYHmCx4nbCfui2shy6dZW5xziV|5083.658911    | 1,108.00     |
+|3LoAYHuSd7Gh8d7RTFnhvYtiTiefdZ5ByamU42vkzd76|5079.6427      | 1,107.00     |
+|2AtrmhLBq86eqXvy9c67v9HhZoyW1NULWMetAA46JN7k|5054.795772    | 1,101.00     |
+|8LB4k5J9smzSizBiM7jY7nF2ppPbrkUNhu6oodigxEA7|5041.390631    | 1,098.00     |
+|3hDyUMJz23HvB1cFKBuDd3BxpvYUywD1uZXDnwBJCbt4|5011.839377    | 1,092.00     |
+|8L2sh3Cgiuejtfwme3SMWj8Gin8vqgoqe1nkPf1YYoVj|5002.19761     | 1,090.00     |
+|BuJdP5PQtVvrSJU5fa5UCx5uZYJjPDGxT145ZdVhcdxg|5001           | 1,090.00     |
+|EQF72c8AUqcyVr995YMXj384V9bg6ys2cuzsrjMancy5|5000.310281    | 1,089.00     |
+|9kK2PuehQxgcXtnYnPNmukmzfDTsVHv15pE86xwi7vYt|5000           | 1,089.00     |
+|8hYmdT8ieFuopbRpJYLtT8PMmMqVxx2FyELuh2fjRnDC|5000           | 1,089.00     |
+|2f9KNCjZ8wcEq1NCa71LgNUhnt9542GwvxxCnWhmcAHH|5000           | 1,089.00     |
+|J4B5Nsg6CAsGgMwwxeirxfeJ87EAQW5577qvVj5MwUDM|5000           | 1,089.00     |
+|2vqNBf2KUQXhVm9vuEbyrs8ZGhmo7tr12DLrWu5AizwH|4998.107144    | 1,089.00     |
+|FWNrCbDPhF392cMjze6wbfYenr1paAQGNkDp4AuSZ2St|4983.842867    | 1,086.00     |
+|9Wji1Et9gP3fBcdUVjBAU6sS9Xt5v9T5jph6ToRbKtZi|4968.775786    | 1,083.00     |
+|CpoD6tWAsMDeyvVG2q2rD1JbDY6d4AujnvAn2NdrhZV2|4962.510995    | 1,081.00     |
+|HU23r7UoZbqTUuh3vA7emAGztFtqwTeVips789vqxxBw|4958.622251    | 1,080.00     |
+|5JjJjV5JYGsMavfYqQBcA3mbaLw3EWg3WJKkPq8AgzCc|4955.90156     | 1,080.00     |
+|8M7GUFofAz61yLbMrRKeuiLx8MmtY4PoNwiEop8iR6Un|4944.529325    | 1,077.00     |
+|8XKU3jiNrTgiYbeefC5ovNdWs3AuX2qBwL8hFnUcvnG3|4926.836775    | 1,073.00     |
+|UYjsfwWgScf3uXxAFMD46hpnTsVZQxsEchVWiAYjpXp |4924.197351    | 1,073.00     |
+|CwPs16iqweAJuiV4WMXfXFU995tW7z5irpjBtzC4UTt9|4921.781178    | 1,072.00     |
+|3CgvbiM3op4vjrrjH2zcrQUwsqh5veNVRjFCB9N6sRoD|4913.716025    | 1,071.00     |
+|HvzDvK4dXnHG3X6umzoTv5uTD5cnDdvM2dAzBKCM9PUf|4900           | 1,068.00     |
+|G1vbBS93RVF82iGBAKvEgy5JChb9kPsYjVEzqk6L5JCQ|4894.62845     | 1,066.00     |
+|83Mo5vwpGyjHAvBV23E3CsPznsuJQADQj64y1Z8qzsA5|4885.395326    | 1,064.00     |
+|FWEiXoRTEf1GKzW5qzY3vXGvj7fVnihEM6C1PiL1NLvS|4876.813527    | 1,063.00     |
+|EFLNq6CHDZBf33XnSJ5ZYjN3o85oj5XQDh651krTCGvR|4871.707079    | 1,061.00     |
+|Ajn6whrGP1JSLXPYJKSpTBjC77BR9goBJcN4qCb99jx2|4866.591098    | 1,060.00     |
+|4tNTJ6AfPu15Cdddjivdi2ej82NQyDrD4oRubzuoqokz|4857.852817    | 1,058.00     |
+|6LXutJvKUw8Q5ue2gCgKHQdAN4suWW8awzFVC6XCguFx|4850.301165    | 1,057.00     |
+|GM4WLzFE7RBnhwWrHdr7hHdBwQTXE8btuAnWbytQZyZU|4831.451798    | 1,053.00     |
+|HBikXzkzAAvEyi7xHMsFgEhwhA71hkcLXQgkCBXgrBNa|4824.948434    | 1,051.00     |
+|4bB4n3ixCjXbkmzdBXThZ7gYExv1Snbm7njM7P5zibQ3|4802.793973    | 1,046.00     |
+|DArmxMvmB9qFs2TmUySeAY6sEsgEfZA86HNxjFyQtuZk|4783.274596    | 1,042.00     |
+|5DuiFTzbiFg9cFgL23EgoAcv3keZ7YiESetrm5BeG8YT|4781.946554    | 1,042.00     |
+|HR1S4JYrdj5L4BTwifDphKxMLNn6h6xcXyUgofvZkDNH|4778.761045    | 1,041.00     |
+|GP8StUXNYSZjPikyRsvkTbvRV1GBxMErb59cpeCJnDf1|4776.696909    | 1,041.00     |
+|HjjweGSLpFKNnKhNXXZks2Yo7X5QHYcgfGLqw77bX6vN|4768.379988    | 1,039.00     |
+|EjCGjeArqHnbFXm8wqMoK3kaZNzKQTsQ8JmQw6VYvDMi|4720.748479    | 1,029.00     |
+|8ZDAgxjSw3LWE7hJmiB7a9FfoYCfvgdUvuXJieeUEjBU|4697.025688    | 1,023.00     |
+|GGztQqQ6pCPaJQnNpXBgELr5cs3WwDakRbh1iEMzjgSJ|4672.354669    | 1,018.00     |
+|2o4235xNLVyDgkRgTTt46zaBnVunMeS4sHcZrdna3bSQ|4626.54683     | 1,008.00     |
+|GJKVXReohj8LK3uqt6b1UsUY8DxotErtwFvspxY8NAFH|4624.707847    | 1,008.00     |
+|FE4fSWW5x4SgzvD9Te8BdnMwAL7mgDKUfQmVFsywKu55|4614.428542    | 1,005.00     |
+|DC5XH1TxxTjhBrnTXWNjuTMHXFE4BzMDsXkezZ1sWj8A|4586.686399    | 999.00       |
+|3R741U8LLXbmm7cDBCWnRK4fPpUeTcQiwmohSxbZYJoY|4541.585178    | 989.00       |
+|3JK4HYUK5Qa3Hz7Lx7J6gCPzVWrPDDsWcDhRfeokTtfn|4530.011939    | 987.00       |
+|Dv6HudNVZv2fkJ4D1GpKfZr5sEcNDkzRHs1VJLGaCjED|4527.051034    | 986.00       |
+|Gnh9xJjGtQspGKuoZpyh4tggGxt2LAmnVdLxPuRMgPZA|4517.51114     | 984.00       |
+|HoBzgLNdmaLLbpwWnet3GDWKJQFQUiNBVvLVv9YvH4dQ|4507.307247    | 982.00       |
+|zLpa1mXoSibyCjqHYL7wfi9QnaFHca3XvurbNndDCPh |4499.084879    | 980.00       |
+|EbHoeDK2K7dN9o5v8Fci7JRHHmDzRGkaav7znMB6kb4 |4493.043256    | 979.00       |
+|ABdtEDNkBuvdo7vrR6TqDmAPnduAtVQY5zpn9vSd5gc4|4489.187852    | 978.00       |
+|A9y9wSRAyL8i7qGoePJL9BpTP5LXuTrbo2TnnPTULkG |4489.131955    | 978.00       |
+|BQ72nSv9f3PRyRKCBnHLVrerrv37CYTHm5h3s9VSGQDV|4445.278258    | 968.00       |
+|FM6RijzqKihotVKHWKDtKjzKY8tQrmuE67JaLcgtNLNU|4442.583505    | 968.00       |
+|2AzH55omf5zLyVA6TJAMtHQZe7WDYcxhd4BsGsE5DHhN|4425.852957    | 964.00       |
+|9qdh8Mag6dvANjE9DtRZd5BaKpS36EaRhMVELqsT2taS|4422.619634    | 964.00       |
+|F1Zki3JDoRgfnadZXCLQb9rCWqWtVfPbr8xjLfAtR68r|4418.584876    | 963.00       |
+|CifeGFJZjQNTPZmDJ3Q46JTA3J35P68BNoS5UQdcp9r8|4403.770222    | 959.00       |
+|9nnLbotNTcUhvbrsA6Mdkx45Sm82G35zo28AqUvjExn8|4355.579499    | 949.00       |
+|cfXqfUS5GjEvpB3HUF6QwLvebaSehBGQSeisPmExpMe |4352.110505    | 948.00       |
+|9Kp6gC4KTkCZ3yoyvLK24h9arBvFfrBTyprPkkdsPhjs|4346.371775    | 947.00       |
+|ESHbEe4Wbn5jPNbVPEXtq2B8wq7gEM3xmUBWWtKctFvC|4334.781665    | 944.00       |
+|AGC1f4s4vr7ta2WtHdGJ13ZeLKN8jZh2fWBh4oYamsAt|4326.807767    | 943.00       |
+|4gsYiN3cUNeBohv1PmCRqRPtgS3mHAdWU6iUcZgKVuaF|4321.315956    | 941.00       |
+|EuC9JmKsPiJijQKdGvAMxUEhiKJcVLEtwrop5w6R63bC|4318.970552    | 941.00       |
+|7RWud2F6QQu3XDnGU5ijSnADyX7fpMMxk2MQB9Mx2yGA|4313.739186    | 940.00       |
+|6qXX57HxntybHn5kf1yCA7JvxYw4xXVYfjpEABZ6PuCr|4305.42123     | 938.00       |
+|CP4UUxUaiTRGLsz4taq8yyaYY5BnzHTRdo7GZCDBnGYZ|4289.65662     | 935.00       |
+|HtsJjDYCHvvzLCQqq4hZeSYtusiACRTfGsYfDSuGGK4V|4263.626519    | 929.00       |
+|HKSEzY13pDXmwsbM4G8tUgjyuRpCcv3WagKuJjcdwxjV|4251.174247    | 926.00       |
+|Ebqk9Z9Wy9p83oSYmm1BRH78zuJjixgeKCbTgP35fMJo|4240.289627    | 924.00       |
+|5b5K5sacfHoWuPHFGvAmDeHTZ6vN2QFMXc5gwUo3T7vm|4235.406382    | 923.00       |
+|Fuombz6SUrJAFthJjF86QSMoi6F53uzQ8k7DZEBp5kt9|4221.233921    | 920.00       |
+|EWopn7DkwiyvyacZ3ax4XJ5dnreyonJnXLpQQRmomnQy|4218.143035    | 919.00       |
+|u1t4EK6zs1cv8Zn2KkpGGyN5nBiJNYjqCxGP9QFSddN |4207.054229    | 917.00       |
+|3AXVj5QV6sCQFoNbRJkY97Yey7Ha9ZwaLAUPXDJt8PV7|4203.149187    | 916.00       |
+|3yajENqGr8CS7ULh3oVDxEtFNVwaRqnJdVDLQt7gqtNU|4201.104414    | 915.00       |
+|9x158swcs843JisTuNq4gfiKfSGacobkq7D4DydHiL64|4197.452263    | 914.00       |
+|93ASyHYpKuS8ZpkrDyZNNRTbcdAV78mg2RnXhmsQ231m|4195.885066    | 914.00       |
+|C2yqj8erVcvdm9jNDHNgxTD4QEx26YhaigtYtZdRCdUa|4190.498587    | 913.00       |
+|BaEZjgx153jJBHEbRXqVs9nV8es39zgmHRCuDyp3xcKv|4182.600421    | 911.00       |
+|ENiAsraLbqNw27RaVE4ZgtYhahmRcjPy871k6bpqFuA5|4154.150621    | 905.00       |
+|DKcRfhmCjQbFddXsCsCnXHXMXbTwfi5nyjquJpzRSUG5|4137.593776    | 901.00       |
+|3KtjiuAoEBD7E6x9rGhao3VPcanVsYe83QJhPSC5ptJ5|4105.610013    | 894.00       |
+|DwvkeVWqiASHBvJKD9p86WvvRCTVUuHPYsbaNpN2qmh2|4083.134909    | 890.00       |
+|AdMMHHESvJcji3SGZiitVsGv9jNfUJAydgbJvVDDbYJC|4076.99508     | 888.00       |
+|4fbF534mRybZ5xgnL99BmSUFfUWszfe4Xz39VEkzwj1w|4074.239812    | 888.00       |
+|6TqgzWrrE21zxcDVmZcRJ3mgmCPqDrozLtzDHPn4EsTq|4070.181874    | 887.00       |
+|7iWnBRRhBCiNXXPhqiGzvvBkKrvFSWqqmxRyu9VyYBxE|4062.699128    | 885.00       |
+|3PUHYLsdoW3A5tUCBdR1Pawtzs4uaTTjH4AqqJec7ro7|4057.850657    | 884.00       |
+|ExdD5e8ERwEQGrwKip8xPYbSDXcR3jAdGKtpf8XhH1Pr|4034.636131    | 879.00       |
+|AkQFnwvdjksgJNXmPtBCBzAWe1NPXZbg7HXSRwThVYur|4020.952177    | 876.00       |
+|ETBgnVWHu6BZNPc3XFr1uwK1F52Tq9WyteBfMbWc4nuw|4016.817771    | 875.00       |
+|M2yZavZw3MGfhSvkFSMYny5feMyi46Phe88sC1EAc8E |4015.915055    | 875.00       |
+|G53GTMAaQ6HsCZksQmDEmc4sbKZmaHYBjtyMzE6x1tVd|4006.346133    | 873.00       |
+|5pWjnTBehCyzbDAScohe4iWjRJ3qP4ah5QEvrytVb24m|4000.388056    | 872.00       |
+|CtZw8iN9fkapzMgjwRdk8955T1FMqMC9rX4R5AEhvekX|3990.291129    | 869.00       |
+|U2FfGQ1rADCurdf2K3mw7LoDFaVMYA6R1aEDbnjvvqX |3987.542175    | 869.00       |
+|ABmccrrHnhHRtBELKDUHvGwb2qJcS6wXW8SsuQLTbvrG|3981.375252    | 867.00       |
+|Dk47MRXQ9fMCsy51JXhEceXdEtBkL3EyUSuzJiX7ii53|3979.918077    | 867.00       |
+|DP6zSSQRotmJYbJ2z3nnwLy6PbCkFJskm6Hg5jhtLQXH|3972.047521    | 865.00       |
+|CLiRQD38d1MnwZGLmkywxW6zCbhVp4egKt6We2nc14QD|3934.208739    | 857.00       |
+|FEQ55rosUCpuzZRzmukwhTnMH26dpgsJvJVMbqujYZLf|3918.898747    | 854.00       |
+|Gv3Kji5dL9mqJiVBntLkUDqdtrEYqyVtCqLZUKUanYBC|3889.279284    | 847.00       |
+|7pewRsFyL9FNqd37WgWcHiQcwrcKzEsViCBJWUi4WeTj|3858.464289    | 841.00       |
+|2e1HNCdgZtWdFbbXAEuHMbGNxLyb58PASrmMW1B8Am5t|3839.113554    | 836.00       |
+|6JE28P1FvABtLrvegx9ibXGvqRXVpHwNMnARagb5MfzR|3823.216331    | 833.00       |
+|29aesVE4rKHsQfCmD1mNno67zUaborXMYGojC2LzFRd6|3800.864139    | 828.00       |
+|8QQGFnT3htRbihUSfAbPFf4PJp33gMP1LX59xrNnDzDf|3793.473043    | 826.00       |
+|FdgbPCnRfaawKpH9gBd7CKe2d7pgwePbh1J3G5qMhMW8|3760.918188    | 819.00       |
+|EAQYeKhwMTGoyKh9beD9Nxw29dL8jVPAxgpBvgqiGZLo|3753.539843    | 818.00       |
+|FcLbgXg6FzYjt6xERqww39H1WEoQmBYZeX5WUw2uGhAn|3731.118563    | 813.00       |
+|D9M7Fv59w3fGiE6AKwqpU1rzrmRQ73gbJbyz4ZPUb8LL|3716.180046    | 810.00       |
+|EsLwNE1i9a9jyKLHkRrkTwYQxB3g7owJntkFVCnzLEEh|3696.27556     | 805.00       |
+|83Pfh8AdKBSxmrVaMQyLXtEYALgHBpXQyk8CMDrwfk55|3681.296528    | 802.00       |
+|EDWiGJDLtkRjm8LFsB58VeCVxDgSdZtWw1EM29YntUat|3679.061707    | 801.00       |
+|GhBkMgXnKVNkpJtYaXtBnqisVc4x7PcTQWRMCjG6VZ46|3647.156797    | 795.00       |
+|7uF9GvTtLCMoRYNucU2bbQAtoqdqKgmR9Qbccoj7cjXc|3636.98841     | 792.00       |
+|21VjLimFG4QmBoyXaEBqQEgPEMndG6X3TbgDJm7cbsbS|3627.427455    | 790.00       |
+|CSwxAQrHJ9XpyvJrHRJZJVDNR1p7smPSKPUiTwK3WpH8|3623.319086    | 789.00       |
+|71L8kfJiNzxE4MmjavqCfwhk1CCgDNuGU6WPdHNYeiH9|3621.006442    | 789.00       |
+|5nA4QxGfEf8hAtXfDzgff5ThasmTPE9pFpeka3ejTnWz|3609.346367    | 786.00       |
+|CbmxsU7KQBnPRxFCKbbQ7pP66LQrQ87taNxgsq7rhX4Y|3595.873368    | 783.00       |
+|D14TCjySSVXxsok6YcJdfVy3Gwp1CkkTABaDBFiiFFhb|3595.873368    | 783.00       |
+|CjCks8Q6VSkPNU8j6FPreixyuJdcHbLokp6BdTCbcu9W|3594.925512    | 783.00       |
+|DzKAxUGgCLuMy6SkbtLGcmH7QygZjxHh327HFtR2UNqE|3593.993683    | 783.00       |
+|BJKgWdZy9qaipjQ74SAhZSY88HaeGWPmzRYbUe2p1NoK|3592.875736    | 783.00       |
+|A4fs1zq8WexMoqCFViUGHzy9DCa1D1A4ohdE1uw29HV6|3571.415573    | 778.00       |
+|3c6hXXNqnmQJunn9dNvb3hUVeBywJUPWiJ5EVNWLewQS|3568.967181    | 777.00       |
+|2MFoS3MPtvyQ4Wh4M9pdfPjz6UhVoNbFbGJAskCPCj3h|3518.910607    | 767.00       |
+|GwgyfUcpCpbZ7E74iB4QabgvRMniYpn1k4vGsMBhEH1Q|3511.342818    | 765.00       |
+|6KcJ9BgWr3uCm2eJ9SKfnWZhGjuDrgG56dvEKiUUftKH|3511.342817    | 765.00       |
+|AJJLMBywJhYvabnVoUBgPW5Y7c59VfUDxARsmDA2KFBr|3511.235191    | 765.00       |
+|AfozFBJaAi5mDUge1P6nFhsc7eVJcgitkBrerEZbfKUM|3506.86991     | 764.00       |
+|CVwBxBYj6YANPHQtqGZYrijVUrRrRPJJR63wG7yhuVqV|3500.040359    | 762.00       |
+|7dEYh47JZpAaejjDRxcVZRVsA9SoDHKn11PKNj5rtfRY|3479.142806    | 758.00       |
+|AH1uXYAiLGXZcF16TvSEbfEuztbS5URatnPux4k71KGE|3464.138149    | 755.00       |
+|7rUPX9KRuaDCVa66DgPH4D8k8sJDRieqDCUUsQZsvo29|3455.947745    | 753.00       |
+|52f8nnfNYes9unvTFvCVyr1VDmnqjA3wLbmPDMNn7gEq|3453.688565    | 752.00       |
+|jVt6GdLdN3WZKsECACJUKUhAeMQF92rHaYyoHEmEFLP |3442.40385     | 750.00       |
+|5T1U4sQnf9YD9bKY5bdBNskyYyoa8RmNu2fxBqafPVp5|3426.564391    | 746.00       |
+|2HSBwYpMmNZERGP8otWa4CHT9Lc7PwgshxBDZu8fBSGC|3376.26497     | 735.00       |
+|87ghHCqnH9FAuAo3xYH7obS8ugpzaRze5T439wDkkhu |3365.569625    | 733.00       |
+|5tu4w6ksJuNuNpJQoPBiVErxL7JoMUYQueKgEf4Y1rKV|3362.925458    | 733.00       |
+|71c746kezHHTtEUaMuNByXxcp8qJ6qetiuffQGB8p47F|3358.293284    | 732.00       |
+|4UW4LV4uHqEGGy3voxLE3fjSsXtZsxtknJNsdFaiCGbk|3343.2261      | 728.00       |
+|CxRRddXz7xXwAGqXCXq3WUETXtzwjTKW1DUrmUeNjAC |3342.592482    | 728.00       |
+|BKfSgAXX5QXfSx25MdZ3uCr97dz3wFtB9TNHr1K7zX1n|3339.56114     | 727.00       |
+|7dxD5Tqgg59hWQHZknpE5VPo3ddYRiBqr6wrZ7gsze3m|3326.67237     | 725.00       |
+|EcVb17JoBMR5RBaU8kn6soPYK5KGTaaXoZHngEvZmytb|3323.124368    | 724.00       |
+|FJAMpQE4TQZiiQxEmPNBEYaj9c5R9xKhF86mNkRgGn5E|3307.025063    | 720.00       |
+|38Jtve712Suz4hrGH68KemTa21Yu4hfp9Yf5tDZ1PUqH|3299.205821    | 719.00       |
+|FjP45sLPwLJy9fDyRea2F8hfqKm987fjZ3WuzVZpmaTz|3209.899213    | 699.00       |
+|Ct5m8y73Ko6eRfjmWfKJmVi3pSq9tBER9nwPAKAqTShL|3208.244553    | 699.00       |
+|NaJvtGDPYFSB18YzqDEKaHn4yPgzyHmxTpEzn4NAADN |3207.315603    | 699.00       |
+|6kLbDtd6WJyLm6CFbsLMo8eAMbfQ1hwmYqickLbmyjBd|3204.513827    | 698.00       |
+|7hyt5j68bgbgp6gakvic9dhEWdfaKxcxiyZcX96SwVzw|3198.443183    | 697.00       |
+|5RwoqF78XCH7HdseDGc5MRiUbiXeUCiLu1x91J85foUJ|3191.302787    | 695.00       |
+|A8uapP72oQJecYNtpJTEQuFokyoHGQSnez9QA7FoS2GJ|3179.147465    | 693.00       |
+|4kTDVpV3uBYHEVfvskYtYgSJopEagd8kUnpj6fSEdXUu|3164.170451    | 689.00       |
+|8JVhbc9wVX63uthjQpiNRVf8sgiiGttTVrorKgvXrTpF|3150.829508    | 686.00       |
+|6RBQU4zchxr1Ztbzh8f6YFkbPauCLfkiCNfDgCvDooyR|3117.993385    | 679.00       |
+|8rjL5RZkHzubC1nLp6YBJtCmSTPBjqHS3DMphBfxGKy8|3112.088146    | 678.00       |
+|6EoqZFkjVJnFJ8JBzw6CGVint1nUspLXDXTcQ3f1qnts|3102.60233     | 676.00       |
+|4VHES8PdTYU4cAQRnLpenYRF9thG7wXrTaRnLH2YoQJE|3087.915843    | 673.00       |
+|8F6eT1oYWsQhdnTQx5oefGbKiR4vRfNoyUZiCqobUUGH|3065.734148    | 668.00       |
+|BRh3YQ1KT2DzYvwKWk8hFonS3f4bddU6Sdyee4Adv2Ah|3053.087457    | 665.00       |
+|3ehuvdnosntq8eXQZJvDs2pggHpGSkGrFbCSbCcLVW1Y|3019.065172    | 658.00       |
+|6gMuUMyDQVWF61LrCx7C7A2i6p1GMWUeJajq4ax7ApFi|3006           | 655.00       |
+|75HGH1eH13jFLSrGekyVfNYpgtketghCoJk36NYa9r29|3002.481553    | 654.00       |
+|6LYfYJ8xSrY6eEGuvRCmEj6GDUUJqHysZz7KPWrE1jDq|3000           | 653.00       |
+|6pCDgz4gavsxupwd7VdyxGiLW3At4uxAkvuZJD5yNjgS|3000           | 653.00       |
+|GKQywxzK4bteCRzdGq4gBWiseLpUh5YCEE2HYfrQZMyP|3000           | 653.00       |
+|GFQEetA7Lr5U2kKGkWYULkGofriCbTLX8DsnGgdAxxJS|3000           | 653.00       |
+|FyR5Xc2WYtnHwXLnzpM69iNDszyLXL5X2SVFW8yHVP1g|2996.90621     | 653.00       |
+|Fo1jnxLxX5opbCwtKYXmyogtQ3yVgoxVVjySZdWx2v1k|2995.856495    | 653.00       |
+|BpU1SAxCXxWKgCPZpTDgK4z7ePHcqN6UWuCWG6g8HwFL|2988.584333    | 651.00       |
+|61N5MS2GThigyFjWhMvQAdgdjw8eJjUSNXuPtPtLcncP|2940.575361    | 640.00       |
+|Hq4Phx7nAXFzrpEPF2np3sEd1unWRu87eegv8ExJhzWU|2935.643548    | 639.00       |
+|48SMQijpQRoEThbBc85bhZUK1N5BXbCiGQjZ9NGje5zT|2923.574473    | 637.00       |
+|AoDTSyokRUDtyevipmG8tZ7LvbXA11gQUBxsT7m39iA3|2907.762191    | 633.00       |
+|98hRY4BEHwJpBxSLBcyh9i3hpenCmhUfX6A3GsfZQSJD|2895.16927     | 631.00       |
+|8dKaJypJMQDARSBCw8KyTzyVxmPzBnA47pfWgHgcq4Y7|2874.354278    | 626.00       |
+|ALuE9bTqrqb3AmLZhYsvGpcK7qCuQhmANFtFv9rUpQ54|2873.267689    | 626.00       |
+|62CpAYXvcGH5efGVGqRrZ7f3TeDotgdw3Hf36BDiY3X9|2866.88475     | 624.00       |
+|3PuBWoFTduVvvguAr7hoPSxoYfY6nhwNCX7TrZ1KGT8f|2860.913385    | 623.00       |
+|jPRwPGE5P4RCVxAcP1M3VwbdDBPhGxcSdBoed8mB7Sv |2858.110767    | 623.00       |
+|3886Ws3ovQfu2SXcRxaxCQvzFsVrW7X6nMWqEhr4jwkm|2850.990566    | 621.00       |
+|HaEdbUTxwBjzWYp4jdSiabvKxiNnW1iBvMWzYiNM9Wtd|2810.79365     | 612.00       |
+|6WV9C2Jf97H6Mg7TFi6haK2LJVd7PcdCPR4qmZYDmjVc|2791.486151    | 608.00       |
+|HFKqdf1vw3NTdFXiuJLjjhcJeBCTaTR3pZprpkbRhLpc|2788.545865    | 607.00       |
+|ESUBowKi6zP6f564UgBhjjhippGTEDf5FHyzwZx32MDS|2786.788802    | 607.00       |
+|D33BmuNGupbre9FTWMaRo7AoJpUbDxcoZ2mgAiPs9MUg|2783.107484    | 606.00       |
+|F4bxPy6kdonj8qgzxtGPdtHDLxjaqktgbvH641Aqcasy|2778.44444     | 605.00       |
+|F4g8SFCCDzU2JGgxdcJLWkq7AP1oYggLY2TXTgQ3mgAH|2774.518823    | 604.00       |
+|TA5VJCUYHRpu35mvpBijTZxLhx4GFLgQgswiByfXvch |2769.903105    | 603.00       |
+|7QiChSXSoEvWAKJ8CjmFDzT6nADu5oUKnNuRNzYGdLtn|2765.292212    | 602.00       |
+|EMpXoTDijfahyTzM1pVwYitBEL9pGmxH11XXBcB5EBG9|2764.850029    | 602.00       |
+|Bh4pkHmjNZinq2m8jXcqjLCZBMimXexLmqoD5YvoZ9PE|2764.82909     | 602.00       |
+|Gxg3qL16ceof5mcKYya9f6NHBCPtDgfhEsTkzedEv7Yn|2752.699759    | 600.00       |
+|EKprWdg8bcRT16Dx2ft3LBo1fFKs8xYv9Y81VxqHCNnu|2745.510105    | 598.00       |
+|GCQ4AMY1c2AFwafG2x8a9SiQwbqqFs5WoCSiBJz6kfF2|2743.508196    | 598.00       |
+|4SdAxfS1gMSYdMgZZsaHW6aExA1ESz1Rp54igFjEvwRE|2725.539955    | 594.00       |
+|3NpPQ1m48AFMbPZ1Q3SnSkErdAxGVAWdGEaLTx6AuFCG|2722.175789    | 593.00       |
+|CCGiut4B7Eu7TD1aagYCG7pMUyV9vwzrK64TyHVTJqa7|2702.274192    | 589.00       |
+|FYYcmfrtYBgrfcbHumrEq3cTKdmDwkQzjJSuJYyHdxt5|2694.825251    | 587.00       |
+|6h5ojEUWSV3oAX96uVM2or5H8isV9nYpmWWiHWuaf8Di|2676.13164     | 583.00       |
+|GDB5NrpfLmW9cJYTQKqMz2KZQ41dTLNb5Q2a9MJ8FFJ9|2662.814486    | 580.00       |
+|HYnddoq8Aa3xUZi2uqcEkWartVZuG1MTj7M2anZ1mP6w|2612.473645    | 569.00       |
+|Eqm4WuUNWKSSwqt5PLak5pAaYeRdh8FScPRvpAh5SyvT|2610.146966    | 568.00       |
+|C3F4zSNUSabFVzjodFfiEj2NqVgtfq3dfDfD2MNrnsru|2588.53138     | 564.00       |
+|HFFSKj3GJzL3DWuTe6ix3Y6LRG2kKDghNLpgKUU4aM38|2584.684335    | 563.00       |
+|Ewtbogff3VGgfy3t8AREYDjwpSf8d9VbSx4NWB1V3DXi|2584.488848    | 563.00       |
+|8SDLd7HFsnzQ2Ukso88yfxiERb4vLfyB3L7MjtfuRvmg|2571.927188    | 560.00       |
+|7eVXqpmPrdyQCqjnaFo7QUA7bEzVk2kRqgqvsv2EB1vQ|2550.647231    | 555.00       |
+|6CJLm2BZ6b339QiCGJPvuoLJA7qVoT1LyP4oLLZ1t2uq|2533.948602    | 552.00       |
+|FwNEETsYiYQncBBsSHXFKRnT6uuH2a2TACBhu68XJ3sa|2506.472712    | 546.00       |
+|BBgziAgACsYrWBh8MQJGhPhyGJnzCmEu8KUrjebVPeoL|2500           | 544.00       |
+|AgjmyjdBntxgjHd77SKReuqsXfnWApysW6f93CpDHq2W|2475.068069    | 539.00       |
+|DaZA2sgwSRiQxp72JbGj3pX9yw4v3TqC7A1ZsmdmQX2H|2460.872221    | 536.00       |
+|CkaR4jKASF4rEPBSF6LtVzaokx5sCbFsz43vsLeq5bYa|2450.002605    | 534.00       |
+|GRTMwWe2AJYz1WiAFCYZMuRYGhpLXR7DjHtN1uZFTvJH|2449.269281    | 533.00       |
+|CDHxguttW8Q9v9khdG7gQqMxm6qfKdCYj74cDoevBkUu|2441.42686     | 532.00       |
+|E6S7mpRDW28SjCi1KoDLpfVF86jzdy6T8vUeqxxL4DYT|2439.983157    | 531.00       |
+|AzjaCpVazoCQ1ZmZzCPeEoA6hj5yCCFfggTobhN7Qzrz|2418.927417    | 527.00       |
+|6tW7RutcRM6pbuaMquR7Rqrk91hDKNfaWwEF5zERyC14|2416.090233    | 526.00       |
+|DMifmjSqXW7tfzwad9y3aD5JQmwTUL491o7jW69M6fTX|2362.946567    | 515.00       |
+|5c6RqtEiinPMiofVLCK3TphsUzZGmYMD9DzWRoXtoCyX|2360.71611     | 514.00       |
+|8oprn9vFamFUrXi5UpJQAYsQHj3P7HmUXd7ZmwP4ZEgm|2342.126334    | 510.00       |
+|3dXSaYP7LZSocygP7joZp6kWJRENkoeUtKs7ZD92B49V|2335.881602    | 509.00       |
+|9L1BkUns7ydLJDbQsADrStf2pcVV27gVNxU5kXTBxBkN|2325.751467    | 506.00       |
+|ByQ3JUUbzfWmMw7hgJC7Z9gF9R6tzMFKWUQuf2pLw41R|2292.020414    | 499.00       |
+|6GuR9UPGgWJSD5KAPqDYgHHPbDdXXKrdvyvDr4H6DPiU|2266.598229    | 494.00       |
+|G7THYV5KwEY6jpExvN8ZwMWJeSmzwRCQrtTL693esq8y|2257.106044    | 492.00       |
+|9Fx1pqgBTSERJ6iwnrZ1epbSLTa4PtcjPtCsgLwd47QW|2249.056255    | 490.00       |
+|7JkK5BuPZA7VVe1EiCBU4Y5t9KBM6EtVNUpeUh3KfvkF|2245.45        | 489.00       |
+|EiPjG2Fn4qZ8XZLM6cmAZ46XDnKWoEexiGpDHAzLMnHc|2239.73963     | 488.00       |
+|DYWMxyfVCz4JuqbYGmQbfYsA2nQmrw87JFtSGDAndMZD|2220.350221    | 483.00       |
+|FLQfPHsx4VPzkoir4vgaRaz52SaTTstPyhnYy6h7xpm8|2218.101499    | 483.00       |
+|CUJHZiwWCjfi3chQAKHzAyFrvnsKkutoZUqC2mLGDH9c|2202.112277    | 480.00       |
+|4YdWHqQ6mWw2L4tcDebDcMGHtpQiiafzNQuCLWr4rsZw|2200           | 479.00       |
+|CkRr75HRGMwJmfX4Ehc1xfs2hBxkCsaonwqLV8bpM3WF|2194.205012    | 478.00       |
+|HQxRt1phEPZnfHn7BWL1WEHGik4yeQ6eJnnfh3xxdsg5|2186.063021    | 476.00       |
+|22dZgvYFb5iDrELB1JzMd9NyRZ3Ghh5k8LYwAn19ez5A|2183.370475    | 475.00       |
+|j1oAbxxiDUWvoHxEDhWE7THLjEkDQW2cSHYn2vttxTF |2181.877864    | 475.00       |
+|6iJNGeoWmnkjSpwcoJnTN8PGrwR8PN7s91CkZ2uYdzFu|2168.434411    | 472.00       |
+|3Xcc13BYTe7uJxadWiR8ksxnsQQKddgj2No9nejsP2T4|2162.630267    | 471.00       |
+|FBDF8JSDhQGbpvEYbJv2kJrUWiKUuih8ckETjVpRBJZW|2155.926202    | 469.00       |
+|6Cuc5uNKEGCZFJR61AtV2E77ZNMk1cEUnfuFw7efQmQu|2145.207685    | 467.00       |
+|285kXcuNXTGKSuZ1ia66jHsKZvdpP7WwBzUTrsNVVSgK|2138.61029     | 466.00       |
+|BD1HSaCsjhYyT3L6rV4TCWd5i2seWCXctKrfru8D4yLS|2138.211637    | 466.00       |
+|4wFtfXA2ws9511SgMKDcSoprWxUUHjKqRUd2VRzFZ72b|2127.548504    | 463.00       |
+|GejtJ2UtF2gfXgcpmAPAw4FyT93tKShpoKNJZNy8LA4x|2124.367324    | 463.00       |
+|88T9pRnku53Wv7p4cAA6x7oABMnCzGSohfgq73eBPgyE|2122.895739    | 462.00       |
+|fYhF5xL2hajwKovD5TE7GJn2pxD2vaJwETRiQtKpsiH |2112.002936    | 460.00       |
+|8N1jBE7kthqY1CSwmVnAZ69rpG2UR9C8TK2so4zMgsbY|2101.976284    | 458.00       |
+|tUz8bB1cvgMjctrUHiBcGYQbYkwNgXiWEMfdffGUPPJ |2093.99178     | 456.00       |
+|7CMSgkvTVHvm7uh9eAB2QUWtWGp6TCfggJpKjkeAo73 |2068.22554     | 450.00       |
+|7YH7tkWnKM8WV9nNRYxScF2tPKRkL9Xak2fbAjjkMdxW|2052.648161    | 447.00       |
+|4ax3inm8Eod6QCwzqLUxvqsrPMyefP8tBPZUzPJdrrS7|2031.717834    | 442.00       |
+|Bax1TV7wPT4YqNaQSrgsDdS4KLRcejQAhbEDfoAsjuPw|2021.85074     | 440.00       |
+|A9dBaE7Pd76X6DBu554z1DNsXGE9GdKYzBm5cGnSnUcv|2005.924952    | 437.00       |
+|FRY5JNzw76u1DAw22CdPA5rnJn1VqeB8U83T4Jgz8sA |2002.360353    | 436.00       |
+|F7zShuWCjfEEZizHmdCRViJ5hathYmkLAh3bb4tshW48|2000.878572    | 436.00       |
+|CnzuHk9YKzefMrQKyyXjVQnnhxn4aBs2gqdPgWqeAS1h|2000.666182    | 436.00       |
+|H8ssgFHbC7LBKuboBLRartkdrSgKWkhuy2JpqPgtt7SA|2000.248883    | 436.00       |
+|8qnq6sjCUofe4yhasvdzvmnECcZZNLKENfohofWZ7Drw|2000           | 435.00       |
+|DzLnRWquut1StZBTSkiuDUDDjxoG43FZzwFfQxwPbcqX|2000           | 435.00       |
+|BfV97yrWBMMVna3skNiWL2dmXVF4Yugyjhu6GX3QhaED|2000           | 435.00       |
+|9A6bzEc61hXKDjXrj68ywr1rnsF22rM9KZhoEWrmmuhd|2000           | 435.00       |
+|2KGpuxyHQghtq21Cg7qVzo9N5peS7w9NTy4wBFRPEHxe|2000           | 435.00       |
+|EsRPMosYUS8NW3A2WMX4RLBLKuu9naPZeYtU6cWmZ27p|1980.084606    | 431.00       |
+|e9ce7qwscJpYCcZoUcZnyVzTb9bSqkjQebN9QcGa2BA |1977.4         | 431.00       |
+|BciteaEHWXqJ8FMQqe2Qa16g4PuKCVwdhJG8BbCpjdHx|1974.530953    | 430.00       |
+|FFpsBTC6wirqvQo5XcTSWBThdeoiijJM44DwnYMVPSxT|1968.08271     | 429.00       |
+|338Xj3E4DtFN4vXoYh4pjaEima3MGXDc7Hy9Gxftmq36|1962.170977    | 427.00       |
+|4Hh654q2GhVtT3VYEPnqupXAtBc7YsZstAUB1AGrKK5K|1961.2         | 427.00       |
+|2fVCQPD5xvUW6FhMhh25xbNeEoVgo4ghS5zQpVJ7Mb4k|1959.48644     | 427.00       |
+|4K31PxveZ5mLt8LtsG4AoBP3jMSmCNDeQLWvMg2y2LUf|1952.817519    | 425.00       |
+|E3QLbESthgH1kxbaDFbwXAQY3P3DBwwwkUvVerR5d8Bb|1924.697344    | 419.00       |
+|8azgat1nC8R85B6nGGVhLtmqe3JoJ4THgv9bHWWZPiKx|1915.402685    | 417.00       |
+|2hnzLuK5DYXM1ELAyDKKUWr6X7ahZZaQfUbouTsZtj7f|1907.91141     | 415.00       |
+|7X9x2aF3bus3fZca6LzTHVpQamY4eRAeyYnWzhp4NCu3|1907.101891    | 415.00       |
+|B9WDBt3g6vWb4NhAc1TH6FYtmXPktvSQCp5UBvhcFfWb|1902.00707     | 414.00       |
+|6QvwtK9hMLSzH3ENPVwKMaUec5T79BkAguqaYQr9axq5|1898.451052    | 413.00       |
+|7DNr7iCNheEGybRkyvCLPHDJPZox4ffbhKUCp1YR9jLt|1886.448463    | 411.00       |
+|ArEomrTowBozrDb7EkXowjKym1Lv6MD4J3qVgcQ4ebt3|1883.087694    | 410.00       |
+|9QL7n7z27rAztHaSvAKLm6MEhPDLZRAf7k3Ec1BG71Cx|1882.249041    | 410.00       |
+|55KN8jUbG3CFAgLUm6HcUkszZy1tym6u4BBZeB9Pq6wh|1866.479262    | 406.00       |
+|FBwKXo9fb4JHAhXBranirQEf6mAAKQ3JWvpZUaTuWnTV|1864.203853    | 406.00       |
+|HFRtwe4Dx7PyLctQqHpidDMacfBpBTbK65FohvSZ5ore|1860.592404    | 405.00       |
+|DK7U9xK7ZvNLPNU87hFTufutDQRVcruw3t1enZVCN3WQ|1856.268161    | 404.00       |
+|CxrR9RnNh1XwxD1gMYYiHA2PuaJ2v4ZhM1BFHN9jWmB5|1850.270558    | 403.00       |
+|H7n8CAntco4enooD9u6LmoatmC628gAH5tcHQVt9FjNB|1845.804375    | 402.00       |
+|HCppULXy7Dhc4B4k7vVuVmG2yMmaHDJDBzsAmVEn3YkY|1842.237334    | 401.00       |
+|ESt9TRigfB8dR3qNDnaMNhXvQNcGsBNJWKu3n8FG98Eh|1833.664074    | 399.00       |
+|CQcQTnsZXEJ1dVffkKotxCLCkdrDBnSroLVzU8R7f5Fn|1831.56139     | 399.00       |
+|Fi5xHvWBS6rzUmfP5u2ZExmtUM32ARzobE4pbJ6fKfoj|1824.508893    | 397.00       |
+|HAxdppwU9P4a73vugAwSiUHGETspV2C2642enFYWxoin|1821.381208    | 397.00       |
+|G37vcM54s9SehSRjsMNgBEuW4Qor9uWRwAM4azKDeAMK|1809.856853    | 394.00       |
+|9xKekemfCusC4vFQXcBHTRBsq7xiM26bQWpqFtKqmzUU|1805.798114    | 393.00       |
+|BvSxqiz1ujvqp6GcU1dRzQoXSV1oB8MkUpaFnbSPnJzw|1800           | 392.00       |
+|CSWZRGFV3Zpeem7BUxyxz7ci4oxFQYY7CpERF2mexqYH|1799.698687    | 392.00       |
+|7CTMKFqphW9KyrCGcNC8q18eW7hW125yB3Cs3fvGBrz4|1796.590508    | 391.00       |
+|gyQ9Af8xrNhrsFA1t8Ey52oExZkmHrk956SXW8k2ptc |1773.253595    | 386.00       |
+|31a6zZXf5BhZSWQaSgkunwSponh7MKwvTkRiYn4uBiuU|1767.380182    | 385.00       |
+|HyZ2GXGyVDmpgVUD7tNMrxHgKcG3cHNGJTWU39EKWqCy|1763.213059    | 384.00       |
+|HZbvvZJW1aMyrDm4HNhVNJvYtdSdHitpEZ7GUktVWpp9|1761.445836    | 383.00       |
+|FnSXLy6CBT4u86VvMJuDa4uCvTy3fWJyA19MbtqZw7b9|1756.087364    | 382.00       |
+|GLN8B4ftXHaNv4HbXkZ9vHjZwwaB6aEmzkXN19jrwtxd|1743.827944    | 380.00       |
+|5MMKKu9wDW7KTQUGw7DHqXf4fVvBug3Mx6U628dmRxoh|1730.11664     | 377.00       |
+|2Vyp2ik8DYNh8vwmSHsqgSymxaSeS6Fsz5KQxjCCjJ7c|1716.792879    | 374.00       |
+|BYPuu1zFK5nH8KZ4eYXH8ywkEYQcMBhkTwUtbQR6v3U6|1705.088145    | 371.00       |
+|BNyAvXiJSXrrp1NG7rfJZ4GLUhWfh8xabbjUGv9e3BPL|1702.463902    | 371.00       |
+|G2PUPj9ZWuFB76hqcWtaNALWhqzurf3JvmqBfSgBZ41K|1673.549904    | 364.00       |
+|G4BuRpBfHD3amNGfE3MABzUmQfehsNHCVFCQzR2piRQb|1670.757146    | 364.00       |
+|2jrXXHLuWQHbbpDYqMXtvtD5aWQBEiaKsHUYA7otUBrm|1667.453026    | 363.00       |
+|mY1z4wLpDzGfhFVSRGF5GyU4wNjKhJdvcyN5k89AYae |1664           | 362.00       |
+|5pPoZrpqEfo5XgjqWisrLzLpsPr1mAi6csEaDCF5yGLg|1643.006384    | 358.00       |
+|5GcqHVLPXWMJGZiT3JPbovZkt6pFNBy8Xx7xX5oFRhmh|1641.505341    | 357.00       |
+|f3MWJHmsmR8pYYa2NtWAUNweKsUigMRAUsgG4aB89vb |1634.443675    | 356.00       |
+|5RAyCqVSQPpZLdZGxeKW4yTVnybVCP6pRAtfLFN4csGw|1625.604754    | 354.00       |
+|sdJSbA3TgxRSSnfsAhP34aDHsLKdmKownsy8w9PM72c |1623.007874    | 353.00       |
+|BwaomQzYzNzZ6df5uekF8U2xEUtEyrXgLhpswXPdzLLK|1620.889314    | 353.00       |
+|69XJS1GrDDTdUg59sPTRsRo3Z79czDtHK5oSkRwBqJM1|1613.602511    | 351.00       |
+|57NiMTWx2HG4J5ERGqemUY2BcaDqhTaygqifDJeoWhWW|1608.208675    | 350.00       |
+|D3i7fsRkR7jw58f5R7zJxutNyPiWbisg2vjntyL3DrkG|1593.421755    | 347.00       |
+|2UzpwtmfZAHcA1k15jazCrfHFtdqfWw9UxAG4XntMULq|1593.206665    | 347.00       |
+|Ef7N3rB5QQ6XSVvPAKwyuZafi2VyUu4jfS1s7j64QfVZ|1587.376745    | 346.00       |
+|CGGqr3SuTh9ypWxyPCzsBH79xh67it47jB2goVHxHFzu|1587.063038    | 345.00       |
+|B2Xvgp1bNnn7qHYVuxhbkNCg6xQoh5FYcfmV5UN7L7MK|1577.930922    | 343.00       |
+|7NXVzwWk7RqAgKDeXj3xXxBCZfZntVK3cKZMBNt4dpZU|1570.592551    | 342.00       |
+|FWAcLtF5HFwFkUdQutXr4VfYS82DGXQD3rn4FBiw2P8n|1563.150073    | 340.00       |
+|CEExEvdnN1hWYmPKyA9khnzPFuyswCvoyGGpePCUtVoa|1562.752848    | 340.00       |
+|Cdjj1iHVw4Zm6SNj5GMCCUShm1m8rRHpBMGEci51HSqN|1558.529833    | 339.00       |
+|GzzoPM8ZFhnKjZqrp4e4PEy92zbUp17LqxCqR18qZLNL|1555.097788    | 338.00       |
+|4t83f6pqzeYDd7Rp3YUhejbD9suC8ptcGxW9oeYibNMT|1545.305682    | 336.00       |
+|BWhQDBEjbn4vngWSnDLk3o2HJa6yBzYFrB8BT1k6SKaE|1537.930437    | 335.00       |
+|B5zWDa32TRS3FjmA3KavF53pUpcQMF99dw5uFV15w21g|1535.832059    | 334.00       |
+|FSLj3qbBToL3vrsEK2iVUnMvuEXpiMnNS7cdCQGAmktg|1533.362337    | 334.00       |
+|8LqCnPYdEQ4cucVetu1u9mcrVtaD3gDTTAs2ucRBLbH1|1520.45572     | 331.00       |
+|5HvMBojLyq96gsxkJ4jFzeqtVYxPrLEyNw4GyZTPCZXW|1517.545477    | 330.00       |
+|AkTgH1uW6J6j6QHmFNGzZuZwwXaHQsPCpHUriED28tRj|1514.581665    | 330.00       |
+|9JvjWnqaQsPMokhtRzn36vg5h3ZEPzoJPTNMPBfSmPpf|1500.651414    | 327.00       |
+|7v3nN2LT6mQgYPU6uA99neJaHjRTTrAcX6WYLfQGZPxj|1499.45        | 326.00       |
+|rYLt2ohtnYadiy2A8RiiqruDupmLyPh7ToCEKGYTUZW |1483.405181    | 323.00       |
+|GQLzbpDbp4ugnuitpNCPEp79mfx1pvoQn3Sq5K8qaSNH|1480.591259    | 322.00       |
+|2GsKv2nxuvSegP5aioP9oMibfHWFpfUCPmffKnx55t4f|1478.154668    | 322.00       |
+|7de3viNKNvzJH85NoSvJaFjjWwH8Tw6Yx2PcMVGnVjG8|1464.93132     | 319.00       |
+|2szvXEfU7WhPGE7fZMdUiXYSf3afspwxny3c9UzdCdZt|1447.949025    | 315.00       |
+|2dmK6KjRhCZVJ8GAfiVmedgRZTmkEUWSegjRskDZVfKm|1445.066938    | 315.00       |
+|AdHbCe4x8sJdFJGu25xHd6V1A7pyYEhMngZBAg7h8bk |1442.003072    | 314.00       |
+|69y7EGbrq5e6JtmNMkjj2gYNQh81dtnxdTFwMivVzKH6|1441.911434    | 314.00       |
+|HmXqduTTPT5BAhqMzofcDQWphdTFL2yvpiutdXRQMqga|1440.561538    | 314.00       |
+|EAXBCyv3cnMLy3nop4iEGiCLyPayHR1SKxpq9q1UHD2t|1439.922586    | 313.00       |
+|EP76R95itWu5TsLf5CFJ4qMMfZ5EMmBuaPvB9xBFuPYk|1433.816153    | 312.00       |
+|9MR1zKP8sg6hMVqXPjGTLm426gGoXcfD82Xe9zD2pKWk|1428.550356    | 311.00       |
+|DEuFdWxA3kHY6mE7B3Twx9HnManBeRZ7LqweJzZY8uFa|1425.036192    | 310.00       |
+|8TwKXWygSPUYjWKEsqSVy9sjR8i95Nn8u4XfTxASTma6|1423.634493    | 310.00       |
+|63wGD952VJFtAvZrAuYhmLf6H4JoMSFL2337EaroC6gY|1422.858732    | 310.00       |
+|2EpR1LgwvNPh9KUdfroYfsuAeNVkr4Tzd4kdpQXN3Qbn|1412.388318    | 307.00       |
+|HBdW3fnjEY82Lqp86QvaAdb4ttbTt7zmH6754aTfw6E7|1410.214368    | 307.00       |
+|NxWH9BVTXgEcPRTojsFRoocxTbFaD4KrrYqWyv4qA4Y |1409.90628     | 307.00       |
+|8maodDX1hwqijFfkG8xp3pEzhNrR5zZJAvcvbQQv13Xa|1409           | 307.00       |
+|a13fPsm7d8x4Wj6azpXp19poHbVyEGeyzgnMyaY3Bdw |1407.822235    | 306.00       |
+|7GYKYqV2FjK3yReDAkrJ4JYiM3vDmw22VaR34671wJiL|1405.900763    | 306.00       |
+|J6JbMmTmY5VNwPEkF3mxGwsaYTpb1gEzYtsLQswkuwZD|1398.818505    | 304.00       |
+|CrVitMtuwgfCxehGZamCRN68FB7arMnohEpLnYNyLLL5|1396.545087    | 304.00       |
+|DjqJTRJ6v4LXQHkwDsARiBfNGrU6UUwzJBKxKk5ScKcb|1394.013346    | 303.00       |
+|899bKfqGNmaySpMDLBKLriaummUzri9ms5N1qXybK8CT|1391.942899    | 303.00       |
+|4Gm2oHTfQtwNkVXhWUK3rrHtK2cs4KJL7jxKK9xXbfp1|1390.799545    | 303.00       |
+|EBWkShs438HUQqdUG7by3iKQ6diRdoqpts1uABVdAjmP|1383.609271    | 301.00       |
+|EQ7BXhh1t63Xm3wTvYYV339nnEuoLrMnwYCtL81aLvvY|1362.797863    | 297.00       |
+|GePGXFmStJ8KGZSVZtobCAYsWoCeAbX8BjrxkprtFeyd|1361.027523    | 296.00       |
+|DfHvoEwSnUsoCxvJiyRHBtfd3K7J32jmctD61cTHjqLA|1359.102246    | 296.00       |
+|98Ejr1YGSwEsCYtQknCd5ZMRcFiTdeSp2MtTApQBfUYd|1347.710779    | 293.00       |
+|5dov7q9Vu81d2ffttY8yKpqrkxdqq5HFU5aJKp4XZd4y|1347.65        | 293.00       |
+|EedeH9kx8r5zkiUeCPNpZbhNNUe16xksjqTaoNbY1Uyg|1337.040012    | 291.00       |
+|5HJmaEQzyeMyShwGDui85jGS8Vk9G3WSBLkWfMY8XYK7|1335.91939     | 291.00       |
+|7zhJzDKs5xPrPc7dhkgDFChKAaKF6VLr8o8PxrmYsHjG|1333.254582    | 290.00       |
+|39e2o6wefyCaSN8UF4M2XA1epM2dUDXMWqdZfjq3pFFD|1311.157293    | 285.00       |
+|4hciUHsW5zgQpBQEov98rxzHSKPEyDUSu6ZAuMLpoQcg|1306.499416    | 284.00       |
+|54LtxsEh6nQX5Pq2dBjDvKoTNcSE8osZPn74ddVxTSJm|1304.799084    | 284.00       |
+|9LKY1Du81gByvTH4WWoHa53TogwVYPZraq135QXyusZT|1301.546202    | 283.00       |
+|BgZ5YXspTebkDaaJMGc6kzgPErZdj8LZs7M19UCgfJH6|1294.851647    | 282.00       |
+|GsCUAKXhrhTsWdHkPBDjnBMGLUHF4SX2Xc5WiAXEGXR4|1288.156389    | 280.00       |
+|BNiBxSZq2hur6Kfs6LMP8aHMM3KEyyZcRNhrJ5avNCwd|1282.49587     | 279.00       |
+|EpKMP7S6YNvCboQNn8kyfpvKeT3JFwVaYjYWajfgmo9j|1276.26909     | 278.00       |
+|8wBPAmJHh7SQpJhqoRMPh4WYpZh7J18wcuFoCdWdfsJm|1270.928958    | 277.00       |
+|Zcc5dUBbtcaVSVqSWNJLHhYBjjUmDUp32ABwDbwoqfZ |1267.289233    | 276.00       |
+|GgtjixYzYzZmARy9KjSvQFxBpHTR6WJav9G65z42vPzD|1261.859352    | 275.00       |
+|F7QsmynJ8QSoVmN8bDrbwXo1Lz2vwC8Fi7YPaQPki6gN|1259.023838    | 274.00       |
+|F4Vxrmn3T9HAMnartzSgCnRyzHRj1VtmjVLM9PGAM4W |1249.564584    | 272.00       |
+|8ChEDRxP391L8mBwgwR9HzZH3i1AMfo6PyfBt6brrYJ |1248.835957    | 272.00       |
+|Bpk7g8KM1ZtRwsLQcFvYnZTekdgKvPdaq5oySdc4UgG9|1246.565308    | 271.00       |
+|BcLZa7iPyUgH1DAw67AEu3CH1Wqai7474mJG3p5Qy72H|1245.729121    | 271.00       |
+|43yPJqxXP7yBzURkvPhjXhbXGNmcBoRV9SF4XpxyCZzk|1245.17643     | 271.00       |
+|HqG43pbmfFd6jrzT7yWTBFGJa1cjujnSo2dQzDeMXeXK|1225.236636    | 267.00       |
+|HdWLaBeJGeDJz6W1aKbz5McT12cbHEYYNiL6doR8k5gM|1222.441227    | 266.00       |
+|H9hRQf8sBdQvD5cyBvoXBT1M2Q2RWBnTDgUDXLKF74sk|1222.406143    | 266.00       |
+|2aWmKt19wLSYqqryxM11eroUcR6EBUfS7wdcRkgAVHNN|1217.895475    | 265.00       |
+|6218Td2txjTvrczRxnRTePYx2BL5dmaDDDSTrhbZR63f|1217.067974    | 265.00       |
+|FQr8G5BPEuxmgD3T7HxkCnkivyRamteGVEH7cngUFVdR|1203.440084    | 262.00       |
+|FVWQuaXemqKjkfkGPaZX6ryD8Pog9Mvv4vsb5xVetf9W|1199.471223    | 261.00       |
+|Fz1pP1jWRVJ8EDNzjZR77GKRXd5XX4sBBN4h6nonSpVr|1199.031203    | 261.00       |
+|CtPQdhrSX2KCNNq6NHEzEhx2FvB8McYGg6VyPM4gMsb1|1197.26555     | 260.00       |
+|F3ttvCSMgTpJ1SgfnTBdgjjdmFVBA7SVUy6ycJ4EXiHB|1193.21001     | 260.00       |
+|7UwtbygBn7JiLTtQGUbKUR5cqDWuVVkg4UL5NAiTpa99|1191.08229     | 259.00       |
+|4vF8tM537ehHSya2w35pJRy6Yb3vYmeJxRNEUVnvYA37|1190.707891    | 259.00       |
+|7CGzrBNNpT8XKtfoUgCgAKaiBeXUVdj5UDSJ25CSc19m|1190.289325    | 259.00       |
+|FvUkHB8M3aotQpKKdNVr3pvGtmJS9HH2bd92XY7AdxcC|1186.176775    | 258.00       |
+|C8e2igoHsrLmiKtAjbRCosJvPAv2pPSDkc2KZ1tU8Dsv|1181.391782    | 257.00       |
+|ATyGqUGCkdyWDWxazMSfHM1BRHNGWSr8WAZKgx4RPW74|1179.09992     | 257.00       |
+|1G4kQ2DftYZAzUBbdH2UDxD3UqQnSXyRED2oY5Dybti |1176.253024    | 256.00       |
+|4d8vPGXpCw3ojpSM9UD9HMaLJWyyZSo7DPqzmnorVj2V|1172.942052    | 255.00       |
+|DbCXxv8uwpioeqgT3iPSpPs58m1Hve84JhDjkrK8YVka|1169.286819    | 254.00       |
+|DSY3Pm2qsKbSm3vaikXSe2MTo1Rk4bpxA92eH3Pa8DMH|1145.25        | 249.00       |
+|omZxj41KdZ5wG7CQgF4dy3AnDqnESPPGFHEatkHzTB7 |1140.146779    | 248.00       |
+|2JFzkG6FuyztExekxQxy3tKhT8PcD1nqAneF5tXVr5TA|1132.907396    | 246.00       |
+|51j1zDN8W8EqhdKFq3QqdqxtLnP27swUHkurwYtXeHuN|1114.233588    | 242.00       |
+|53gM4yQBo8GzQjbgkUMmG5QQUoNCxXLPzZFJUEckZvBY|1113.643304    | 242.00       |
+|D29CYkmj38jksk1kKtDVL6H5Tb36gQC8vLcx3chnfCzh|1113.000001    | 242.00       |
+|G672JA8vEf4K8yzMPdSgtJRePWY2fGgNW3ZpumhxEm9N|1113           | 242.00       |
+|5hmmRAmHATdBMpB3TpU8nK9zzch55xaugXzaWvp3Vi8C|1100.067763    | 239.00       |
+|81hdX4Qw8GdvTvPsYHtVzUujeTi6zH7WqE3UNYDipWcD|1097           | 239.00       |
+|HEkK8besyGdnfRw4vSRCkwreHwNjXdZwCeCRZ1bpDiC8|1096.581435    | 239.00       |
+|xYB7XFmY1bwtxsQMRwiaxCZD8sM1JbrNfYaJ7zmEYAb |1094.547777    | 238.00       |
+|JCHh3TjzXvJrLLNGyEyJkaCuMabFa8E5eXUcpuxAYm5t|1094.3         | 238.00       |
+|9AUbkLRYJtA9YBQ5gw51Y85rfufdw1h6cdCNsY9XWkbQ|1093.5         | 238.00       |
+|7fLitEkrwTvxV1ungrivBfJMW5HmUeA42b37Dn4EAjAA|1093.391007    | 238.00       |
+|8UmetxS5NjZmh3odq4RThVuXjbPhgaV4sYc9pzKuhD4Y|1091.362098    | 237.00       |
+|6FGvP561fpHQL2XojxK98tj1TikwNuYpn77qDyz5en1h|1088.41914     | 237.00       |
+|7puAbC73fB6TCXNkLaY2JJqHBHD1n6Bw3q3jCaEux4zQ|1087.934937    | 237.00       |
+|2Ec68fewjp4NEdwr2ouvZGegnCt2Vcn4FQPHh94VokoN|1084.008547    | 236.00       |
+|FRJuojA7SSoCRZgpH1PcbubLhTH9pV1HJGv9eWm54Ti5|1079.740199    | 235.00       |
+|CADNEtDtLWQPMnDPczwHotN2QFuJ1Q7dfUTYWJmafg9X|1078.286737    | 235.00       |
+|uT2cy5FnJBz14Pc3PqYLtiN3RNJgMW3HWhitA4t7Msb |1073           | 233.00       |
+|9NwC44KkpGu6DnBgQJZQk8J6EevzYqjuhg16Ly7a1D84|1066.532336    | 232.00       |
+|9av43mMvyMJ7pDNQUQXzg2JBdqH7wqkxY6raxyJcTgVE|1059.552687    | 230.00       |
+|4Vu6AsajLnyQv7e9QD7ELFaDT6ueidBEq6kTPzSHtFgn|1057.979486    | 230.00       |
+|A1FNq6heyHLzSWNE9hKjn5ZAgf2sP1tD7mgawjtafLfY|1056.553107    | 230.00       |
+|93qv5WdhagFCaYRkVz5MhT5GHdNzgknB2C1Zwk5znU9b|1055.244811    | 230.00       |
+|3A2C34HV6YAp5yqmEEQuF7ptzGdfJqe68CMZ8YBWgk8A|1054.322061    | 229.00       |
+|8ZopzQH7KUcyacauPVtFS29bQ2BUCTR1Fcw9V4UYDjaj|1047.713377    | 228.00       |
+|2FBpc2JfSVYJvgFgYUdM9qw7dGnX92u21gu9tpQGvhoR|1031.504498    | 224.00       |
+|FoyH2Sor5dGa4EkLmwU6oYh7Fp61FWip5oMZ6Q9gNReE|1029.316244    | 224.00       |
+|5RC741kMn3ct6eawXWtHihDAHp3BCob6QcdNn2Q5UpiA|1028.104894    | 224.00       |
+|3qmCPyzcQdmo6q3zpjXwPXSMN7F4ztMS9WmtsJSDzKrG|1018.670794    | 222.00       |
+|Gz8E9ygwsnGX2JY5vbNGmvp96bJ4HQDNMFr84eV6RWN9|1014.325901    | 221.00       |
+|7VrUimreoigTeW6Db6x6HEMS6N92mWHb3x9RSxTSzdrq|1013.747584    | 220.00       |
+|AnPQbqHX4Je81qseFkwYU65eKe6i5BfTf3gJQ3iaZN3v|1013           | 220.00       |
+|2qQZd2KcHnYkMATvktJ3QZFKdyKiJGVKg7cPC37QjnsY|1012.858086    | 220.00       |
+|WEUu4dG98vgCjMqt1ita1UWtzjxcqgDaXE5v8JK1AiM |1005.826275    | 219.00       |
+|RbMvAi8cSKiP74NTotyMEteurPDgxF8tyJv39nLZtx7 |1000.973392    | 218.00       |
+|55NQkFDwwW8noThkL9Rd5ngbgUU36fYZeos1k5ZwjGdn|1000.908768    | 218.00       |
+|LSEedeUTyrAUaX3rVAVUuABKcSCgZ9nXN8wqX4Qmsnn |1000.477604    | 218.00       |
+|5A41dHkQqDEzgTEarkW4Sa9CCEEo79jJYuVnpNKMHhKZ|1000.009648    | 217.00       |
+|Cmh2Jtv2eZ4QxMrC9B7DD3RytttwWc1Gxjzrrn5vMa5d|1000.0039      | 217.00       |
+|FUpNdZ8uLZsLHqnuCbaThC3hYDHmvmGcAMJRM3WaRSvW|1000           | 217.00       |
+|9Wr2paJG8bs3rn3w4AWfENwpKidskrLyRd3dejnc1fxr|1000           | 217.00       |
+|DUKE8funVAf9XX4XZaGRxG75YQMEKSBiM7LSabWuUaY3|1000           | 217.00       |
+|Br8TPXmhngsWcryxJJWnHNaqPB4pbBA8A7ricnT6rdJr|999.999999     | 217.00       |
+|9R5y6DVLr3jZaZZjedgbim6rtf7NRPRmQVFV5dbCALUZ|999.999998     | 217.00       |
+|35T3bCWYmacpFAyf2JZrnDpiaBz6ZWgspJL6AooaKQMn|991.154618     | 216.00       |
+|8XfVXvsMZ2ArbkDspifjc4r9LnPzJxWdmPk1D6Ey7pYt|991.1          | 216.00       |
+|5dSzntam6tc1o3vhRi1YBF123hows2CRrszxY87GECfb|988.48597      | 215.00       |
+|FX8DnPDc4hYZfu2LSsXRjQuZs8AJ93S6BJcaqgAmopDH|985.3265       | 214.00       |
+|7v554v9Ezkmh1DuZwuvhLabHTxrQq1vARpmTNnGeLBGW|979.133236     | 213.00       |
+|6yYDHDv7hQLs6QBkBU2MDetg1aDrmHV3k3tuuHfFFZLx|977.676048     | 213.00       |
+|hJnTkyjfih8pRP8C5s5fCLZbtzRQgJcFsoE57QKStGi |976.653072     | 212.00       |
+|FgKcoogVxsGdytiJcEvAPNHznMGncgjrsct6EpAcLGeV|975.553581     | 212.00       |
+|8LivSwWBo1NA2kkHwGyPmqCppL6V2Svs4ozbonPaSS88|965            | 210.00       |
+|ExzEgtj6gbgiFtQVjgYQe845VZfhD9ZdgqkiWcvZAXDG|963.367701     | 209.00       |
+|2tEWBPXNGrvSYMFEs2q6a4cEbwkFsP4e8w6HuW1DGujy|955.077912     | 208.00       |
+|Ef6W78rvGGjvHyr4nsgaTmuVV5zYM9dTkG8PB3iL5LP3|951.595295     | 207.00       |
+|2gBAJYr3ZZwNqa7qLbTqRheBGRsa3KUTyn8JqgN4pjCb|948.478639     | 206.00       |
+|FGho1ZiGmPgpYYSEvsgdCjCHokjc1hv4gUBegkYdoaEe|938.3795       | 204.00       |
+|A9WJoGyKahsXiodaiaEW7QbzJ2BXyqPN2jgxeTzR35fU|938.139035     | 204.00       |
+|DGWwXzyQ1Hz1Vr1hSV1SkdjshHFiQrFSPvQ5qzKczepn|938.00241      | 204.00       |
+|AAda5EXsp3Y1RvmiThgpUAa1hive7eDpccn5tEX3JwNS|935.909798     | 204.00       |
+|B9KCgqRcWqfLQqzAgG7QzFuPdgpT55Urdk9fRG7isabE|935.451478     | 203.00       |
+|2a873bCDKQf9EDdMJ5nkYVXEXKJGCC94DhvqyPTu9Zv3|925.603522     | 201.00       |
+|7eHbAM7CfkVBekAu9xR1Y8kiw4KL6u8zVjCHxGQmCKbt|923.919389     | 201.00       |
+|DGJGshaMKkkAtz2j4bipbRDnrMEJeo8o88di81T3spnV|913.04         | 199.00       |
+|35fjKS2HqKvA6e2UkcbUpeJZ1kiwT25dFgDnVSH6mwRT|911.105067     | 198.00       |
+|CGJ9URjHhqqwne6EBa1yZzsCKqdPouPUqug2s2p2vppE|909.513097     | 198.00       |
+|GdwkuC2zjp2JTiodGLwT1GQoLvCYa7uWnXe989VxwbQ4|908.412668     | 198.00       |
+|KmdAw2M9xcbs8BLWYs4jrjuKMDT646J9tANGdX4TP2H |900.7535       | 196.00       |
+|7ngjtpaQEXc5ewGPHmC24h7TpsqQsS7RHq51KjVj7dSK|900.341986     | 196.00       |
+|FSTBGcaXQi7mL8gzdTcjwNAChTCUyswrgAKWxmPaZQiF|897.952767     | 195.00       |
+|9UJs7F8vXiNNwDy7ToKrg5fJQCCDaHf39yWRGLkCbGMi|892.795458     | 194.00       |
+|3rLZoCDGun7cumDAnZpgBFV59kGfbgEQY1QdTDgsnXsm|891.107967     | 194.00       |
+|2Hh1tN8gzGW1HBm3gaXpdvCCZ8C1o9Ut64mZr63KpTaL|889.889018     | 193.00       |
+|3Tu2wotZ247EdxoXCU8ZvybRoQcHqvoeJsHq5kCxrwLr|887.5          | 193.00       |
+|498wBr98M4t7JLKasu6JLv6UBFUxuUGHr1CFpUAR56FC|887.075984     | 193.00       |
+|53oYC4u9YQM27YAUFwxJssUg42NgDrRwtg84k3sFLZj |881.095536     | 192.00       |
+|8hAHNYnD5YZUPfxMkREXRy83YUKox8K98M1aanUakwJv|878.366026     | 191.00       |
+|FN4QLqTZRQTorKYRvkqTmjkdcUXwmmr5kfGr4kufN6Q2|877.04596      | 191.00       |
+|A11M8CCaQ8ErKmhjX7jMV3w1NMXji9ZjEkjeYCnDLjaF|875.709689     | 190.00       |
+|BkhcFULEB6bBYqmXDn7zEb1AUdK8AAnL3uJHEiGWXvdT|864.23297      | 188.00       |
+|CY3A6wR26MyLW4wPedyXq2agGCMaYZyBrevCvsJX8iH2|861.055138     | 187.00       |
+|HVxUBBfxMBcvK4vJncEfxJU3fmfXhyr4WWRz5Naab6PP|860.7          | 187.00       |
+|9qfh7e9f1fYDJLHoKnhpmGB8uqFQ1VSQWdA2JznmZKb3|855.249176     | 186.00       |
+|DKy787D2rFiEhK1uxqxYoeFkxzmdLYLEe6JYFJW47i6i|854.331201     | 186.00       |
+|BdK1wxE68jLAnFQySRTupDQi5J8tAdV7PZTmtrsw4QL5|853.74207      | 186.00       |
+|Ha83RjABBy84agnaXZt3VNGE3ubsUJ54nwebnon8dZpz|847.466859     | 184.00       |
+|CRxkriT3T4z4vihHu1vhR5eBiVFq7oDrzPPsqsqhyZR5|840            | 183.00       |
+|HPrhvm3pyHWwDaejdg184zr7ofMHQDLgVUtbCMycAm5o|838.292815     | 182.00       |
+|89YExpyvjR5dGxSMPJiP3vDE4N6J4EeJjrxT6B9nvRgm|833.133086     | 181.00       |
+|DCcj6FtG3jaPUu7VbgZqKPtREq8fSFf9mybWGRsKrSbL|825.761979     | 180.00       |
+|j1oeQoPeuEDmjvyMwBmCWexzCQup77kbKKxV59CnYbd |823.373966     | 179.00       |
+|5uZvApf7jShRjpaqGEUoVERUZ1SH3byweiKhpMEtcfGX|823.353188     | 179.00       |
+|6oAjeqR9oQMmdEMCBs1CicaLC5D3iGAXa2xRx2aSMCne|822.555154     | 179.00       |
+|GUx5NbJkbqVSTfCanCoH8yybV81y4wDSz8VtAorHYUX |820.578156     | 178.00       |
+|FtJsVExaRhBTBsT3KaEDcKQH3ZbmYtDJ65YHzAwsAu6n|816.824        | 178.00       |
+|D635RcWRELKYUaGfECNQNU6TpypwS3VZe1kpGMqmgTNY|816.240554     | 177.00       |
+|97dAxjJQ5GCtkZxUkXXcfnP6prjNKbwqoYbK12xEcc2 |813.714844     | 177.00       |
+|61AZeN94MYaPoxk5FVG1v1xgrPNWdMQutFAxt7YfSTvG|813.475844     | 177.00       |
+|6Y1XYJT5vsdTfBBCoaoauxrjwDU7qzY64a6Skwg5c9HM|813.195442     | 177.00       |
+|4vVqCfKXhZNQ1GjpiQS1ZgQsY5gcYbjyttZLfzwRKhtu|813.15721      | 177.00       |
+|472F2RwxkuwuA9CnRBYp33qqCiA1QiCB477hqKPQLqNy|812.841174     | 177.00       |
+|Ei6bshBWHJHsb967eygapdJKu2WMdMj4Tog6vorWX3ZG|812.754344     | 177.00       |
+|CfPoFGrqspRQXvcfiMhbNQiu8vbeS6P8goGPeFWDVU2E|811.9638       | 176.00       |
+|5z45QzidqMLqxkN8u9mdQpudmYj8tgGFtJ4VShLjUJZy|806.515699     | 175.00       |
+|8JK71kX7DqnQAEx5ykBbNy7w2ZsQd1PL93oMH2ytzLYS|806.027272     | 175.00       |
+|DdTUDbQYieMs1MoU9smjSDxMVWSoqTNqh8p84XLosCzL|800.497987     | 174.00       |
+|EExwe6QyurThJGFHGTPJvooM2ovzYgPob4QFKL4SZBfk|787.858684     | 171.00       |
+|B4uXHBrE6ATET3R7fQSa38TwfaugCEKzt2CnNYR4Sh3r|787.418931     | 171.00       |
+|8SSxee8N1fPB5nMnT4TvvQ4J7Qd7mepXrLZmjQg4KCa9|773.788046     | 168.00       |
+|CoZzhbqFESqY5U9QW7MC44bz44wQ17R9XFzdJDKmJJ2m|770.638602     | 167.00       |
+|aViwUw1xkdhX37ZhxULDd7oK8zaq6nxSuJ1pafQCcSw |767.873975     | 167.00       |
+|49sbonTWudDy83xqQSLZDn1ZBZz2Hcj4jSjkgYhfGxCA|765.971612     | 166.00       |
+|9YbB3buNE3AkVghU9His5NBnQDKJsYCw9CQCsW7a264x|765            | 166.00       |
+|xvmhXSw3GLa1bex774b6fFPXaDrPvKt326qSNSpZJSN |756.359783     | 164.00       |
+|62jFhARMfbiVPB6JaDVKZACZshXd3bWNnK5ews7zZ9uE|754.239809     | 164.00       |
+|5wPzakgH322uCMTSjRhaXUpBKPwJHABrqDHvqY5ig5LX|752            | 163.00       |
+|HyTbKAuJpa6aHgt4esHn4wWrYYECXnZVvusjU9aMsQvu|750            | 163.00       |
+|FqDQvqs4ou2u3RxhPzKVg2oDXGBLrwJmQMZT4w6vPfKe|749.005055     | 163.00       |
+|4wehEsZETH6Z4kFLByi4oYGRueJpGHRdkVkuLjjkXyvc|736.50514      | 160.00       |
+|4pyZLbnTVbzBX2W5P6aHBbaWc6JVmXtFejb5ax6qkh9v|732.601401     | 159.00       |
+|6XJJUbiox2g1GGPnamYAgP9gWGjNMHpZxnC5T5fAKRN9|716.891971     | 156.00       |
+|7UEMuZkT2tX1Gy4ekEfbdJnTEoYxQxop5i6VNoqRHZem|714.820045     | 155.00       |
+|GdwuefHrs5HBtnx2CzZ6hm3vLS6TWt4HDMcaPZ4o4UDG|713.12678      | 155.00       |
+|8vcUz1tGLNzeuELeKSkhF2dyPZz2q4bZdcLFwFyzSoAu|710            | 154.00       |
+|BCyFLyRgDrENZTbTKG77LWXgtYegQFyyYuwqxKweoUZW|707.239683     | 154.00       |
+|2A9eALNidMuqKxpQcpWzJ6XxMb14MsrvDAKUB1ziAZiD|703.847515     | 153.00       |
+|6ehx4Mc3JtqSZiMfRft5kCzLxNf7AwFNR1Gg6QUcAH1f|703.253572     | 153.00       |
+|FDLjQXSnjJ8Fcj6dSJFtWttBFp2b85fzjv74pd36yMJR|700            | 152.00       |
+|AyYuUtppzWekRBF7JF5T43yudsjDk4D7CRR5Y3XFTpsj|697.008344     | 151.00       |
+|4Gb7dBp6YbeHCdr5YM3ssd2uJDeyWGJmwteiGasc2TAh|695.05284      | 151.00       |
+|ENWDfAjAp2UEcFD3dxSUWJoX8ZwHd71a5DPLBvSJimH7|692.599624     | 150.00       |
+|5p5LQ13jMgVS6x5mbrAcbPZv1BZCsDov4sVx6FBfVRze|691.822618     | 150.00       |
+|4Ljce6BLu72HZpaCwkKzt1DjTdh42kUscbrHiZHxqrLo|690.418042     | 150.00       |
+|9WD76UeLBJxn9mmt9aARcKjHWtU2ro263CwdV7e5g1Y7|689.467328     | 150.00       |
+|69RPMzV3rSWSQuDdivhZLiZ668u375aReXNdW9eyQ8H5|688.512432     | 150.00       |
+|8VwF44VMAbzu7jdRzHjUNiVjv8J533czG4rAQLfgvbDh|682.084194     | 148.00       |
+|BLZJazL9UdzeDaQe1bdAcYa9cLxyPZcoPtrRTpmaAzsy|667.943245     | 145.00       |
+|82icBRHMzZeRSDF4N6bSBoFpsmTuFHfphWGvrYeyj5TH|665.898815     | 145.00       |
+|BghttwfAShogHYSB9J9vc6W94x5wtG1KqYb6acwjgCjQ|649.5          | 141.00       |
+|HMN3tdbbqpNACXuaYS8wHKqELwEqFvHqNg6yo7bitjzs|648.606485     | 141.00       |
+|UYEoVoCCtSrn6k1TQuYhczsKpjpMRJxsDe4kvFCJQzK |647.777189     | 141.00       |
+|7XtkHghQJhFcTEJmcZNd7XZSn6s2cULUKL9kQWbguRLs|637.578066     | 138.00       |
+|8bhPL6TmxsMfgMa1MYhBmBaqDyqqg1Cf3NMciPXmeEs9|636.964625     | 138.00       |
+|Dmfu9HeQEemNsvLweQzvr5vkiopXfXqgRrtc6oAX4EBh|632.841332     | 137.00       |
+|6A8umFFKh863185w82dVdfbnvKXnfqb38g33HrZ3hWFx|630.302267     | 137.00       |
+|9bKn85W6RuWqqPwzRAUCDifoHnfP9v3jhcTQBiy7YW9s|629.571031     | 137.00       |
+|3iRA7e7J4GNDLqBqDZd4ZgNaz11HWeGMM6PyQWJ74YfV|628.972966     | 137.00       |
+|2jXMMQq6wWKZovmXQ11gAkCMHZRHik6qBT3Wc6bwfmbb|627            | 136.00       |
+|B7BQSiNffPEyt9XVNYKwkZY9HrgmKXqr9tmHzzPBMdbH|627            | 136.00       |
+|48Qy1Mkt547FmcNcJbqCYBJ4qALt6gU1zzwP6HfUD2my|626.57695      | 136.00       |
+|k19pkHWRWaFdsKfHiKQoisRYjnHoQw1FsWEWM3L1EEL |624.375        | 136.00       |
+|CdS3YRHjWYogbaw9A4yFcFJrC7HePsXow6gF3ov9fHxk|623.393993     | 135.00       |
+|7px1wbuSGGewZhWD5MmNeMM5mhhqh6ATNC2ZRfZgJqUf|620.827274     | 135.00       |
+|HTemANFJGETWGsdqy7adCDkS59JxGo3DuSmJ8bXtSM9c|620.523226     | 135.00       |
+|FEihCPhDExPSZbYhzKnHHzptSREujQGzVHfmYzTGUy5s|616.8973       | 134.00       |
+|FhvuLeNiGBr9wEDnR2UhvDjnqoK2oqFXiknWQdMvN4KX|612.767903     | 133.00       |
+|CKXuju3eX5Cjm4W4hP4LF1ZpgJULc9SwNEZ7Vv3aPLqx|609.250607     | 132.00       |
+|DXEBmAicpeZZUwChmAH73G3BAN84mN1XGxxpihpWQmdM|608.899131     | 132.00       |
+|BtCN94GjYyn1UxjLJrkAphBQLntxtj8aRJQiE1vvxbPJ|605.668966     | 132.00       |
+|21yk6efk4pzVccAG7o4HApGS5uD2WYa11PWvWDoYfNbt|605.313749     | 131.00       |
+|Fx3yBDc4MX2CpgtthDNbjgoXkCN1DB8ndyYwkMZG58nU|600            | 130.00       |
+|HHUpToXAehyYFDJV4fPKVsem5NMCeE6VXDknZLavg77b|600            | 130.00       |
+|3BNGRpMTq3LS5X2HYSvGwxpAHHc8v5fQ18CFvvnrFc1N|599.342101     | 130.00       |
+|6s2sTvNCC46NArJ1r2dnYEH14wkqxyDz4DqWsxAUGSaQ|599.327344     | 130.00       |
+|2p2QTN8EMQqZDViN4oYgxevzVsmy1eN5HvM8zCwgHrjN|597.682656     | 130.00       |
+|6G1Fbc7WCtHuZCpVxGWmiiGfYbQDmZ2xAxcw1eABaQ9M|595.664163     | 129.00       |
+|41gAkoZcHkhSVJm5YbFJ3ogbn2LMX5qHJ6Byo522A1sF|593.020051     | 129.00       |
+|ChT4Ffo1iWaaEUom2Yh6AzTBk28KwhWhDHzbtWLXSyhg|583.299262     | 127.00       |
+|9jF46b3Us2xQGmhN3tBirQuS7gyX63mzbN9GyJ79qqof|573.608146     | 125.00       |
+|DAFgs9rmeCXvUTexnsdHMNuDQTPDPg9gTBojy4rTNLF9|572.923399     | 124.00       |
+|2emSfPwaxiWH3YvwvuqCb9C6TQdPv2pK5fCdzRoRqosg|563            | 122.00       |
+|ZZesDQNc6K55Sxk1ZWE9J7EGTunCAnNcjNuTBYbvjQR |560.366506     | 122.00       |
+|GKdeuLgGMepn56Bev6LaKAdc7NhtYp4VNf5s4xgnt2rw|551.561131     | 120.00       |
+|13qf2LfjSgzdYf3YMqeEMn1ee5U1DieQ3KEPWukRrkm5|549.001277     | 119.00       |
+|BGjVy76HGdBJNUSXVqJZx84hZ7jkqXK95Jo5MwBvBHyU|545.277295     | 118.00       |
+|4hbR7rGu44751LF1niaY2xCjM6KHm8AtuE7yC3ax5qwq|543.07416      | 118.00       |
+|ALoggg4z2QG1okDoD5kAjKYYPL1A5wcGMCo3xR3WQ7EL|542.657343     | 118.00       |
+|83w4YK8jqreVGpZdFfthZVMVDcKoTLd8AQYV2z61X71N|537            | 117.00       |
+|9qH2D7R7aaQ11hr8uovnjHBBRptG7BbKtvaQNP3inyfr|535.419451     | 116.00       |
+|A2jEaq3qD2QcW4dXYKAQbony6qdiD54txe2Ht8sC9Yoo|532.551775     | 116.00       |
+|BKu7yumBA5b62yqxAbTkExfJg2jAdigGBx87Hfu3C2gH|532.296948     | 116.00       |
+|DeqaieiAp84gouejG84CTHvyvp6TV2ufz6vXA6gXxSDN|530.784141     | 115.00       |
+|BzzBbRJwPvtgZrYhoqQDucoFZcQfLvu264SKWsoTsRjq|518.637292     | 113.00       |
+|63BD57usRrhQowzbsKbhiDb4eU91UcX4JN2QAbwNkNQF|515.414214     | 112.00       |
+|4aT4mSric18gv48ixkPVUu9ufuTYyjwqVbtPLpAzpyXa|512            | 111.00       |
+|GAkdXG9r5LUEGNDY5S6W5hVVHfqHVVJ2UsP9xwaFCcpC|510            | 111.00       |
+|BV4szZm9UhNQZJStRBB8u1jK6divQbMaUxikUzkWbv71|508.008938     | 110.00       |
+|DPHQHHgz8vjxPzUcd5uEH85T1kkpUhAZ1NZboyNqzMAZ|504.883685     | 110.00       |
+|DKzLbgcsnBhoGdp3HRYfscdoEw2acz3iTrNWU3FtiP97|503.490867     | 109.00       |
+|3xv3uRadzGoAD2UMcTU8nE42Sq9MQ1YtHsE1Rpskivbw|501.640766     | 109.00       |
+|7TpqPe71Y8L6NKGHAxdxaiLjZXk95SXHgT6qPTU1TQmv|501.215874     | 109.00       |
+|7dBgQLYSM8iFs9KSwCYc5KUTmM4gVgrU4shrVU5WCYUT|498            | 108.00       |
+|J9gXBvkieXiWv2TyG3SrWS6fNvk25bnXqFBCUGC6WXXd|490.952408     | 107.00       |
+|EY8pDJsygqA7Db7oyXHk8RpgMYYjkEe9mqhBa3EKPRpG|490            | 106.00       |
+|8jTiTDW9ZbMHvAD9SZWvhPfRx5gUgK7HACMdgbFp2tUz|484.168846     | 105.00       |
+|7q19hPNSLn3peCHSHZoaTeUzaWXzqFvmuQhF7S9yyZKo|473.415925     | 103.00       |
+|5hMWFR7v7cr4ZiRtUarVfP87ykwZ8aJ9Sp3p6B7aKrBY|471.413374     | 102.00       |
+|4aFBFqBWpBha31i4Zv5P37fCGerUPPx3wBSF2cN6nPmZ|471.21226      | 102.00       |
+|FivuWMfHdsjxCn1g3vZYDN1ySyz1rsXChLZ1aqKhS9St|470.133485     | 102.00       |
+|7dVdgLLETxBMD4dgffLXVkr89fxrPtFCisTQFWRPDPye|454.120043     | 98.00        |
+|9SuVwUq5UjT918QDNcpvgupsonZoqthQkoNt9RJsa3dY|452.92261      | 98.00        |
+|GtSYrnWpJVaSo8FiCvGnG4cFbWQ6MZrkB89kif1L4vuk|452.100985     | 98.00        |
+|DCiCR6YxgiPNJhz2UpSxvSA45Wf4m6PfeJkjrh433p8x|449.9294       | 98.00        |
+|83EMMgXxV4NtHSwrCauQdUeo7tiTZYWLP9sjhWtZSG6B|443.668851     | 96.00        |
+|Dxp3VkeXzM3r6e3vs4RawRFWdJjXifKyqC9dFaP2EBbn|438.769231     | 95.00        |
+|25uwepu5UKCdDHDZfY9HkCEZjXBYMPku4CizGmCb8Tfo|431.201608     | 93.00        |
+|Cn7LnSv8cb3SAP5A7Papbs93FjmQrimTGCyRgLsV4Pjv|430.539882     | 93.00        |
+|GfqLAaxen5qoupqng3RPxcwSes5RcFK97pt6hSmmov1D|426.990362     | 93.00        |
+|4VBTe4NRCoFsPpJZ3B1EkREmoqD2CHTcvC77e7amqTi9|423.845624     | 92.00        |
+|7QZRcChyipgHEGfEffkfUvk3woxpWgQNGsYqnZLCEULs|423            | 92.00        |
+|FWgSY35DLeTzXxvLkn5RVAdvu8zRh3r8xZtMtoV26nco|422.16284      | 92.00        |
+|BGdJrEdvnAcJF9ETCYtakw6MyX8U4JYd6bV3ZsWxh62F|420            | 91.00        |
+|5pQhMx8FvaSqGWDpTSbwxnifs41bQr5BUi5pZbpPWfFQ|416.2          | 90.00        |
+|H8WhrngCpCRGkpim4FcRNzbt1BuT4Y9E6xtWf5AGdUem|415.094749     | 90.00        |
+|5o7HzDA4r9kmNwPB6JJNjWVFJZwWCRrA2xxpjz6RTmZX|413.049261     | 90.00        |
+|69h7goMyyKdcF6ZfpQxTjQPasW7nSf8LNR4Q9yx4eohp|401.549309     | 87.00        |
+|HWbAZdGAPijkMqBUyoes8spNdu29nzhxByfFAVLzEXtU|400.683808     | 87.00        |
+|4DuKwo8nsmiJHufGxhGdQXC4jqxkGuSpyvAwmiqo6nE6|399            | 86.00        |
+|8FTbj5AAnkgb5wRstvrMZ8s7qsZgaFZVEV2t1SyDxdpK|395.263226     | 86.00        |
+|5xxnHyvzcYyXXZEhYSVHsQa7P6CP9nA9zkPZFfzBrpX3|394            | 85.00        |
+|HCe3dcLoREkdQQZJX5nwM3y3UaPz9Rrnhpop2rh86AnS|393.129579     | 85.00        |
+|BGoZDmfHoojqGxWM7dyzqo35Eu7y54kcDLzG86ZCXe2V|393            | 85.00        |
+|6oaNbX9A7MLabsdzVUUo9NPK4XB6qH6Wuz3RCBANnZLM|392.372308     | 85.00        |
+|77vup6EiBjnEXHyv9ep7pzUwvUBw8ohZAZWqhMvCG1ts|391.88736      | 85.00        |
+|94exMwJTCjuSzhZGyWfYxer9nHwRu9vFAAFpRepiwc6q|378.046836     | 82.00        |
+|7Ku1yYXQeonYoXES4RzCBYopNz15HR66hT91pEHD9uXU|375.900357     | 81.00        |
+|7QcLBWEMAo8Eby195r6yYrHhUtoPkgrp4Ec95iZi2zCP|373.992318     | 81.00        |
+|9JZFWrUp4Xy6KRCDk44kavCnHvoRo1jsbKa8facM5JkG|373.299485     | 81.00        |
+|8XcnbkaJBDB8EbF59STszhAGzXPLxyhLgZ3U2V3Rao3C|373.147771     | 81.00        |
+|3cu2bxa2vDDEEiCfhmXmHymfyxs9ez9dFbcJ5Wk3FD41|367.85         | 80.00        |
+|8GYLQdF8jLfZaZpRdfcPduARBNSw4wmwcT41W4mwXfFw|363.659897     | 79.00        |
+|CDMHny3DX1dtkxBCrNLgBWKGHJ46DiYWMweKC6fWHHHw|362.849852     | 79.00        |
+|D61MDepqr4qGjeoFwngLTBE6hkqpZHR5uHkzmE9qnkyo|361.515241     | 78.00        |
+|DVoRspzCGqt9UNAFu3c1Y6L5qYgLUs9CUVwbTq5FMjxU|361.393847     | 78.00        |
+|6gC1wcQ82fzdhUrwSM23HyYWQfLKB5UiotsdfEX8FaEy|358.745062     | 78.00        |
+|9KqEd4FHZm9sEs7Rrwbsm6x9ryXkjpHzZGQLYwAs6iRE|357.189624     | 77.00        |
+|5CoTon3Psa52JkUXw3jUVRUrDRZvvinzUDNkwKKfThG2|355.617516     | 77.00        |
+|E9akeGSKVrfvSx2mN6vowpWAwxu6vJSz9ptKf2sqPbuS|355.077626     | 77.00        |
+|6qijMLcWqhH767SpRR4sX3uk3VLUcrsnyJo2mzxG1vCH|354.890722     | 77.00        |
+|AU5zsuFjq8Aa27mZotAAdLNYNfT3AxEzVqdmszvWoneg|352.448921     | 76.00        |
+|7fugeBXcSQbGYF7VAYA5AF2Ruoz4oy91YFHA6y163zhF|343.173174     | 74.00        |
+|3niKENBjVXoBmxhsrCofv7UAAmoW4JstndtFeg3vQsQv|343            | 74.00        |
+|4TU63DxFki9DzYrER6y8VTS5mHupbqjWn2kSEnCigKix|341.903438     | 74.00        |
+|ZTeKXM7pqHBZkVKAhdSDCggUm2V6iwZTJZc7MpLcoXE |338.401498     | 73.00        |
+|EvWc4uAYec8HFgggaUV6ViP4xANZhiwN7GJCeAX9XA6C|331.342609     | 72.00        |
+|7EofH34GHRUce1Pis1Zr2yL8KzvAxVPqs6RHDnD7dKyB|331.31365      | 72.00        |
+|21ULEGGccR4VLyfheEyK26AfMTKRWQgyZf4CLvEcP67j|327.7777       | 71.00        |
+|3rzc8voirUPrfgd8JBXnqPCVaGPPwHY41EmwovWzkozZ|322.15178      | 70.00        |
+|Dkqs2JGEKmUpvWshGEtt33oQmUKs3nxs4aZvaWKua497|320.777515     | 69.00        |
+|FiL3eSamwHGSx5RBk74fHsb5dsKyN1cPc1EDTtRZqnxy|320            | 69.00        |
+|9JLFf2SP6dnvVK9hoNHYFPnP5dEJkgLb7YYzgM5aaXa9|319.855568     | 69.00        |
+|D424qoV8uLjwu8doYHeakU35YAUaAiCP66MT1wC2YMou|317.788582     | 69.00        |
+|GKHZKUb9F5Jg7kxo9TBC8VYbqTAsVW2ywwULVv7Rkoq6|316.288441     | 68.00        |
+|B7YrHss2R7vWNHvKt6zKcq4JCNFJiY4FCvrMYT5fMiw8|311.793577     | 67.00        |
+|CRrj3tauhjFC1dssgra3GbRzZMR7iGXfjjK6A4mSdPh7|310.724535     | 67.00        |
+|6hSPxZSWco9VNE6AEd68dFGQP97FHayUmoqyL3g1P13v|308.833396     | 67.00        |
+|27hF7WEv5TicQQ6LBXphnKweYMxVsGpbHuhJJDzBiHaX|308.163394     | 67.00        |
+|B9iRmjsUVu1CuofkzwhcL3Lv1M3cLrMusKKdZLAieaFz|308.028532     | 67.00        |
+|JB4fZVYjbSLcrPLCkYbsfvCebcfdq59cMXPs5wG7jmaQ|304.767003     | 66.00        |
+|FwAbxSiCd2Wc8j7BeFfwSrnpHWDGmR4xqv6B6bgbwYKs|304.739593     | 66.00        |
+|9iNexJxBKbvqaeZeTcEqRu4xnZDnJWUk5jTceKq4qSX2|304.681374     | 66.00        |
+|8hTk6oNzPintBbWtNa1W9gjcfpfDkB8EtEA9WQuMZiU2|302.996077     | 66.00        |
+|Bv1v4pigUnEAs8H6MVwZCmKVswcE8Wu55W2vufPBpzFw|302.943235     | 66.00        |
+|9o5LbfsuW4Phc2fGGnv2KkZFM1XMdX2GquxXoKJxhFPr|302.855951     | 66.00        |
+|wNXSQoEYmjoR4cuaEecE5twboy2AuM7Xve4wKf4LfE2 |300            | 65.00        |
+|5xge5FazjbcVd7ATBk1YXt3tvWLx3DTTACqBZUjMoLnp|299.178323     | 65.00        |
+|F2u9zZd6yEjEiy4YGVzbMEp33dDuzrvLDpRHeY4HMSrx|297.969236     | 64.00        |
+|CBkpTSusYzaWVKnuzwt3fUUTdUSrrChuki78NWaCMcVp|293.625662     | 64.00        |
+|5C1R8jhRA5BgtiaKKc21Pvo92cG4CHqi7Y1PgJq18NZy|291.314357     | 63.00        |
+|6Y1HUHjEuZp7sshgDgLfJUhFEcKdGxWLSe8cXSVMk89U|288.546048     | 62.00        |
+|6x3jRFeFobndn58VKaQYHq5HWG4Dq7k833Tk9TPgr3B |285            | 62.00        |
+|nihFesQziks9omMuZ7vcqCQNRRHvNW2MLAcEmzg8gfB |276            | 60.00        |
+|9L7R9rwMWCyMQx2kcmAuoqX8xHHpj2xhyBayY5xLBBBb|272.354111     | 59.00        |
+|49DNsv5FYUkWHsj2EHzfkZRSs4ADDTrdMUM7trW21yNK|270.329216     | 58.00        |
+|6ERygQyeHP68PhYVSFC5iGkvBetLDvdWjVHCCh2Naq4R|268.352653     | 58.00        |
+|37iA2nhy7PGzy6L5P75XFtXgHHUrpXPLwmU4wLZWsndy|266.346401     | 58.00        |
+|39wyZqH7C9V8zRR9yUeB7F1GGNEmMgBC7BtSmTNqfNkS|266.332758     | 58.00        |
+|G4hq4KhmgVULDUkEk5L31Q4rt9e9MtrJqjikaGA6e3Se|261.959162     | 57.00        |
+|2Pa7FpG3Dc3Czf1Kiwi2CrfUVTDW4mpstHFdgkXcmCC5|259.986455     | 56.00        |
+|ERpnhFSVeMwfMJybNphrrG9EGU7chEwR88UBbiKAkBGS|259.734115     | 56.00        |
+|5UNXijvxFUVEsiSSM9VhN1w42yd4codCZUq7jyEaqQt9|257.750628     | 56.00        |
+|HCiY6uj4PaeEXFVKC6bUJc33m9CYmSp1MjuiyCveTgRj|257.356032     | 56.00        |
+|25CVZ1Sz31smXnfr4aGaQDRrB4tRT1AXnKjH1XZrya3f|250.599201     | 54.00        |
+|6UzEHAVUZd89ogDPm4kp2HbJH3LLsoNCRjWqKRZgnaqs|247            | 53.00        |
+|6XdEKMiRoMt5b3sHmCyX1iXkrCjTkNwCFTyBFY2PDMKE|246.026039     | 53.00        |
+|G1yMxat8qxVA1KnexFJbaXj1wHJcQRbsHwRPWxtR9ijM|243.758495     | 53.00        |
+|2KJbzopydgxqx226esJQ2izU5MekqFhXMXoDAksoHJyX|243.153021     | 53.00        |
+|7bSgs3Yx8yoAB6fbL2GowGwgi9LifZMu5aorkYpy2xno|241            | 52.00        |
+|5fgxW4kawSHyRXZrqv3ZiCMFWPf6LJurdoXjgxmqrEKZ|232.446554     | 50.00        |
+|AXbp52qiyF1DYqqDHnqYTEsFwMYX4WF22JrKEc3KW4Bo|232.120886     | 50.00        |
+|pSwTTFE92RsRtvMCpb3mjruv5ww2KgBNVPscwdWwbxk |230.891847     | 50.00        |
+|5r8weqygcFF6XUidDz1kaxHfZDbvMNgYr4H2yDU1FjYA|229.115621     | 49.00        |
+|BUHXHuANjTpEgHExUfM8WFkmt77ZNdVtAKSaHuX5ECc9|227.097603     | 49.00        |
+|6BvRNzDKVjKmuHcAEvLFtKReJcq9s33vzryvFnhtU23D|226.083405     | 49.00        |
+|DpKM4epH5wSUJcRzcUpiZcEYNNZW6WqdhZaZdYEP619w|220.217028     | 48.00        |
+|4Rzh3aHNxFQxdzPCgeSYD8gF1WWq2j7ZXBUvFXj6QaKH|217.595709     | 47.00        |
+|Bn26inMhSPLumK1ZtQcFvRvFS8iCkGf8tbXC8dW79jxC|216.125658     | 47.00        |
+|4TzUYvewUefDeZNMHdyogUxM3jz2mPgTHAJhvD2mHC1V|215.236213     | 46.00        |
+|A7CxikWRVwuA735chCjyB1xx2SXobUPDHjkdqXtwfvuV|212.369964     | 46.00        |
+|J434EKW6KDmnJHxVty1axHT6kjszKKFEyesKqxdQ7y64|211.202319     | 46.00        |
+|7JRi3h4ySkdBst6JRRT1DYZ7mS79s9xbFLjny3vR8TqG|209.926374     | 45.00        |
+|5tpq9G71U8gL5Ap9ybF7x3YPrKAxZEsfFittV89ghr6M|207.515465     | 45.00        |
+|9KGpqCvizbX5C72xUP3CVLhTWcH2DhpfPtax2uTgYTPA|207            | 45.00        |
+|52Dvt4Md1CxUXzhuouGhbTxnNxaGaA2EL5Z2CNPp2VQD|203.354069     | 44.00        |
+|BxnPFQLBKyyWvN2ZkYGMuYce5jAaurAv35pbLeRd34zJ|202.017035     | 44.00        |
+|GqJjEbc8QwNeVxEFquG8mwEFak4fMA4wxxVhJbvmrigw|200            | 43.00        |
+|4M4rGquYVGEPby4yMtbp6xb8KtRpXupMcZcwXxXWJK33|199.5          | 43.00        |
+|97T7UGZTPzYKQXymhivBWi7m9AakCQ56ufba3EhfSRck|199.5          | 43.00        |
+|CE2e9DuP1KK8wWoMGf5kvsXKa6f6XoR7uSqD3RBVspaf|199.081525     | 43.00        |
+|9WaytPrNoPEFmocjktYLxxh9ybKhVn6sknwER9VViJBJ|196.2          | 42.00        |
+|3guzLet9om6Jcc6mYYkZYq4rk2Aro2V9unBuZau1tZSm|193.71197      | 42.00        |
+|6D6EdWFn2fYyyYv1ALtLMP1JqYFJNcXXMzM9LimMEn6A|193.56689      | 42.00        |
+|9vGQ8o4npRZQUYtPXmxbx2a2ZMvek9dSk1nLiWHQJQmy|192            | 41.00        |
+|2XJRnRDH7J75uY5gM8VfRXPLWWHBPLAcMcaxvdveq2gT|187.270321     | 40.00        |
+|46Dp1NfEgwAFNYCYE7LM3pQRK2nZwjwJ2Ej1U6bP1pcr|186            | 40.00        |
+|9ANph4G35xjC2RrDFoQy3dpVDrP9hWAZcgSSNE3Pfxw2|184.669279     | 40.00        |
+|98KT8Tp712GfWgH2WUTYdibdo4GABRVrZk4rbS1nWDLn|184.273142     | 40.00        |
+|HsEB7q4RhFSQu52LjVZM1mY9KwEb8jaBQah96RemUhqL|180.287466     | 39.00        |
+|2VnBNtcqTJ3PQzeQSLmg32MNnJFVqkH2FScSWgxDAQvq|180            | 39.00        |
+|DAhB3cBB917doZz2Js2vB4be5wxqTqRq1rTx2xvWnjPn|178.429378     | 38.00        |
+|29CDb5JTf1xS5NBoXvCGMsiqXDge2uex6cHEhG89WZxR|177            | 38.00        |
+|G5NzjVzr6NwjosE8bzvK5ftDBCa8jXHwX5E6rZtMeqLs|176.176686     | 38.00        |
+|J77HxA3BTtXaqbqHWqghMJuFcjbTswwWeoczUDVXV5Ph|174.2          | 37.00        |
+|7Yp5J5bGjSGsv1YfmDo5Bwc7xEvu9dy8dBBMRLz5dYmG|173.85         | 37.00        |
+|FzpV2LmbPn7SPRuqMm91YdAEj4XemND96XAAVYgd6jjN|169.664953     | 36.00        |
+|twJ5etDabJLAw5sftdkXGripBrgY471GQyc2HaXEHdb |164            | 35.00        |
+|9h1k9VqSLJ3a4TVnybgdyi3SJGfXv9V48wCwEmZ8X2f6|163.746153     | 35.00        |
+|6dLeypENKFrW91w1T9VFvni4UpYZRaxKmKNeeXCpSMzD|162.397337     | 35.00        |
+|7Lx9xfWKtedZWQHe3FX2YZkqNAvxD6aPCn9DSjEJ79fK|161.144014     | 35.00        |
+|6Gqkky8ZyR1noFNmr7YXywZs8hRLFro5Scm5v68zTu8U|161            | 35.00        |
+|B3LcqhFzs4oc6kru3KncfFgjjJnCdp6AdyZmuNipYoSM|159.38188      | 34.00        |
+|9MJW7HZ9mZa6xQFra25QgJaDt35RapRDLBXWRTS23cVh|158.98066      | 34.00        |
+|7Aj9J2KC5LbAdvV3Emcxn7anTfZd39TMuMFzZ4Dk5aN6|158            | 34.00        |
+|2Gya8TvQoCUZA5LyWTUy2tPWdSHs6Gr1E86K6CFHqXaV|156.590163     | 34.00        |
+|7iGDtzuQadD78knQ3EkKmaUWqrWWoSyWuqnNoJU7nLJ9|156            | 34.00        |
+|6ztizsV1CzLd9bGpgcmvHDJw9aje81aLD8452FoAyNfB|155.863794     | 33.00        |
+|3dDPRK6X4boB1Ggf8CXjW7ANBgvrGPoAiczWttgC2FqG|155            | 33.00        |
+|EMXASFhPHwZKjLNiLNoAb8pg1iczUawRgoBbvkJadyRN|153.05607      | 33.00        |
+|JBoXchDhPaLD6E2vDiTtcqNsXBXh5uAXqxCZUYFiMLe2|152.124883     | 33.00        |
+|A4uySPDhzzCoHxPd2SniryvCiTWrLSY6EJ4CKeGNBAKE|150.186547     | 32.00        |
+|5NygeWseEz9fqXUUJYQ6vyCWiznQufnDi258fVj1Vhwm|149.572283     | 32.00        |
+|8TRiu8nrC8H4M1RksEe51BEYHgDXAYjx8vJb8U4Z8k3a|148.65         | 32.00        |
+|84U7e7udA5Uc4Vq1e5rysr3dY6JmjbbQL5uHKdEhbD46|141.97099      | 30.00        |
+|5ZSmRmVQJkiXorCbVvN4HMq3gBwXX477Q7H1t8b8PCnt|141.449563     | 30.00        |
+|5HXjpz9YgMcv7uHAPo6VLDRXvDLyb6hcKzCbBh1i1b49|137.595112     | 29.00        |
+|6mQAGQJFrCQCqUhnCuaR4EARuikGysY5wEDVGwcQcMcw|136.736117     | 29.00        |
+|4J4WKjGayACkY8zzoKaZAcabELT1qTMHmrb3T7fqCEg1|135.409825     | 29.00        |
+|J31XET6BiQE2eiVgx2PF6G45rPK6VNKWKrog4u2gj5nv|135            | 29.00        |
+|JBXrCwx5FmXbpBaqjeUuDbBdgFKMENisF3r6AW76Ybu8|130.019699     | 28.00        |
+|EZAupSjcyPvkuMJmsD5Ef8dDwFFhQTh5zh45yWNCxUPZ|130            | 28.00        |
+|HjiNTb9SJzVi9fc3ekr5PUMd3fCkFwEwAde52vDQD3hs|129.623406     | 28.00        |
+|GABFents3D1w9YvJUXSWrooJ5as9XQK5Zj1tVbVJJ5kd|129.6          | 28.00        |
+|ZG98FUCjb8mJ824Gbs6RsgVmr1FhXb2oNiJHa2dwmPd |129.324456     | 28.00        |
+|EfUH3camBx9uoPjtTppZL1U1eorBiCoMsgDFZeDUcgUG|129.260924     | 28.00        |
+|DhktAFj1Rs6rq4B5zxuFFkigqhDbeH6n4FvEQMk8VQRL|129            | 28.00        |
+|BCwPiUzYYLs6svSyXqbo4xfs2xbpVoS6XXCEj8LmFX8M|128.054584     | 27.00        |
+|2QrnyVosji6vEkwygGREBto6g9FZP9nbg3zUn4kFDe4o|126.740371     | 27.00        |
+|5Vo84F39G1UWXBvb236xevf4V9aoiXL33VxiS2WaYz7p|125.090618     | 27.00        |
+|CnkYi4ds2Hf39QvfhT7Fg3tHPuP1SGTEXv8RJUj6pUi5|125.073448     | 27.00        |
+|4fsDDrJshohUHEuJoeV5TtTemBasYiijDDkBrYn11xKS|123.306856     | 26.00        |
+|Apo2yFMLZo5Yu1ZC2FXLyn5JU7HmMQHEnkbBN2NQZuHS|122.49264      | 26.00        |
+|HnW3W2gpPArmdfLeaUnC9Z1ykDKzwtfASqkXE35eu2LQ|121.782526     | 26.00        |
+|HeD21Ep5N45BrwXnbBgt5Wn3wzC66Pfs4oBhcwok3Ntr|121.574246     | 26.00        |
+|4DZrshbevstCCqbnKuFZLH2PDFshFd5sxZhbTce74qDK|121.1          | 26.00        |
+|E7j9AXdLVgzo9YjVYjtipFqNzkxR42xphLUJXzF4i6g9|120.52983      | 26.00        |
+|7EQ4eG91LN7a1ppjTZ4VmefiZMDmazmNVXQh7nZbyoBJ|120.15204      | 26.00        |
+|E3Wf97QorJD9jrWKhV6H21Jf4VsWWDjTw19PmkqppM9w|118.841686     | 25.00        |
+|AE1GPXrSiajXeKBFnVwixBDA7mCkA47V9AKA5jsp8xjX|117.139493     | 25.00        |
+|6TBq3jji1pYpjggXVfZBsSB5Ut2BVDeEQ4RapXAcv7si|114.533125     | 24.00        |
+|9bS61W9JFuJ2NcnmYaggWyDn6G3jcznd8dziJyGtrUo9|113            | 24.00        |
+|HedAD3zhFvCdh22gqJtnGWPxD7rjFX4UD2iYL5zJNKji|113            | 24.00        |
+|6tN8aCK57nGZ9CrjsLk555L4qjk2811tHutD8FVWYSCh|111.609249     | 24.00        |
+|FTHZJ4QTuY3WRAtmyq3avppUDc2Je9TBo8ruCw9sDQcc|111.328097     | 24.00        |
+|DaEQkG6eCpSTHQZfp8vWfx9XivPfEwCuPxXR98b8KSij|109.841807     | 23.00        |
+|AX7GwUcYN8jypVQHBcSjbRB2q9AT4GANMb7hw9Arc4PN|109            | 23.00        |
+|8uiiqfqYJUKqLd2ec8gqGnnSSN1L5MrAyVj4GPrdftHE|108.945911     | 23.00        |
+|By75i4LXiGmmh3A4Nr6mXJH8KdKtDLGkUoZuBJPER6nD|105            | 22.00        |
+|2JC5NwjhRiqfCYkJ4PjXsdDLfZmuLJq12HrVo6VJ2KpV|103.996355     | 22.00        |
+|J6nZAadQtLiJwFmXfZH2Kf9UgZY2eUQCzQkXti4oPWcr|100.345513     | 21.00        |
+|8XwLEr2toasi3GBdjN9VroqqsPCaT2PfvnwWgPnzgMHC|100.023861     | 21.00        |
+|6y3zhPjVbijSmwnMLu7sieMRnMtKZhbw96bLj19qsmUE|100            | 21.00        |
+|2kXrfi5HMDj3Cnskk3vxZPvSfNpVfDXr2itoaeuBC2qW|100            | 21.00        |
+|6ynG4XJhcUubWAkfwNk1q7hUi1hxvrC7qp15nGAFowyS|100            | 21.00        |
+|H9LaMqys5kd4L7j7jDPFtMX1kX8qjGG9fy44iCx6dBo9|98.211654      | 21.00        |
+|CtpLCqV885JgthxaZpoCtY3wHZhG2r4ABaYxs9HRacVv|96.325319      | 20.00        |
+|8t9zb9fg3LemufrXCTLLn7rzXuPw8hzFwVmAE5Jf8MP9|95.352743      | 20.00        |
+|7YBmdgZVBJ3pgiwH2b4Wb7kyXNc9h16HXfenCkEe44rd|95.073808      | 20.00        |
+|djS5Q7PF2JQjhPLBZDP42huhZjzEyKRL9BHn9LLMXrK |94.400901      | 20.00        |
+|8ZcwqY8B3ydq3gCKQnvYqCcVnvQ9mjcw7Kqp5WSxhZpn|94             | 20.00        |
+|7VcZLtKZjwEr8cNmveUTeZzXbQQmzfjx9YeReZ33F4qN|92.454777      | 20.00        |
+|GGxLJ1VjVVmacTP1f6aMVRZCqSrQ6QbuL5N2jBHvWUKE|91             | 19.00        |
+|DibvweFTcZGjucBpCPBpT8wMGFqQoT9qLWBftMniNfan|90.998481      | 19.00        |
+|Hkxm59xK1D9XuASLzeRwmub4ozHcKndz5LV7YanVCfhV|90.456035      | 19.00        |
+|vkm99k5PScF6nxRs5zBAQwoQMyS6zVnHSPRKAHoG7Mf |88.312201      | 19.00        |
+|A5oERnfxyY5Vw7s4zxjAsCsivSFdJBXbdEwcph6NeREZ|87.961475      | 19.00        |
+|BwbH3zmWJyH1bm7Yj6hsAtPpvbihQLoumRKFcoT4wHg6|87             | 18.00        |
+|FBBSi69SP3jkHf9DvLzGiUZGL3v2tu6e9yq8Bwtw27aL|87             | 18.00        |
+|8Ti33qV71WXAXokqhMSxCtLTULAShLYTfg68EBerhFEU|86.245299      | 18.00        |
+|34FKjAdVcTax2DHqV2XnbXa9J3zmyKcFuFKWbcmgxjgm|86.239365      | 18.00        |
+|DQbZdQsDGvSR8VnX4oAsbyxCbACYJYHgSmiowB4qTVZS|86.143271      | 18.00        |
+|5YQ8MBBm46cJsgoiBrBD7VGDTX1r6RxzDDpFTacR1yvP|86             | 18.00        |
+|3HNnSZS9rCCZkCj99LKGjt8KZDCRD1qSnRbH8RyLn8h9|85.5           | 18.00        |
+|CXk9tNatYLV7RUL1mnv84o1AMMPFNsRymBRjwH8x4igB|85.2           | 18.00        |
+|DtkDc1SRVsLJCmg7SXXp3xEjjXxurK8UtBUpFDqjQEXA|85.2           | 18.00        |
+|ELKuiHSNSPEsawrnooq828s1gr2tu7v1pe232AtQx8Cs|83.428031      | 18.00        |
+|GMG7x922cTmn8TNHAGJzXVeSineQCKXZ8ztQP5fdPBiV|82.084754      | 17.00        |
+|5Z5Qs4ATdMKPnPgFLf6iBkbNJyGvDDqefYtnhpw715Wy|82             | 17.00        |
+|3CbBKU7cjzcSQjxKrUHQ7eMtsAWbAFoZEQMMqqixHcd2|81.512848      | 17.00        |
+|4NscXjwmoXemGZHS2eEbT8P7oBVmqKL23tn5qV2hpm33|81.437365      | 17.00        |
+|ERMVdyW1SPMsUMmUudZiEyoxhZ3YRfx5K3iSHJYyjvtc|81.407346      | 17.00        |
+|5Y2fnXmqT3qxJhszdouJmPFQ9gSB9WbSL9UY72tAFbjU|80.73616       | 17.00        |
+|DSsS2UupZfFKp6Vz78TQDFxsjkCdEuUPtYXd6gddkeyP|80.176561      | 17.00        |
+|J9i5MHMR3RM8jwcnkqGDUFRWZfQMoFqieHUjfrAr6smM|79.522038      | 17.00        |
+|5X8mPr7xbV1ZgBMbeT1TD1rBJD7QR4m9sg8DJPwyzqbf|79.007121      | 17.00        |
+|4o5TMFpb9iJZaXfad49HSZAFn3rTtAbLCnzTaX1F7Mva|77.334976      | 16.00        |
+|2f3bsedSZXwWR78Yn15EvbB8TyJd6TNKyyYZkWtSNGej|76.745102      | 16.00        |
+|Df6smNqGkrGmyq2huXgnruKRogPhpTsovHFpEg7wHaiR|76             | 16.00        |
+|HWzY41cAKjkiTi3tsDNT3scph9BGtVaKS7xZ4rVkhCHE|74.352906      | 16.00        |
+|HkCVtvwJxJy2h4KFunrwPCwsNBLJaurgTKdSeqHXUo6N|74             | 16.00        |
+|EFK7FSDFddoFP5Y3NnjVjyYYgvUSN6zaisKVxFcfCent|74             | 16.00        |
+|HjbGgbj6HGwccxQe3iR7YB2FxSaUJTak95Wv7qJvfnHE|72             | 15.00        |
+|79B4ovKvau5G2HUrh89DUZ8ved118iX41yL17srxyXux|71.466004      | 15.00        |
+|DGRJiWbwfkSEjPLWgusGLbAbvaTE5K7B7teMV39A7MHB|68.856564      | 15.00        |
+|BYUDRkQHG4anGiKqM7fnbertMX76V8kTF4D67Ed2rAEx|68.348531      | 14.00        |
+|DHCLURXS6TjHWK7gEADq4Qmo78JvdeR2JjGHkHgxgbUM|68.186314      | 14.00        |
+|7ZP5fTK9eBf3qq6DJwEqNpSubW8PsorpEtBQHYryVnhR|68.104813      | 14.00        |
+|66318v8gqfwX4x1RhPwsBDvZtT1me2CgDL49uH4XKyMM|68             | 14.00        |
+|5AbqQuDJ5bU9hdvcPzamDRrTxKXhk85gyXbATddHo5sm|67.506921      | 14.00        |
+|8UxtdZiCH68mmbmcE5S2DmJiTa3dxUM4v7rsjUbaYTr1|66.842771      | 14.00        |
+|Auw81WGBmPES82R3BzubKdDL7h1YRW4sULobL72RLoDc|61             | 13.00        |
+|mkwtZFC7tpGoDZ5Cj6tA7sJg5vjTjkV6DV8S8hLuNpM |60.887376      | 13.00        |
+|4SERTMvMm5h4CNJbxEQ7bcyhGTRyCsqTvqMc1F9iXPDh|60             | 13.00        |
+|H6QvdRF9rSrS6jFb7D2n1Bj7HsHh5ftcEZUeMbv7EkX1|59             | 12.00        |
+|91n95WDsokxfjnQETm7iSXhmP7n5TdjKY5x76SRT5WT2|56             | 12.00        |
+|6sQMf4j5WVQRJTLbhYNkt6FkVfdsL4s11jCMoM9Mk7np|55.289706      | 12.00        |
+|CoFoQqWeeWw3VKXeXrVWpaKdfCBhcvnAZq6ao6Q2C1xm|54             | 11.00        |
+|BS7yfcNHRTaNZWue9g6SK1nwgeUznudjdy36iRJdmkXZ|51.234382      | 11.00        |
+|DbNzR7zYEGtHNct4jzA3xPowQSFsBSG34PQ4F5tBpGBs|50.928683      | 11.00        |
+|7eSx6cEFkrJ2QeMuspSauCX3ykBKybTB53HCAkYorjwt|50.905624      | 11.00        |
+|8nU3bWfTRChUccuiQD8hTGvvqe5Q88WcXng2kgsZ8CqG|50.522781      | 11.00        |
+|HSKW29VojtkGvg4ypXqCExYNBcg5CGWVnnnrLvs5TTEP|50             | 10.00        |
+|Hda79fTbivonFkGt4XaKdcNi6eLEZzWPfw1RMdajL1tK|49.507999      | 10.00        |
+|8cqy2PB1ALvixyZzwJZ3AqSHfsHBPgvv8xsPLkXpMupo|49.008529      | 10.00        |
+|E1EpuvDkNoEP2edMrZQwQ3fazcewspqmAJuSFsAUTy3a|48.623371      | 10.00        |
+|CqDy3ij4Wmbr8YbgYfrg2yZVTVHnBF3R9MVm3C2F71ML|47.021535      | 10.00        |
+|3uWCKpyVxvPoPpujHNot8BzXZSEfmiUYciUhX3NcKcNc|45.886018      | 10.00        |
+|6Nk1GGioje2uwveMmic12cLAQsybRVYAyGPwnQJTjEzV|45.498023      | 9.00         |
+|8rzbwSvF6WQz64BjRmetkkynTptqx865n49maHFgECC1|45.34927       | 9.00         |
+|A7UPuJgFZz6ANuy9q4p6R6fdf8ckmuTZmNKVVWGjZooj|44             | 9.00         |
+|Djs5WVLQCmZpBRfq3n7KCaK6F8hWesVRYdFjie1XqSSH|42             | 9.00         |
+|D52Ax6SDbacT4ErSFNoBENhQy33pc9qvrLvsm3Q3LSvv|41.702061      | 9.00         |
+|BAcbwhWFcz75f22Pb7xuM1KDL9WsaU9w3FRx6gN8pW2T|41.219342      | 8.00         |
+|HDMY1hKNBAs22XMWuue4WfkJh599JgkAQ98tzvsxpHRc|39.637425      | 8.00         |
+|G23yyd4hMtU6fm8ZjRhPvFRW4YwXsqqs9etzPoYZLTTr|38.853265      | 8.00         |
+|7ow2uKPCesHjg4eD14SqsySGYgQ6vrSMC8hrsEAkM4fP|38             | 8.00         |
+|AJnaak1zJHhsnYq3WNzGJQphBUB7jPW99XRRJJryDex5|37.701317      | 8.00         |
+|EdbJ6DxExv2gmaNQaYm8MQhJ7fpQycfueoBM7ifsD7AN|36.617215      | 7.00         |
+|CNdUuVgGGpKzJyQtsMQ9acMaBKFsGHPkCqAeLVer7Aur|35.575328      | 7.00         |
+|B8bqjortzsNAsQ48P2BPffMjptRq7D3sFVuextR6zUCe|35             | 7.00         |
+|A6HZBtfyuFWaNZtNZXVE4ivn6jReEqJ3uTSyPSwr5vvy|34.2           | 7.00         |
+|CvBgaP9iayqyat9wDHRBbRjinqegs2ceY4bfDMo8X3JQ|34             | 7.00         |
+|zPrnFrUqkbKxAXAD6Fwd9KWE6XuAAwuvobJyWpvZrn5 |32.650163      | 7.00         |
+|GdhRM6FFuBUcYJG2ncayW7REHx1pNfPbzMXhjSWvE31H|32.592224      | 7.00         |
+|Bb5Q3up7DCdWpTfemoC3CTDVyze1cLYumfE92BqayyhQ|32.563267      | 7.00         |
+|4kw2YpAB3EJuPBNjuMYVcgDZEu87gcj3FprdCiTQERgT|31.023989      | 6.00         |
+|wDnLPQAvtk6e4aVFahk1xcxZMe9Gi3fX4S5pnBKZUKm |31             | 6.00         |
+|Basq2NUzde2mwmKa4j1A1aU6C6MGy7EbPuHgYd4SRy3A|31             | 6.00         |
+|5JFHNExZxankiPKiwiW8fpCBmfZKJYpsqYczjLfa85TB|30.726958      | 6.00         |
+|AHN1c8APVf5qyGLHNZqSi6piuoWLvDgKRZq26zFJBTV7|30.051619      | 6.00         |
+|4iEujMmseP8ztHyzWUVeasRify9cr8be57p99pBdtYm7|30             | 6.00         |
+|GECpszSTgkRc6vAKGFmxLs4KdXc6Jmu2bj2LpSEV2Htp|30             | 6.00         |
+|25rCXSQPz1WzrS4mz9qZjgFQJn3yz2VsC4UKRoGACDiW|29.662433      | 6.00         |
+|C7hU6mqEoRTJxfAddCFBdkwCSUWTU5CGjYwiUGGcvstq|29.580409      | 6.00         |
+|AvUwo71w74zreRtDqdWxdHXGb4W5UwsaGFwy114346z2|29.202189      | 6.00         |
+|EDbCrAH47xQUsHw4GP5qLNMCcXk4uEtzEV3bMaZxm4w |29.15          | 6.00         |
+|5JtKDgpU1W6keR4JhopfnNsbsCU6iptqQwECogqQnomt|28.612745      | 6.00         |
+|12jfGijtwtvq4sHeVTSLJSutDMC2DAZFeq5V3uYMnVXM|28.115666      | 6.00         |
+|DEFLdrxDr66ZStAxASuq811YQ3Mog4CwvEHpyBaSoNWg|28.082227      | 6.00         |
+|2PXhaBPhdGVe6dXhCahxZ5Xhb8xvdwPWbbsQ23YNGpBX|27.727834      | 6.00         |
+|Cpa9hZTS3Pdn37hT23YSp3Xu1NbNdQu7h3USFnYC1tMQ|27.5           | 5.00         |
+|6gSHv7xAadPiaiMDAGfq7DtPqxtXsSeodmjZ5Ki9hZZM|27.489222      | 5.00         |
+|CbxoDro5mxerZUB51sDGeRChKsdzedX6AeDmKdF4jXAj|27.185181      | 5.00         |
+|CtNwXg665dmbZxy6T34snd9z94hKNhXHUuZvDu5KVXVU|27.044703      | 5.00         |
+|EgmqMWhRCmCQx6sQJmQwYWhaESpqXJkJtoBvzihzdYG7|27             | 5.00         |
+|GpMrFVVC97kHxVx3iGXsK4r5mBzYnKF8giXezNqniJ2F|27             | 5.00         |
+|Cyx9uQ2p1tQyLWxTzosemWeQceAgaSFTDejtVyQbPrfi|26.634241      | 5.00         |
+|Dz11wgzi757gDeCTAjFz52keZRVsWrzDNLJnA8PenDNm|26.110128      | 5.00         |
+|7mjcKoqgjcMv2UrF2ZLJafeUhshg8W65uZRtgVi1Dbuh|26             | 5.00         |
+|65uq6dN46trKCTDSU7mvjmGRmJmyeD5XD8GJUPgBzYm |25.480016      | 5.00         |
+|Erktx5isS5b3qfYhKui8XhiDQ5MfwfYc5zPx3wdvWccn|25.243363      | 5.00         |
+|EAJW6vWU5veXKKwnpbbrMW5mX6vrZy9FQ2PQqAH3rtVb|25             | 5.00         |
+|J5MvuhEZEPBhvLWBFfi1FYUFj4vHd7RBEidaNzTCxfwE|25             | 5.00         |
+|FWYbutXomHKktMeFZSR4c9aVQJzz5ANMbRL6auuWsXTZ|25             | 5.00         |
+|Dzu2QsNuJ3XBis6A5BoibJJvUuYMNzsZnTw42CSbpRUu|24.464144      | 5.00         |
+|7y2KqDQkLoHDeDKGYUKZu6AzCUgu6JYmn6LyFhynwhaf|24.448817      | 5.00         |
+|4uZYM7zzXc4gEDihJh9xAV5M8RviVpjPtdNQk4rKapNk|24.3498        | 5.00         |
+|2JzFVXQPHo3HZUy8gLapGX5g7ogpDhVJ1hD4MYnAVWSN|24             | 5.00         |
+|vYeXaLynQcEBmEQyfX1DKQTRCNKxDZZmuRn5N2Qx6QP |23.5           | 5.00         |
+|8venfqgYTCCmJv5osVUBHk7XyrxyxWKeVGSEt4jDi83Q|23.373631      | 5.00         |
+|FmajSz1gD5yCR1YNeFAzAZyK7VPj5dtNh3eUsdpior3v|23.344574      | 5.00         |
+|6U85s2rJaCvzzKzootiDfzAhB1rGzgXiupvxxLpbQnuA|23             | 5.00         |
+|GGgUJX5Ckvxg7mw1pB3jXEphg2w3Ndt5x731Vrjk9FkC|22.926466      | 4.00         |
+|HWjg6p2Ut8iDZSrCt8PH3xsJvXyydXEpXCN3y6DG4HHp|22.062391      | 4.00         |
+|69pmZgEU6DSkR2ZTQo2mCfJQcD74XMNn7LRT95dV4Efw|22             | 4.00         |
+|Fri1e65C9Pba8UuQFsi9rVm16HLS4TXfqxZppgELq6nZ|21.163176      | 4.00         |
+|7BLvjuDRMBpBd7iJQ2nM9P4LhdqxSYS4Kp5QCLvgHjfR|21.10271       | 4.00         |
+|FeMY4ZBiUzDU28RLGNn5YqjXMnzhKBrzk44E5g7DuVYr|21.031697      | 4.00         |
+|GxpvUCRKUVpePPRtW5F67SfHB2JjyvUU1gWxs8xWsyxJ|21.020268      | 4.00         |
+|G2wiKBrVZcXgCRBQAD4xfvWpTyyaPiBo3MmhKnUZCXq8|21             | 4.00         |
+|8E4t7twGc1oWApzkCf69KzowU1oKM4ZF8nNShKGXqUyG|21             | 4.00         |
+|38G9NwA68hQ6LaUjNGJyGLUAxV9SDEdRGYP2jFrRGw3e|20.9           | 4.00         |
+|GcV7b84U8aD1qo4jgWBJ7VHLSKvD2foTGRo3QeJZ8KVH|20             | 4.00         |
+|71Tshou9U7aLEn1869URENR8NNhTSa3Cdn7GYTuuiJe2|20             | 4.00         |
+|JCcS7x282A2XNf1AFBtwGr5QRjvUzmxFdUPeAddcvfLe|20             | 4.00         |
+|ExCnhETyjJyiAUoGcXYEvV1N6JxG6e6pGUEoq3YGzF4a|19.893364      | 4.00         |
+|CQwT1byuHgjKnL6vzmuNaAywKfDBVxDmFVgsQDBWxcWt|19.590964      | 4.00         |
+|ERxkmKgrtHW9LYeoV7Jx36go4YpU4vPKTSnjsusngtBX|19.538993      | 4.00         |
+|EEcawPD784pCB4maELi2q2g8UTnuD3cvrjeQm4BTJHiZ|18.580584      | 4.00         |
+|3LwosLoGbgQYY9kVF2DT28kBVmJUaDrpCLwHBBV8r15N|18             | 3.00         |
+|2iQUjr6WTfuVwf52sfP5CbJbj8Vwqa7CF2GqhXL8PBDW|18             | 3.00         |
+|7wT5EgeUbXKCDeRwqkjKWA2x2g1zinctQ7DyyMLG4gkx|17.988477      | 3.00         |
+|9eThqW1J31MCeKAHtMb299iyL8oq35DfzcMr2kHnwHcQ|17.924406      | 3.00         |
+|BiLxhwPKxEomtmaGcAGM9KyWLMdfujCFVWtqvw7R56b4|17             | 3.00         |
+|5SRsyfaB6EiXdsfMn4ynFa1Y2oY5U9pqwWitxwKT4FbS|17             | 3.00         |
+|Dw5zDvWQKmWWsWzqTkJmkrFnKCmDni2NKBXh7hpzNQFT|16.8           | 3.00         |
+|8Zh75ZMGRrwtXX5KCpmBe52HZAqd5h1Q15hZzYuwvYyQ|16.554322      | 3.00         |
+|2BjotLEfHJQuMC6yFLDLHjs7y9PQNPHYnpyUXmZ5B9HB|16             | 3.00         |
+|D2Y3PYDF6CaY8Ndyd3KwfBB5tRPWyFf1YLzc27nTXVfX|16             | 3.00         |
+|JALTHc7phrtRQsfM5LjtKu4L15e3FAaKdSEx3BasQHL9|15.776151      | 3.00         |
+|AMpM1pzAeBKR9KtKvnhN7q1tTrmUDpuX68czHtygGSoK|15.455009      | 3.00         |
+|2nhpDV95oVsiXd6sxufUjV4gtNvp3GUN7mjkRXQpeFic|15.407595      | 3.00         |
+|AV5M8abLfrjrpssCQNhsSs9dDjtFdgygVen7egiDioq8|15             | 3.00         |
+|3KdvMyijBmKANMao5DruBP7pGrSPXa3Wjw62ReYyNbKF|15             | 3.00         |
+|B3NCAuSnXjz118NULG3LohzyLBe6ZFJjtP4wHZ2pupyS|15             | 3.00         |
+|FceyC2HhC2dj37ePa9AFAtupVcBKvEcCK5VXUpiydfx2|14.960107      | 3.00         |
+|4aiV7RyTKySagp4Qv4A6XMCdFm9yYcwbHQZKLQSXjtkQ|14.530578      | 3.00         |
+|87hUy1GcqxiBPymYnP64iAKs7UhC5DebXrGo2BRUbX3h|14.508193      | 3.00         |
+|ECXRqUVUtjm9X3KK3xJNjGNmoaGPdi5THm24JbNFBcTA|14.484683      | 3.00         |
+|8rYunuAz1mp7HoSWKwyh283jXVqjRgzUyAnwRHQEwQCB|14.399728      | 3.00         |
+|BMvt6t2qmK6Yi5ZxYoHSaw8zkuyfs6bkXZaEEdpy8uKX|14.196408      | 3.00         |
+|3gEULfkNTR6f2iThZukHYsanabdfKENZzjF35Wx56iYR|14             | 3.00         |
+|BfkDtf64dhVWUvLnF2SbrU9JEBURSERnxy5dRePVku8k|14             | 3.00         |
+|EnXuaRErEVTBDpqqfGSoTaBRKC1QrACCv4dkNzzThote|13.826404      | 3.00         |
+|7Gooc2p2Zy5NiRWQsS7dDr8u5w4z7xH3NKMYx18AqPFB|13.332059      | 2.00         |
+|2j3MGgjTZnf5woD1dV9XScaSy5SxPeKh5eTTzcpZ142z|13.290829      | 2.00         |
+|DChYkkoBSaHYCBgKRnCAGb8EFZ99Xv1uMkC6ntXAd38r|13             | 2.00         |
+|FyFoDaUx39kELe1M4fPbhkTuSwVhxMXDHdm17B77n21m|13             | 2.00         |
+|6MvqPwJrD8TfTZ14kdFYySM9Ngu22Qb1q56bk3Avb96E|13             | 2.00         |
+|DjUQkZriYBD3wdpGdoKA6BtHdx75ZZHvNvA5vvhLj28m|13             | 2.00         |
+|uab1zNC4d5MfUivu5iJQ1RTRiyF9mmXgNsycpuji1Mq |12.5           | 2.00         |
+|7iGJhtjDurG6McwT7SnwCY4XWKR959jjdNfHATkeF1xq|12.5           | 2.00         |
+|TS5Woue5AchNuPzdkUjAsR4vjLNopBvCNNfkrEw9pGD |12.052646      | 2.00         |
+|4rf6vnH6zM1drvWN9hm63LinqLrMoKwXTBD3FNfxnM15|12             | 2.00         |
+|AEmGXEcULMUzhNEWc4pcStBMs3UhzT5hcekbcbSBThEY|12             | 2.00         |
+|6B1xGCdMowh6zCe9iKjbWPz4FG5KU9ECktHEfCxQfLe8|12             | 2.00         |
+|4oGtYPQQtcwQJ5TxJnHNF1RmD4Wztaoya3nkhd71sNjz|12             | 2.00         |
+|PDHTzmpYaFGzReXywMzme4ztfC7RwJGDra2wZeMhKg5 |12             | 2.00         |
+|DGu4yW9tBJUoTMdB68bFwPAocpNFayJgVL19whNxZVrk|11.323227      | 2.00         |
+|4qJeD3X6smxRK6aY1awms8ZncJp45sVFpmbxJREkQuet|11.276298      | 2.00         |
+|2Tdw6KjDjHjcxxd6eH3kvBXdKjdwwhJyQ5Uxs3GfSMVK|11             | 2.00         |
+|6MYiYjpcwh9nHEyto5NLESWQC1iwL6ZiRn3XRSz8rj6q|10.724109      | 2.00         |
+|HQnnFwQgYPNUZ36Akuq1nYKFq8qUohtM1nTWhqEuyKBU|10.694039      | 2.00         |
+|HJ8MdWxmfi5zPgsWSCFzus8hD58y3JoyXczoTifoeNkr|10.659787      | 2.00         |
+|8hfPHAzzLrsfFjHKrdwuauvgf6arKpGyzt4PaxA2mntg|10.362638      | 2.00         |
+|C3Qh6tSxUCDv4YTB2gh27oBhi94F5D6ChARN7dqHg2Z1|10.328735      | 2.00         |
+|DZJYLV5h4vBKwYm5HefCFZJUU1u23Abo1YNYdGqK6BPq|10.2           | 2.00         |
+|3853wC9rf8gmodQFm8e8dpww9ML81K3BT9prVrLY5a9e|10.161338      | 2.00         |
+|AaT4oxTG5118sKv5beWEmjx13M2Gyb5YZEYzGWZ4EA2a|10             | 2.00         |
+|B8n1FKB58C5cJpWSf1GncmNUvzDj3hZR9HkMHtA1WrKU|10             | 2.00         |
+|52N3edGg62XonQEp1tGvJ4SkAVi3uVwDvKVwe4ViebjK|10             | 2.00         |
+|GSFraMk4XFtYqvxUM4armwNisT5WhuGM3L4qToa3Lai3|10             | 2.00         |
+|3dEUFvwz9yQ4e5N8irApkWpkeDX5XbKT49sWqvjCkfEH|10             | 2.00         |
+|5jDY2dsmQF5kM6rJnFzU8Rr79W7BtU4DGfQX575NmokD|10             | 2.00         |
+|HhX4sKUQJPJRu6QP2gpxBkceiyA3r3uzbex9p3LhLapV|9.919461       | 2.00         |
+|99RGoaA2Py1pQXMtgBxsVne5Cw89y9jK2tQRwv8kYQuV|9.778178       | 2.00         |
+|AihSnMiHQJhu6ExkZ5PWFZZBj96LuNFiP1gw7kQLjH5w|9.75           | 2.00         |
+|AX4jkmTeyZmj89vLraU3YkhBivfnAmqnzTQusD8gVzVU|9.45           | 2.00         |
+|FmPmUs3VHgHaWSeKCBcBUTVYfhkD4wKd4o2CcqFzL9t8|9.324641       | 2.00         |
+|EZ3HCnJ1Ce5x7goxruw9uWza5JfyN2EmuTuVmSbVSBEQ|9              | 1.00         |
+|VYAv6q8TpQWDxgwJKNbj9fAYKRNd6QMWsa1TAj3Boj7 |8.658124       | 1.00         |
+|aNMx73F3vsxpKvr6KJfVrwmdkCwL2z42KbdiNV2N7y4 |8.166543       | 1.00         |
+|AsPjPdtvP4ic1SWZZ5hRsVScWeLzYFiiQhf3dxN84K6x|8              | 1.00         |
+|8ih3Fym8mrq2x8qbMsTdoHZ5bbGsNwyztRripuguARqV|8              | 1.00         |
+|5qtZs2y3fGKL4UJSWeGhgQE5Ub1UWwy9WcknFW5yz5Gt|8              | 1.00         |
+|GgbU754G6sMPupv9E6tn7DXaRmynQSpYxqJ4jFTPacRB|7.813814       | 1.00         |
+|9EgJ1AgUjvKTna198zsLFTZew1viEDpR4DMMRiAB8TtV|7.754917       | 1.00         |
+|DuxGj4TZ4KykRF7d7oCdAgw8GqpW5si6W5LjwSG4FWLk|7.616948       | 1.00         |
+|6EADMinSDD8jbyYLV6DtpjAvwems52QtcHTfr9zU8xZd|7.445123       | 1.00         |
+|6fifzbSN9TsDrK9edSW8eHnprnG4qkPUG1KE4vybkJuL|7.3908         | 1.00         |
+|Gx38M1x7JZ1DMkr1H291fyrtxKbzgE2oYArsjidyQ3LC|7.25           | 1.00         |
+|9MhbqWYR2soVaNuEfMqUeBdmFipMBo8a5DaFek1J2Bg6|7.160021       | 1.00         |
+|CGswb23hvWh6FzHs5NTPBKH8uNkSGHjajZDS6umXT8M3|7              | 1.00         |
+|DAYD4YV6Ujm3JKQ7cdkkqmrGRMimpdtyfJv89myYdrCZ|7              | 1.00         |
+|J2dFmgzXkCGom4LrZXFUhmFzNwJjtqfx5mapF2xW1HGJ|7              | 1.00         |
+|E7FBn3mZgC4EofwQYF5rTZvqyjww3LZ4EQjVS6QBmEBT|7              | 1.00         |
+|5ZxBY6j4kTyVDCFEBYw3S6JUMThVafv5VmihU272bvRw|6.953621       | 1.00         |
+|9FY92ieMdtHR8ofhckg1ywh4SZf2FpU7iZon3F2Bd4z7|6.324903       | 1.00         |
+|44kp8a2fVZ9pWpNGBeMQzSjUofd47QfgCt2PFH5zLtx8|6.228416       | 1.00         |
+|C7NRwg7FKdXr1PrfeLGVsatd4uX3Kxq7Wp6yMkvTTXRz|6              | 1.00         |
+|BqpW9mzUnSd3NH118ChDVSZDT7Y9a1wz1YCaxbp8UX88|6              | 1.00         |
+|2CV97RVPU6RUwNkLDcDynjT87pNzhtYxMpsFDhpbQMrz|6              | 1.00         |
+|A3isLopXzeYUPCVm8R5MVQwRFQdrhpNpCdjgrHctcMAW|6              | 1.00         |
+|B67fRyQikrhpokZzvPzD5fkUjRKuspDhL2CAqpmcpyiP|6              | 1.00         |
+|6MCkLiyBWcm4cXSH6SZpiVNFvVcHUkxEdzDQPwBMoZMH|5.838302       | 1.00         |
+|63NNSfpHqR1G7WdmaTsdrU1qHPVySTwUS5yio8zjcZeF|5.812131       | 1.00         |
+|Gvpj3fNV3i3kvyxaveVzNeWrawmFVUbe5b6ZsfHEpVtx|5.65063        | 1.00         |
+|61jZWLYfaqqQupThzCLJ9UVBqrXkEWkc3aVhy8VhroBZ|5.6            | 1.00         |
+|CDZmHSh4VUuDMhvRV4QJcXEq7VyyXzhvksYfe3EqL5jo|5.379021       | 1.00         |
+|8GFWC9h1kK6EMu92FK9oVRjnN3mru7QWBs1NF7YLWXDu|5.341895       | 1.00         |
+|7dLDt6H21L4tRfwqQjAudZuGrh8o9VpV7Sb4XJUJaiJs|5.190523       | 1.00         |
+|Hq3VErfLnPLyGD6A7G6dJMtUmV4NdGij3b7dJKHU6eDQ|5.08338        | 1.00         |
